@@ -1,4 +1,6 @@
-# Sammanfattning och återkoppling på innehållet
+---
+title: Sammanfattning och återkoppling på innehållet
+---
 
 -   Att säga 'nej' är svårt för många människor.
 -   Som små barn har vi inga problem att säga 'nej', men när vi lär oss
@@ -9,15 +11,15 @@
 -   Om vi har svårt att säga 'nej' är det ofta för att vi har ett antal
     hindrande förutsägelser om vad som ska hända när vi gör det. Ett
     sätt att frigöra sig från dem är att upptäcka att de är mer eller
-    mindre sannolika antaganden, snarare än fakta. Du kan
-    använda beteendeexperiment för att utmana dina hindrande
+    mindre sannolika antaganden, snarare än fakta. Du kan
+    använda beteendeexperiment för att utmana dina hindrande
     förutsägelser och få kontakt med alla fördelar som finns med att
     säga 'nej'.
 -   Tre enkla råd för att göra det lättare att säga 'nej': håll ditt
     budskap kort, var tydlig och var ärlig.
 -   Det finns många sätt att säga 'nej' på. De inkluderar ett direkt
     nej, ett undersökande nej, ett uppskjutande nej, ett förklarande nej
-    och ett repig grammofonskiva-nej. 
+    och ett repig grammofonskiva-nej. 
 
 ## Vill du säga 'ja' eller 'nej' till inehållet i den här modulen?
 

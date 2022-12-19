@@ -1,4 +1,6 @@
-# Sammanfattning och återkoppling på innehållet
+---
+title: Sammanfattning och återkoppling på innehållet
+---
 
 -   Vi blir alla kritiserade. Att kunna ta emot konstruktiv kritik är en
     viktig färdighet som vi kan lära oss.
@@ -9,7 +11,7 @@
     sättet vi tänker på göra att vi svarar med antingen passivitet eller
     aggressivitet när vi uppfattar att vi blir kritiserade. Vi kan rikta
     vårt tänkande mot konstruktiv självhävdelse.
--   Färdigheter som underlättar hantering av konstruktiv kritik är bland
+-   Färdigheter som underlättar hantering av konstruktiv kritik är bland
     annat: acceptans av kritiken; omvänd, konstruktiv självhävdelse; och
     omvänt, konstruktivt undersökande.
 -   Färdigheter som underlättar hantering av destruktiv kritik är bland

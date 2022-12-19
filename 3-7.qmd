@@ -1,4 +1,6 @@
-# Uppgift: Din måluppfyllelse just nu
+---
+title: "Uppgift: Din måluppfyllelse just nu"
+---
 
 Du formulerade i modul 1 en första personlig målsättning för programmet.
 Och kanske har du redan gjort klart ditt första beteendeexperiment i den
@@ -14,11 +16,11 @@ här modulen? Hur skulle du skatta din självhävdelse just nu?
 
 ##037f0027e70573b0201693ad07072c4f=
 
-## Om nästa modul
+## Om nästa modul
 
 I nästa modul tittar vi närmare på olika konkreta sätt man kan hävda sig
 själv konstruktivt på. Vi letar även efter sätt att komma igång med
-mängdträning av konstruktiv självhävdelse. Du kommer också få tips om
+mängdträning av konstruktiv självhävdelse. Du kommer också få tips om
 hur du kan komma igång med snabbavslappning. Övning ger färdighet!
 
 Med respekt i kvadrat,

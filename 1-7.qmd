@@ -1,4 +1,6 @@
-# Din måluppfyllelse just nu
+---
+title: Din måluppfyllelse just nu
+---
 
 Du formulerade nyss en personlig målsättning med programmet. Du skrev så
 här:
@@ -20,27 +22,27 @@ både dig själv och andra. Det kommer du att ha nytta av!
 ## Utvärdering av den här modulen
 
 Puh! Nu har du fått jobba mycket. Kom ihåg att belöna dig själv för dina
-ansträngningar -- särskilt om något har varit svårt. Kom också ihåg att
+ansträngningar -- särskilt om något har varit svårt. Kom också ihåg att
 trägen vinner, som ordspråket heter. Vi som ligger bakom det här
 programmet vet av egen erfarenhet att det är tufft att arbeta med att
-förändra beteenden och att det ofta kan kännas svårt att utmana sig
-själv. Kom ihåg: Det arbete du redan har gjort kommer ligga till grund
+förändra beteenden och att det ofta kan kännas svårt att utmana sig
+själv. Kom ihåg: Det arbete du redan har gjort kommer ligga till grund
 för dina framsteg under de kommande veckorna. Du förtjänar ett
 erkännande för det!
 
 ##f30ac36eb016e6810ea6a4a296b349f0=
 
- 
+ 
 
-## Om nästa modul
+## Om nästa modul
 
-I nästa modul går genom vad som kännetecknar de aggressiva, de
+I nästa modul går genom vad som kännetecknar de aggressiva, de
 konstruktivt självhävdande och de passiva kommunikationsstilarna. Varje
 stil har sina egna förtjänster och kostnader. Vi smygstartar också ett
-spår med avslappningsövningar som vi kommer att komma tillbaka till i
+spår med avslappningsövningar som vi kommer att komma tillbaka till i
 modul 5. Genom att sänka den allmänna spänningsnivån blir det lättare
 att vara medvetet närvarande i vardagen. Det ökar förmågan att agera på
-ett sätt som är konstruktivt även när den första impulsen är passiv
+ett sätt som är konstruktivt även när den första impulsen är passiv
 eller aggressiv kommunikation.
 
 Med respekt i kvadrat,

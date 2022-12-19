@@ -1,6 +1,8 @@
-# Goda skäl att kunna säga 'nej' oftare
+---
+title: Goda skäl att kunna säga 'nej' oftare
+---
 
-De hindrande tankarna är inte fakta. De är helt enkelt bara
+De hindrande tankarna är inte fakta. De är helt enkelt bara
 förutsägelser och åsikter som vi har lärt oss. Var och en av dem kan
 vägas mot en mer hjälpsam förutsägelse eller åsikt om vikten av att
 kunna säga 'nej'. I listan nedan finns några av dem.
@@ -29,8 +31,8 @@ förutsägelser om nyttan med att säga 'nej'.
 
 ## Fortsätt arbeta med beteendeexperiment
 
-Du kan använda beteendeexperiment-tekniken som du lärde dig i modul 3
-och 4 för att i praktiken hitta egna bra anledningar att säga 'nej'.
+Du kan använda beteendeexperiment-tekniken som du lärde dig i modul 3
+och 4 för att i praktiken hitta egna bra anledningar att säga 'nej'.
 Kanske märker du att du har svårt att tro på att dina nya beteenden
 kommer att fungera över tid. Det är helt normalt. Du har förmodligen
 tänkt dina gamla tankar och utfört dina säkerhetsbeteenden väldigt

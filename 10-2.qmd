@@ -1,4 +1,6 @@
-# Övning: Upprätta en hierarki
+---
+title: "Övning: Upprätta en hierarki"
+---
 
 Börja med att skriva ned tio situationer som du skulle vilja bli bättre
 på att hävda dig själv i och som du vill jobba vidare med på egen hand
@@ -11,7 +13,7 @@ självhävdelse](https://www.iterapi.se/sites/respekt/program/4-m-ngdtr-na-konst
 (modul 4) och hur du **[sänker spänningsnivån i
 kroppen](https://www.iterapi.se/sites/respekt/program/5-hitta-dina-s-tt-att-s-nka-sp-nningsniv-n)**
 (modul 5). Du har också fått välja att jobba med en eller flera områden
-att träna på att hävda dig själv bättre i, till exempel när du vill
+att träna på att hävda dig själv bättre i, till exempel när du vill
 **[säga
 'nej'](https://www.iterapi.se/sites/respekt/program/6-s-ga-nej-konstruktivt)**
 (modul 6), när du **[får kritik eller vill ge
@@ -39,12 +41,12 @@ tänk på följande situationer. Det kan hjälpa dig. Hur brukar du göra när
 
 Om du märker att du vanligtvis beter dig på ett passivt eller aggressivt
 sätt i någon av ovanstående situationer, ta med den situationen i din
-lista. Upprätta sedan en hierarki -- det vill säga att rangordna
+lista. Upprätta sedan en hierarki -- det vill säga att rangordna
 situationerna från lättast till svårast. Gör en skattning av hur
 besvärligt du upplever att det är att hävda dig själv varje situation,
 från 0 till 100. En skattning om "0" betyder att situationen inte är
 svår alls att hävda dig själv i. En skattning om "100" betyder att det
-är den mest ansträngande uppgift du över huvud taget kan tänka dig att
+är den mest ansträngande uppgift du över huvud taget kan tänka dig att
 utföra. Med dessa referenspunkter kan du tänka ut var situationerna på
 din lista hamnar på skalan 0--100, från lättast till svårast.
 

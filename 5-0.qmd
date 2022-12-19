@@ -1,9 +1,11 @@
-# Halvvägs! Check-in och vanliga frågor och svar
+---
+title: Halvvägs! Check-in och vanliga frågor och svar
+---
 
 Du har nu kommit lite drygs halvvägs i träningsprogrammet. Grattis till
 de nyupptäckter och lärdomar du har gjort i dina beteendeexperiment!
 Oavsett om det har gått som du önskade eller om du stött på problem, så
-har du vunnit möjlighet att reflektera över vad som varit hjälpande och
+har du vunnit möjlighet att reflektera över vad som varit hjälpande och
 hindrande för dig när du prövat att hävda dig själv konstruktivt.
 
 Om du ännu inte gjort ditt första beteendeexperiment finns det gott om
@@ -16,9 +18,9 @@ beteendeexperiment](http://www.iterapi.se/sites/respekt/program/4-m-ngdtr-na-kon
 i modul 4, du kan fylla i det hur många gånger som helst.
 
 Om du vill maximera effekterna av ditt deltagande i det här programmet,
-påminn dig om vilka **[fördelarna är för dig att byta undvikande av
+påminn dig om vilka **[fördelarna är för dig att byta undvikande av
 ångest mot aktivt deltagande i
-livet](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment/15-argument-f-r-att-byta-undvikande-mot-aktivt-deltagande)** i modul
+livet](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment/15-argument-f-r-att-byta-undvikande-mot-aktivt-deltagande)** i modul
 3.
 
 ## En snabb check-in
@@ -34,7 +36,7 @@ ned i sidan till fråga 2 och läs svaret. Kom tillbaka hit sedan.
 
 Här är några frågor som vi har märkt att många i programmet brukar ha
 vid den här tidpunkten. Om du inte hittar svaret på något du undrar
-över, ställ din fråga i formuläret här ovan!
+över, ställ din fråga i formuläret här ovan!
 
 ### 1. "Varför misslyckas jag med mitt beteendeexperiment?"
 
@@ -42,11 +44,11 @@ vid den här tidpunkten. Om du inte hittar svaret på något du undrar
 går inte att misslyckas med ett beteendeexperiment. Antingen går det
 precis som man vill -- så bra, då! Eller så händer det värsta du kan
 tänka dig -- din katastroftanke visar sig stämma. (Eller så går det
-halvbra.) Oavsett utfall finns det massor att lära sig av! Kunde du
-klara av obehaget som uppstod genom att tolerera ångesten och/eller
+halvbra.) Oavsett utfall finns det massor att lära sig av! Kunde du
+klara av obehaget som uppstod genom att tolerera ångesten och/eller
 reglera ned den? Vad var hindrande för utförandet av målbeteendet,
 antingen i situationen i stort eller i form av egna tankar eller
-känslor? Vilka sårbarhetsfaktorer \"var aktiva\" -- var du trött och
+känslor? Vilka sårbarhetsfaktorer \"var aktiva\" -- var du trött och
 stressad? Vilka mer eller mindre medvetna säkerhetsbeteenden utförde du
 samtidigt som målbeteendet (pratade tyst, tittade bort, var aggressiv
 och så vidare). Vad vill du ändra till nästa gång?
@@ -73,7 +75,7 @@ andras rättigheter betyder det att jag försummar mina egna\".
 Men måste det vara så?
 
 Genom att göra det som är viktigt för en själv, men på ett sätt som
-respekterar den andras rättigheter, så visar man på sätt och vis
+respekterar den andras rättigheter, så visar man på sätt och vis
 \"*respekt i kvadrat\" för sig själv* och \"*respekt i kvadrat\" för den
 andra*.
 
@@ -81,18 +83,18 @@ andra*.
     aggressivt, eftersom du slipper känna skuld och klandra dig själv
     efteråt.
 -   *Den andra* får bättre relation till dig genom att du inte uttrycker
-    dig passivt, eftersom det ger hen möjlighet att ta ansvar för sina
+    dig passivt, eftersom det ger hen möjlighet att ta ansvar för sina
     egna problem och slipper att du blir sur och bitter på hen.
 
 Titta noga på bilden nedan. I återstoden av det här programmet, hur kan
 du agera för att maximera skattningarna av respekt för både dina egna
-rättigheter och andras rättigheter?
+rättigheter och andras rättigheter?
 
 ![](/sites/respekt/media/image/canvas-konstruktiv-slinga-X.svg){style="width: 400px; height: 400px; margin: 1em 0px 0px;"}
 
 ### 3. "Varför får jag MER ÅNGEST av avslappningsövningarna?"
 
-[[Tips!]{.rlabel} En artikel i Svenska Dagbladet 2020-03-02 handlar om
+[[Tips!]{.rlabel} En artikel i Svenska Dagbladet 2020-03-02 handlar om
 avslappningsframkallad ångest. I den säger Michelle Newman, professor i
 psykologi vid amerikanska Pennsylvania State University, att de som
 behöver avslappning mest är de som är mest benägna att få ångest när de
@@ -100,7 +102,7 @@ slappnar av. Om du hör till den gruppen -- fortsätt träna avslappning
 trots din ångest! Michelle Newman säger också: \"Vårt budskap är inte
 att det är dåligt för vissa människor att slappna av, tvärtom. För att
 må bra måste du kunna slappna av, och det betyder också att du kan
-behöva uppleva ångesttoppar ibland.\"]{.rtip}Det här är ett vanligt
+behöva uppleva ångesttoppar ibland.\"]{.rtip}Det här är ett vanligt
 fenomen, som enligt forskning drabbar mellan 15% till 50% av personer
 som tränar mindfulness eller avslappning. Om du märker att
 ångestnivåerna går upp när du tränar avslappning beror det sannolikt på
@@ -116,20 +118,20 @@ fortsätter undvika allt sådant i vardagen som stör dina försök att
 kontrollera dina känslor.
 
 Fortsätt ändå! Om du fortsätter med övningarna kommer du att märka att
-du *både* klarar av att *tolerera* och att *reglera* ångesten själv --
+du *både* klarar av att *tolerera* och att *reglera* ångesten själv --
 utan att ta till undvikande. Det är en vinst i sig. Men framför allt gör
-det att det blir lättare för dig att hävda dig själv konstruktivt, så
+det att det blir lättare för dig att hävda dig själv konstruktivt, så
 att du *får mer av det du värdesätter i livet*. Med träning kommer det
-över tid att gå allt enklare. 
+över tid att gå allt enklare. 
 
-### 4. "Varför i hela världen ska jag inte dra mig undan om det är det jag känner för?"
+### 4. "Varför i hela världen ska jag inte dra mig undan om det är det jag känner för?"
 
 Många som planerar och utför beteendeexperiment brukar förr eller senare
-ställa sig själva frågorna \"Varför ska jag hålla på så här och göra
+ställa sig själva frågorna \"Varför ska jag hålla på så här och göra
 saker som jag tycker är obekväma eller till och med djupt obehagliga?\"
 eller \"Varför ska jag inte lyssna på att min kropp signalerar att jag
 inte vill göra det här?\". Vi i behandlar-teamet har inget bra svar på
-de frågorna. Men du som ställer dig dem har förmodligen bra svar på de
+de frågorna. Men du som ställer dig dem har förmodligen bra svar på de
 frågorna. Här är några motfrågor som kan hjälpa dig att hitta egna skäl
 att bryta undvikande och ta en mer aktiv del i ditt eget liv:
 
@@ -147,7 +149,7 @@ att bryta undvikande och ta en mer aktiv del i ditt eget liv:
 Det är förstås rimligt att stress är hindrande för att öva avslappning!
 Vore det meningsfullt för dig att vända på perspektivet? Du skulle kunna
 testa att ge dig själv lite mer tid för själva avslappningsövningarna,
-för att se hur avspänning i kroppen 1) påverkar upplevelsen av stress
+för att se hur avspänning i kroppen 1) påverkar upplevelsen av stress
 och 2) ger dig lite mer tid för eftertanke, så att du väljer de sakerna
 som är verkligt viktiga (och välja bort allt det som du faktiskt inte
 vill göra). Skulle du vilja testa det?
@@ -168,13 +170,13 @@ självhävdelse!
 ### 7. "Handlar konstruktiv självhävdelse bara om att säga nej?"
 
 Absolut inte. Det handlar lika mycket om att aktivt välja saker som
-att aktivt välja bort saker. Tänk på att varje gång du väljer bort något
-så väljer du något annat. Konstruktiv självhävdelse kan lika gärna
+att aktivt välja bort saker. Tänk på att varje gång du väljer bort något
+så väljer du något annat. Konstruktiv självhävdelse kan lika gärna
 handla om att hävda sina känslor i nära relationer, till exempel att
 uttrycka varma känslor gentemot en vän, att ge en en kollega en
 komplimang eller att våga säga \"jag älskar dig\" till sin partner. Att
 säga en sådan sak kan vara svårt nog, eftersom man när man säger det
-riskerar att utsätta sig för ångesten som kommer av den tunga
+riskerar att utsätta sig för ångesten som kommer av den tunga
 katastroftanken att ens partner kanske inte älskar en tillbaka. Att då
 säga \"jag älskar dig\" (istället för att undvika att göra det) är
 absolut att träna på konstruktiv självhävdelse!

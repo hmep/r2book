@@ -1,16 +1,18 @@
-# Uppgift: Hur bra är du på att hävda dig själv?
+---
+title: "Uppgift: Hur bra är du på att hävda dig själv?"
+---
 
 Det kan vara svårt att avgöra hur bra du är på att hävda dig själv. I
 vissa situationer kanske du känner dig mycket kapabel, men i andra
 situationer kan du märka att du faktiskt inte uttrycker hur du känner
 eller tänker, eller blir upprörd eller frustrerad.
 
-### Skatta din förmåga till konstruktiv självhävdelse
+## Skatta din förmåga till konstruktiv självhävdelse
 
 I den här övningen får du hjälp att skatta hur bra du är på att hävda
 dig själv konstruktivt i olika situationer. Det hjälper dig att
 identifiera de områden i livet som du kan utveckla din
-självhävdelseförmåga i. Här nedanför finns en lista med olika
+självhävdelseförmåga i. Här nedanför finns en lista med olika
 situationer som kräver självhävdelse. Längst upp visas olika kategorier
 av personer. Ta ruta för ruta och skatta varje kombination av situation
 och personkategori. Till exempel kanske du tycker att det är relativt
@@ -19,9 +21,9 @@ rutan, men du kanske också tycker att det är svårt att ge komplimanger
 till personer med auktoritet, som din chef, och sätter därför "4" i den
 rutan.
 
-Lägg den tid du behöver på att fylla i formuläret, även om det kan
+Lägg den tid du behöver på att fylla i formuläret, även om det kan
 kännas jobbigt att ta ställning till så många olika kombinationer av
-situationer och relationer. Du kommer ha igen arbetet när det blir dags
+situationer och relationer. Du kommer ha igen arbetet när det blir dags
 att utvärdera dina framsteg. Om du under eller efter övningen känner dig
 trött eller ledsen, ge dig själv ett erkännande att du just nu gör ett
 viktigt arbete.
@@ -29,5 +31,5 @@ viktigt arbete.
 ##3e06a3ff885e97710049bbcd7db8e1ca=
 
 Vi sparar dina svar. När du har gått genom programmet kommer du att i
-modul 10 få följa upp din egen utveckling genom att göra om den här
+modul 10 få följa upp din egen utveckling genom att göra om den här
 skattningen. Då kommer du att få svart på vitt hur det har gått för dig.

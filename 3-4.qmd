@@ -1,4 +1,6 @@
-# Uppgift: Ditt eget första beteendeexperiment (BE)
+---
+title: "Uppgift: Ditt eget första beteendeexperiment (BE)"
+---
 
 Tänk tillbaka till din första SMARTa målsättning som du formulerade i
 modul 1 (om du redan har utfört ett spontant beteendeexperiment kring

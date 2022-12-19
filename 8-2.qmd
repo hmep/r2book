@@ -1,13 +1,15 @@
-# Mängdträna på att hantera besvikelse
+---
+title: Mängdträna på att hantera besvikelse
+---
 
-Kommer du ihåg det vi skrev om *multiple exemplar training* i **[modul
-2](https://www.iterapi.se/sites/respekt/program/2-skillnader-mellan-olika-kommunikationsstilar/72-lite-om-inl-rning-obehag-och-motivation)** --
+Kommer du ihåg det vi skrev om *multiple exemplar training* i **[modul
+2](https://www.iterapi.se/sites/respekt/program/2-skillnader-mellan-olika-kommunikationsstilar/72-lite-om-inl-rning-obehag-och-motivation)** --
 att nya färdigheter är resultatet av mängder av upprepade
 övningstillfällen? Med träning i din egen vardag kan du som vi såg i
 **[modul
-3](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment/15-argument-f-r-att-byta-undvikande-mot-aktivt-deltagande)** allt
-mer automatiserat ersätta ovanan att undvika ångest i svåra situationer
-med den goda vanan att hävda dig själv konstruktivt. Du gör det genom
+3](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment/15-argument-f-r-att-byta-undvikande-mot-aktivt-deltagande)** allt
+mer automatiserat ersätta ovanan att undvika ångest i svåra situationer
+med den goda vanan att hävda dig själv konstruktivt. Du gör det genom
 att ta fasta på det viktiga som ångesten skvallrar om och sedan aktivt
 göra det du värdesätter.
 
@@ -32,15 +34,15 @@ kritik](https://www.iterapi.se/sites/respekt/program/7-hantera-kritik-konstrukti
 eller **[säga nej och att sätta
 gränser](https://www.iterapi.se/sites/respekt/program/6-s-ga-nej-konstruktivt)**
 kommer du att märka att det inte alltid går som du vill och hoppas. Ett
-smart sätt att dra nytta av sådana potentiella bakslag är att då passa
+smart sätt att dra nytta av sådana potentiella bakslag är att då passa
 på att träna på att hantera besvikelser på ett konstruktivt sätt. Då
 maximerar du din inlärning, hur det än går!
 
 ## Mängdträna med omväxlande svårighetsgrad
 
-När du övar på dessa tekniker: Planera, genomför och dokumentera dem som
+När du övar på dessa tekniker: Planera, genomför och dokumentera dem som
 beteendexeperiment. Utgå från din första SMARTa målsättning eller välj
-en ny situation som du vill träna i. Genomför ditt beteendeexperiment på
+en ny situation som du vill träna i. Genomför ditt beteendeexperiment på
 precis samma sätt som det du har genomfört tidigare i det här
 träningsprogrammet, men se om du kan lägga till någon av teknikerna från
 den här modulen. Det kommer att kännas ovant och konstlat till en
@@ -52,9 +54,9 @@ fyllt i det en första gång kommer det automatiskt visas en länk ovanför
 det som du kan använda för att skapa en ytterligare version av
 formuläret.
 
-Sikta på att utföra åtminstone 2 olika beteendeexperiment den här
-veckan. Ju fler tillfällen du tränar, desto bättre! Om du tidigare har
-genomfört ett svårt beteendeexperiment, gör då gärna ett litet lättare
+Sikta på att utföra åtminstone 2 olika beteendeexperiment den här
+veckan. Ju fler tillfällen du tränar, desto bättre! Om du tidigare har
+genomfört ett svårt beteendeexperiment, gör då gärna ett litet lättare
 härnäst. Du förtjänar att också få bokföra lite enklare vunna
 framgångar.
 

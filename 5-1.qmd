@@ -1,4 +1,6 @@
-# Uppgift: Identifiera fysisk spänning just nu
+---
+title: "Uppgift: Identifiera fysisk spänning just nu"
+---
 
 När vi kommunicerar på ett passivt eller aggressivt sätt har vi ofta
 ångest eller är arga, och det återspeglas i våra kroppar: Vi kan bli
@@ -13,7 +15,7 @@ som vi kan erfara när vi hamnar i \"heta\" situationer eller lägen där
 vi känner oss obekväma.
 
 Det första steget för att reducera fysisk spänning är att identifiera
-var du är spänd i kroppen. 
+var du är spänd i kroppen. 
 
 ##2001fd977853f668324cd774ac3c096a=
 

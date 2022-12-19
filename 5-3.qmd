@@ -1,4 +1,6 @@
-# Uppgift: Bli din egen avslappningsguru
+---
+title: "Uppgift: Bli din egen avslappningsguru"
+---
 
 Med progressiv avslappning arbetar du dig genom varje muskelgrupp i
 ordning. Om vi har gått omkring och varit spända en längre tid och sedan
@@ -17,9 +19,9 @@ avslappning](https://www.iterapi.se/sites/respekt/program/4-m-ngdtr-na-konstrukt
 Där fick du också hjälp av förinspelade ljudfiler och videofilmer som
 visade hur de olika momenten går till. Fortsätt gärna med dem!
 
-Men skapa också gärna en *egen personligt anpassad inspelning* av
+Men skapa också gärna en *egen personligt anpassad inspelning* av
 instruktionen för progressiv avslappning, exempelvis med hjälp av din
-mobiltelefon. Eller gör avslappningsproceduren ur minnet och använd bara
+mobiltelefon. Eller gör avslappningsproceduren ur minnet och använd bara
 textmanuset nedan som stöd (det spelar ingen roll om du kastar om
 ordningen). Oavsett hur du gör övningarna självständigt så får du \...
 
@@ -33,25 +35,25 @@ ordningen). Oavsett hur du gör övningarna självständigt så får du \...
 
 Och viktigast av allt: När du läser in din egen inspelning blir du *din
 egen avslappningsguru*! Övningarna du har gjort under tidigare moduler
-har en nackdel -- du riskerar att lära dig att bero av ljudfilerna och
+har en nackdel -- du riskerar att lära dig att bero av ljudfilerna och
 videofilmerna för att kunna slappna av. Målet med det här
 träningsprogrammet är att du ska bli din egen terapeut. Det blir
-du snabbast och bäst genom att träna på att säga \"slappna av\" till dig
-själv samtidigt som du slappnar av på djupet. 
+du snabbast och bäst genom att träna på att säga \"slappna av\" till dig
+själv samtidigt som du slappnar av på djupet. 
 
 Texten nedan är inte exakt densamma som den vi har läst in på
 ljudfilerna. Det gör inget alls. Du kan själv anpassa och justera texten
 så att den passar precis just dig. Det viktiga är (som med det mesta i
 livet) inte att det blir perfekt -- det viktiga är att det blir gjort!
 
-## Repetition: så funkar progressiv muskelavslappning
+## Repetition: så funkar progressiv muskelavslappning
 
 Progressiv avslappning fungerar lite annorlunda än vanliga
 avslappningsövningar: Först spänner du muskelgrupperna, sedan slappnar
 du av i dem. Genom att först spänna muskeln lär du dig att ta kontroll
 över den och känna igen hur det känns att vara spänd.
 
-Försök att spänna dina axlar: Lyft dina axlar så högt du kan, som om du
+Försök att spänna dina axlar: Lyft dina axlar så högt du kan, som om du
 ville nå dina öronspetsar med dem. Håll axlarna så i 10 sekunder. Låt
 sedan axlarna sjunka ned och upplev känslan av avslappning. Med
 progressiv avslappning gör du på samma sätt med var och en av de stora
@@ -75,23 +77,20 @@ Om du vill kan du göra en inspelning av dig själv med mobiltelefonen när
 du ger instruktionerna för de olika muskelgrupperna, så behöver du inte
 hålla ett öga på texten när du gör övningen.
 
-## Manus för progressiv avslappning
+::: {.callout-tip}
+## Manus för progressiv avslappning
 
-::: {style="padding:1em;background-color: #72ab72;color:white;margin:1em 0;border-radius:.5em;"}
 Till att börja med, sätt dig bekvämt i en stol. Det är bättre att göra
-övningarna sittandes än liggandes, så att du inte råkar somna. Hela
-övningen bör ta cirka 15 till 20 minuter.
-
-**Observera! Under övningen, se till att du slappnar av dubbelt så länge
-som du spänner dig.**
-
-Sätt båda fötterna på golvet och låt händerna vila i knät. Låt dina
-ögonlock falla ned så att dina ögon sluts lätt. Lägg märke till tyngden
-av din kropp, ditt huvud, dina axlar, dina armar och dina ben.
+övningarna sittandes än liggandes, så att du inte råkar somna. Hela övningen bör
+ta cirka 15 till 20 minuter. Sätt båda fötterna på golvet och låt händerna vila
+i knät. Låt dina ögonlock falla ned så att dina ögon sluts lätt. Lägg märke till
+tyngden av din kropp, ditt huvud, dina axlar, dina armar och dina ben.
+**Observera! Under övningen, se till att du slappnar av dubbelt så länge som du
+spänner dig.**
 
 1.  Knyt höger hand, och lägg märke till spänningen medan du gör det.
     Kläm åt lite hårdare och känn spänningen i näven, handleden och
-    underarmen. Släpp taget och låt din hand slappna av. Notera
+    underarmen. Släpp taget och låt din hand slappna av. Notera
     skillnaden i spänning och hur avslappningen känns. Upprepa detta med
     höger hand en gång. Upprepa sedan allt igen, med vänster hand. Spänn
     och slappna sedan av i båda händerna samtidigt.
@@ -130,7 +129,7 @@ av din kropp, ditt huvud, dina axlar, dina armar och dina ben.
 10. Pressa tungan hårt mot gommen. Slappna sedan av och låt tungan falla
     ned igen. Upprepa.
 11. Pressa samman läpparna och forma dem till ett "O". Slappna sedan av
-    i läpparna. Repetera. Se till att resten av ansiktet fortfarande är
+    i läpparna. Repetera. Se till att resten av ansiktet fortfarande är
     avslappnat.
 12. Flytta uppmärksamheten till bröstet. Andas in och fyll dina lungor
     helt samtidigt som du spänner bröstmusklerna. Håll andan i 10
@@ -150,7 +149,7 @@ av din kropp, ditt huvud, dina axlar, dina armar och dina ben.
 16. Fortsätt genom att flytta uppmärksamheten till benen. Spänn låren
     genom att trycka ned hälarna i golvet, så hårt du kan. Håll och
     slappna sedan av. Upprepa en gång.
-17. Spänn dina vader genom att lyfta tårna upp mot smalbenet. Håll och
+17. Spänn dina vader genom att lyfta tårna upp mot smalbenet. Håll och
     slappna sedan av. Upprepa en gång.
 18. Spänn dina fötter genom att rulla in tårna mot golvet. Håll och
     slappna sedan av. Lägg märke till hur avslappningen känns. Upprepa

@@ -1,4 +1,6 @@
-# Ge konstruktiv kritik
+---
+title: Ge konstruktiv kritik
+---
 
 Så här långt komna har vi pratat om färdigheter för att ta emot och
 hantera kritik. Det finns också färdigheter att träna på för att ge
@@ -6,7 +8,7 @@ kritik. Dessa färdigheter handlar om att lägga fram kritiken på ett sätt
 som gör det möjligt för personen som får kritiken att ta emot det du
 vill säga. Du har all rätt att begära en ändring i någons beteende om
 beteendet sårar, upprör eller irriterar dig på något sätt. Kom ihåg att
-det inte är säkert att personen kommer att ändra sättet han eller hon
+det inte är säkert att personen kommer att ändra sättet han eller hon
 beter sig på även om du ber om det. Men genom att uttrycka dina behov
 slipper du bygga upp harm och förbittring som skulle kunna ge ännu större
 problem i relationen till den andra personen.
@@ -34,7 +36,7 @@ Försök att följa riktlinjerna nedan när du ger konstruktiv kritik.
     musiken stör mig verkligen, vill du vara så vänlig att sänka
     ljudvolymen efter 20:00?" istället för "Jag står inte ut med din
     höga musik".
-5.  **Ange konsekvenserna,** både de positiva konsekvenserna om personen
+5.  **Ange konsekvenserna,** både de positiva konsekvenserna om personen
     efterföljer din begäran, och de negativa konsekvenserna om personen
     inte ändrar sitt beteende.
 6.  **Ge realistiska förslag på förändring** och realistiska

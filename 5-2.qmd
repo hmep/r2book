@@ -1,4 +1,6 @@
-# Uppgift: Hitta dina egna sätt att sänka spänningsnivån
+---
+title: "Uppgift: Hitta dina egna sätt att sänka spänningsnivån"
+---
 
 När människor börjar uppmärksamma sina kroppar blir de ofta förvånade
 över hur spända de verkligen är. Den goda nyheten är att det finns flera
@@ -7,9 +9,9 @@ spänningsnivån i kroppen. Precis som med alla färdigheter som du lär dig
 i de här kapitlen gäller att ju mer du tränar på dem, desto större
 inverkan kommer de ha på ditt välmående.
 
- 
+ 
 
-Här är några av alla metoder för att sänka spänningsnivån i kroppen:
+Här är några av alla metoder för att sänka spänningsnivån i kroppen:
 
 -   Träning (det som passar dig -- löpning, simning, ridning, gym \...)
 -   Massage
@@ -31,7 +33,7 @@ färdiga ljudfiler att hitta för den som är intresserad.
 
 Vilka aktiviteter hjälper dig att sänka spänningsnivån i kroppen? Skriv
 upp dem här nedan. Det kan till exempel vara tekniker som vi tagit upp
-här ovan eller andra personliga avslappningsfavoriter. 
+här ovan eller andra personliga avslappningsfavoriter. 
 
 ##e2627c067c06a2a074a6b04bc770d166=
 

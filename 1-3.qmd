@@ -1,9 +1,11 @@
-# Vad hindrar oss från att hävda oss konstruktivt?
+---
+title: Vad hindrar oss från att hävda oss konstruktivt?
+---
 
 Flera olika saker kan hindra oss från att hävda oss själva på ett
 konstruktivt sätt.
 
-### Självbesegrande, hindrande antaganden
+## Självbesegrande, hindrande antaganden
 
 Vi kan ha orealistiska föreställningar eller negativa uppfattningar om
 vikten att hävda våra behov, vår förmåga att uttrycka våra behov eller
@@ -11,21 +13,17 @@ vad som kan hända om vi gör det. Det här är ofta en viktig orsak till
 bristande självhävdelse. Exempel på sådana antaganden är:
 
 -   "Om jag säger vad jag vill är jag oförskämd och självisk."
-
 -   "Om jag säger vad jag vill bryr jag mig inte om vad andra vill."
-
 -   "Om jag hävdar mina behov kommer andra att bli arga."
-
 -   "Om jag hävdar mina behov kommer jag att förstöra relationer."
-
 -   "Det är pinsamt att säga vad jag tänker."
 
 I modul 3 finns fler exempel på ohjälpsamma antaganden om dig själv
-eller världen, som kan hindra oss från att agera på ett konstruktivt
+eller världen, som kan hindra oss från att agera på ett konstruktivt
 sätt. Där får du också lära dig en metod -- beteendeexperiment -- för
 att pröva giltigheten i dina förutsägelser.
 
-### Behov av färdighetsträning
+## Behov av färdighetsträning
 
 Det kan också vara så att vi tidigare i livet helt enkelt inte har
 tränat tillräckligt på att hävda oss själva konstruktivt, verbalt och
@@ -34,29 +32,7 @@ sig själva och beundra deras sätt att agera -- men själva har vi ingen
 aning om hur vi ska kunna göra samma sak. I modul 4 kommer vi att
 undersöka specifika tekniker för konstruktiv självhävdelse.
 
-### Ångest, stress och oro
-
-::: {.callout-tip collapse="true"}
-## Boktips för dig med mycket ångest i allmänhet
-Om du brukar oroa dig mycket kan du tackla det med en
-evidensbaserad självhjälpsbok, exempelvis [***Hantera oro och ovisshet
-med KBT: En arbetsbok vid
-GAD***](http://libris.kb.se/bib/22073365){target="_blank"} av Robichaud
-& Dugas (2018). Du kan använda den
-boken på egen hand, eller i terapi, med stöd av en KBT-psykolog eller
--psykoterapeut.
-:::
-
-::: {.callout-tip collapse="true"}
-## Boktips för dig med panikångest
-Om du har så stark ångest att den resulterar i panikattacker, titta
-närmare på *Ingen panik: [**Fri från panik- och ångestattacker i 10 steg
-med kognitiv
-beteendeterapi**](http://libris.kb.se/bib/12089987){target="_blank"}*
-av Carlbring & Hanell (2013). Du kan använda den
-boken på egen hand, eller i terapi, med stöd av en KBT-psykolog eller
--psykoterapeut.
-:::
+## Ångest, stress och oro
 
 Det kan vara så att vi vet hur vi ska göra för
 att hävda oss, men att vi blir så ångestfyllda att vi inte klarar av att
@@ -67,7 +43,29 @@ vår ångest och minska den fysiska stressen i kroppen. Modul 5 handlar om
 att smygstarta träning i något som kallas progressiv avslappning redan i
 nästa modul.
 
-### Tolkningen av situationen
+::: {.callout-tip}
+## Boktips för dig med mycket ångest i allmänhet
+Om du brukar oroa dig mycket kan du tackla det med en
+evidensbaserad självhjälpsbok, exempelvis [Hantera oro och ovisshet
+med KBT: En arbetsbok vid
+GAD](http://libris.kb.se/bib/22073365){target="_blank"} av Robichaud
+& Dugas (2018). Du kan använda den
+boken på egen hand, eller i terapi, med stöd av en KBT-psykolog eller
+-psykoterapeut.
+:::
+
+::: {.callout-tip}
+## Boktips för dig med panikångest
+Om du har så stark ångest att den resulterar i panikattacker, titta
+närmare på [Ingen panik: Fri från panik- och ångestattacker i 10 steg
+med kognitiv
+beteendeterapi](http://libris.kb.se/bib/12089987){target="_blank"}
+av Carlbring & Hanell (2013). Du kan använda den
+boken på egen hand, eller i terapi, med stöd av en KBT-psykolog eller
+-psykoterapeut.
+:::
+
+## Tolkningen av situationen
 
 Det kan hända att vi inte riktigt kan välja vilka beteenden vi ska
 använda i olika situationer. Det finns tre typer av misstag som
@@ -78,11 +76,11 @@ tänka att "ligga lågt" generellt sett är ett effektivt sätt att hantera
 situationer på. Du kommer att lära dig några tekniker för att ta itu med
 dessa hindrande tolkningarna i modul 3.
 
-### Kulturella influenser och generationsskillnader
+## Kulturella influenser och generationsskillnader
 
 Vilka sätt vi agerar på kan också bero på starka kulturella influenser
 och generationsmässiga skillnader i normer. Det är till exempel inte
-lika uppskattat att hävda sig själv konstruktivt i vissa kulturer som
+lika uppskattat att hävda sig själv konstruktivt i vissa kulturer som
 det är i ett typiskt västerländsk sammanhang. Om du kommer från en sådan
 miljö är det viktigt att noga överväga för- och nackdelarna med
 självhävdande handlande. För dig kanske fördelarna med att leva i

@@ -1,4 +1,6 @@
-# Ännu fler metoder för avslappning och medveten närvaro
+---
+title: Ännu fler metoder för avslappning och medveten närvaro
+---
 
 Du har säkert hört människor prata om vikten av att kunna vara medvetet
 närvarande i nuet. Medveten närvaro är inte detsamma som avslappning.
@@ -8,7 +10,7 @@ Att vara medvetet närvarande handlar om att ta in och uppleva det som
 händer precis just nu, utan att värdera eller döma det. Det är en
 färdighet som är extremt hjälpsam -- rent av en förutsättning, faktiskt
 -- för att klara av att \"ta sin ångest i handen\" och göra det som är
-viktigt i stunden. 
+viktigt i stunden. 
 
 På den här sidan finns några fler sätt att träna medveten närvaro och
 avslappning. Vi hoppas de här tipsen kan inspirera dig att söka efter
@@ -16,7 +18,7 @@ fler sätt till sänkt spänningsnivå i vardagen! Avspänning ger dig tid
 för medvetna val i livet, vilket i sin tur minskar stressen och ger dig
 energi att hävda dig själv konstruktivt. Se följande förslag som ett
 smörgåsbord av möjligheter. Du behöver inte tycka om allt som erbjuds på
-smörgåsbordet -- men provar du dig nyfiket fram kan du mycket väl hitta
+smörgåsbordet -- men provar du dig nyfiket fram kan du mycket väl hitta
 en ny favorit.
 
 ## Medveten närvaro
@@ -29,11 +31,11 @@ uppmärksamma att du är väldigt nervös och tänker dömande tankar som
 \"jag kommer aldrig klara det\". Och att sedan ändå fortsätta med det
 som är viktigt, men utan att försöka trycka bort den negativa tanken
 eller känslan. Det är lite som att säga \"Hej! Där är visst du igen!\"
-till den dömande tanken, utan att för den skull *köpa* det den dömande
+till den dömande tanken, utan att för den skull *köpa* det den dömande
 tanken säger.
 
 Som med allt annat är det vettigt att börja träna på medveten närvaro
-innan du hamnar i en skarp situation. Här är en portabel övning (som du
+innan du hamnar i en skarp situation. Här är en portabel övning (som du
 kan göra även stående och gående) på Spotify från psykologen Fredrik
 Livheim.
 
@@ -41,7 +43,7 @@ Livheim.
 
 [[Tips!]{.rlabel} Om du lider av panikångest är lugn och kontrollerad
 andning en särskilt viktig teknik för att inte hyperventilera
-(överandas). Andningsövningar för panik är till och med ännu långsammare
+(överandas). Andningsövningar för panik är till och med ännu långsammare
 än i den här övningen. Om du har panikattacker, titta närmare på
 självhjälpsboken **[*Ingen panik: Fri från panik- och ångestattacker i
 10 steg med kognitiv
@@ -56,7 +58,7 @@ här övningen kan du göra det.
     observera din andning. Lägg märke till hur det känns att andas in.
     Och hur det känns att andas ut.
 2.  Försök att sakta ned på andningstakten genom att mjukt och stadigt
-    dra in luft ned mot magtrakten. Pausa helt kort innan du lägger
+    dra in luft ned mot magtrakten. Pausa helt kort innan du lägger
     märke till hur den långsamma och stadiga utandningen känns.
 3.  När du är uppmärksam på din andning kan du börja hitta en rytm där
     du räknar till tre sekunders inandning och två sekunders utandning.
@@ -73,14 +75,14 @@ här övningen kan du göra det.
 
 Enligt en
 **[rapport](https://www.britishacademyofsoundtherapy.com/wp-content/uploads/2019/10/Mindlab-Report-Weightless-Radox-Spa.pdf){target="_blank"}**
-från 2011 är *Weightlessness* från Marconi Union \"världens mest
+från 2011 är *Weightlessness* från Marconi Union \"världens mest
 avslappnande låt\". Det tvärsäkra påståendet ska tas med en nypa salt,
 men låten är utformad i samarbete med neuroforskare för att sänka
-pulsen, genom gradvis sänkning av tempot från 60 bpm i början av låten
+pulsen, genom gradvis sänkning av tempot från 60 bpm i början av låten
 till 50 bpm i slutet. Eftersom den inte har någon uppmärksamhetsfångande
 melodi att tala om samt att den är ganska lång, ger dig dig tid att
 varva ned. Den sägs i genomsnitt lugna pulsen med 35% -- och dessutom
-lindra ångest. Prova själv!
+lindra ångest. Prova själv!
 
 Här är en spellista i Spotify med den och ytterligare några avslappnande
 låtar.
@@ -94,7 +96,7 @@ stressnivån. Pröva gärna en av alla ljudinspelningar och appar med
 guider för visualisering. Det gäller att du utforskar tills du hittar en
 övning som passar och är till hjälp för just dig. Vägledd visualisering
 praktiseras och forskas i på cancer- och smärtkliniker runt om i
-världen. Visualisering är effektiv för behandling av många
+världen. Visualisering är effektiv för behandling av många
 stressrelaterade symtom som huvudvärk, muskelkramper, kronisk smärta och
 ångest. Ibland kan effekterna kännas direkt och ibland tar det flera
 veckor av övningar innan en förbättring kommer.
@@ -121,7 +123,7 @@ Det finns dock några grundläggande principer. De är:
 3.  Börja med att skapa en mental bild som involverar alla dina sinnen:
     synen, hörseln, känseln samt lukt- och smaksinnet. Tänk dig till
     exempel att du är på en strand. Se färgerna i vattnet, himlen och
-    sanden. Se människorna omkring dig, lägg märke till vad de har på
+    sanden. Se människorna omkring dig, lägg märke till vad de har på
     sig och hur de ser ut. Lukta på havet och den rena, friska luften.
     Känn värmen av solen och den milda brisen mot din hud, känn sanden
     mellan tårna. Hör vågorna, ljudet av fåglarna och människorna runt

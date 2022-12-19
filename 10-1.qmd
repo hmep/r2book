@@ -1,4 +1,6 @@
-# Översikt: Fortsätt att hävda dig själv konstruktivt
+---
+title: "Översikt: Fortsätt att hävda dig själv konstruktivt"
+---
 
 Här är en översikt över stegen mot bättre självhävdande som du har
 tränat på i det här programmet:
@@ -20,9 +22,9 @@ situationerna du tagit med i listan.
 Lägg gärna lite tid på att **identifiera hjälpsamma förutsägelser** om
 situationen som du kan göra med hjälp av dina tidigare erfarenheter i
 livet. Om du kör fast, stanna inte för länge vid den här punkten. Det
-räcker att du påminner dig om **[allas (även dina) rättigheter att hävda
+räcker att du påminner dig om **[allas (även dina) rättigheter att hävda
 sig
-själva](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment/14-allas-r-tt-att-h-vda-sig-sj-lva)**. Hoppa
+själva](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment/14-allas-r-tt-att-h-vda-sig-sj-lva)**. Hoppa
 sedan direkt till nästa steg.
 
 ## 4. Identifiera hindrande beteenden
@@ -31,7 +33,7 @@ sedan direkt till nästa steg.
 gör för att undvika eller fly från det jobbiga i situationerna. Kom ihåg
 att leta efter både verbala och icke-verbala beteenden. Detta inkluderar
 så kallades säkerhetsbeteenden, som är beteenden som du mer eller mindre
-automatiskt utför i situationerna för att minska ångesten (vad just dina
+automatiskt utför i situationerna för att minska ångesten (vad just dina
 säkerhetsbeteenden är beror på vad du tidigare i livet har lärt dig att
 göra, exempelvis att tala med låg röst, att titta bort, att förminska
 dig själv verbalt eller att höja rösten och bli aggressiv).
@@ -45,7 +47,7 @@ använd en av **[teknikerna du lärde dig i modul
 ## 6. \"Torrsimma\" om du behöver
 
 **Öva** på vad du ska säga och göra. Det kan ibland hjälpa att tänka
-genom och ibland också skriva ned var du ska säga. Du kan också öva
+genom och ibland också skriva ned var du ska säga. Du kan också öva
 framför en spegel. Ett bra sätt att \"torrsimma\" är också att ta hjälp
 av en vän och göra rollspel tillsammans. Det kan förstås kännas jobbigt
 i sig -- vilket absolut inte är en nackdel. Då får du i en lite tryggare
@@ -56,17 +58,17 @@ på.
 
 **Sök upp situationen** och handla på det sätt som du har planerat i ett
 beteendeexperiment. Det innebär att du **[bryter ångest-cirkeln och
-väljer den aktiva
-cirkeln](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment/15-argument-f-r-att-byta-undvikande-mot-aktivt-deltagande) **med
-deltagande i livet. Påminn dig om att all forskning och all beprövad
-erfarenhet säger att det är genom att närma sig obehaget istället för
+väljer den aktiva
+cirkeln](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment/15-argument-f-r-att-byta-undvikande-mot-aktivt-deltagande) **med
+deltagande i livet. Påminn dig om att all forskning och all beprövad
+erfarenhet säger att det är genom att närma sig obehaget istället för
 att distansera sig från det som ångesten på sikt kan bli mindre.
 
 ## 8. Utvärdera och dra slutsatser
 
 När du är klar med experimentet, **ge dig själv ett erkännande** för att
 du gjorde eller försökte göra det som var viktig för dig (även de gånger
-det det *kändes* jobbigt). Lägg också tid på att formulera vad du vill
+det det *kändes* jobbigt). Lägg också tid på att formulera vad du vill
 ändra på till nästa gång.
 
 **Fortsätt öva** tills du känner dig säkrare på att hävda dig själv

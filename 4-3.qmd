@@ -1,4 +1,6 @@
-# Repig grammofonskiva-teknik för att säga \"nej\"
+---
+title: Repig grammofonskiva-teknik för att säga \"nej\"
+---
 
 Små barn är experter på den här tekniken, med vilken du upprepar din
 ståndpunkt som en repig gammal grammofonskiva av vinyl, som hakat upp
@@ -44,7 +46,7 @@ David
 Repig grammofonskiva-tekniken kan kombineras med övriga tekniker för
 konstruktiv självhävdelse som du har lärt dig. Börja alltid med den
 mildaste hållningen, och bygg på utifrån vad du bedömer är nödvändigt
-i situationen. Undvik att direkt gå på den starkaste konsekvensen,
+i situationen. Undvik att direkt gå på den starkaste konsekvensen,
 eftersom det kan uppfattas som ett hot och som aggressivt beteende,
 snarare än konstruktiv självhävdelse.
 
@@ -81,7 +83,7 @@ Expediten
 
 Kunden
 
-:   -- Jag vill ändå få den utbytt.
+:   -- Jag vill ändå få den utbytt.
 
     Efter en stunds ordväxling kan nivån höjas till konsekvensen.
 
@@ -93,8 +95,8 @@ Kunden
     kommer jag ta upp det med huvudkontoret. Jag skulle föredra att lösa
     problemet nu.
 
-En nackdel med den här tekniken kan uppstå när personen du pratar med
-helt enkelt vägrar göra det du ber om. När hen fortsätter att motstå din
+En nackdel med den här tekniken kan uppstå när personen du pratar med
+helt enkelt vägrar göra det du ber om. När hen fortsätter att motstå din
 begäran riskerar den att förlora i kraft, varje gång du upp upprepar
 den. Om du upprepar din begäran för ofta kan det slå tillbaka på
 auktoriteten bakom dina ord. I sådana situationer är det nödvändigt att

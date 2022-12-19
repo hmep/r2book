@@ -1,4 +1,6 @@
-# Fler tekniker för konstruktiv självhävdelse
+---
+title: Fler tekniker för konstruktiv självhävdelse
+---
 
 ## Empatisk självhävdelse
 
@@ -17,10 +19,8 @@ Exempel på empatisk självhävdelse:
 
 -   "Jag förstår att du inte gillar det nya arbetssättet. Tills vi kan
     ändra det igen vill jag ändå att du gör på det nya sättet."
-
 -   "Jag vet att du är upptagen nu, Johan, men jag skulle vilja be dig
     om en sak."
-
 -   "Jag har full förståelse för att det är svårt att säga exakt vad
     priset kommer att bli, jag skulle ändå behöva en uppskattning,
     mellan tummen och pekfingret."
@@ -61,11 +61,9 @@ Exempel på konsekvensbaserad självhävdelse:
 -   "Om du fortsätter att undanhålla mig information har jag inget annat
     val än att ta detta till produktionschefen. Jag skulle helst slippa
     det."
-
 -   "Johan, jag är inte beredd på att låta mina medarbetare samarbeta
     med dina i projektet såvida du inte ger dem tillgång till samma
     lokaler och utrustning som dina medarbetare har."
-
 -   "Om det här händer igen har jag inget annat val än att dra igång ett
     formellt disciplinärende. Jag skulle föredra att inte göra det."
 
@@ -83,7 +81,6 @@ handling:
 -   "Som jag förstod det kom vi överens om att projekt A hade högsta
     prioritet. Nu ber du om mer tid för projekt B. Jag skulle vilja få
     klarhet i vilket projekt som just nu är viktigast."
-
 -   "Paul, å ena sidan säger du att du vill förbättra samarbetet mellan
     avdelningarna, men å andra sidan säger du saker om oss som gör det
     svårt för oss att samarbeta. Jag håller med om att vi kan förbättra
@@ -105,7 +102,6 @@ Här är två exempel på självhävdelse vid negativa känslor:
 -   "När du kommer hem sent, utan att säga till om det innan, oroar jag
     mig för att något är fel och då blir jag arg. Jag skulle verkligen
     uppskatta om du kunde slå en signal och säga till innan."
-
 -   "Varje gång du avbryter mig när jag jobbar med balansräkningen måste
     jag börja om igen. Jag känner mig irriterad över det, så jag skulle
     föredra att du väntade tills jag är klar."

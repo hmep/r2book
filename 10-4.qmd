@@ -1,4 +1,6 @@
-# Utför beteendeexperiment
+---
+title: Utför beteendeexperiment
+---
 
 För var och en av sakerna du har tagit upp i din exponeringshierarki,
 gör ett (eller flera) planerade eller spontana beteendeexperiment!

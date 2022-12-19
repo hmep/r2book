@@ -1,4 +1,6 @@
-# Konstruktiva beteenden för att ge och ta emot komplimanger
+---
+title: Konstruktiva beteenden för att ge och ta emot komplimanger
+---
 
 ## Ta emot komplimanger
 
@@ -30,7 +32,7 @@
     föra konversationen vidare. "Tack så mycket! Jag hittade den på
     Blocket -- det är helt otroligt vad man kan hitta där." På så sätt
     accepterar du både komplimangen och församtalet vidare till något
-    som ni båda kan fortsätta prata om.
+    som ni båda kan fortsätta prata om.
 
 ## Ge komplimanger
 
@@ -44,7 +46,7 @@ hörnstenarna i att hävda sig själv. Ge någon en komplimang, redan idag!
 
 ### Steg för att ge komplimanger
 
--   Tänk ut vad du vill säga när du ger komplimangen. Det hjälper dig så
+-   Tänk ut vad du vill säga när du ger komplimangen. Det hjälper dig så
     här i början, eftersom du slipper söka efter de rätta orden i
     situationen samtidigt som du hanterar obehaget i situationen.
 -   Var specifik när du komplimenterar den andra personen. "Det där

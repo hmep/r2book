@@ -1,4 +1,6 @@
-# Att säga 'nej' i underskott
+---
+title: Att säga 'nej' i underskott
+---
 
 Många personer har stora svårigheter att säga 'nej' till andra. Även
 personer som i andra situationer kan vara bra på att hävda sig själva
@@ -33,7 +35,7 @@ Inget av alternativen ovan är exempel på konstruktiv självhävdelse.
 
 ## Hindrande förutsägelser, som gör det svårt att säga 'nej'
 
-Vi konstaterade i modul 3 att vi föds med en självklar förmåga att hävda
+Vi konstaterade i modul 3 att vi föds med en självklar förmåga att hävda
 oss själva. Alla som någon gång har umgåtts med en treåring vet att
 treåringar inte har några som helst problem att säga 'nej'. Under vår
 uppväxt lär vi oss dock nya sätt att svara på vår omgivning och våra
@@ -59,6 +61,6 @@ några av dem stämmer för dig.
 Tänk dig en situation där du kämpar med att säga nej. Vilka
 förutsägelser gör du om vad som ska hända om du säger 'nej'? Vilka
 förutsägelser gör du om din förmåga att klara av det som skulle hända om
-du sa 'nej'? Skriv ned dem här.
+du sa 'nej'? Skriv ned dem här.
 
 ##3e3e8806095299cb48929db0732a7d10=

@@ -1,4 +1,6 @@
-# Din måluppfyllelse just nu
+---
+title: Din måluppfyllelse just nu
+---
 
 Du formulerade i modul 1 en första personlig målsättning för programmet.
 Du skrev så här:
@@ -26,7 +28,7 @@ möjliggjort mer konstruktiv självhävdelse.
 
 ##371ab23fa17caec70eac1edb1806eb03=
 
-## Om nästa modul
+## Om nästa modul
 
 I nästa modul tittar vi närmare på vanliga tankemönster, som kan hindra
 oss från att hävda oss själva. Vi lär oss också hur vi kan balansera

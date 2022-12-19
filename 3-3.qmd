@@ -1,35 +1,37 @@
-# Så funkar beteendeexperiment
+---
+title: Så funkar beteendeexperiment
+---
 
 Ibland räcker det inte med att observera och beskriva sina tankar,
 känslor och beteenden. Det kan kännas som att man lär sig mycket om sig
-själv men att inget i praktiken ändras. I en sådan situation är ett
+själv men att inget i praktiken ändras. I en sådan situation är ett
 beteendeexperiment mycket användbart för att aktivera sig i livet och
-utvärdera hur det gick. Beteendeexperiment handlar om att utmana sina
-negativa förväntningar och att bryta undvikande. 
+utvärdera hur det gick. Beteendeexperiment handlar om att utmana sina
+negativa förväntningar och att bryta undvikande. 
 
 Någon kanske till exempel har den negativa förutsägelsen "Om jag hävdar
-mig själv kommer den andra personen att bli upprörd och vår relation
+mig själv kommer den andra personen att bli upprörd och vår relation
 kommer att bli förstörd". För personen som tänker så har antagandet
 inneburit att han eller hon alltid har gått med på vad andra
-föreslagit även om det har gått helt emot vad personen egentligen har
+föreslagit även om det har gått helt emot vad personen egentligen har
 velat göra. Förutsägelsen är så starkt att personen inte ens kan tänka
 sig att hävda sina egna åsikter. Personen har kört fast.
 
 Ett sätt att komma loss är att göra ett experiment som går ut på att
 pröva giltigheten i förutsägelsen att den andra personen kommer att bli
 upprörd och att relationen kommer att gå i kras. Att göra experimentet
-kan vara utmanande och väcka en hel del ångest som är svår att uthärda
+kan vara utmanande och väcka en hel del ångest som är svår att uthärda
 -- kom då ihåg att kroppen inte gör åtskillnad mellan rädsla inför
 livshotande fara och ångest inför en tanke. Det är i sig inte farligt
 att uppleva ångest.
 
 Särskilt i början, när man är ovan att göra beteendeexperiment, är det
 hjälpsamt att planera det så bra som möjligt. I det här programmet får
-du träna på det! Det kan vara klokt att börja med ett lite enklare
+du träna på det! Det kan vara klokt att börja med ett lite enklare
 experiment och gradvis gå vidare med allt mer utmanande situationer.
 
 *Det övergripande målet med hela det här träningsprogrammet är att lära
-dig att göra beteendeexperiment så att du kan fortsätta med det i ditt
+dig att göra beteendeexperiment så att du kan fortsätta med det i ditt
 eget liv -- hela livet ut! Det är en bärbar färdighet som kan hjälpa dig
 var du än är i livet.*
 
@@ -41,22 +43,22 @@ steg.
 1.  Det första steget är att **identifiera förutsägelsen som du har om
     situationen** och om hur du kan avgöra om förutsägelsen stämmer. Det
     här är ett viktigt steg. Om du inte tydligt kan avgöra om det
-    antagandet säger faktiskt har inträffat så är risken att du själv
-    flyttar målstolparna under eller efter experimentet och inte
+    antagandet säger faktiskt har inträffat så är risken att du själv
+    flyttar målstolparna under eller efter experimentet och inte
     upptäcker skillnaden.
 2.  Du behöver också **identifiera de ej självhävdande beteenden som du
-    brukar ta till** så att du kan vara säker på att du utför
+    brukar ta till** så att du kan vara säker på att du utför
     experimentet utan att göra de sakerna.
-3.  Därefter fortsätter du med att **skriva ned ett antal mer positiva
-    och hjälpsamma förutsägelser** (utifrån dina egna erfarenheter eller
-    föreställningsförmåga) om vad som kan hända. 
-4.  Sedan är det dags att **planera själva experimentet**. I det ingår
+3.  Därefter fortsätter du med att **skriva ned ett antal mer positiva
+    och hjälpsamma förutsägelser** (utifrån dina egna erfarenheter eller
+    föreställningsförmåga) om vad som kan hända. 
+4.  Sedan är det dags att **planera själva experimentet**. I det ingår
     att tydligt bestämma vilka steg som ska ingå i genomförandet. Gör
     det tydligt för dig själv när, var och hur experimentet ska gå till.
     Här identifierar du också konstruktiva självhävdande beteenden som
     du kommer att använda dig av i experimentet.
 5.  När du har utfört experimentet är det läge
-    att **utvärdera resultatet**. Fråga dig själv:
+    att **utvärdera resultatet**. Fråga dig själv:
     -   Vad hände?
     -   Fick du stöd för dina ursprungliga negativa förutsägelser?
         -   Om ja, klarade du av att ändå göra det som var viktigt?
@@ -66,7 +68,7 @@ steg.
 ## Exempel på ett beteendeexperiment
 
 Här beskriver vi ett experiment som prövar antagandet "Om jag hävdar mig
-själv kommer den andra personen att bli upprörd och vår relation kommer
+själv kommer den andra personen att bli upprörd och vår relation kommer
 att bli förstörd".
 
 ### Steg 1 - Identifiera din förutsägelse

@@ -1,4 +1,6 @@
-# Tänkandet påverkar hur du agerar
+---
+title: Tänkandet påverkar hur du agerar
+---
 
 ## Hindrande förutsägelser
 
@@ -20,7 +22,7 @@ styra handlandet:
 
 ### Dina egna negativa förutsägelser
 
-Kan du identifiera ytterligare hindrande förutsägelser, utifrån egna
+Kan du identifiera ytterligare hindrande förutsägelser, utifrån egna
 faktiska tidigare erfarenheter, som gör det svårt för dig att möta
 kritik med konstruktiv självhävdelse? Skriv upp dem.
 
@@ -55,8 +57,8 @@ formulera egna balanserande förutsägelser till dem.
 
 ### Fortsätt arbeta med beteendeexperiment
 
-Du kan använda beteendeexperiment-tekniken som du lärde dig i modul 3
-och 4 för att i praktiken hitta egna bra anledningar hävda dig själv
+Du kan använda beteendeexperiment-tekniken som du lärde dig i modul 3
+och 4 för att i praktiken hitta egna bra anledningar hävda dig själv
 konstruktivt när ger eller tar kritik. Kanske märker du att du har svårt
 att tro på att dina nya beteenden kommer att fungera över tid. Det är
 helt normalt. Du har förmodligen tänkt dina gamla tankar och utfört dina

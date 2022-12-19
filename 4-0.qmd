@@ -1,6 +1,8 @@
-# Introduktion till tekniker för konstruktiv självhävdelse
+---
+title: Introduktion till tekniker för konstruktiv självhävdelse
+---
 
-I det här kapitlet introducerar vi effektiva tekniker för konstruktiv
+I det här kapitlet introducerar vi effektiva tekniker för konstruktiv
 självhävdelse och ger dig möjlighet att mängdträna på dessa i
 beteendeexperiment. Dessa tekniker kan användas i en stor mängd
 situationer!
@@ -10,16 +12,14 @@ situationer!
 Här är ett kort rollspel där vi demonstrerar hur du kan utföra en av
 teknikerna för att säga nej. När du tittar på exemplet, tänk dig hur det
 skulle vara för dig att ha Patriks roll och vara den som så envist säger
-nej. Hur mycket motstånd eller olust väcker det hos dig? Skulle du våga
+nej. Hur mycket motstånd eller olust väcker det hos dig? Skulle du våga
 testa det själv? I vilket sammanhang skulle det kännas okej att göra
 det?
-
- 
 
 ## Börja lagom svårt
 
 När du övar på de här teknikerna kan det vara bra att börja i en neutral
-situation. Med det menar vi en situation där din ångest inte är för
+situation. Med det menar vi en situation där din ångest inte är för
 stark. När du efter hand blir mer och mer förtrogen med och skicklig på
 att utföra teknikerna, kan du börja använda dem i svårare och mer
 känslointensiva situationer. Precis som när du lär dig andra färdigheter
@@ -30,7 +30,7 @@ gång. Och att du sedan testar tekniken igen! Med tiden kommer du märka
 att det blir lättare och lättare.
 
 När du nu ska börja mängdträna konstruktiv självhävdelse, ta hjälp av
-aktiva cirkeln-bilden. Påminn dig själv om vilka fördelar med att öva
+aktiva cirkeln-bilden. Påminn dig själv om vilka fördelar med att öva
 som du kan \"bära med dig\" in i beteendeexperimenten du kommer att göra
 den här veckan.
 

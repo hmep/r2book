@@ -1,4 +1,6 @@
-# Ta emot konstruktiv kritik
+---
+title: Ta emot konstruktiv kritik
+---
 
 Vi behöver alla klara av att ta emot konstruktiv kritik. Du kan reagera
 på flera olika sätt, beroende på hur kritiken framförs.
@@ -22,7 +24,7 @@ känna dig förkrossad.
 Exempel:
 
 **Kritik** -- Ditt skrivbord är väldigt stökigt. Du är desorganiserad.\
-**Svar** -- Ja, det är sant. Jag är inte så ordentlig.
+**Svar** -- Ja, det är sant. Jag är inte så ordentlig.
 
 Nyckeln till omvänd konstruktiv självhävdelse är självförtroende och
 övertygelsen att du har förmågan att ändra dig själv om du önskar göra
@@ -46,7 +48,7 @@ Exempel:
 
 **Kritik** -- Det kommer inte bli så lätt för dig, eller hur, eftersom
 du är blyg?\
-**Svar**  -- På vilka sätt tycker du att jag är blyg?
+**Svar**  -- På vilka sätt tycker du att jag är blyg?
 
 Om kritiken är konstruktiv, kan informationen som kommer när du frågar
 om mer detaljer användas på ett konstruktivt sätt. Då förbättras också

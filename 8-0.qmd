@@ -1,4 +1,6 @@
-# Hur hanterar du besvikelser?
+---
+title: Hur hanterar du besvikelser?
+---
 
 Att behöva hantera besvikelser är en del av att vara människa. Ibland
 blir saker och ting inte som man hade tänkt sig: förluster och
@@ -7,7 +9,7 @@ vi närmare på olika vanliga responser på besvikelser. Att handla
 konstruktivt handlar inte om att inte tillåta sig att känna sig besviken
 -- tvärtom! Att vara konstruktiv inför förluster och misslyckanden
 handlar om att med självmedkänsla ge plats för obehaget och
-ångesten samtidigt som du medvetet handlar på ett sätt som för dig
+ångesten samtidigt som du medvetet handlar på ett sätt som för dig
 närmare det du värdesätter. Kommer du ihåg den **[aktiva
 cirkeln](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment/15-argument-f-r-att-byta-undvikande-mot-aktivt-deltagande)**?
 
@@ -21,32 +23,32 @@ Här är några vanliga sätt som människor kan hantera besvikelser på:
 -   Bli uppgiven
 -   Kritisera sig själv
 
-### Vad gjorde du senast du blev besviken?
+## Vad gjorde du senast du blev besviken?
 
 Fundera en liten stund på när du senast blev besviken. Försök att komma
 ihåg hur du reagerade -- med passivitet, konstruktiv självhävdelse eller
-med aggressiv självhävdelse? Skriv ned det du kommer ihåg.
+med aggressiv självhävdelse? Skriv ned det du kommer ihåg.
 
 ##a3bcf2ebae902dd21c05bc703f81c6c6=
 
-### Passiva svar på besvikelser
+## Passiva svar på besvikelser
 
 Om du reagerar på en besvikelse med passivitet är det troligt att du
 också ger upp dina försök att gå i den önskade riktningen i livet. Då är
 risken också stor att du blir överdrivet självkritisk för att du inte
 kunde nå dit du ville. Det kan också hända att du tycker synd om dig
-själv och drar dig undan för att älta. Om det är andra personer som har
+själv och drar dig undan för att älta. Om det är andra personer som har
 gjort dig besviken, kanske du ger upp om dem också. Alla dessa
 reaktioner kan försämra självkänslan och leda till nedstämdhet.
 
-### Aggressiva svar på besvikelser
+## Aggressiva svar på besvikelser
 
 Om du svarar med aggressivitet på en besvikelse känner du dig sannolikt
 arg på personen eller situationen som orsakade den. Risken ökar då att
 du blir bitter på personen eller situationen. Kanske märker du också att
 du blir hämndlysten.
 
-### Konstruktiv självhävdelse vid besvikelser
+## Konstruktiv självhävdelse vid besvikelser
 
 Om du svarar med konstruktiv självhävdelse på en besvikelse, är det
 mycket möjligt att du fortsätter att känna dig besviken över att saker

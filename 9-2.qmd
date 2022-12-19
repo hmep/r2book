@@ -1,4 +1,6 @@
-# Dina förutsägelser påverkar hur du agerar
+---
+title: Dina förutsägelser påverkar hur du agerar
+---
 
 Våra förutsägelser i olika situationer kan göra att vi undviker att
 hävda oss själva även i situationer när vi får komplimanger. Vi kan
@@ -11,7 +13,7 @@ komplimang.
 
 Samma sak gäller för situationer där vi får komplimanger, som många
 andra situationer som vi tittar på i det här programmet. Här är några av
-de hindrande förutsägelser som vi kan ha i situationer där vi får beröm
+de hindrande förutsägelser som vi kan ha i situationer där vi får beröm
 eller uppskattning:
 
 -   "De menar det inte egentligen. De försöker bara vara trevliga."
@@ -34,9 +36,9 @@ komplimanger? Skriv upp dem här:
 
 Här är några hjälpande förutsägelser som du kanske samtidigt har, som du
 kan använda för att balansera dina hindrande förutsägelser. Med
-beteendeexperiment kan du pröva dina negativa förutsägelser i
+beteendeexperiment kan du pröva dina negativa förutsägelser i
 situationer som tidigare har varit svåra för dig, och på så sätt göra
-allt fler hjälpsamma och realistiska förutsägelser som ger dig möjlighet
+allt fler hjälpsamma och realistiska förutsägelser som ger dig möjlighet
 att hävda dig själv.
 
 -   "Komplimangen kan vara äkta."
@@ -61,17 +63,17 @@ att hävda dig själv.
 
 ### Egna exempel på hjälpande förutsägelser
 
-Kan du hitta några fler förutsägelser utifrån egna erfarenheter, som kan
-hjälpa dig att hävda dig själv i tuffa situationer? Använd dem (eller
-några av ovanstående, som du tror på) för att balansera de negativa,
+Kan du hitta några fler förutsägelser utifrån egna erfarenheter, som kan
+hjälpa dig att hävda dig själv i tuffa situationer? Använd dem (eller
+några av ovanstående, som du tror på) för att balansera de negativa,
 hindrande förutsägelserna du skrev ned här ovan.
 
 ##2be78c7db378860b7492d01c09b48b30=
 
 ### Fortsätt arbeta med beteendeexperiment
 
-Du kan använda beteendeexperiment-tekniken som du lärde dig i modul 3
-och 4 för att i praktiken hitta egna bra anledningar hävda dig själv
+Du kan använda beteendeexperiment-tekniken som du lärde dig i modul 3
+och 4 för att i praktiken hitta egna bra anledningar hävda dig själv
 konstruktivt när ger och tar emot komplimanger. Kanske märker du att du
 har svårt att tro på att dina nya beteenden kommer att fungera över tid.
 Det är helt normalt. Du har förmodligen tänkt dina gamla tankar och

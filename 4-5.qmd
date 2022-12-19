@@ -1,4 +1,6 @@
-# Sammanfattning
+---
+title: Sammanfattning
+---
 
 -   Det finns flera olika tekniker som du kan använda för att hävda dig
     själv konstruktivt. De är bland annat grundläggande, empatisk,

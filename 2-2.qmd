@@ -1,136 +1,91 @@
-# Aggressiv kommunikation
+---
+title: "Aggressiv kommunikation"
+---
 
-### Definition
+## Definition
 
 -   Du står upp för dina egna rättigheter och uttrycker dina tankar,
     känslor och övertygelser men på ett sätt som oftast inte är passande
     och som kränker den andra personens rättigheter.
-
 -   Andra människor känner olust i ett möte med en aggressiv person.
-
 -   Du behåller övertaget genom att du trycker ned andra.
-
 -   Du attackerar när du känner dig hotad.
 
 ![](/sites/respekt/media/image/canvas-aggressiv-slinga-X.svg){style="width: 400px; height: 400px; margin: 1em 0px 0px;"}
 
-### Verbala kännetecken
+## Verbala kännetecken
 
 -   Flödande tal, utan tvekan
-
--   Ofta avsnäsande och vasst avklippande tal
-
+-   Ofta avsnäsande och vasst avklippande tal
 -   Ofta snabbt tal
-
 -   Tonvikten läggs på nedlåtande ord
-
 -   Fast, stark röst
-
 -   Tonen sarkastisk, kall och hård
-
 -   Ofta gäll och ibland skrikande röst som stiger mot slutet
-
 -   Användande av hot, exempelvis "Det är bäst att du passar dig ..."
     eller "Om du inte gör som jag säger så ..."
-
--   Förnedrande tal, exempelvis "Du måste skoja med mig ..." eller "Var
+-   Dömande tal, exempelvis "Du måste skoja med mig ..." eller "Var
     inte så löjlig ..."
-
 -   Värderande kommentarer, med tonvikten lagd på ord som "borde",
     "dålig", "skulle ha" och så vidare
-
 -   Sexistiska och rasistiska kommentarer
-
 -   Skryt, exempelvis "Jag har inte sådana problem som du har"
-
 -   Åsikter uttrycks som fakta, exempelvis "Ingen vill bete sig på det
     sättet" eller "Det är ett värdelöst sätt att göra det på"
-
 -   Hotfulla frågor och förminskande kommentarer, exempelvis "Men är du
     inte klar med det där ännu?" eller "Varför i hela friden gör du det
     där?"
 
-### Icke-verbala kännetecken
+## Icke-verbala kännetecken
 
 -   Intrång i den andra personens privata sfär
-
 -   Den andra personen stirras ut
-
 -   Gester som pekande och knuten näve
-
 -   Rastlöst travande fram och tillbaka
-
 -   Korsade armar (som en signal på att personen är onåbar)
-
 -   Hånfullt leende
-
 -   Rynkade ögonbryn
-
 -   Sammanbiten käke
 
-### Kognitiv stil (tänkande)
+## Kognitiv stil (tänkande)
 
 -   "Jag tar dig innan du får en chans att ta mig."
-
 -   "Jag ska vara först."
-
 -   "Världen är ett slagfält och jag är här för att segra."
 
-### Fördelar
+## Fördelar
 
--   [Tips!]{.rlabel} Kämpar du ibland med aggressiva uttryck för ilska,
-    till exempel när du blir besviken? Titta på den här korta filmen på
-    engelska med psykologen Marsha Linehan (som har utvecklat dialektisk
-    beteendeterapi, DBT, för personer med svårigheter att reglera
-    överväldigande känslor). I den här filmen pratar Marsha om att
-    aggressivitet ofta fyller funktionen undvikande eller flykt från
-    överväldigande ledsenhet i den arga personens liv. Hon säger också
-    att aggressivitet sällan är ett effektivt sätt att kommunicera. 
-
-    ::: iframe
-    ::: {#player}
-    :::
-
-    ::: player-unavailable
-    # Ett fel inträffade. {#ett-fel-inträffade. .message}
-
-    ::: submessage
-    [Försök att titta på videon på
-    www.youtube.com](https://www.youtube.com/watch?v=xFiMTXn5An4){target="_blank"}
-    eller aktivera JavaScript om det är inaktiverat i din webbläsare.
-    :::
-    :::
-    :::
-
-    Du kan få andra personer att göra saker åt dig som du själv
+-   Du kan få andra personer att göra saker åt dig som du själv
     egentligen är ansvarig för.
-
 -   Saker tenderar att gå din väg.
-
 -   Du är mindre sårbar.
-
 -   Du känner att du har kontroll.
-
 -   Du får utlopp för ditt behov av spänning.
-
 -   Du känner dig stark.
 
-### Kostnader
+## Kostnader
 
 -   Ditt beteende kommer att ge dig fiender och skapa förakt bland dem
     omkring dig.
-
 -   Du kan känna dig paranoid och bli rädd att förlora din position.
-
 -   Om du alltid försöker kontrollera andra kan det bli svårt för dig
     att slappna av.
-
 -   Dina relationer tenderar att bli baserade på negativa känslor och
     blir sannolikt mer instabila.
-
--   Den som ofta är aggressiv kan lätt känna sig underlägsen inombords.
-
+-   Den som ofta är aggressiv kan lätt känna sig underlägsen inombords.
 -   Du kan behöva hantera tunga sekundära känslor av skuld och skam.
+-   Du riskerar att utveckla dåligt självförtroende och försämra
+    din självkänsla.
 
--   Du riskerar att utveckla dåligt självförtroende och försämra
-    din självkänsla.
+## Funktionen av aggressivitet
+
+Kämpar du ibland med aggressiva uttryck för ilska,
+till exempel när du blir besviken? Titta på den här korta filmen på
+engelska med psykologen Marsha Linehan (som har utvecklat dialektisk
+beteendeterapi, DBT, för personer med svårigheter att reglera
+överväldigande känslor). I den här filmen pratar Marsha om att
+aggressivitet ofta fyller funktionen undvikande eller flykt från
+överväldigande ledsenhet i den arga personens liv. Hon säger också
+att aggressivitet sällan är ett effektivt sätt att kommunicera. 
+
+{{< video https://www.youtube.com/embed/xFiMTXn5An4 >}}

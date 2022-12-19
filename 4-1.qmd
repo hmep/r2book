@@ -1,4 +1,6 @@
-# Grundläggande självhävdelse
+---
+title: Grundläggande självhävdelse
+---
 
 Grundläggande konstruktiv självhävdelse är när vi säger något på ett
 sätt som förmedlar våra behov, önskningar, förväntningar, åsikter eller
@@ -7,20 +9,16 @@ dag för kommunicera behov. Vanligtvis inleds grundläggande konstruktivt
 självhävdande med "Jag ...". Exempel på jag-budskap är:
 
 -   "Jag behöver lämna jobbet klockan 5."
-
 -   "Jag är glad över sättet vi kunde lösa problemet på."
 
-Du kan också använda tekniken när du vill berömma eller komplimera
-någon, när du vill ge någon information eller när du vill ta upp något
+Du kan också använda tekniken när du vill berömma/ge någon en komplimang, 
+när du vill ge någon information eller när du vill ta upp något
 viktigt för första gången. Till exempel:
 
 -   "Jag har inte tänkt på det förut, jag vill ge mig lite tid att tänka
     på din idé."
-
 -   "Jag tycker att din presentation verkligen var bra."
-
--   "Priset kommer att bli 20 000 kronor."
-
+-   "Jag tar 1 200 kronor i timmen."
 -   "Jag blir glad när du hjälper mig."
 
 Det är viktigt att komma ihåg att vara specifik när du säger något på
@@ -30,14 +28,12 @@ kommunikation enkel och koncis. Den här färdigheten hjälper dig att vara
 tydlig med exakt det du vill kommunicera.
 
 I grundläggande konstruktiv självhävdelse ingår
-också **självutlämnande** (eller själv-avslöjande) tekniker. Med det
+också **självutlämnande** (eller själv-avslöjande) tekniker. Med det
 menas att du säger vad du känner med en enkel mening, till exempel så
 här:
 
 -   "Jag känner mig nervös."
-
 -   "Jag känner skuld."
-
 -   "Jag känner mig arg."
 
 Den omedelbara effekten efter att du använt tekniken är minskad ångest
