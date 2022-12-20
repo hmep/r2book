@@ -118,7 +118,7 @@ book:
         - 10-6.qmd
         - 10-7.qmd
         - 10-8.qmd
-    - part: "Om 100% respekt"
+    - part: "Om den här boken"
       chapters:
         - 0-0.qmd
         - 0-1.qmd
