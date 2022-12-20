@@ -1,4 +1,5 @@
 ---
+lang: sv
 title: Vad är kritik?
 ---
 

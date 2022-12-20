@@ -1,4 +1,5 @@
 ---
+lang: sv
 title: Dina förutsägelser i situationen påverkar hur du agerar
 ---
 

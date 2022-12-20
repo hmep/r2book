@@ -1,4 +1,5 @@
 ---
+lang: sv
 title: "Uppgift: slappna av snabbt i \"heta\" situationer"
 ---
 

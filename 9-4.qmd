@@ -1,4 +1,5 @@
 ---
+lang: sv
 title: Mängdträna på att ge komplimanger
 ---
 

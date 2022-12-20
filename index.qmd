@@ -1,19 +1,27 @@
 ---
-title: Introduktion
+lang: sv
+title: Översikt
 ---
 
-## Introduktion
+## KBT för bättre självhävdelse
 
-This is a Quarto book.
+Självhävdelse kan vara mer eller mindre konstruktiv, aggressiv eller passiv. Ibland hävdar vi oss inte så konstruktivt som vi skulle önska.
 
-## En film
+-   Tar du ofta på dig mer än du orkar?
+-   Tappar du humöret i trafiken för ofta?
+-   Har du svårt att ge eller ta emot komplimanger?
+-   Tar det emot att reklamera en vara eller tjänst?
+-   Känner du dig ofta stressad och utarbetad?
+-   Händer det att du smäller i dörrar när du är arg?
+-   Brukar du bli nedstämd efter besvikelser?
+-   Har du svårt att säga nej?
 
-{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
+Då kan den här boken vara något för dig. I det här KBT-behandlingsprogrammet om på 8 veckor får du lära dig identifiera hindrande tankar och känslor som kan göra det svårt att agera konstruktivt i nära relationer, i arbetet eller gentemot okända personer. Du får också hjälp att själv finna alternativa, konstruktiva beteenden och stöttning när du tränar på dem i ditt eget liv. Att förändra invanda beteendemönster är inte alltid så lätt. Du kan använda den här resursen på egen hand eller i terapi, med stöd av en KBT-psykolog eller -psykoterapeut.
 
-## Ett formulär
+## 10 moduler, 8 veckor, 100% respekt
 
-{{< form >}}
+KBT-behandlingsprogrammet består av 10 moduler som det är tänkt att du jobbar med under loppet av 8 veckor. Syftet med programmet är att lära ut och ge dig möjlighet att i praktiken öva konstruktiv självhävdelse.
 
-## Ett till
+## Boken är fri
 
-{{< include test.qmd >}}
+Materialet är fritt tillgängligt att använda som både självhjälpsbok och som behandlingsmanual. Vi har valt en [fri icke-kommersiell dokumentlicens](0-2.qmd) eftersom vi tycker att evidensbaserade psykologiska interventioner ska vara fritt tillgängliga för allmänheten, i primärvården och i psykiatrin.

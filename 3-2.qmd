@@ -1,4 +1,5 @@
 ---
+lang: sv
 title: Argument för att byta undvikande mot aktivt deltagande
 ---
 

@@ -1,4 +1,5 @@
 ---
+lang: sv
 title: "Uppgift: Hitta dina egna sätt att sänka spänningsnivån"
 ---
 

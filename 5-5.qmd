@@ -1,4 +1,5 @@
 ---
+lang: sv
 title: Ännu fler metoder för avslappning och medveten närvaro
 ---
 

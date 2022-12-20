@@ -1,4 +1,5 @@
 ---
+lang: sv
 title: Tänkandet påverkar hur du agerar
 ---
 

@@ -1,4 +1,5 @@
 ---
+lang: sv
 title: Goda skäl att kunna säga 'nej' oftare
 ---
 
