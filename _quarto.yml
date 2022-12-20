@@ -1,0 +1,154 @@
+# for i in *.svg; do cairosvg $i -o ${i%.svg}.pdf; done
+# https://gist.github.com/w3collective/9e6a99f4d828734676a12b2db2ff61e5
+# https://github.com/jlgraves-ubc/forms
+# https://github.com/quarto-ext/latex-environment
+# https://quarto.org/docs/authoring/videos.html
+# https://fonts.google.com/noto/specimen/Noto+Emoji
+
+project:
+  type: book
+  
+bibliography:
+  - ../r2fu/KSH.bib
+  - ../r2fu/DBT.bib
+
+book:
+  title: "Respekt i kvadrat"
+  #title: "100% respekt"
+  author: "Fiona Michel, Anthea Fursland, Patrik Manhem & Tobias Hagberg"
+  date: 2022-12-19
+  sidebar:
+    collapse-level: 1
+    background: light
+  chapters:
+    - index.qmd
+    - part: "Modul 1"
+      chapters:
+        - 1-0.qmd
+        - 1-1.qmd
+        - 1-2.qmd
+        - 1-3.qmd
+        - 1-4.qmd
+        - 1-5.qmd
+        - 1-6.qmd
+        - 1-7.qmd
+    - part: "Modul 2"
+      chapters:
+        - 2-0.qmd
+        - 2-1.qmd
+        - 2-2.qmd
+        - 2-3.qmd
+        - 2-4.qmd
+        - 2-5.qmd
+        - 2-6.qmd
+        - 2-7.qmd
+    - part: "Modul 3"
+      chapters:
+        - 3-0.qmd
+        - 3-1.qmd
+        - 3-2.qmd
+        - 3-3.qmd
+        - 3-4.qmd
+        - 3-5.qmd
+        - 3-6.qmd
+        - 3-7.qmd
+    - part: "Modul 4"
+      chapters:
+        - 4-0.qmd
+        - 4-1.qmd
+        - 4-2.qmd
+        - 4-3.qmd
+        - 4-4.qmd
+        - 4-5.qmd
+        - 4-6.qmd
+        - 4-7.qmd
+    - part: "Modul 5"
+      chapters:
+        - 5-0.qmd
+        - 5-1.qmd
+        - 5-2.qmd
+        - 5-3.qmd
+        - 5-4.qmd
+        - 5-5.qmd
+        - 5-6.qmd
+        - 5-7.qmd
+    - part: "Modul 6"
+      chapters:
+        - 6-0.qmd
+        - 6-1.qmd
+        - 6-2.qmd
+        - 6-3.qmd
+        - 6-4.qmd
+        - 6-5.qmd
+    - part: "Modul 7"
+      chapters:
+        - 7-0.qmd
+        - 7-1.qmd
+        - 7-2.qmd
+        - 7-3.qmd
+        - 7-4.qmd
+        - 7-5.qmd
+        - 7-6.qmd
+        - 7-7.qmd
+        - 7-8.qmd
+    - part: "Modul 8"
+      chapters:
+        - 8-0.qmd
+        - 8-1.qmd
+        - 8-2.qmd
+        - 8-3.qmd
+        - 8-4.qmd
+    - part: "Modul 9"
+      chapters:
+        - 9-0.qmd
+        - 9-1.qmd
+        - 9-2.qmd
+        - 9-3.qmd
+        - 9-4.qmd
+        - 9-5.qmd
+        - 9-6.qmd
+    - part: "Modul 10"
+      chapters:
+        - 10-0.qmd
+        - 10-1.qmd
+        - 10-2.qmd
+        - 10-3.qmd
+        - 10-4.qmd
+        - 10-5.qmd
+        - 10-6.qmd
+        - 10-7.qmd
+        - 10-8.qmd
+    - part: "Om 100% respekt"
+      chapters:
+        - 0-0.qmd
+        - 0-1.qmd
+        - 0-2.qmd
+
+format:
+  epub:
+    toc: true
+    number-sections: false
+    identifier: "1234567890123"
+    creator: "Tobias Hagberg"
+    contributor: "Tobias Hagberg"
+    subject: "Psychology"
+    rights: "Copyright 2022 Ionfox AB"
+  html:
+    theme: 
+    - flatly
+    - custom.scss
+    number-sections: false
+    collapse-level: 1
+  pdf:
+    keep-tex: true
+    number-sections: false
+    documentclass: book
+    toc-depth: 1
+    lang: sv
+    papersize: a5
+    geometry:
+    - top=30mm
+    - left=20mm
+    - heightrounded
+    header-includes: |
+      \PassOptionsToPackage{swedish}{babel}
