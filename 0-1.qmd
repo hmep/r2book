@@ -1,0 +1,17 @@
+---
+lang: sv
+title: "Evidens, lästips och referenser"
+---
+
+## Evidens för KBT
+
+### Transdiagnostiska behandlingsmål
+
+### Summering av randomiserad och kontrollerad effektstudie
+
+## Lästips
+
+## References
+
+::: {#refs}
+:::

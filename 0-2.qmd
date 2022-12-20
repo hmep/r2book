@@ -1,0 +1,26 @@
+---
+lang: sv
+title: "Licens och källkod"
+---
+
+## Licensvillkor {#sec-licens}
+
+Du får anpassa och sprida det här materialet, men inte kommersiellt, och bara om du anger källan.
+
+[![Creative
+Commons-licens](/sites/respekt/media/image/Cc-by-nc-sa_icon.svg){style="border-width:0;margin-bottom:.5rem;"}](http://creativecommons.org/licenses/by-nc-sa/4.0/){rel="license"}\
+Detta verk är licensierat under en [Creative Commons
+Erkännande-IckeKommersiell-DelaLika 4.0 Internationell
+Licens](http://creativecommons.org/licenses/by-nc-sa/4.0/){rel="license"}.
+
+### Ange källan så här
+
+När du källhänvisar till 100% respekt, ange namnet "100% respekt" och länka till "https://www.100respekt.se", alternativt ange den fullständiga referensen ...
+
+## Källkod
+
+Granska och ladda ned källkoden till den här boken från GitHub ...
+
+## Kolofon
+
+Den här boken publiceras simultant som hemsida, digital epub-bok, digital pdf-bok och som pappersbok.
