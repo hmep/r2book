@@ -3,15 +3,15 @@ lang: sv
 title: "Evidens, lästips och referenser"
 ---
 
-## Evidens för KBT
+## Evidens
 
 ### Transdiagnostiska behandlingsmål
 
-### Summering av randomiserad och kontrollerad effektstudie
+### Resultat av effektstudie
 
-## Lästips
+## Tips på självhjälpsresurser
 
-## References
+## Referenslista
 
 ::: {#refs}
 :::
