@@ -1,0 +1,24 @@
+/*-- scss:defaults --*/
+
+/*-- scss:rules --*/
+
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Emoji&family=Special+Elite&display=swap');
+
+  html {
+    font-size: 18px !important;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Special Elite', sans-serif;
+  }
+  
+  .emoji {
+    font-family: 'Noto Emoji', sans-serif;
+  }
+  
+/*-- 
+
+https://quarto.org/docs/output-formats/html-themes.html
+https://github.com/twbs/bootstrap/blob/main/scss/_variables.scss
+
+--*/
