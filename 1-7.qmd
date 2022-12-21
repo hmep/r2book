@@ -34,7 +34,7 @@ erkännande för det!
 ##f30ac36eb016e6810ea6a4a296b349f0=
 
  
-
+::: {.callout-note}
 ## Om nästa modul
 
 I nästa modul går genom vad som kännetecknar de aggressiva, de
@@ -49,3 +49,4 @@ eller aggressiv kommunikation.
 Med respekt i kvadrat,
 
 /Patrik & Tobias
+:::
