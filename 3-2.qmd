@@ -13,10 +13,10 @@ kollegor på ett arbetsmöte, säga till dina barn att du vill att de
 hjälper till mer hemma eller att säga nej till en vän. Vad är det som
 väcker obehag hos dig i relation till din målsättning?
 
-## Ångest och rädsla suger!
+## Ångest och rädsla hänger ihop
 
 Ångest är intimt förknippat med rädsla. Båda reaktionerna aktiverar
-samma kroppsreaktioner. Du kanske känner igen ångest som bland annat
+samma kroppsreaktioner. Du kanske känner igen rädsla och ångest som bland annat
 hjärtklappning, handsvett, spända muskler och ökad vaksamhet på det som
 du uppfattar som hotfullt. Utan dina förfäders väl utvecklade förmåga
 att uppleva rädsla och ångest skulle du inte finnas --
@@ -49,44 +49,41 @@ Begrunda bilden nedan en stund. Börja längst upp och följ pilarna runt
 ett helt varv.
 
 ![](/sites/respekt/media/image/ångestcirkeln-redux-B-slinga.svg){style="width: 600px; max-width: 600px; max-height: 600px; height: 600px; margin:1em 0;"}
-
-[[Tips!]{.rlabel} I den här fyra minuter långa videon på engelska går
-terapeuten Woody Schuldt genom ångestcirkeln på ett tydligt sätt. Han
-ger också en fördjupning om hur konsekvent undvikande får ångesten att
-växa i både frekvens och intensitet över tid. ]{.rtip}Det finns en stor
-och uppenbar fördel med undvikande: *Du slipper ångesten direkt*! Det är
-att du slipper ångest som är den stora vinsten med att handla i enlighet
-med ångestcirkeln. 
+Som du ser finns det en stor och uppenbar fördel med undvikande: *Du slipper
+ångesten direkt*! Det är att du slipper ångest som är den stora vinsten med att
+handla i enlighet med ångestcirkeln.
 
 Men det finns förstås några väldigt stora nackdelar med att låta
 ångestreduktion eller -eliminering styra livet.
 
-För det första missar du sådant som är viktigt för dig i de situationer
-som du undviker.
+För det första missar du sådant som är viktigt för dig i de situationer som du
+undviker. Om du till exempel har ångest inför tanken att du kan bli avvisad
+eller bortgjord om du går på en fest, och därför väljer att tacka nej, så missar
+du det viktiga som ångesten i sig påminner dig om: Den härledda rädslan att bli
+avvisad hänger ju ihop med en längtan efter närhet och gemenskap.
 
-För det andra finns det alltid något nytt att oroa sig för eller älta.
-Eftersom vi evolutionärt är utrustade med en kraftfull förmåga att
-uppleva ångest -- och en önskan om att slippa den -- kan försöken att
-hålla ångesten borta få \"livet att krympa\". Det vill säga att du
-missar allt mer av det du värdesätter, både i relation till din
-målsättning i det här träningsprogrammet och i din vardag i stort. 
+När du undviker ger du dig inte heller chansen att själv sta reda på om det
+härledda -- tänkta -- hotet faktiskt existerar eller inte. Då blir inlärningen
+istället att du måste fortsätta undvika varje gång du är rädd. Ditt liv börjar
+krympa. Det finns ju alltid något nytt att oroa sig för eller älta. Eftersom vi
+evolutionärt är utrustade med en kraftfull förmåga att uppleva ångest -- och en
+önskan om att slippa den -- kan försöken att hålla ångesten borta få \"livet att
+krympa\". Det vill säga att du missar allt mer av det du värdesätter, både i
+relation till din målsättning i det här träningsprogrammet och i din vardag i
+stort.
 
-Tyvärr innebär det i sin tur att du kanske *dessutom* börjar klandra dig
-själv eller tänka katastroftankar om kommande händelser, vilket ofta är
-förknippat med känslor av skam. Du kan lägga märke till det i form av
-tankar som \"varför måste jag vara så dålig på \...\", \"jag måste
-skärpa mig \...\", \"jag kommer aldrig att klara av \...\". Och så
-vidare.
-
-Som om det inte räckte finns det *ytterligare* en allvarlig nackdel:
-Genom undvikande som fenomen hänger ångest också ihop med depression --
-och länken är dubbelriktad. När du undviker på grund av ångest riskerar
-du att bli nedstämd, eftersom du tappar kontakt med sådant som är
-belönande i livet (vänskap, närhet, utvecklande utmaningar och så
-vidare). När du är nedstämd riskerar du att utveckla nya ångestproblem,
-eftersom du genom undvikandet inför dig själv bekräftar (den felaktiga)
-slutsatsen att det enda sättet att slippa ångest är att fortsätta hålla
-dig borta från det som väcker ångest.
+Tyvärr innebär det i sin tur att du kanske *dessutom* börjar klandra dig själv
+eller tänka katastroftankar om kommande händelser, vilket ofta är förknippat med
+känslor av skam. Du kan lägga märke till det i form av tankar som \"varför måste
+jag vara så dålig på \...\", \"jag måste skärpa mig \...\", \"jag kommer aldrig
+att klara av \...\". Och så vidare. Genom undvikande som fenomen hänger ångest
+därigenom också ihop med depression -- och länken är dubbelriktad. När du
+undviker på grund av ångest riskerar du att bli nedstämd, eftersom du tappar
+kontakt med sådant som är belönande i livet (vänskap, närhet, utvecklande
+utmaningar och så vidare). När du är nedstämd riskerar du att utveckla nya
+ångestproblem, eftersom du genom undvikandet inför dig själv bekräftar (den
+felaktiga) slutsatsen att det enda sättet att slippa ångest är att fortsätta
+hålla dig borta från det som väcker ångest.
 
 Du är inte ensam om att ha det så här. Det är en del av villkoren för
 allt mänskligt liv. Vi kämpar alla!
@@ -109,32 +106,34 @@ med att aktivera dig och söka upp olika slags situationer som väcker
 
 ![](/sites/respekt/media/image/aktivacirkeln-redux-E-slinga.svg){style="width: 600px; max-width: 600px; max-height: 600px; height: 600px; margin:1em 0;"}
 
-## Fördelar med att göra beteendeexperiment
+Skulle du vilja låta ångest bli en signal om att det finns något nytt att lära i
+situationen som väcker ångest, snarare än att du måste undvika situationen? Det
+hoppas vi! Vi har ett förslag på en metod som hjälper dig att börja lära dig av
+faktiska erfarenheter.
+
+## Börja göra beteendeexperiment
 
 I den aktiva cirkeln finns det ett antal fördelar med att testa att
 utföra målbeteenden (både för det här träningsprogrammet och i livet i
 stort) och att sedan utvärdera hur det gick. Det är det som kallas
 *beteendeexperiment* eller *exponering*.
 
-[[Att tänka på!]{.rlabel} Ibland är högt tempo och hög aktivitet i sig
+::: {.callout-warning}
+
+Ibland är högt tempo och hög aktivitet i sig
 ett sätt att undvika känslor av ångest. Då gäller det att fundera på
 vilken funktion den höga aktivitetsnivån fyller. Om det handlar om
 minskning av ångest i olika situationer så är det inte den typ av
 \"aktivt deltagande\" som avses här. Aktivt deltagande för en stressad
 person skulle mycket väl kunna vara att göra avslappningsövningar och
 komma i kontakt med sina känslor. Och att träna på att säga nej! (Vi
-återkommer till det i modul 5 och framåt.)]{.rtip}När du lite varsamt
+återkommer till det i modul 5 och framåt.)
+:::
+
+När du lite varsamt
 tar din egen ångest i handen och gör det som är viktigt för dig i ett
 beteendeexperiment så \...
 
--   **Bygger du självmedkänsla** -- genom att observera och erkänna din
-    ångest i situationer som många gånger tidigare har varit besvärliga
-    för dig (genom att du varit i en kontext som varit bestraffande
-    eller för att du under lång tid har undvikit liknande situationer)
-    förbättrar du möjligheterna att acceptera obehaget. Att förstå
-    varför du upplever ångest gör det lättare att tolerera den. Du
-    förtjänar acceptans från dig själv både för det som har varit och
-    det som händer just nu: *Det är vad det är*.
 -   **Gör du det som är viktigt** -- genom att observera och erkänna
     ångesten, utan att trycka bort den, kan du både få kunskap om vad
     som är viktigt för dig och få energi över att rikta uppmärksamheten
@@ -154,6 +153,14 @@ beteendeexperiment så \...
     ångest till hanterbara nivåer, ganska snabbt dessutom.
     Alla kroppsreaktioner går av rent biologiska orsaker ned över
     tid när du stannar kvar med full närvaro i situationen. Även ångest!
+-   **Bygger du självmedkänsla** -- genom att observera och erkänna din
+    ångest i situationer som många gånger tidigare har varit besvärliga
+    för dig (genom att du varit i en kontext som varit bestraffande
+    eller för att du under lång tid har undvikit liknande situationer)
+    förbättrar du möjligheterna att acceptera obehaget. Att förstå
+    varför du upplever ångest gör det lättare att tolerera den. Du
+    förtjänar acceptans från dig själv både för det som har varit och
+    det som händer just nu: *Det är vad det är*.
 -   **Får du det du värdesätter** -- om du värdesätter att på lika
     villkor som andra vara en del av ett sammanhang med andra människor,
     så är det bara aktivt deltagande som ger dig möjlighet att uppnå
@@ -175,7 +182,7 @@ beteendeexperiment så \...
     erfarenheter.
 
 Du kan vända upp och ned på den negativa spiralen så att den blir en
-positiv spiral!
+positiv spiral.
 
 Denna och kommande veckor kommer du att få hjälp att utföra olika
 beteendeexperiment som bygger på din första målsättning som du

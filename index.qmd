@@ -1,36 +1,7 @@
 ---
 lang: sv
 title: Översikt
-format:
-  html:
-    theme: 
-    - flatly
-    - custom.scss
-    # fontsize: 18px
-    # linestretch: 1.4
-    number-sections: false
-    collapse-level: 1
-  epub:
-    toc: true
-    number-sections: false
-    identifier: "1234567890123"
-    creator: "Tobias Hagberg"
-    contributor: "Tobias Hagberg"
-    subject: "Psychology"
-    rights: "Copyright 2022 Ionfox AB"
-  pdf:
-    keep-tex: true
-    number-sections: false
-    documentclass: book
-    toc-depth: 1
-    lang: sv
-    papersize: a5
-    geometry:
-    - top=30mm
-    - left=20mm
-    - heightrounded
-    header-includes: |
-      \PassOptionsToPackage{swedish}{babel}
+format: html
 ---
 
 ## KBT för bättre självhävdelse

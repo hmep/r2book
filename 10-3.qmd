@@ -3,9 +3,9 @@ lang: sv
 title: Lägg märke till negativa förutsägelser
 ---
 
-Som vi lade märke till i modul 3 finns det ofta **[hindrande
+Som vi lade märke till i modul 3 finns det ofta [hindrande
 förutsägelser om hur det ska
-gå](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment)**
+gå](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment)
 bakom vår oförmåga att hävda oss själva. De kan handla om vilken effekt
 vårt konstruktiva målbeteende ska få på oss själva eller andra, eller om
 hur det kommer att kännas när vi utför vårt målbeteende. Lägg gärna lite
@@ -51,8 +51,8 @@ förhållandet: att göra för att sedan få uppleva framgång. Det är bättre
 än att vänta på att känna sig motiverad för att kunna göra. Med det
 menas att bryta oroande och ältande (det vill säga problemlösning som
 går på tomgång) genom att hämta faktiska erfarenheter i livet, i
-enlighet med den **[aktiva
-cirkeln](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment/15-argument-f-r-att-byta-undvikande-mot-aktivt-deltagande)**.
+enlighet med den [aktiva
+cirkeln](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment/15-argument-f-r-att-byta-undvikande-mot-aktivt-deltagande).
 Ett annat sätt att uttrycka det på är: \"Get out of your mind and into
 your life!\". 
 

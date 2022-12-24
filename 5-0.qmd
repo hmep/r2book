@@ -14,14 +14,14 @@ tid att komma ikapp den här veckan. Kom ihåg: Att utföra
 beteendeexperiment är att ge sig möjlighet att samla positiva
 erfarenheter. Du som hunnit utföra ett eller flera beteendeexperiment är
 självklart också välkommen att planera in och utföra fler. Använd
-**[formuläret för
-beteendeexperiment](http://www.iterapi.se/sites/respekt/program/4-m-ngdtr-na-konstruktiv-sj-lvh-vdelse-i-vardagen/23-uppgift-praktisera-vning-ger-f-rdighet-)**
+[formuläret för
+beteendeexperiment](http://www.iterapi.se/sites/respekt/program/4-m-ngdtr-na-konstruktiv-sj-lvh-vdelse-i-vardagen/23-uppgift-praktisera-vning-ger-f-rdighet-)
 i modul 4, du kan fylla i det hur många gånger som helst.
 
 Om du vill maximera effekterna av ditt deltagande i det här programmet,
-påminn dig om vilka **[fördelarna är för dig att byta undvikande av
+påminn dig om vilka [fördelarna är för dig att byta undvikande av
 ångest mot aktivt deltagande i
-livet](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment/15-argument-f-r-att-byta-undvikande-mot-aktivt-deltagande)** i modul
+livet](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment/15-argument-f-r-att-byta-undvikande-mot-aktivt-deltagande) i modul
 3.
 
 ## En snabb check-in
@@ -41,7 +41,9 @@ vid den här tidpunkten. Om du inte hittar svaret på något du undrar
 
 ### 1. "Varför misslyckas jag med mitt beteendeexperiment?"
 
-[![](/sites/respekt/media/image/aktivacirkeln-redux-E-slinga.svg){style="float: right; width: 400px; height: 400px; margin-left:1em;"}](http://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment/15-argument-f-r-att-byta-undvikande-mot-aktivt-deltagande)Det
+![](/sites/respekt/media/image/aktivacirkeln-redux-E-slinga.svg){style="width: 600px; max-width: 600px; max-height: 600px; height: 600px; margin:1em 0;"}
+
+Det
 går inte att misslyckas med ett beteendeexperiment. Antingen går det
 precis som man vill -- så bra, då! Eller så händer det värsta du kan
 tänka dig -- din katastroftanke visar sig stämma. (Eller så går det

@@ -15,7 +15,7 @@ viktigt i stunden.
 
 På den här sidan finns några fler sätt att träna medveten närvaro och
 avslappning. Vi hoppas de här tipsen kan inspirera dig att söka efter
-fler sätt till sänkt spänningsnivå i vardagen! Avspänning ger dig tid
+fler sätt till sänkt spänningsnivå i vardagen. Avspänning ger dig tid
 för medvetna val i livet, vilket i sin tur minskar stressen och ger dig
 energi att hävda dig själv konstruktivt. Se följande förslag som ett
 smörgåsbord av möjligheter. Du behöver inte tycka om allt som erbjuds på
@@ -42,15 +42,20 @@ Livheim.
 
 ## Lugn, kontrollerad andning
 
-[[Tips!]{.rlabel} Om du lider av panikångest är lugn och kontrollerad
+::: {.callout-tip}
+## Boktips för dig med panikångest
+Om du lider av panikångest är lugn och kontrollerad
 andning en särskilt viktig teknik för att inte hyperventilera
 (överandas). Andningsövningar för panik är till och med ännu långsammare
 än i den här övningen. Om du har panikattacker, titta närmare på
-självhjälpsboken **[*Ingen panik: Fri från panik- och ångestattacker i
+självhjälpsboken [*Ingen panik: Fri från panik- och ångestattacker i
 10 steg med kognitiv
-beteendeterapi*](http://libris.kb.se/bib/12089987)** av Carlbring och
+beteendeterapi*](http://libris.kb.se/bib/12089987) av Carlbring och
 Hanell (2013). Du kan läsa och göra övningarna i den på egen hand, eller
-ta hjälp av en KBT-psykolog eller -psykoterapeut.]{.rtip}Sätt dig
+ta hjälp av en KBT-psykolog eller -psykoterapeut.
+:::
+
+Sätt dig
 bekvämt utan korsade armar eller ben, med båda fötterna på golvet och
 händerna mjukt vilande i knät. Om du föredrar att sluta ögonen under den
 här övningen kan du göra det.
@@ -75,7 +80,7 @@ här övningen kan du göra det.
 ## Världens mest avslappnande låt?
 
 Enligt en
-**[rapport](https://www.britishacademyofsoundtherapy.com/wp-content/uploads/2019/10/Mindlab-Report-Weightless-Radox-Spa.pdf){target="_blank"}**
+[rapport](https://www.britishacademyofsoundtherapy.com/wp-content/uploads/2019/10/Mindlab-Report-Weightless-Radox-Spa.pdf){target="_blank"}
 från 2011 är *Weightlessness* från Marconi Union \"världens mest
 avslappnande låt\". Det tvärsäkra påståendet ska tas med en nypa salt,
 men låten är utformad i samarbete med neuroforskare för att sänka

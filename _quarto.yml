@@ -1,9 +1,11 @@
+# quarto render
 # for i in *.svg; do cairosvg $i -o ${i%.svg}.pdf; done
 # https://gist.github.com/w3collective/9e6a99f4d828734676a12b2db2ff61e5
 # https://github.com/jlgraves-ubc/forms
 # https://github.com/quarto-ext/latex-environment
 # https://quarto.org/docs/authoring/videos.html
 # https://fonts.google.com/noto/specimen/Noto+Emoji
+# https://quarto.org/docs/output-formats/html-themes.html
 
 project:
   type: book
@@ -20,6 +22,7 @@ book:
   sidebar:
     collapse-level: 1
     background: light
+  cookie-consent: false
   chapters:
     - index.qmd
     - part: "Modul 1"
@@ -125,14 +128,14 @@ book:
         - 0-2.qmd
 
 format:
-  epub:
-    toc: true
-    number-sections: false
-    identifier: "1234567890123"
-    creator: "Tobias Hagberg"
-    contributor: "Tobias Hagberg"
-    subject: "Psychology"
-    rights: "Copyright 2022 Ionfox AB"
+  # epub:
+  #   toc: true
+  #   number-sections: false
+  #   identifier: "1234567890123"
+  #   creator: "Tobias Hagberg"
+  #   contributor: "Tobias Hagberg"
+  #   subject: "Psychology"
+  #   rights: "Copyright 2022 Ionfox AB"
   html:
     theme: 
     - flatly
@@ -141,16 +144,16 @@ format:
     # linestretch: 1.4
     number-sections: false
     collapse-level: 1
-  pdf:
-    keep-tex: true
-    number-sections: false
-    documentclass: book
-    toc-depth: 1
-    lang: sv
-    papersize: a5
-    geometry:
-    - top=30mm
-    - left=20mm
-    - heightrounded
-    header-includes: |
-      \PassOptionsToPackage{swedish}{babel}
+  # pdf:
+  #   keep-tex: true
+  #   number-sections: false
+  #   documentclass: book
+  #   toc-depth: 1
+  #   lang: sv
+  #   papersize: a5
+  #   geometry:
+  #   - top=30mm
+  #   - left=20mm
+  #   - heightrounded
+  #   header-includes: |
+  #     \PassOptionsToPackage{swedish}{babel}
