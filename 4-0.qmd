@@ -6,7 +6,7 @@ title: Introduktion till tekniker för konstruktiv självhävdelse
 I det här kapitlet introducerar vi effektiva tekniker för konstruktiv
 självhävdelse och ger dig möjlighet att mängdträna på dessa i
 beteendeexperiment. Dessa tekniker kan användas i en stor mängd
-situationer!
+situationer.
 
 ## Rollspelsexempel
 
@@ -35,9 +35,9 @@ aktiva cirkeln-bilden. Påminn dig själv om vilka fördelar med att öva
 som du kan \"bära med dig\" in i beteendeexperimenten du kommer att göra
 den här veckan.
 
-![](/sites/respekt/media/image/aktivacirkeln-redux-E-slinga.svg){style="width: 600px; max-width: 600px; max-height: 600px; height: 600px; margin:1em 0;"}
+![](/sites/respekt/media/image/aktivacirkeln-redux-E-slinga.svg){style="max-width: 600px; max-height: 600px; margin:1em auto;"}
 
-## Observera! Kom ihåg den icke-verbala kommunikationen!
+## Kom ihåg den icke-verbala kommunikationen
 
 Med alla dessa tekniker är det lika viktigt att tänka på den
 icke-verbala kommunikationen, som den verbala. Det kan vara lätt att tro

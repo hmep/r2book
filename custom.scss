@@ -1,12 +1,49 @@
 /*-- scss:defaults --*/
 
+  $primary: #73aa72;
+  $secondary: #f1b84b;
+  $success: #e5974a;
+  $info: #d87546;
+  $warning: #a780e5; 
+  $danger: #ff8a92;
+  
+  $link-color: $primary;
+
+  $theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "success":    $success,
+  "info":       $info,
+  "warning":    $warning,
+  "danger":     $danger,
+) !default;
+
+  // scss-docs-start color-variables
+  $yellow:  #f1b84b !default;
+  $green:   #73aa72 !default;
+  // scss-docs-end color-variables
+  
+  // scss-docs-start colors-map
+  $colors: (
+    "yellow":     $yellow,
+    "green":      $green,
+  ) !default;
+
+// scss-docs-end colors-map
+
 /*-- scss:rules --*/
 
-  @import url('https://fonts.googleapis.com/css2?family=Noto+Emoji&family=Special+Elite&display=swap');
+  /*-- @import url('https://fonts.googleapis.com/css2?family=Noto+Emoji&family=Special+Elite&display=swap'); --*/
+  
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;900&family=Noto+Emoji&family=Special+Elite&display=swap');
 
   html {
-    font-size: 18px !important;
-    line-height: 1.4rem;
+    font-size: 16px !important;
+  }
+  
+  body {
+    font-family: Inter !important;
+    line-height: 1.45rem !important;
   }
   
   h1, h2, h3, h4, h5, h6 {
@@ -17,6 +54,10 @@
     font-family: 'Noto Emoji', sans-serif;
   }
   
+  p img {
+    margin: auto !important;
+  }
+
 /*-- 
 
 https://quarto.org/docs/output-formats/html-themes.html

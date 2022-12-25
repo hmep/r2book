@@ -6,6 +6,7 @@
 # https://quarto.org/docs/authoring/videos.html
 # https://fonts.google.com/noto/specimen/Noto+Emoji
 # https://quarto.org/docs/output-formats/html-themes.html
+# https://lingtalfi.com/bootstrap4-color-generator
 
 project:
   type: book
