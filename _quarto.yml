@@ -141,10 +141,11 @@ format:
     theme: 
     - flatly
     - custom.scss
-    # fontsize: 18px
-    # linestretch: 1.4
+    fontsize: 18px
+    linestretch: 1.4
     number-sections: false
     collapse-level: 0
+    chapter-number: false # does not work; hide with css property instead
   pdf:
     keep-tex: true
     number-sections: false
