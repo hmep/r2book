@@ -136,7 +136,7 @@ format:
   #   creator: "Tobias Hagberg"
   #   contributor: "Tobias Hagberg"
   #   subject: "Psychology"
-  #   rights: "Copyright 2023 Ionfox AB"
+  #   rights: "Copyright 2023 Hagberg Psykologi"
   html:
     theme: 
     - flatly
@@ -144,12 +144,13 @@ format:
     # fontsize: 18px
     # linestretch: 1.4
     number-sections: false
-    collapse-level: 1
+    collapse-level: 0
   pdf:
     keep-tex: true
     number-sections: false
     documentclass: book
-    toc-depth: 1
+    toc-depth: 2
+    toc-title: "Innehåll"
     lang: sv
     papersize: a5
     geometry:
