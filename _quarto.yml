@@ -136,7 +136,7 @@ format:
   #   creator: "Tobias Hagberg"
   #   contributor: "Tobias Hagberg"
   #   subject: "Psychology"
-  #   rights: "Copyright 2023 Hagberg Psykologi"
+  #   rights: "Copyright 2023 Hagberg Psykologi, särskilt företagsnamn till Ionfox AB"
   html:
     theme: 
     - flatly
