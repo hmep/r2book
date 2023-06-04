@@ -1,0 +1,76 @@
+---
+title: "Självskattning av grad av självhävdelse"
+format:
+  pdf:
+    keep-tex: true
+    pdf-engine: xelatex
+    lang: sv
+header-includes:
+- \KOMAoptions{fontsize=11bp,paper=a4,pagesize=pdftex}
+- \areaset{.75\paperwidth}{.9\paperheight}
+- \usepackage{fontspec}
+- \setmainfont{XCharter}
+- \setsansfont{XCharter}
+- \parskip = .5\baselineskip
+- \usepackage{ragged2e,pgf,tikz}
+- \newcommand\xtikzsquare{\begin{tikzpicture}\draw (0,0) node[minimum size=9mm,draw] {};\end{tikzpicture}}
+bibliography:
+  - ../../r2fu/KSH.bib
+  - ../../r2fu/DBT.bib
+---
+
+<!-- \showframe \showgrid -->
+
+\thispagestyle{empty}
+
+Här är en lista med olika situationer, i olika typer av relationer, i vilka du
+kan behöva hävda dig. Skatta hur ofta/hur lätt du brukar hävda dig i varje
+kombination av situation (rader) och relation (kolumner), ruta för ruta, på en
+**skala från ”0” = aldrig till ”5” = alltid**.
+
+Till exempel kanske du tycker att det är relativt enkelt att ge en främling en
+komplimang och sätter därför ”4” i den rutan, men du kanske också tycker att det
+är svårt att ge komplimanger till personer med auktoritet, som din chef, och
+sätter därför ”1” i den rutan. Fyll i hur det är för just dig, inte vad du tror
+att andra tycker eller vad du själv anser att du ”borde” tycka.
+
+\vspace{.5\baselineskip}
+
+```{r, echo=F,warning=F}
+
+relation <- c(
+  "Vän\\hfill",
+  "Attraktiv person\\hfill",
+  "Auktoritet\\hfill",
+  "Främling\\hfill",
+  "Kollega\\hfill",
+  "Partner\\hfill",
+  "Säljare\\hfill"
+)
+situation <- c(
+  "Säga nej",
+  "Ge komplimang",
+  "Uttrycka åsikt",
+  "Be om hjälp",
+  "Uttrycka ilska",
+  "Uttrycka ömhet",
+  "Hävda rättigheter och uttrycka behov",
+  "Ge kritik",
+  "Ta emot kritik",
+  "Inleda konversation"
+)
+n = length(situation)*length(relation)
+assessment.table <- as.data.frame(matrix(rep("\\xtikzsquare", each=n),ncol=length(relation),nrow=length(situation)))
+rownames(assessment.table) <- situation
+colnames(assessment.table) <- relation
+library(kableExtra)
+kable(assessment.table, booktabs = T, linesep = "", align="rccccccc", escape = FALSE) %>%
+  kable_styling(latex_options = c("hold_position", full_width = F, "striped")) %>%
+  row_spec(0, angle = 35, bold=T) %>%
+  column_spec(1, bold=T) %>%
+  column_spec(c(1:8),
+              width = c("38mm", rep("10mm",times=8)),border_right = F, latex_valign="m")
+
+```
+
+{{< include ../_pdf_footer.qmd >}}

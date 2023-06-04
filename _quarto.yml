@@ -10,6 +10,9 @@
 
 project:
   type: book
+  preview:
+    port: 4200
+    browser: true
   
 bibliography:
   - ../r2fu/KSH.bib
@@ -148,6 +151,7 @@ format:
     chapter-number: false # does not work; hide with css property instead
   pdf:
     keep-tex: true
+    latex_engine: pdflatex
     number-sections: false
     documentclass: book
     toc-depth: 2
