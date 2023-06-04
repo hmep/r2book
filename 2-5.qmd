@@ -51,7 +51,7 @@ kommer systematiskt få gå genom olika delar av kroppen och progressivt
 Genom att du gör detta många gånger kommer du på sikt att allt mer
 automatiserat kunna lägga märke till spänning.
 
-## Mål 2: Sänka spänningsnivån
+## Mål 2: Sänka den allmänna spänningsnivån
 
 Genom att träna på att sänka spänningsnivån så sänker du samtidigt
 spänningsnivån i kroppen. Ju mer du övar, desto större blir effekten.
@@ -86,21 +86,37 @@ en fåtölj med stöd för nacken, eller i en stol som du ställer mot en
 plan yta, exempelvis en vägg. Du behöver kunna pressa nacken mot ett
 underlag för att göra en av övningarna.
 
- 
+::: {.content-visible when-format="html"}
+### Instruktioner (video)
 
-Du kan också använda en mp3-fil med ljudspåret från filmen ovan, som du
-kan lyssna på direkt eller [ladda ned
-direkt](https://www.dropbox.com/s/66gviwf37y12ot9/KSH-06-progressiv-muskelavslappning-del-1.mp3?dl=1){target="_blank"}
+{{< video https://www.youtube.com/embed/8ygZeRNVdIU >}}
+:::
+
+::: {.content-visible when-format="html"}
+### Instruktioner (enbart ljud)
+
+<audio controls=""><source src="https://www.dropbox.com/s/66gviwf37y12ot9/KSH-06-progressiv-muskelavslappning-del-1.mp3?raw=1" type="audio/mpeg" /> Your browser does not support the audio element.</audio>
+:::
+
+::: {.content-visible when-format="html"}
+### Ladda ned instruktioner (mp3)
+
+[Ladda ned en mp3-fil med ljudspåret från filmen ovan](https://www.dropbox.com/s/66gviwf37y12ot9/KSH-06-progressiv-muskelavslappning-del-1.mp3?dl=1){target="_blank"}
 till din mobil.
+:::
 
-Your browser does not support the audio element.
+## Planera för träning i progressiv avslappning
 
 Vi fortsätter med del 2 av progressiv avslappning i nästa modul. Under
 tiden, träna på del 1 så ofta du kan. Det tål att upprepas: Integrera
 gärna träning (särskilt för muskelgrupper som du har upptäckt att du är
 spänd i) i vardagen. Det går att träna på progressiv avslappning var som
-helst: i duschen, på mötet, i bilen \...
+helst: i duschen, på mötet, i bilen \... 
 
-## Planera för framgång
+::: {.content-visible when-format="html"}
+[Planera för framgång (PDF)](forms/400ac1a33963196edb6d50c4871b2e3d.pdf)
+:::
 
-##400ac1a33963196edb6d50c4871b2e3d=
+Har du använt formuläret ovan och tänkt till om hur du hjälper dig själv att
+träna progressiv avslappning? Om ja, så bra! Det kommer att hjälpa dig att gå
+från ord till handling. I nästa modul får du chans att utvärdera hur det gick.
