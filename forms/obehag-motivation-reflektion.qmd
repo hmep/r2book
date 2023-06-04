@@ -1,0 +1,55 @@
+---
+title: "Reflektion om motivation och obehag"
+format:
+  pdf:
+    keep-tex: true
+    pdf-engine: xelatex
+    lang: sv
+header-includes:
+- \KOMAoptions{fontsize=11bp,paper=a4,pagesize=pdftex}
+- \areaset{.75\paperwidth}{.9\paperheight}
+- \usepackage{fontspec}
+- \setmainfont{XCharter}
+- \setsansfont{XCharter}
+- \parskip = .5\baselineskip
+- \usepackage{ragged2e,pgf,tikz}
+- \newcommand\xtikzsquare{\begin{tikzpicture}\draw (0,0) node[minimum size=9mm,draw] {};\end{tikzpicture}}
+bibliography:
+  - ../../r2fu/KSH.bib
+  - ../../r2fu/DBT.bib
+---
+
+\thispagestyle{empty}
+
+Ägna en liten stund åt att skriva ned vilka känslor som är tuffast för dig att
+ha, och hur du brukar hantera dem i situationer som är svåra. Se också om det
+går att vrida och vända lite på obehaget, och på så sätt formulera vad den
+känslan säger dig om vad som är viktigt?
+
+\vspace{.75\baselineskip}
+
+\renewcommand{\arraystretch}{2.25}
+
+```{r, echo=F,warning=F}
+
+x <- c(
+  "Känsla",
+  "Så brukar jag agera",
+  "Vad säger känslan om vad som är viktigt?"
+)
+y <- c("1","2","3","4","5","6","7","8","9","10")
+n = length(y)*length(x)
+table <- as.data.frame(matrix(rep("", each=n),ncol=length(x),nrow=length(y)))
+#rownames(table) <- y
+colnames(table) <- x
+library(kableExtra)
+kable(table, booktabs = T, linesep = "", escape = FALSE) %>%
+  kable_styling(latex_options = c("hold_position", full_width = F)) %>%
+  row_spec(0, bold=T) %>%
+  column_spec(1, bold=T) %>%
+  row_spec(c(1:9),hline_after=T) %>%
+  column_spec(1:3, width=c("25mm","45mm","75mm"), border_right = F, latex_valign="m")
+
+```
+
+{{< include ../_pdf_footer.qmd >}}

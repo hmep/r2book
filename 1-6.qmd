@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: "Uppgift: Formulera ett första mål för träningsprogrammet"
+title: "Uppgift: Formulera dina första mål för träningsprogrammet"
 ---
 
 Under de kommande veckorna kommer du att få träna på att hävda dig själv
@@ -63,8 +63,8 @@ att orka fortsätta träna på det som du tycker är både viktigt och svårt.
 
 Nu är det din tur! Ta hjälp av kartläggningen du gjorde nyss, och formulera ett
 eller några första egna mål för behandlingen. Ge dig själv lite tid att hitta
-ett mål som är lagom svårt -- med det menas att det ska vara just realistiskt,
-men samtidigt utmanande och aningen ångestväckande. Det är när du handlar på ett
+mål som är lagom svåra -- med det menas att de ska vara realistiska men
+samtidigt utmanande och aningen ångestväckande. Det är när du handlar på ett
 sätt som du vill, trots visst obehag, som du ger dig själv en chans till
 nyinlärning och kan bredda din beteenderepertoar.
 
