@@ -10,6 +10,8 @@ målsättning.
 
 Om du inte redan har tittat på den här filmsnutten -- gör det nu!
 
+{{< video https://www.youtube.com/embed/fAlPVh76lHI >}}
+
 ## Vad är ett \"SMART\" mål?
 
 När du nu formulerar ditt eget mål, använd formeln \"SMART\". Med det
@@ -57,14 +59,15 @@ Under programmet kommer du att få hjälp med att hantera både mot- och medgån
 (såväl praktiska som känslomässiga) på ett sätt som ökar chansen att du kommer
 att orka fortsätta träna på det som du tycker är både viktigt och svårt.
 
-## Din egen målsättning
+## Dina egen mål
 
-Nu är det din tur! Ta hjälp av kartläggningen du gjorde nyss, och
-formulera ett helt eget mål för behandlingen. Ge dig själv lite tid att
-hitta ett mål som är lagom svårt -- med det menas att det ska vara just
-realistiskt, men samtidigt utmanande och aningen ångestväckande. Det är
-när du handlar på ett sätt som du vill, trots visst obehag, som du ger
-dig själv en chans till nyinlärning och kan bredda din
-beteenderepertoar.
+Nu är det din tur! Ta hjälp av kartläggningen du gjorde nyss, och formulera ett
+eller några första egna mål för behandlingen. Ge dig själv lite tid att hitta
+ett mål som är lagom svårt -- med det menas att det ska vara just realistiskt,
+men samtidigt utmanande och aningen ångestväckande. Det är när du handlar på ett
+sätt som du vill, trots visst obehag, som du ger dig själv en chans till
+nyinlärning och kan bredda din beteenderepertoar.
 
-##4f1b5b6c8b7a92eb516892f5f44e84e7=
+::: {.content-visible when-format="html"}
+[Mål för behandlingen (PDF)](forms/4f1b5b6c8b7a92eb516892f5f44e84e7.pdf)
+:::

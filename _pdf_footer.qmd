@@ -7,6 +7,10 @@
 <!-- 2.5 Sverige (CC BY-SA 2.5 SE)}. Se Hagberg, Manhem, Oscarsson, m.fl. -->
 <!-- (2023) för detaljer. -->
 
-Svensk anpassning från @michel2008 &copy; 2023 Tobias Hagberg. Arbetsbladet kan kopieras, ändras och distribueras fritt om du anger källan @hagberg2023 och licensvillkoren [Erkännande-DelaLika 2.5 Sverige (CC BY-SA 2.5 SE)](<https://creativecommons.org/licenses/by-sa/2.5/se/>). Se  @HAGBERG2023100629 för detaljer.
+Utökad svensk anpassning från @michel2008 &copy; 2023 Tobias Hagberg.
+Arbetsbladet kan kopieras, ändras och distribueras fritt om du anger källan
+@hagberg2023 och licensvillkoren [Erkännande-DelaLika 2.5 Sverige (CC BY-SA 2.5
+SE)](<https://creativecommons.org/licenses/by-sa/2.5/se/>). Se
+@HAGBERG2023100629 för detaljer.
 
-\vspace{.5\baselineskip}
+\vspace{.75\baselineskip}

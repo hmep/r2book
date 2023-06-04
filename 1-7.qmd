@@ -3,11 +3,6 @@ lang: sv
 title: Din måluppfyllelse just nu
 ---
 
-Du formulerade nyss en personlig målsättning med programmet. Du skrev så
-här:
-
-##4f1b5b6c8b7a92eb516892f5f44e84e7=
-
 ## Hur väl tycker du att du just ny lever upp till målet?
 
 Hur mycket respekterar du dina egna rättigheter och hur mycket

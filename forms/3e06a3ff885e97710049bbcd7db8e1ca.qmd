@@ -19,8 +19,6 @@ bibliography:
   - ../../r2fu/DBT.bib
 ---
 
-<!-- \showframe \showgrid -->
-
 \thispagestyle{empty}
 
 Här är en lista med olika situationer, i olika typer av relationer, i vilka du
@@ -34,7 +32,7 @@ komplimang och sätter därför ”4” i den rutan, men du kanske också tycker
 sätter därför ”1” i den rutan. Fyll i hur det är för just dig, inte vad du tror
 att andra tycker eller vad du själv anser att du ”borde” tycka.
 
-\vspace{.5\baselineskip}
+\vspace{.75\baselineskip}
 
 ```{r, echo=F,warning=F}
 
