@@ -1,0 +1,70 @@
+---
+title: "Mina skäl att utföra beteendeexperiment"
+format:
+  pdf:
+    keep-tex: true
+    pdf-engine: xelatex
+    lang: sv
+header-includes:
+- \KOMAoptions{fontsize=11bp,paper=a4,pagesize=pdftex}
+- \areaset{.75\paperwidth}{.9\paperheight}
+- \usepackage{fontspec}
+- \setmainfont{XCharter}
+- \setsansfont{XCharter}
+- \parskip = .5\baselineskip
+- \usepackage{ragged2e,pgf,tikz}
+- \newcommand\xtikzsquare{\begin{tikzpicture}\draw (0,0) node[minimum size=1ex,draw] {};\end{tikzpicture}}
+- \usepackage{enumitem}
+bibliography:
+  - ../../r2fu/KSH.bib
+  - ../../r2fu/DBT.bib
+---
+
+\thispagestyle{empty}
+
+Vilka skäl att utföra beteendeexperiment vill du skriva under på? Kryssa för de skälen i listan och lägg till ytterligare skäl som du kan komma på. Kom ihåg att du arbetar för att få större framkomlighet i livet, som som du själv vill leva det -- arbetet du gör är verkligen viktigt.
+
+\setlist[itemize]{
+    label={\xtikzsquare}
+}
+
+-   Jag vill ta lärdom av *nya* erfarenheter i verkliga livet och inte vara lika styrd av härledda tankar och känslor (även när dessa hänger samman med *tidigare* erfarenheter).
+-   Jag vill bredda min repertoar av beteenden och bli mer flexibel i hur jag utför dem.
+-   Jag vill träna på att över tid reglera (minska) responser som ångest, skuld, skam, rädsla, ilska och annat obehag i situationer när dessa responser inte är hjälper mig att nå mina långsiktiga mål.
+-   Jag vill träna på att ge mig själv medkänsla och att validera mina egna känsloupplevelser, oavsett om känslorna *i stunden* är befogade eller inte. Om inte så vill jag påminna mig om att de istället hänger samman med och är begripliga utifrån mina *tidigare* erfarenheter.
+-   Jag vill få mer av det jag värdesätter.
+-   Jag vill utveckla mitt självförtroende, min självkänsla och öka upplevelsen av att jag är kapabel och kompetent.
+
+\newcommand{\xvskip}{\vspace{2.25\baselineskip}}
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+{{< include ../_pdf_footer.qmd >}}

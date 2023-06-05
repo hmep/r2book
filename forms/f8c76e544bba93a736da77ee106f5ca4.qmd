@@ -1,0 +1,72 @@
+---
+title: "Mina rättigheter att hävda mig själv"
+format:
+  pdf:
+    keep-tex: true
+    pdf-engine: xelatex
+    lang: sv
+header-includes:
+- \KOMAoptions{fontsize=11bp,paper=a4,pagesize=pdftex}
+- \areaset{.75\paperwidth}{.9\paperheight}
+- \usepackage{fontspec}
+- \setmainfont{XCharter}
+- \setsansfont{XCharter}
+- \parskip = .5\baselineskip
+- \usepackage{ragged2e,pgf,tikz}
+- \newcommand\xtikzsquare{\begin{tikzpicture}\draw (0,0) node[minimum size=1ex,draw] {};\end{tikzpicture}}
+- \usepackage{enumitem}
+bibliography:
+  - ../../r2fu/KSH.bib
+  - ../../r2fu/DBT.bib
+---
+
+\thispagestyle{empty}
+
+Precis som alla andra människor har du rätt att hävda dina tankar, känslor, behov, gränser och önskemål. Vilka av följande rättigheter vill du öva på att ge dig själv lite mer under de kommande veckorna? Sätt ett kryss i rutan bredvid dem, och komplettera med ytterligare rättigheter som du vill påminna dig om att du har.
+
+\setlist[itemize]{
+    label={\xtikzsquare}
+}
+
+-   Jag har rätt att vara domare över mitt eget beteende, mina egna tankar och mina egna känslor, och att ta ansvar för deras uttryck och konsekvenser.
+-   Jag har rätt att säga ’nej’.
+-   Jag har rätt att inte ange några skäl eller ursäkter för mitt beteende.
+-   Jag har rätt att själv avgöra om jag är ansvarig för att hitta lösningar på andra människors problem.
+-   Jag har rätt att ändra åsikt.
+-   Jag har rätt att ha en annan åsikt än andra personer.
+-   Jag har rätt att göra misstag – och att ta ansvar för dem.
+-   Jag har rätt att säga ”Jag vet inte”.
+-   Jag har rätt att vara ologisk när jag fattar beslut.
+-   Jag har rätt att säga ”Jag förstår inte”.
+-   Jag har rätt att säga ”Jag bryr mig inte”.
+
+\newcommand{\xvskip}{\vspace{2.25\baselineskip}}
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+{{< include ../_pdf_footer.qmd >}}
