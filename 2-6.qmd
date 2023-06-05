@@ -18,3 +18,13 @@ Ett sätt att bli bättre sams med jobbiga känslor kan vara att träna progress
 avslappning, för att på så sätt kunna ta hand om kroppslig spänning som ofta är
 en del av dessa jobbiga känslor. Det första steget är att lära sig att
 identifiera vilka muskelgrupper som faktiskt är spända.
+
+::: {.callout-note}
+## Om nästa modul
+
+I nästa modul tittar vi närmare på vanliga tankemönster, som kan hindra
+oss från att hävda oss själva. Vi lär oss också hur vi i praktiken kan utmana 
+hindrande tänkande i praktiken, med något som kallas beteendeexperiment. 
+Dessutom påbörjar vi del 2 av progressiv-avslappning-övningarna.
+
+:::

@@ -87,22 +87,17 @@ plan yta, exempelvis en vägg. Du behöver kunna pressa nacken mot ett
 underlag för att göra en av övningarna.
 
 ::: {.content-visible when-format="html"}
-### Instruktioner (video)
+### Instruktioner, video
 
 {{< video https://www.youtube.com/embed/8ygZeRNVdIU >}}
-:::
 
-::: {.content-visible when-format="html"}
-### Instruktioner (enbart ljud)
+### Instruktioner, enbart ljud
 
-<audio controls=""><source src="https://www.dropbox.com/s/66gviwf37y12ot9/KSH-06-progressiv-muskelavslappning-del-1.mp3?raw=1" type="audio/mpeg" /> Your browser does not support the audio element.</audio>
-:::
+<audio controls=""><source src="https://www.dropbox.com/s/66gviwf37y12ot9/KSH-06-progressiv-muskelavslappning-del-1.mp3?raw=1" type="audio/mpeg" />Din webbläsare stödjer inte uppspelning av ljudfiler.</audio>
 
-::: {.content-visible when-format="html"}
-### Ladda ned instruktioner (mp3)
+#### Ladda ned instruktioner (mp3)
 
-[Ladda ned en mp3-fil med ljudspåret från filmen ovan](https://www.dropbox.com/s/66gviwf37y12ot9/KSH-06-progressiv-muskelavslappning-del-1.mp3?dl=1){target="_blank"}
-till din mobil.
+[Ladda ned en mp3-fil](https://www.dropbox.com/s/66gviwf37y12ot9/KSH-06-progressiv-muskelavslappning-del-1.mp3?dl=1){target="_blank"} till din mobil.
 :::
 
 ## Planera för träning i progressiv avslappning

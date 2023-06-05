@@ -48,7 +48,6 @@ book:
         - 2-4.qmd
         - 2-5.qmd
         - 2-6.qmd
-        - 2-7.qmd
     - part: "Modul 3"
       chapters:
         - 3-0.qmd
@@ -149,18 +148,18 @@ format:
     number-sections: false
     collapse-level: 0
     chapter-number: false # does not work; hide with css property instead
-  pdf:
-    keep-tex: true
-    latex_engine: pdflatex
-    number-sections: false
-    documentclass: book
-    toc-depth: 2
-    toc-title: "Innehåll"
-    lang: sv
-    papersize: a5
-    geometry:
-    - top=30mm
-    - left=20mm
-    - heightrounded
-    header-includes: |
-      \PassOptionsToPackage{swedish}{babel}
+  # pdf:
+  #   keep-tex: true
+  #   latex_engine: pdflatex
+  #   number-sections: false
+  #   documentclass: book
+  #   toc-depth: 2
+  #   toc-title: "Innehåll"
+  #   lang: sv
+  #   papersize: a5
+  #   geometry:
+  #   - top=30mm
+  #   - left=20mm
+  #   - heightrounded
+  #   header-includes: |
+  #     \PassOptionsToPackage{swedish}{babel}

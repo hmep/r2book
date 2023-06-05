@@ -39,10 +39,12 @@ ligger närmare en aggressiv kommunikationsstil.
 
 Är det någon eller några av rättigheterna ovan som provocerar dig?
 Vilken eller vilka? Eller några som du vill skriva under på direkt?
-Berätta det här nedan!
+Använd det här arbetsbladet för att ställa samman dem.
 
 Försök också gärna komma på ytterligare några rättigheter, särskilt
 sådana som balanserar de ohjälpsamma, hindrande antagandena som du skrev
 upp i förra avsnittet.
 
-##f8c76e544bba93a736da77ee106f5ca4=
+::: {.content-visible when-format="html"}
+[Mina rättigheter att hävda mig själv (PDF)](forms/f8c76e544bba93a736da77ee106f5ca4.pdf)
+:::
