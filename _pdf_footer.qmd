@@ -1,4 +1,4 @@
-\vfill\scriptsize\RaggedRight
+\vfill\fontsize{7.5bp}{.725\baselineskip}\selectfont\RaggedRight\ulseries
 
 <!-- Svensk anpassning från Michel och Fursland (2008) © 2023 Tobias Hagberg. -->
 <!-- Arbetsbladet kan kopieras, ändras och distribueras fritt om du anger -->

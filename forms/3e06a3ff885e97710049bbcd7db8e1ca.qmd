@@ -4,22 +4,16 @@ format:
   pdf:
     keep-tex: true
     pdf-engine: xelatex
+    documentclass: article
     lang: sv
-header-includes:
-- \KOMAoptions{fontsize=11bp,paper=a4,pagesize=pdftex}
-- \areaset{.75\paperwidth}{.9\paperheight}
-- \usepackage{fontspec}
-- \setmainfont{XCharter}
-- \setsansfont{XCharter}
-- \parskip = .5\baselineskip
-- \usepackage{ragged2e,pgf,tikz}
-- \newcommand\xtikzsquare{\begin{tikzpicture}\draw (0,0) node[minimum size=9mm,draw] {};\end{tikzpicture}}
+header-includes: 
+- \input{../_header_includes.tex}
 bibliography:
   - ../../r2fu/KSH.bib
   - ../../r2fu/DBT.bib
 ---
 
-\thispagestyle{empty}
+\xinit
 
 Här är en lista med olika situationer, i olika typer av relationer, i vilka du
 kan behöva hävda dig. Skatta hur ofta/hur lätt du brukar hävda dig i varje
@@ -63,7 +57,7 @@ rownames(assessment.table) <- situation
 colnames(assessment.table) <- relation
 library(kableExtra)
 kable(assessment.table, booktabs = T, linesep = "", align="rccccccc", escape = FALSE) %>%
-  kable_styling(latex_options = c("hold_position", full_width = F, "striped")) %>%
+  kable_styling(latex_options = c("hold_position", full_width = F)) %>%
   row_spec(0, angle = 35, bold=T) %>%
   column_spec(1, bold=T) %>%
   column_spec(c(1:8),

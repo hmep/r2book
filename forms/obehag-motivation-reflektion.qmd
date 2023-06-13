@@ -4,22 +4,16 @@ format:
   pdf:
     keep-tex: true
     pdf-engine: xelatex
+    documentclass: article
     lang: sv
-header-includes:
-- \KOMAoptions{fontsize=11bp,paper=a4,pagesize=pdftex}
-- \areaset{.75\paperwidth}{.9\paperheight}
-- \usepackage{fontspec}
-- \setmainfont{XCharter}
-- \setsansfont{XCharter}
-- \parskip = .5\baselineskip
-- \usepackage{ragged2e,pgf,tikz}
-- \newcommand\xtikzsquare{\begin{tikzpicture}\draw (0,0) node[minimum size=9mm,draw] {};\end{tikzpicture}}
+header-includes: 
+- \input{../_header_includes.tex}
 bibliography:
   - ../../r2fu/KSH.bib
   - ../../r2fu/DBT.bib
 ---
 
-\thispagestyle{empty}
+\xinit
 
 Ägna en liten stund åt att skriva ned vilka känslor som är tuffast för dig att
 ha, och hur du brukar hantera dem i situationer som är svåra. Se också om det
@@ -28,27 +22,26 @@ känslan säger dig om vad som är viktigt?
 
 \vspace{.75\baselineskip}
 
-\renewcommand{\arraystretch}{2.25}
-
 ```{r, echo=F,warning=F}
 
+filler <- "\\rule{0bp}{2\\baselineskip}"
 x <- c(
   "Känsla",
   "Så brukar jag agera",
-  "Vad säger känslan om vad som är viktigt?"
+  "Vad säger känslan mig?"
 )
 y <- c("1","2","3","4","5","6","7","8","9","10")
 n = length(y)*length(x)
-table <- as.data.frame(matrix(rep("", each=n),ncol=length(x),nrow=length(y)))
+table <- as.data.frame(matrix(rep(filler, each=n),ncol=length(x),nrow=length(y)))
 #rownames(table) <- y
 colnames(table) <- x
 library(kableExtra)
 kable(table, booktabs = T, linesep = "", escape = FALSE) %>%
-  kable_styling(latex_options = c("hold_position", full_width = F)) %>%
+  kable_styling(font_size=10, latex_options = c("hold_position", full_width = F)) %>%
   row_spec(0, bold=T) %>%
   column_spec(1, bold=T) %>%
   row_spec(c(1:9),hline_after=T) %>%
-  column_spec(1:3, width=c("25mm","45mm","75mm"), border_right = F, latex_valign="m")
+  column_spec(1:3, width=c("27.5mm","45mm","65mm"), border_right = F, latex_valign="m")
 
 ```
 

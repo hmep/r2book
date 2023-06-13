@@ -1,0 +1,74 @@
+\usepackage[
+  paper=a4paper,
+  layout=a4paper,
+  top=20mm,
+  bottom=22mm,
+  left=30mm,
+  right=30mm,
+  marginparsep=5mm,
+  marginparwidth=20mm,
+  head=5mm,
+  foot=10mm
+  ]{geometry}
+
+\usepackage{fontspec}
+\defaultfontfeatures{Mapping=tex-text}
+\setmainfont{Inter}[Path = ../resources/Inter/static/,Extension = .ttf,UprightFont = *-Regular,FontFace={ul}{n}{Font=*-Light},FontFace={l}{n}{Font=*-Light},FontFace={m}{n}{Font=*-Regular},FontFace={b}{n}{Font=*-Medium},]
+\DeclareRobustCommand{\ulseries}{\fontseries{ul}\selectfont}
+\DeclareRobustCommand{\lseries}{\fontseries{l}\selectfont}
+\DeclareRobustCommand{\mseries}{\fontseries{m}\selectfont}
+\DeclareRobustCommand{\mbseries}{\fontseries{mb}\selectfont}
+\DeclareRobustCommand{\bseries}{\fontseries{b}\selectfont}
+\DeclareRobustCommand{\ebseries}{\fontseries{eb}\selectfont}
+\DeclareTextFontCommand{\textul}{\ulseries}
+\DeclareTextFontCommand{\textl}{\lseries}
+\DeclareTextFontCommand{\textm}{\mseries}
+\DeclareTextFontCommand{\textmb}{\mbseries}
+\DeclareTextFontCommand{\textb}{\bseries}
+\DeclareTextFontCommand{\texteb}{\ebseries}
+\setsansfont{SpecialElite}[Path = ../resources/SpecialElite/,Extension = .ttf,UprightFont = *-Regular]
+\linespread{1.075}
+\parskip = .5\baselineskip
+
+\usepackage{lastpage}
+
+\newcommand\thexab{Arbetsblad X}
+\newcommand\xab[1]{\renewcommand\thexab{Arbetsblad #1}}
+
+% https://github.com/rstudio/bookdown/issues/677
+\let\paragraph\oldparagraph
+\let\subparagraph\oldsubparagraph
+\usepackage{titlesec}
+\titlespacing{\section}{0pt}{0pt}{0pt}
+\titlespacing{\subsection}{0pt}{\baselineskip}{.5\baselineskip}
+\titlespacing{\subsubsection}{0pt}{\baselineskip}{.25\baselineskip}
+\newpagestyle{respekt}[\large\sffamily]{
+\sethead{}{}{\textcolor{red}{100\% respekt}}
+\setfoot{\rmfamily\small\thepage/\pageref*{LastPage}}{}{}
+}
+\newpagestyle{respektTurn}[\large\sffamily]{
+\sethead{}{}{\textcolor{red}{100\% respekt}}
+\setfoot{\rmfamily\small\thepage/\pageref*{LastPage}}{}{\rmfamily\small Arbetsbladet fortsätter på nästa sida}
+}
+\newcommand\xturn{\thispagestyle{respektTurn}\pagebreak}
+\pagestyle{respekt}
+
+\usepackage{ragged2e,pgf,tikz}
+\newcommand\xtikzsquare{\begin{tikzpicture}\draw (0,0) node[minimum size=9mm,draw] {};\end{tikzpicture}}
+\newcommand\xtikztick{\begin{tikzpicture}\draw (0,0) node[minimum size=1ex,draw] {};\end{tikzpicture}}
+
+\usepackage{enumitem}
+
+\newcommand{\xvskip}{\vspace{2.25\baselineskip}}
+\newcommand{\xinit}{
+  \fontsize{9.5bp}{12bp}\selectfont\thispagestyle{respekt}
+  \makeatletter
+  \let\xtitle\@title
+  \let\xauthor\@author
+  \let\xdate\@date
+  \makeatother
+}
+\newcommand\xfline[1]{\vbox to 0mm{#1}\par\vskip 3.5\baselineskip\hrule\par\vspace{-0.4bp}\vspace{.5\baselineskip}\par}
+%\newcommand\xhl[1]{\begin{tikzpicture}\node[rectangle, fill=black, color=white, inner sep=0.3mm]{#1};\end{tikzpicture}}
+\newcommand\xhl[1]{#1 -}
+

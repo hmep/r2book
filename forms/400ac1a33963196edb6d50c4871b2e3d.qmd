@@ -4,32 +4,24 @@ format:
   pdf:
     keep-tex: true
     pdf-engine: xelatex
+    documentclass: article
     lang: sv
-header-includes:
-- \KOMAoptions{fontsize=11bp,paper=a4,pagesize=pdftex}
-- \areaset{.75\paperwidth}{.9\paperheight}
-- \usepackage{fontspec}
-- \setmainfont{XCharter}
-- \setsansfont{XCharter}
-- \parskip = .5\baselineskip
-- \usepackage{ragged2e,pgf,tikz}
-- \newcommand\xtikzsquare{\begin{tikzpicture}\draw (0,0) node[minimum size=9mm,draw] {};\end{tikzpicture}}
+header-includes: 
+- \input{../_header_includes.tex}
 bibliography:
   - ../../r2fu/KSH.bib
   - ../../r2fu/DBT.bib
 ---
 
-\thispagestyle{empty}
+\xinit
 
 Hur kan du optimera dina odds att utföra beteendet "träna på progressiv avslappning"?
 
 - *Var* gör du bäst avslappningsövningarna? (Hemma? I bussen hem från jobbet? I vilorummet på jobbet? En bänk utmed promenadslingan?)
-- *När* kan du ge dig själv 15 minuter? Vilka dagar under veckan som kommer? Vilken tid på dygnet? Behöver du välja bort något annat? (Netflix? Övertidsarbete?)
+- *När* kan du ge dig själv 15 minuter? Vilka dagar under veckan som kommer? Vilken tid på dygnet? Behöver du välja bort något annat? (TV-serier? Övertidsarbete?)
 - *Vad* vill du göra för att hjälpa dig själv att komma igång? (Ta hjälp av en vän? Planera med din partner? Din chef?)
 
 Kort och gott: skriv ned din plan för träning i progressiv avslappning under den kommande veckan.
-
-\newcommand{\xvskip}{\vspace{2.25\baselineskip}}
 
 \xvskip
 \hrule

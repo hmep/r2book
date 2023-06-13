@@ -4,28 +4,21 @@ format:
   pdf:
     keep-tex: true
     pdf-engine: xelatex
+    documentclass: article
     lang: sv
-header-includes:
-- \KOMAoptions{fontsize=11bp,paper=a4,pagesize=pdftex}
-- \areaset{.75\paperwidth}{.9\paperheight}
-- \usepackage{fontspec}
-- \setmainfont{XCharter}
-- \setsansfont{XCharter}
-- \parskip = .5\baselineskip
-- \usepackage{ragged2e,pgf,tikz}
-- \newcommand\xtikzsquare{\begin{tikzpicture}\draw (0,0) node[minimum size=1ex,draw] {};\end{tikzpicture}}
-- \usepackage{enumitem}
+header-includes: 
+- \input{../_header_includes.tex}
 bibliography:
   - ../../r2fu/KSH.bib
   - ../../r2fu/DBT.bib
 ---
 
-\thispagestyle{empty}
+\xinit
 
-Precis som alla andra människor har du rätt att hävda dina tankar, känslor, behov, gränser och önskemål. Vilka av följande rättigheter vill du öva på att ge dig själv lite mer under de kommande veckorna? Sätt ett kryss i rutan bredvid dem, och komplettera med ytterligare rättigheter som du vill påminna dig om att du har.
+Precis som alla andra människor har du rätt att hävda dina tankar, känslor, behov, gränser och önskemål -- och ansvar för konsekvenserna när du gör det. Vilka av följande rättigheter skriver du under på och vill öva på att ge dig mer av, under de kommande veckorna? Sätt ett kryss i rutan bredvid dem. Du kan också komplettera med fler rättigheter som du vill påminna dig om.
 
 \setlist[itemize]{
-    label={\xtikzsquare}
+    label={\xtikztick}
 }
 
 -   Jag har rätt att vara domare över mitt eget beteende, mina egna tankar och mina egna känslor, och att ta ansvar för deras uttryck och konsekvenser.
@@ -39,8 +32,6 @@ Precis som alla andra människor har du rätt att hävda dina tankar, känslor, 
 -   Jag har rätt att vara ologisk när jag fattar beslut.
 -   Jag har rätt att säga ”Jag förstår inte”.
 -   Jag har rätt att säga ”Jag bryr mig inte”.
-
-\newcommand{\xvskip}{\vspace{2.25\baselineskip}}
 
 \xvskip
 \hrule

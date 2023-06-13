@@ -1,0 +1,141 @@
+---
+title: "Planera och genomför ett beteendeexperiment"
+format:
+  pdf:
+    keep-tex: true
+    pdf-engine: xelatex
+    documentclass: article
+    lang: sv
+    tbl-colwidths: [30,70]
+header-includes: 
+- \input{../_header_includes.tex}
+- \xab{4}
+bibliography:
+  - ../../r2fu/KSH.bib
+  - ../../r2fu/DBT.bib
+---
+
+\xinit
+
+## Planera ett beteendeexperiment
+
+Utifrån din valda SMARTa målsättning, formulera ett beteendeexperiment genom att börja med att fylla i steg 1 till 4 i formuläret nedan. Även om det är en del att fylla i på den här sidan, misströsta inte. Det motstånd du eventuellt känner när du gör det är ett kvitto på att du är engagerad i att lära dig något nytt. Ingen energi du lägger på det här arbetsbladet kommer att gå förlorad – tvärtom! När du är klar med den här sidan, genomför ditt beteendeexperiment, och dokumentera hur det gick på andra sidan av det här arbetsbladet.
+
+<!-- ```{r, echo=F,warning=F,eval=T} -->
+
+<!-- steps <- c( -->
+<!--   "Steg 1 - Identifiera din förutsägelse", -->
+<!--   "Steg 2 - Identifiera hindrande beteenden", -->
+<!--   "Steg 3 - Identifiera en mer realistisk förutsägelse", -->
+<!--   "Steg 4 - Ange ditt målbeteende (från din SMARTa målsättning)", -->
+<!--   "Steg 5 - Utför och utvärdera experimentet" -->
+<!-- ) -->
+
+<!-- parts_one <- c( -->
+<!--   "Situation", -->
+<!--   "Förutsägelse", -->
+<!--   "Hur mycket tror jag att det ska hända (på en skala från 0 till 100)?", -->
+<!--   "Hur vet jag om det har hänt?" -->
+<!-- ) -->
+
+<!-- parts_two <- c("Sådant jag brukar göra för att klara mig (t ex undvikande, flykt, säkerhetsbeteenden)?") -->
+
+<!-- parts_three <- c("Påminn mig själv om en mer realistisk förutsägelse") -->
+
+<!-- parts_four <- c("Vad vill jag att göra annorlunda för att testa förutsägelserna?") -->
+
+<!-- parts_five <- c( -->
+<!--   "Vad hände faktiskt?", -->
+<!--   "Hur väl stämde min första förutsägelse?", -->
+<!--   "Vilken förutsägelse fick stöd?", -->
+<!--   "Hur var det att bete sig annorlunda från hur jag brukar?", -->
+<!--   "Vad lärde jag mig av experimentet?" -->
+<!-- ) -->
+
+<!-- filler <- "\\rule{0bp}{2\\baselineskip}" -->
+
+<!-- table <- as.data.frame(cbind( -->
+<!--   "Fyll i dina svar på följande frågor" = c( -->
+<!--     parts_one, -->
+<!--     parts_two, -->
+<!--     parts_three, -->
+<!--     parts_four, -->
+<!--     parts_five -->
+<!--   ), -->
+<!--   "~" = rep(filler,times=length(parts_one)+length(parts_two)+length(parts_three)+length(parts_four)+length(parts_five)) -->
+<!-- )) -->
+
+<!-- library(kableExtra) -->
+<!-- kable(table[1:7,], booktabs = T, linesep = "", align=c('rl'), escape = FALSE) %>% -->
+<!--   kable_styling(latex_options = c("hold_position", full_width = F)) %>% -->
+<!--   column_spec(1, bold=F) %>% -->
+<!--   row_spec(c(1:6),hline_after=T) %>% -->
+<!--   pack_rows(steps[1], 1, 4) %>% -->
+<!--   pack_rows(steps[2], 5, 5) %>% -->
+<!--   pack_rows(steps[3], 6, 6) %>% -->
+<!--   pack_rows(steps[4], 7, 7) %>% -->
+<!--   column_spec(1:2, width=c("55mm","90mm"),border_right = T, latex_valign="m") -->
+
+<!-- ``` -->
+
+<!-- \pagebreak -->
+
+<!-- ```{r, echo=F,warning=F,eval=T} -->
+
+<!-- rownames(table) <- NULL -->
+
+<!-- library(kableExtra) -->
+<!-- kable(table[8:12,], booktabs = T, linesep = "", align=c('rl'), escape = FALSE) %>% -->
+<!--   kable_styling(latex_options = c("hold_position", full_width = F)) %>% -->
+<!--   column_spec(1, bold=F) %>% -->
+<!--   row_spec(c(1:4),hline_after=T) %>% -->
+<!--   pack_rows(steps[5], 1, 5) %>% -->
+<!--   column_spec(1:2, width=c("55mm","90mm"),border_right = T, latex_valign="m") -->
+
+<!-- ``` -->
+
+### \xhl{Steg 1} Identifiera din förutsägelse
+
+\xfline{Situation}
+
+\xfline{Förutsägelse}
+
+\xfline{Hur mycket tror jag att det ska hända (på en skala från 0 till 100)?}
+
+\xfline{Hur vet jag om det har hänt?}
+
+### \xhl{Steg 2} Identifiera hindrande beteenden
+
+\xfline{Sådant jag brukar göra för att klara mig (t ex undvikande, flykt, säkerhetsbeteenden)?}
+
+### \xhl{Steg 3} Identifiera en mer realistisk förutsägelse
+
+\xfline{Påminn mig själv om en mer realistisk förutsägelse}
+
+### \xhl{Steg 4} Ange ditt målbeteende (från din SMARTa målsättning)
+
+\xfline{Vad vill jag att göra annorlunda, för att testa de två förutsägelserna?}
+
+\xturn
+
+## Genomför ditt beteendeexperiment!
+
+Det viktigaste du kan göra för att förändra ditt tänkande och dina känslor (inklusive upplevelsen av ångest) är att skaffa dig erfarenheter av att handla på sätt som du inte brukar. Det ger dig möjligheter till nyinlärning: Du kan kanske märka att ångesten ändras över tid, att din förmåga att tolerera den blir bättre eller att ditt liv blir bättre för att du får mer av det du längtar efter -- eller allt på en gång.
+
+## Utvärdera ditt beteendeexperiment
+
+Vad lärde du dig? Skriv ned det här.
+
+### \xhl{Steg 5} Utvärdera experimentet
+
+\xfline{Vad hände faktiskt?}
+
+\xfline{Hur väl stämde min första förutsägelse?}
+
+\xfline{Vilken förutsägelse fick stöd?}
+
+\xfline{Hur var det att bete sig annorlunda från hur jag brukar?}
+
+\xfline{Vad lärde jag mig av experimentet?}
+
+{{< include ../_pdf_footer.qmd >}}

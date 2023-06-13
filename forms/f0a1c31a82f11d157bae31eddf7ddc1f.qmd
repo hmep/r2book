@@ -4,22 +4,16 @@ format:
   pdf:
     keep-tex: true
     pdf-engine: xelatex
+    documentclass: article
     lang: sv
-header-includes:
-- \KOMAoptions{fontsize=11bp,paper=a4,pagesize=pdftex}
-- \areaset{.75\paperwidth}{.9\paperheight}
-- \usepackage{fontspec}
-- \setmainfont{XCharter}
-- \setsansfont{XCharter}
-- \parskip = .5\baselineskip
-- \usepackage{ragged2e,pgf,tikz}
-- \newcommand\xtikzsquare{\begin{tikzpicture}\draw (0,0) node[minimum size=9mm,draw] {};\end{tikzpicture}}
+header-includes: 
+- \input{../_header_includes.tex}
 bibliography:
   - ../../r2fu/KSH.bib
   - ../../r2fu/DBT.bib
 ---
 
-\thispagestyle{empty}
+\xinit
 
 Kan du identifiera några exempel på tänkande som hindrar dig i situationer där
 du skulle vilja kunna hävda dina behov, önskemål eller gränser bättre? Ge dig
@@ -27,8 +21,6 @@ själv lite tid att försöka sätta ord på dessa. Även om det kan vara skräm
 att se ditt tänkande på pränt, påminn dig om att de är just det -- tankar. Du
 kommer i när du arbetar vidare få möjlighet att förhålla dig friare och mer
 flexibelt till dem.
-
-\newcommand{\xvskip}{\vspace{2.25\baselineskip}}
 
 \xvskip
 \hrule
