@@ -73,39 +73,44 @@ Här beskriver vi ett experiment som prövar antagandet "Om jag hävdar mig
 själv kommer den andra personen att bli upprörd och vår relation kommer
 att bli förstörd".
 
-### Steg 1 - Identifiera din förutsägelse
+::: {.content-visible when-format="html"}
+[Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/be-exempel.pdf)
+:::
 
-  ---------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------
-  Situation                                                              Om jag egentligen är upptagen ska jag säga \'nej\' nästa gång Lisa frågar om jag vill följa med och handla kläder.
-  Förutsägelse                                                           Hon kommer bli upprörd och arg och inte längre vilja vara min vän.
-  Hur mycket tror jag att det ska hända (på en skala från 0 till 100)?   70
-  Hur vet jag om det har hänt?                                           Hon kommer lägga på luren, inte ringa upp igen om jag ringer, inte prata med mig
-  ---------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------
 
-### Steg 2 - Identifiera hindrande beteenden
+<!-- ### Steg 1 - Identifiera din förutsägelse -->
 
-  ---------------------------------------------------------------------------------------- -----------------------------------------------------------------------------
-  Sådant jag brukar göra för att klara mig (t ex undvikande, flykt, säkerhetsbeteenden)?   Hitta på ursäkter, låtsades vara sjuk, undvika henne tills det är för sent.
-  ---------------------------------------------------------------------------------------- -----------------------------------------------------------------------------
+<!--   ---------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------- -->
+<!--   Situation                                                              Om jag egentligen är upptagen ska jag säga \'nej\' nästa gång Lisa frågar om jag vill följa med och handla kläder. -->
+<!--   Förutsägelse                                                           Hon kommer bli upprörd och arg och inte längre vilja vara min vän. -->
+<!--   Hur mycket tror jag att det ska hända (på en skala från 0 till 100)?   70 -->
+<!--   Hur vet jag om det har hänt?                                           Hon kommer lägga på luren, inte ringa upp igen om jag ringer, inte prata med mig -->
+<!--   ---------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------- -->
 
-### Steg 3 - Identifiera en mer realistisk förutsägelse
+<!-- ### Steg 2 - Identifiera hindrande beteenden -->
 
-  ---------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Påminn mig själv om en mer realistisk förutsägelse   Hon sa \'nej\' till mig förut och det var okej med mig. Hon kommer kanske bli besviken men om hon är en god vän kommer hon inte bli arg och vi kommer fortsätta vara vänner
-  ---------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!--   ---------------------------------------------------------------------------------------- ----------------------------------------------------------------------------- -->
+<!--   Sådant jag brukar göra för att klara mig (t ex undvikande, flykt, säkerhetsbeteenden)?   Hitta på ursäkter, låtsades vara sjuk, undvika henne tills det är för sent. -->
+<!--   ---------------------------------------------------------------------------------------- ----------------------------------------------------------------------------- -->
 
-### Steg 4 - Ange ditt målbeteende (från din SMARTa målsättning)
+<!-- ### Steg 3 - Identifiera en mer realistisk förutsägelse -->
 
-  --------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Vad vill jag att göra annorlunda, för att testa de två förutsägelserna?   Istället för att undvika henne vill jag ringa upp direkt och förklara att jag har ett möte jag måste förbereda och inte kan ses på stan och shoppa. Jag vill boka in en annan tid med henne istället.
-  --------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!--   ---------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--   Påminn mig själv om en mer realistisk förutsägelse   Hon sa \'nej\' till mig förut och det var okej med mig. Hon kommer kanske bli besviken men om hon är en god vän kommer hon inte bli arg och vi kommer fortsätta vara vänner -->
+<!--   ---------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-### Steg 5 - Utför och utvärdera experimentet
+<!-- ### Steg 4 - Ange ditt målbeteende (från din SMARTa målsättning) -->
 
-  ---------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Vad hände faktiskt?                                        Hon sa att det var lugnt och faktiskt passade henne också. Vi ska ta en fika på onsdag nästa vecka.
-  Hur väl stämde min första förutsägelse?                    0
-  Vilken förutsägelse fick stöd?                             Den mer realistiska
-  Hur var det att bete sig annorlunda från hur jag brukar?   Läskigt, svårt i början, sen lättare
-  Vad lärde jag mig av experimentet?                         Jag brukar förvänta mig det värsta och då är jag ofta passiv. Det kändes bra att vara ärlig och rak. Om jag hävdar mig själv blir andra oftast inte arga, om de ändå blir det är det deras och inte mitt problem att jobba med.
-  ---------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!--   --------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--   Vad vill jag att göra annorlunda, för att testa de två förutsägelserna?   Istället för att undvika henne vill jag ringa upp direkt och förklara att jag har ett möte jag måste förbereda och inte kan ses på stan och shoppa. Jag vill boka in en annan tid med henne istället. -->
+<!--   --------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- ### Steg 5 - Utför och utvärdera experimentet -->
+
+<!--   ---------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--   Vad hände faktiskt?                                        Hon sa att det var lugnt och faktiskt passade henne också. Vi ska ta en fika på onsdag nästa vecka. -->
+<!--   Hur väl stämde min första förutsägelse?                    0 -->
+<!--   Vilken förutsägelse fick stöd?                             Den mer realistiska -->
+<!--   Hur var det att bete sig annorlunda från hur jag brukar?   Läskigt, svårt i början, sen lättare -->
+<!--   Vad lärde jag mig av experimentet?                         Jag brukar förvänta mig det värsta och då är jag ofta passiv. Det kändes bra att vara ärlig och rak. Om jag hävdar mig själv blir andra oftast inte arga, om de ändå blir det är det deras och inte mitt problem att jobba med. -->
+<!--   ---------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->

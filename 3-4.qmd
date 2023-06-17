@@ -25,5 +25,5 @@ steg 5 i formuläret nedan för att utvärdera hur det gick! När du är klar
 med det här arbetsbladet har du genomfört ditt första beteendeexperiment.
 
 ::: {.content-visible when-format="html"}
-[Mina skäl att utföra beteendeexperiment (PDF)](forms/0573615d14c677e7411c7ebecc980ba9.pdf)
+[Planera och genomför ett beteendeexperiment (PDF)](forms/be.pdf)
 :::

@@ -4,6 +4,7 @@ format:
   pdf:
     keep-tex: true
     pdf-engine: xelatex
+    documentclass: article
     lang: sv
 header-includes: 
 - \input{../_header_includes.tex}

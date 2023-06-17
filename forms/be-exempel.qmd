@@ -9,7 +9,7 @@ format:
     tbl-colwidths: [30,70]
 header-includes: 
 - \input{../_header_includes.tex}
-- \xab{4}
+- \xex{1}
 bibliography:
   - ../../r2fu/KSH.bib
   - ../../r2fu/DBT.bib
@@ -23,25 +23,25 @@ Utifrån din valda SMARTa målsättning, formulera ett beteendeexperiment genom 
 
 ### \xhl{Steg 1} Identifiera din förutsägelse
 
-\xfline{Situation (när? var? vem? vad?)}{1}
+\xfline{Situation (när? var? vem? vad?)}{1}{\normalsize Lisa har frågat om jag vill shoppa på lördag men jag vill träffa Johan istället då. Jag känner skuld mot Lisa och vågar inte säga 'nej'.}
 
-\xfline{Förutsägelse}{1}
+\xfline{Förutsägelse}{1}{Hon kommer bli arg och inte längre vilja vara min vän om jag ringer och tackar nej.}
 
-<!-- \xfline{Hur mycket tror jag att det jag förutsäger ska hända (på en skala från 0 till 100)?}{1} -->
+<!-- \xfline{Hur mycket tror jag att det jag förutsäger ska hända (på en skala från 0 till 100)?}{1}{75} -->
 
-\xfline{Hur vet jag om det har hänt?}{1}
+\xfline{Hur vet jag om det har hänt?}{1}{Hon kommer lägga på luren, inte ringa upp igen om jag ringer, inte prata med mig.}
 
 ### \xhl{Steg 2} Identifiera hindrande beteenden
 
-\xfline{Sådant jag brukar göra för att undvika eller fly från känslorna i situationen?}{1}
+\xfline{Sådant jag brukar göra för att undvika eller fly från känslorna i situationen?}{1}{Inte ringa. Säga att jag är sjuk, undvika henne tills det är för sent.}
 
 ### \xhl{Steg 3} Identifiera en mer realistisk förutsägelse
 
-\xfline{Påminn mig själv om en mer realistisk förutsägelse}{1}
+\xfline{Påminn mig själv om en mer realistisk förutsägelse}{1}{Även om hon blir besviken kan vi vara vänner. Hon har själv sagt 'nej' till mig förut.}
 
 ### \xhl{Steg 4} Ange ditt självhävdande målbeteende (från din SMARTa målsättning)
 
-\xfline{Vad vill jag att göra annorlunda, för att testa de två förutsägelserna?}{1}
+\xfline{Vad vill jag att göra annorlunda, för att testa de två förutsägelserna?}{1}{Jag vill ringa och säga 'nej' och boka in en annan tid med henne istället.}
 
 <!-- \renewcommand\xhl[1]{\protect\begin{tikzpicture}\node[circle,draw] at (0,0) {#1};\end{tikzpicture}} -->
 
@@ -55,13 +55,13 @@ Det viktigaste du kan göra för att förändra ditt tänkande och dina känslor
 
 ### \xhl{Steg 5} Utvärdera vad du lärde dig av experimentet
 
-\xfline{Vad hände faktiskt?}{1}
+\xfline{Vad hände faktiskt?}{1}{Hon blev lite ledsen men det passade bra att fika onsdag nästa vecka istället!}
 
-\xfline{Vilken förutsägelse fick stöd?}{1}
+\xfline{Vilken förutsägelse fick stöd?}{1}{Den mer realistiska ...}
 
-\xfline{Hur var det att agera annorlunda än jag brukar?}{1}
+\xfline{Hur var det att agera annorlunda än jag brukar?}{1}{Ångestfyllt, mycket svårt i början av samtalet, sen blev jag lättad och glad.}
 
-\xfline{Vad lärde jag mig av experimentet?}{1}
+\xfline{Vad lärde jag mig av experimentet?}{1}{\normalsize Jag blir ofta passiv när jag är rädd. Jag klarar av att vara ärlig och att ta reda på hur det blir när jag är öppen. Jag vill inte behandla Lisa som skör. Rädsla och besvikelse är en del av vänskap.}
 
 \vspace{.25\baselineskip}
 
@@ -74,8 +74,10 @@ Slutligen: Hur väl stämde ditt agerande med respekt för dina egna rättighete
 \begin{tikzpicture}[]
      \node at (0,0)      
      {\includegraphics[width=.6\textwidth]{../sites/respekt/media/image/canvas-konstruktiv-slinga-svv.pdf}};
-     \node[rotate=0] at ([xshift=28.5mm,yshift=37mm]0,0) {\hwfamily\Large\color{MidnightBlue}};
-     \node[rotate=10] at ([xshift=32mm,yshift=31mm]0,0) {\hwfamily\Large\color{MidnightBlue}};
+     \if 1\thexex
+     \node[rotate=0] at ([xshift=28.5mm,yshift=37mm]0,0) {\hwfamily\Large\color{MidnightBlue} x};
+     \node[rotate=10] at ([xshift=32mm,yshift=31mm]0,0) {\hwfamily\Large\color{MidnightBlue} 72! yay!};
+     \else\fi
 \end{tikzpicture}
 
 <!-- ![](../sites/respekt/media/image/canvas-konstruktiv-slinga-svv.pdf){width=60%} -->
