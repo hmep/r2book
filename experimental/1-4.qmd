@@ -1,0 +1,167 @@
+---
+lang: sv
+title: "Uppgift: Hur bra är du på att hävda dig själv?"
+---
+
+Det kan vara svårt att avgöra hur bra du är på att hävda dig själv. I vissa situationer kanske du känner dig mycket kapabel, men i andra situationer kan du märka att du faktiskt inte uttrycker hur du känner eller tänker, eller blir upprörd eller frustrerad.
+
+## Skatta din förmåga till konstruktiv självhävdelse
+
+I den här övningen får du hjälp att skatta hur bra du är på att hävda dig själv konstruktivt i olika situationer. Det hjälper dig att identifiera de områden i livet som du kan utveckla din självhävdelseförmåga i. Här nedanför finns en lista med olika situationer som kräver självhävdelse. Längst upp visas olika kategorier av personer. Ta ruta för ruta och skatta varje kombination av situation och personkategori. Till exempel kanske du tycker att det är relativt enkelt att ge en främling en komplimang och sätter därför "0" i den rutan, men du kanske också tycker att det är svårt att ge komplimanger till personer med auktoritet, som din chef, och sätter därför "4" i den rutan.
+
+Lägg den tid du behöver på att fylla i formuläret, även om det kan kännas jobbigt att ta ställning till så många olika kombinationer av situationer och relationer. Du kommer ha igen arbetet när det blir dags att utvärdera dina framsteg. Om du under eller efter övningen känner dig trött eller ledsen, ge dig själv ett erkännande att du just nu gör ett viktigt arbete.
+
+Fyll i varje ruta på en skala från 0 till 5. En skattning om "0" betyder att du utan problem kan hävda dig själv konstruktivt i den givna situationen. En skattning om "5" betyder att du inte alls kan hävda dig själv konstruktivt i den situationen.
+
+<!-- ##3e06a3ff885e97710049bbcd7db8e1ca= -->
+
+```{r, echo=F}
+role <- c(
+  "Vän",
+  "Attraktiv person",
+  "Auktoritet",
+  "Främling",
+  "Kollega",
+  "Partner",
+  "Säljare"
+  )
+action <- c(
+  "Säga nej",
+  "Ge komplimang",
+  "Uttrycka åsikt",
+  "Be om hjälp",
+  "Uttrycka ilska",
+  "Uttrycka behov",
+  "Ge kritik",
+  "Ta emot kritik",
+  "Inleda konversation"
+)
+buildtable <- function(type) {
+  formfields <- if (type == "html") {
+    # paste('<input type="number" id="',c(1:63),'" min="0" max="5" name="',c(1:63),'" class="form-control" required="required" />')
+    paste('<input type="number" id="',c(1:63),'" pattern="[0-5]{1}" name="',c(1:63),'" class="form-control" required="required" />')
+  } else {
+    c(1:63)
+  }
+  tablebody <- matrix(formfields,9,7)
+  colnames(tablebody) <- role
+  rownames(tablebody) <- action
+  return(tablebody)
+}
+```
+
+<!-- https://www.telerik.com/blogs/save-for-later-feature-in-forms-using-localstorage -->
+
+<!-- https://w3collective.com/save-data-localstorage-javascript/ -->
+
+<!-- https://getbootstrap.com/docs/5.0/forms/validation/ -->
+
+<!-- https://stackoverflow.com/questions/69894643/custom-validation-with-bootstrap-v5 -->
+
+<!-- https://bookdown.org/yihui/rmarkdown-cookbook/kable.html -->
+
+::: {.content-visible when-format="html"}
+<div id="form-div" class="form-wrapper">
+<form id="note-form">
+
+::: form-group
+```{r, echo=F}
+output <- buildtable("html")
+knitr::kable(output)
+```
+:::
+
+::: form-group
+<input id="note-submit" type="submit" value="Spara" class="btn btn-primary">
+:::
+
+</form>
+</div>
+
+::: {.alert .alert-dismissible .alert-success style="display:hidden;"}
+Formuläret sparas på din enhet
+:::
+
+```{=html}
+<script>
+// form.js
+const formId = "note-form"; // ID of the form
+const url = location.href; //  href for the page
+const formIdentifier = `${url} ${formId}`; // Identifier used to identify the form
+const saveButton = document.querySelector("#note-submit"); // select save button
+const alertBox = document.querySelector(".alert"); // select alert display div
+let form = document.querySelector(`#${formId}`); // select form
+let formElements = form.elements; // get the elements in the form
+
+/**
+ * This function gets the values in the form
+ * and returns them as an object with the
+ * [formIdentifier] as the object key
+ * @returns {Object}
+ */
+const getFormData = () => {
+  let data = { [formIdentifier]: {} };
+  for (const element of formElements) {
+    if (element.name.length > 0) {
+      data[formIdentifier][element.name] = element.value;
+    }
+  }
+  return data;
+};
+
+saveButton.onclick = event => {
+  event.preventDefault();
+  data = getFormData();
+  localStorage.setItem(formIdentifier, JSON.stringify(data[formIdentifier]));
+  const message = "Formuläret sparat på din enhet";
+  displayAlert(message);
+};
+
+/**
+ * This function displays a message
+ * on the page for 1 second
+ *
+ * @param {String} message
+ */
+const displayAlert = message => {
+  alertBox.innerText = message;
+  alertBox.style.display = "block";
+  setTimeout(function() {
+    alertBox.style.display = "none";
+  }, 3000);
+};
+
+/**
+ * This function populates the form
+ * with data from localStorage
+ *
+ */
+const populateForm = () => {
+  if (localStorage.key(formIdentifier)) {
+    const savedData = JSON.parse(localStorage.getItem(formIdentifier)); // get and parse the saved data from localStorage
+    for (const element of formElements) {
+      if (element.name in savedData) {
+        element.value = savedData[element.name];
+      }
+    }
+    const message = "Formuläret uppdaterat";
+    displayAlert(message);
+  }
+};
+
+document.onload = populateForm(); // populate the form when the document is loaded
+</script>
+```
+
+Dina svar sparas enbart på den enhet som du använder just nu (ingen data skickas över nätet).
+
+:::
+
+::: {.content-visible when-format="pdf"}
+```{r, echo=F}
+output <- buildtable("pdf")
+knitr::kable(output)
+```
+:::
+
+När du har gått genom programmet kommer du att i modul 10 få följa upp din egen utveckling genom att göra om den här skattningen. Då kommer du att få svart på vitt hur det har gått för dig.
