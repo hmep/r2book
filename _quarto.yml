@@ -19,11 +19,12 @@ bibliography:
   - ../r2fu/DBT.bib
 
 book:
-  title: "Respekt i kvadrat"
-  #title: "100% respekt"
+  #title: "Respekt i kvadrat"
+  title: "100% respekt"
   author: "Fiona Michel, Anthea Fursland, Patrik Manhem & Tobias Hagberg"
   date: 2022-12-19
   sidebar:
+    logo: sites/respekt/media/image/100respekt.svg
     collapse-level: 1
     background: light
   cookie-consent: false
@@ -38,7 +39,6 @@ book:
         - 1-4.qmd
         - 1-5.qmd
         - 1-6.qmd
-        - 1-7.qmd
     - part: "Modul 2"
       chapters:
         - 2-0.qmd
@@ -57,7 +57,6 @@ book:
         - 3-4.qmd
         - 3-5.qmd
         - 3-6.qmd
-        - 3-7.qmd
     - part: "Modul 4"
       chapters:
         - 4-0.qmd
@@ -67,7 +66,6 @@ book:
         - 4-4.qmd
         - 4-5.qmd
         - 4-6.qmd
-        - 4-7.qmd
     - part: "Modul 5"
       chapters:
         - 5-0.qmd
@@ -124,7 +122,7 @@ book:
         - 10-6.qmd
         - 10-7.qmd
         - 10-8.qmd
-    - part: "Om den här boken"
+    - part: "Resurser"
       chapters:
         - 0-0.qmd
         - 0-1.qmd

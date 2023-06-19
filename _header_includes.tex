@@ -50,11 +50,13 @@
 
 % https://github.com/rstudio/bookdown/issues/677
 \let\paragraph\oldparagraph
+%\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}\par}
 \let\subparagraph\oldsubparagraph
+%\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}\par}
 \usepackage{titlesec}
 \titlespacing{\section}{0pt}{0pt}{0pt}
-\titlespacing{\subsection}{0pt}{\baselineskip}{0\baselineskip} %.5
-\titlespacing{\subsubsection}{0pt}{\baselineskip}{0\baselineskip} %.25
+\titlespacing{\subsection}{0pt}{\baselineskip}{.5\baselineskip} %.5
+\titlespacing{\subsubsection}{0pt}{\baselineskip}{.25\baselineskip} %.25
 \newpagestyle{respekt}[\large\sffamily]{
 \sethead{}{}{\hbox{\includegraphics[width=13mm]{../sites/respekt/media/image/100respekt.pdf}}}
 \setfoot{\rmfamily\small\thepage/\pageref*{LastPage}}{}{}

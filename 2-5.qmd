@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: "Uppgift: Smygstarta träning i progressiv avslappning"
+title: "Uppgift: Påbörja träning i progressiv avslappning"
 ---
 
 Målet med det här avsnittet är att dubbelt: både att lära dig att

@@ -75,8 +75,8 @@ Slutligen: Hur väl stämde ditt agerande med respekt för dina egna rättighete
      \node at (0,0)      
      {\includegraphics[width=.6\textwidth]{../sites/respekt/media/image/canvas-konstruktiv-slinga-svv.pdf}};
      \if 1\thexex
-     \node[rotate=0] at ([xshift=28.5mm,yshift=37mm]0,0) {\hwfamily\Large\color{MidnightBlue} x};
-     \node[rotate=10] at ([xshift=32mm,yshift=31mm]0,0) {\hwfamily\Large\color{MidnightBlue} 72! yay!};
+     \node[rotate=0] at ([xshift=29.5mm,yshift=38.5mm]0,0) {\hwfamily\Large\color{MidnightBlue} x};
+     \node[rotate=10] at ([xshift=32mm,yshift=31.5mm]0,0) {\hwfamily\Large\color{MidnightBlue} 72! yay!};
      \else\fi
 \end{tikzpicture}
 

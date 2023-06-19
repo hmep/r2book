@@ -1,10 +1,10 @@
 ---
 lang: sv
-title: Halvvägs! Check-in och vanliga frågor och svar
+title: Vanliga frågor och svar
 ---
 
 Du har nu kommit lite drygs halvvägs i träningsprogrammet. Grattis till
-de nyupptäckter och lärdomar du har gjort i dina beteendeexperiment!
+de nyupptäckter och lärdomar du har gjort i dina beteendeexperiment! 
 Oavsett om det har gått som du önskade eller om du stött på problem, så
 har du vunnit möjlighet att reflektera över vad som varit hjälpande och
 hindrande för dig när du prövat att hävda dig själv konstruktivt.
@@ -14,24 +14,15 @@ tid att komma ikapp den här veckan. Kom ihåg: Att utföra
 beteendeexperiment är att ge sig möjlighet att samla positiva
 erfarenheter. Du som hunnit utföra ett eller flera beteendeexperiment är
 självklart också välkommen att planera in och utföra fler. Använd
-[formuläret för
-beteendeexperiment](http://www.iterapi.se/sites/respekt/program/4-m-ngdtr-na-konstruktiv-sj-lvh-vdelse-i-vardagen/23-uppgift-praktisera-vning-ger-f-rdighet-)
-i modul 4, du kan fylla i det hur många gånger som helst.
+formuläret för beteendeexperiment i modul 4, du kan fylla i det hur många gånger som helst.
+
+::: {.content-visible when-format="html"}
+[Planera och genomför ett beteendeexperiment (PDF)](forms/be.pdf)
+:::
 
 Om du vill maximera effekterna av ditt deltagande i det här programmet,
 påminn dig om vilka [fördelarna är för dig att byta undvikande av
-ångest mot aktivt deltagande i
-livet](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment/15-argument-f-r-att-byta-undvikande-mot-aktivt-deltagande) i modul
-3.
-
-## En snabb check-in
-
-Tycker du att den här självskattningen är svåra att göra? Skrolla/svep
-ned i sidan till fråga 2 och läs svaret. Kom tillbaka hit sedan.
-
-##c3f1c01fa7d05c9804fe9401e702bf7d=
-
-##34633ffe126c6b959d71aa3f87bc548f=
+ångest mot aktivt deltagande](3-2.html) i modul 3.
 
 ## Vanliga frågor och svar
 
@@ -41,10 +32,9 @@ vid den här tidpunkten. Om du inte hittar svaret på något du undrar
 
 ### 1. "Varför misslyckas jag med mitt beteendeexperiment?"
 
-![](/sites/respekt/media/image/aktivacirkeln-redux-E-slinga.svg){style="width: 600px; max-width: 600px; max-height: 600px; height: 600px; margin:1em 0;"}
+![](sites/respekt/media/image/aktivacirkeln-redux-E-slinga.svg){style="width: 600px; max-width: 600px; max-height: 600px; height: 600px; margin:1em 0;"}
 
-Det
-går inte att misslyckas med ett beteendeexperiment. Antingen går det
+Det går inte att misslyckas med ett beteendeexperiment. Antingen går det
 precis som man vill -- så bra, då! Eller så händer det värsta du kan
 tänka dig -- din katastroftanke visar sig stämma. (Eller så går det
 halvbra.) Oavsett utfall finns det massor att lära sig av! Kunde du
@@ -93,11 +83,34 @@ Titta noga på bilden nedan. I återstoden av det här programmet, hur kan
 du agera för att maximera skattningarna av respekt för både dina egna
 rättigheter och andras rättigheter?
 
-![](/sites/respekt/media/image/canvas-konstruktiv-slinga-X.svg){style="width: 400px; height: 400px; margin: 1em 0px 0px;"}
+![](sites/respekt/media/image/canvas-konstruktiv-slinga-X.svg){style="width: 400px; height: 400px; margin: 1em 0px 0px;"}
 
 ### 3. "Varför får jag MER ÅNGEST av avslappningsövningarna?"
 
-[[Tips!]{.rlabel} En artikel i Svenska Dagbladet 2020-03-02 handlar om
+Om du märker att
+ångestnivåerna går upp när du tränar avslappning beror det sannolikt på
+samma sak som gör att du är mer eller mindre spänd i vardagen till att
+börja med. Genom att du omedvetet spänner dig i vardagen reducerar du
+kortsiktigt den ångest det innebär att vara lite mer medvetet
+närvarande. Det här är ett vanligt
+fenomen, som enligt forskning drabbar mellan 15% till 50% av personer
+som tränar mindfulness eller avslappning. Att spänna sig kan för många fylla funktionen att \"ta
+kontroll\" och att undvika känslor man lärt sig uppfatta som farliga
+eller oönskade tidigare i livet. Tyvärr leder spänningen också till att
+du också blir mer vaksam på hot, att du tänker fler negativa tankar om
+hur det ska gå, att du ältar mer av hur saker har gått och att du
+fortsätter undvika allt sådant i vardagen som väcker obehagliga känslor.
+
+Fortsätt ändå! Om du fortsätter med övningarna kommer du att märka att
+du *både* klarar av att 1) *tolerera* och att 2) *reglera* ångesten själv --
+utan att ta till undvikande. Det är en vinst i sig. Men framför allt gör
+det att det blir lättare för dig att hävda dig själv konstruktivt, så
+att du 3) *får mer av det du värdesätter i livet*.
+
+::: {.callout-tip}
+## Lästips
+
+[En artikel i Svenska Dagbladet 2020-03-02](https://www.svd.se/a/opmv3W/mindfulness-kan-ge-mer-angest-och-oro) (kräver inloggning) handlar om
 avslappningsframkallad ångest. I den säger Michelle Newman, professor i
 psykologi vid amerikanska Pennsylvania State University, att de som
 behöver avslappning mest är de som är mest benägna att få ångest när de
@@ -105,27 +118,8 @@ slappnar av. Om du hör till den gruppen -- fortsätt träna avslappning
 trots din ångest! Michelle Newman säger också: \"Vårt budskap är inte
 att det är dåligt för vissa människor att slappna av, tvärtom. För att
 må bra måste du kunna slappna av, och det betyder också att du kan
-behöva uppleva ångesttoppar ibland.\"]{.rtip}Det här är ett vanligt
-fenomen, som enligt forskning drabbar mellan 15% till 50% av personer
-som tränar mindfulness eller avslappning. Om du märker att
-ångestnivåerna går upp när du tränar avslappning beror det sannolikt på
-samma sak som gör att du är mer eller mindre spänd i vardagen till att
-börja med. Genom att du omedvetet spänner dig i vardagen reducerar du
-kortsiktigt den ångest det innebär att vara lite mer medvetet
-närvarande. Att spänna sig kan för många fylla funktionen att \"ta
-kontroll\" och att undvika känslor man lärt sig uppfatta som farliga
-eller oönskade tidigare i livet. Tyvärr leder spänningen också till att
-du också blir mer vaksam på hot, att du tänker fler negativa tankar om
-hur det ska gå, att du ältar mer av hur saker har gått och att du
-fortsätter undvika allt sådant i vardagen som stör dina försök att
-kontrollera dina känslor.
-
-Fortsätt ändå! Om du fortsätter med övningarna kommer du att märka att
-du *både* klarar av att *tolerera* och att *reglera* ångesten själv --
-utan att ta till undvikande. Det är en vinst i sig. Men framför allt gör
-det att det blir lättare för dig att hävda dig själv konstruktivt, så
-att du *får mer av det du värdesätter i livet*. Med träning kommer det
-över tid att gå allt enklare. 
+behöva uppleva ångesttoppar ibland.\"
+:::
 
 ### 4. "Varför i hela världen ska jag inte dra mig undan om det är det jag känner för?"
 
@@ -133,18 +127,18 @@ Många som planerar och utför beteendeexperiment brukar förr eller senare
 ställa sig själva frågorna \"Varför ska jag hålla på så här och göra
 saker som jag tycker är obekväma eller till och med djupt obehagliga?\"
 eller \"Varför ska jag inte lyssna på att min kropp signalerar att jag
-inte vill göra det här?\". Vi i behandlar-teamet har inget bra svar på
-de frågorna. Men du som ställer dig dem har förmodligen bra svar på de
-frågorna. Här är några motfrågor som kan hjälpa dig att hitta egna skäl
+inte vill göra det här?\". Vi har inget bra svar på
+de frågorna. Men du som ställer dig dem har förmodligen själv bra svar på de
+frågorna. Så här är några motfrågor som kan hjälpa dig att hitta egna skäl
 att bryta undvikande och ta en mer aktiv del i ditt eget liv:
 
 -   Vad är det du missar när du låter bli att göra det där obehagliga?
 -   Hur skulle din självkänsla och ditt självförtroende påverkas av att
     du fortsätter utsätta dig för det du tidigare undvikit?
--   Hur motiverande är det för dig att träna på att själv bli duktig på
-    att reglera ned ångesten och andra jobbiga känslor, istället för att
+-   Hur motiverande är det för dig att träna på att själv bli bättre på
+    att reglera och/eller tolerar ångesten och andra jobbiga känslor, istället för att
     undvika dem?
--   Hur villig är du att agera på ett sätt som gör att du får allt
+-   Hur villig är du att agera på ett sätt nu som gör att du kommer att få allt
     mindre ångestproblem i framtiden?
 
 ### 5. "Jag har för mycket att göra, hur ska jag hinna träna avslapppning?"
@@ -183,5 +177,3 @@ riskerar att utsätta sig för ångesten som kommer av den tunga
 katastroftanken att ens partner kanske inte älskar en tillbaka. Att då
 säga \"jag älskar dig\" (istället för att undvika att göra det) är
 absolut att träna på konstruktiv självhävdelse!
-
-##d49370b1df40c71bb2e0cb5219251e9b=

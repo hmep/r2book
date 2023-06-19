@@ -1,31 +1,35 @@
 ---
 lang: sv
-title: "Uppgift: Utvärdera träningen i avslappning"
+title: Sammanfattning
 ---
 
-I förra modulen smygstartade du träning i progressiv avslappning. Nu när
-du redan är igång får du här möjlighet att fortsätta med nästa del.
+-   Vårt sätt att tänka kan ibland hindra oss från att hävda oss själva
+    konstruktivt.
+-   Att hävda sig själv är att hävda sina rättigheter, men med dem
+    kommer också skyldigheter. Vi har ett ansvar mot oss själva och de
+    personer som vi interagerar med. Konstruktiv självhävdelse handlar
+    om att maximera respekten för båda parter.
+    -   ![](/sites/respekt/media/image/canvas-konstruktiv-slinga-X.svg){style="width: 400px; height: 400px; margin:1em 0;"}
+-   Passiva och aggressiva självhävdelsestilar är förknippade med olika
+    former av undvikande av faktiska situationer och/eller flykt från
+    kroppsupplevelser som ångest. Att bli rasande arg kan till exempel
+    fylla funktionen att undvika att känna ledsenhet.
+-   Rädsloinlärning är mycket stark av evolutionära skäl. Det krävs
+    medvetenhet för att sluta undvika och att börja delta i sådant som
+    väcker ångest.
+-   Det finns flera fördelar med att bryta undvikande och att ersätta
+    det med aktivt deltagande i livet. Bland annat handlar du mer i
+    linje med dina värderingar och kommer närmare sådant som är
+    naturligt belönande för dig (närhet till andra människor, känsla av
+    sammanhang, att det går din väg, med mera).
+-   Du lär dig också att du klarar av att reglera ned ångest i tuffa
+    situationer.
+-   Med KBT, som i det här träningsprogrammet, använder
+    du beteendeexperiment för att ersätta undvikande med aktivt
+    deltagande i livet.
 
-##e99da346c70816c52c235c950f2ad396=
+::: {.callout-note}
+## Om nästa modul
 
-## Uppgift: Del 2 i progressiv avslappning: mage, rygg & ben (11 min)
-
-Den här veckan fokuserar vi på andningen, magen, ryggen och benen.
-Första gången du genomför avslappningsövningen, titta gärna på filmen så
-att du utför övningarna på rätt sätt. Sedan, när du har lärt dig dem,
-kan du om du vill sluta dina ögon under övningspasset. Om det känns
-obehagligt att blunda, rikta i sådana fall gärna blicken mot en neutral
-punkt för att ge maximal uppmärksamhet till själva övningen. 
-
- Du kan också använda en mp3-fil med ljudspåret från filmen ovan, som du
-kan lyssna på direkt eller [ladda ned
-direkt](https://www.dropbox.com/s/7znxp4ac5m655zu/KSH-06-progressiv-muskelavslappning-del-2.mp3?dl=1){target="_blank"}
-till din mobil.
-
-Your browser does not support the audio element.
-
-Precis som i förra veckan rekommenderar vi att du tränar på del 2 så
-ofta du kan. Det tål att upprepas: Integrera gärna träning (särskilt för
-muskelgrupper som du har upptäckt att du är spänd i) i vardagen. Det går
-att träna på progressiv avslappning var som helst: i duschen, på mötet,
-i bilen \...
+I nästa modul tittar vi närmare på olika konkreta sätt man kan hävda sig själv konstruktivt på. Vi letar även efter sätt att komma igång med mängdträning av konstruktiv självhävdelse. Du kommer också få tips om hur du kan komma igång med snabbavslappning. Övning ger färdighet!
+:::

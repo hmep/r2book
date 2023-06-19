@@ -1,13 +1,7 @@
 ---
 lang: sv
-title: "Evidens, lästips och referenser"
+title: "Lästips och referenser"
 ---
-
-## Evidens
-
-### Transdiagnostiska behandlingsmål
-
-### Resultat av effektstudie
 
 ## Tips på självhjälpsresurser
 

@@ -63,6 +63,16 @@
     display: none;
   }
   
+  .sidebar-logo {
+    max-width: 40%;
+    display:block !important;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .sidebar-title {
+    display: none;
+  }
 /*-- 
 
 https://quarto.org/docs/output-formats/html-themes.html

@@ -9,7 +9,6 @@ format:
     tbl-colwidths: [30,70]
 header-includes: 
 - \input{../_header_includes.tex}
-- \xab{4}
 bibliography:
   - ../../r2fu/KSH.bib
   - ../../r2fu/DBT.bib

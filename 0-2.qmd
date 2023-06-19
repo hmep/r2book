@@ -15,14 +15,6 @@ Licens](http://creativecommons.org/licenses/by-nc-sa/4.0/){rel="license"}.
 
 Med andra ord: Du får anpassa och sprida det här materialet, men inte kommersiellt, och bara om du anger källan.
 
-### Ange källan så här
-
-När du källhänvisar till 100% respekt, ange namnet "100% respekt" och länka till "https://www.100respekt.se", alternativt ange den fullständiga referensen ...
-
 ## Källkod
 
 Granska och ladda ned källkoden till den här boken från GitHub ...
-
-## Kolofon
-
-Den här boken publiceras simultant som hemsida, digital epub-bok, digital pdf-bok och som pappersbok.

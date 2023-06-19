@@ -12,7 +12,7 @@ Om du inte redan har tittat på den här filmsnutten -- gör det nu!
 
 {{< video https://www.youtube.com/embed/fAlPVh76lHI >}}
 
-## Vad är ett \"SMART\" mål? {@sec-smart}
+## Vad är ett \"SMART\" mål?
 
 När du nu formulerar ditt eget mål, använd formeln \"SMART\". Med det
 menas målet så långt det är möjligt bör vara S) specifikt, M) mätbart,

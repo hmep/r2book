@@ -23,3 +23,25 @@ title: Sammanfattning
     här materialet hjälper du dig själv att fortsätta söka ny framkomlighet 
     även när det tar emot. Det hjälper dig dessutom att lägga märke till de 
     framsteg du gör.
+
+## Ge dig själv ett erkännande för att du kämpar
+
+Puh! Nu har du fått jobba en hel del. Vi som ligger bakom det här
+materialet vet av egen erfarenhet att det är tufft att arbeta med att
+förändra beteenden och att det ofta kan kännas svårt att utmana sig
+själv. Kom ihåg: Det arbete du redan har gjort kommer ligga till grund
+för dina framsteg under de kommande veckorna. Du förtjänar ett
+erkännande för det.
+
+::: {.callout-note}
+## Om nästa modul
+
+I nästa modul går genom vad som kännetecknar de aggressiva, de
+konstruktivt självhävdande och de passiva kommunikationsstilarna. Varje
+stil har sina egna förtjänster och kostnader. Vi slår också in på ett
+spår med avslappningsövningar som vi fortsätter utforska djupare i 
+modul 5. Genom att sänka den allmänna spänningsnivån blir det lättare
+att vara medvetet närvarande i vardagen. Det ökar förmågan att agera på
+ett sätt som är konstruktivt även när den första impulsen är passiv
+eller aggressiv kommunikation.
+:::
