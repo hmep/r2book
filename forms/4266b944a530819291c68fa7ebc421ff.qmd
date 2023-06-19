@@ -15,7 +15,7 @@ bibliography:
 
 \xinit
 
-De hindrande tankarna är inte fakta. De är helt enkelt bara förutsägelser och åsikter som vi har lärt oss. Var och en av dem kan vägas mot en mer hjälpsam förutsägelse eller åsikt om vikten av att kunna säga ‘nej’. I listan nedan finns några av dem. Kryssa för dem som du håller med om, och komplettera med ytterligare förutsägelser/antaganden som du kan komma på om nyttan med att hävda dig själv bättre.
+Hindrande tankar är inte fakta. De är helt enkelt bara förutsägelser och åsikter som vi har lärt oss eller räknat ut. Var och en av dem kan vägas mot en mer hjälpsam förutsägelse eller åsikt om vikten av konstruktiv självhävdelse, exempelvis att säga ’nej’ till sådant som du inte vill ställa upp på. I listan nedan finns några förslag på hjälpsamma antaganden. Kryssa för dem som du håller med om, och komplettera med ytterligare antaganden som du kan komma på om nyttan med att hävda dig själv bättre.
 
 \setlist[itemize]{
     label={\xtikztick}

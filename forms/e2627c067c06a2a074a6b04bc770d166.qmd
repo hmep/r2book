@@ -1,0 +1,62 @@
+---
+title: "Mina sätt att sänka spänningsnivån"
+format:
+  pdf:
+    keep-tex: true
+    pdf-engine: xelatex
+    documentclass: article
+    lang: sv
+header-includes: 
+- \input{../_header_includes.tex}
+bibliography:
+  - ../../r2fu/KSH.bib
+  - ../../r2fu/DBT.bib
+---
+
+\xinit
+
+Det finns flera avslappningstekniker som du kan använda för att sänka den fysiska spänningsnivån i kroppen. Precis som med alla färdigheter som du lär dig i de här kapitlen gäller att ju mer du tränar på dem, desto större inverkan kommer de ha på ditt välmående. Vilka av följande metoder för att sänka spänningsnivån i kroppen vill du mängdträna på under kommande veckor? Sätt ett kryss i rutan bredvid dem. Du kan också komplettera med fler rättigheter som du vill påminna dig om.
+
+\setlist[itemize]{
+    label={\xtikztick}
+}
+
+- Träning (det som passar dig – löpning, simning, ridning, gym ...)
+- Massage
+- Progressiv muskelavslappning
+- Yoga
+- Meditation
+- Promenader i naturen
+- Musik
+- Medveten närvaro-övningar
+- Andningsövningar
+- Tai chi
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+\xvskip
+\hrule
+
+{{< include ../_pdf_footer.qmd >}}
