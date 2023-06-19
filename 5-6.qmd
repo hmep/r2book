@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: Sammanfattning och återkoppling på veckans innehåll
+title: Sammanfattning
 ---
 
 -   För att du ska kunna hävda dig själv behöver du bli medveten om när
@@ -19,7 +19,7 @@ title: Sammanfattning och återkoppling på veckans innehåll
     eller i appar till mobilen. Ett tips för att snabbt komma igång:
     Spela in dig själv med mobilen när du läser [textmanuset till
     progressiv
-    avslappning](https://www.iterapi.se/sites/respekt/program/5-s-nka-sp-nningsniv-n/27-uppgift-bli-din-egen-avslappningsguru).
+    avslappning](5-3.qmd).
 -   En annan färdighet som är skild från avslappning är att vara
 medvetet närvarande. Medveten närvaro handlar om att så långt det bara är
 möjligt ta in hela situationen, inklusive ångest och negativa tankar. Poängen
@@ -33,6 +33,3 @@ mig" gör det.
     situationen. Du får fler valmöjligheter. Det underlättar för dig när
     du tränar på konstruktiv självhävdelse.
 
-## Vad tyckte du om veckans modul?
-
-##086daceb52538e3cbb5c2a24d4420bfe=

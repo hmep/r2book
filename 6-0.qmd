@@ -62,6 +62,8 @@ några av dem stämmer för dig.
 Tänk dig en situation där du kämpar med att säga nej. Vilka
 förutsägelser gör du om vad som ska hända om du säger 'nej'? Vilka
 förutsägelser gör du om din förmåga att klara av det som skulle hända om
-du sa 'nej'? Skriv ned dem här.
+du sa 'nej'? Skriv ned dem i arbetsbladet.
 
-##3e3e8806095299cb48929db0732a7d10=
+::: {.content-visible when-format="html"}
+[Hindrande antaganden (PDF)](forms/f0a1c31a82f11d157bae31eddf7ddc1f.pdf)
+:::

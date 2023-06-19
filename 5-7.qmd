@@ -29,4 +29,6 @@ kloka slutsatser du har gjort i anslutning till de beteendeexperiment du
 har utfört i programmet. Vad skulle vara ett lämpligt område att
 fortsätta mängdträna inom?
 
-##1c66063861af843300d69a5a45fc4d44=
+::: {.content-visible when-format="html"}
+[Planera och genomför ett beteendeexperiment (PDF)](forms/be.pdf)
+:::
