@@ -15,7 +15,7 @@ bibliography:
 
 \xinit
 
-Det finns flera avslappningstekniker som du kan använda för att sänka den fysiska spänningsnivån i kroppen. Precis som med alla färdigheter som du lär dig i de här kapitlen gäller att ju mer du tränar på dem, desto större inverkan kommer de ha på ditt välmående. Vilka av följande metoder för att sänka spänningsnivån i kroppen vill du mängdträna på under kommande veckor? Sätt ett kryss i rutan bredvid dem. Du kan också komplettera med fler rättigheter som du vill påminna dig om.
+Det finns flera avslappningstekniker som du kan använda för att sänka den fysiska spänningsnivån i kroppen. Precis som med alla färdigheter som du lär dig i de här kapitlen gäller att ju mer du tränar på dem, desto större inverkan kommer de ha på ditt välmående. Vilka av följande metoder för att sänka spänningsnivån i kroppen vill du mängdträna på under kommande veckor? Sätt ett kryss i rutan bredvid dem. Du kan också komplettera med fler sätt som du vill påminna dig om har fungerat för dig tidigare.
 
 \setlist[itemize]{
     label={\xtikztick}
