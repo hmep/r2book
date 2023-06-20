@@ -4,10 +4,9 @@ title: "Uppgift: Planera inför de kommande två veckorna"
 ---
 
 Under de två kommande veckorna kommer du att få fördjupa dig i ett eller
-två av fyra områden som är viktiga för konstruktiv självhävdelse. Efter
-att du har gjort klart den här modulen väljer du en eller
-flera av återstående modulerna att göra övningarna i -- utifrån din egen nyfikenhet och vad du
-helst önskar att få stöttning med.
+två av fyra områden som är viktiga för konstruktiv självhävdelse. Härnäst väljer du en eller
+flera av de återstående modulerna att göra övningarna i -- utifrån din egen nyfikenhet och vad du
+helst önskar att träna på.
 
 -   I [modul 6](6-0.qmd) tittar vi på varför det ibland är svårt att **säga
     'nej'**, och hur vi kan bli bättre på det. Det är viktigt för att
