@@ -22,4 +22,8 @@ title: Sammanfattning
     nej, ett undersökande nej, ett uppskjutande nej, ett förklarande nej
     och ett repig grammofonskiva-nej. 
 
+::: {.callout-note}
+## Hur nära 100 kommer du?
+
 Hur nära 100 kom du när du skattade din självhävdelse i ditt senaste beteendeexperiment? Det finns inte någon inbyggd förväntan på att saker och ting ska ha blivit "bättre" (eller för all del "sämre"). Oavsett hur det har gått för dig finns det relevant information att hämta från dina skattningar: Om du skattar din självhävdelse lägre än du hade önskat får du tillfälle att reflektera över vilka hindren i vardagen är, om du skattar din självhävdelse högre får du tillfälle att reflektera över vilka omständigheter som har möjliggjort mer konstruktiv självhävdelse. Kom ihåg: du "lyckas" eller "misslyckas" inte med dina beteendeexperiment -- du lär dig något!
+:::
