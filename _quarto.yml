@@ -85,7 +85,6 @@ book:
         - 6-2.qmd
         - 6-3.qmd
         - 6-4.qmd
-        - 6-5.qmd
     - part: "Modul 7"
       chapters:
         - 7-0.qmd

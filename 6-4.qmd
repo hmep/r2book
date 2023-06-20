@@ -1,26 +1,25 @@
 ---
 lang: sv
-title: Din måluppfyllelse just nu
+title: Sammanfattning
 ---
 
-Du formulerade i modul 1 en första personlig målsättning för programmet.
-Du skrev så här:
+-   Att säga 'nej' är svårt för många människor.
+-   Som små barn har vi inga problem att säga 'nej', men när vi lär oss
+    av omgivningen och våra erfarenheter kan vi utveckla svårigheter att
+    göra det.
+-   Att säga 'ja' när vi egentligen menar 'nej' är ett recept på stress,
+    självförakt och ilska.
+-   Om vi har svårt att säga 'nej' är det ofta för att vi har ett antal
+    hindrande förutsägelser om vad som ska hända när vi gör det. Ett
+    sätt att frigöra sig från dem är att upptäcka att de är mer eller
+    mindre sannolika antaganden, snarare än fakta. Du kan
+    använda beteendeexperiment för att utmana dina hindrande
+    förutsägelser och få kontakt med alla fördelar som finns med att
+    säga 'nej'.
+-   Tre enkla råd för att göra det lättare att säga 'nej': håll ditt
+    budskap kort, var tydlig och var ärlig.
+-   Det finns många sätt att säga 'nej' på. De inkluderar ett direkt
+    nej, ett undersökande nej, ett uppskjutande nej, ett förklarande nej
+    och ett repig grammofonskiva-nej. 
 
-##4f1b5b6c8b7a92eb516892f5f44e84e7=
-
-## Hur väl tycker du att du just nu lever upp till målet?
-
-Gör en ny skattning för hur det är för dig just den här veckan. Det
-finns inte någon inbyggd förväntan på att saker och ting ska ha blivit
-\"bättre\" (eller för all del \"sämre\") här. Oavsett hur det har gått
-för dig finns det relevant information att hämta från dina skattningar:
-Om du skattar din självhävdelse lägre får du tillfälle att reflektera
-över vilka hindren i vardagen är, om du skattar din självhävdelse högre
-får du tillfälle att reflektera över vilka omständigheter som har
-möjliggjort mer konstruktiv självhävdelse.
-
-##a4e156af7f25ff3b17bb0942af99008d=
-
-## Vad drar du för slutsatser?
-
-##01a6b16e4dec36c1b6ca6f7a852f5605=
+Hur nära 100 kom du när du skattade din självhävdelse i ditt senaste beteendeexperiment? Det finns inte någon inbyggd förväntan på att saker och ting ska ha blivit "bättre" (eller för all del "sämre"). Oavsett hur det har gått för dig finns det relevant information att hämta från dina skattningar: Om du skattar din självhävdelse lägre än du hade önskat får du tillfälle att reflektera över vilka hindren i vardagen är, om du skattar din självhävdelse högre får du tillfälle att reflektera över vilka omständigheter som har möjliggjort mer konstruktiv självhävdelse. Kom ihåg: du "lyckas" eller "misslyckas" inte med dina beteendeexperiment -- du lär dig något!
