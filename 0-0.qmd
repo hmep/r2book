@@ -1,8 +1,8 @@
 ---
 lang: sv
-title: "Nedladdninbgsbara filer"
+title: "Nedladdningsbara filer"
 ---
 
-## Arbetsblad
+## Alla arbetsblad
 
-## Video- och ljudklipp
+## Media för progressiv avslappning

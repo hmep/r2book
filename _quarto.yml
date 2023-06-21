@@ -32,7 +32,7 @@ book:
   cookie-consent: false
   chapters:
     - index.qmd
-    - part: "Modul 1"
+    - part: "Vecka 1: Introduktion"
       chapters:
         - 1-0.qmd
         - 1-1.qmd
@@ -41,7 +41,7 @@ book:
         - 1-4.qmd
         - 1-5.qmd
         - 1-6.qmd
-    - part: "Modul 2"
+    - part: "Vecka 2: Vad är självhävdelse?"
       chapters:
         - 2-0.qmd
         - 2-1.qmd
@@ -50,7 +50,7 @@ book:
         - 2-4.qmd
         - 2-5.qmd
         - 2-6.qmd
-    - part: "Modul 3"
+    - part: "Vecka 3: Bli medveten om tänkandet"
       chapters:
         - 3-0.qmd
         - 3-1.qmd
@@ -59,7 +59,7 @@ book:
         - 3-4.qmd
         - 3-5.qmd
         - 3-6.qmd
-    - part: "Modul 4"
+    - part: "Vecka 4: Bli medveten om handlandet"
       chapters:
         - 4-0.qmd
         - 4-1.qmd
@@ -68,7 +68,7 @@ book:
         - 4-4.qmd
         - 4-5.qmd
         - 4-6.qmd
-    - part: "Modul 5"
+    - part: "Vecka 5: Bli medveten om kroppen"
       chapters:
         - 5-0.qmd
         - 5-1.qmd
@@ -78,14 +78,14 @@ book:
         - 5-5.qmd
         - 5-6.qmd
         - 5-7.qmd
-    - part: "Modul 6"
+    - part: "Vecka 6-7: Säga nej"
       chapters:
         - 6-0.qmd
         - 6-1.qmd
         - 6-2.qmd
         - 6-3.qmd
         - 6-4.qmd
-    - part: "Modul 7"
+    - part: "Vecka 6-7: Kritik"
       chapters:
         - 7-0.qmd
         - 7-1.qmd
@@ -96,14 +96,14 @@ book:
         - 7-6.qmd
         - 7-7.qmd
         - 7-8.qmd
-    - part: "Modul 8"
+    - part: "Vecka 6-7: Besvikelser"
       chapters:
         - 8-0.qmd
         - 8-1.qmd
         - 8-2.qmd
         - 8-3.qmd
         - 8-4.qmd
-    - part: "Modul 9"
+    - part: "Vecka 6-7: Komplimanger"
       chapters:
         - 9-0.qmd
         - 9-1.qmd
@@ -112,7 +112,7 @@ book:
         - 9-4.qmd
         - 9-5.qmd
         - 9-6.qmd
-    - part: "Modul 10"
+    - part: "Vecka 8: Planera för framgång"
       chapters:
         - 10-0.qmd
         - 10-1.qmd
