@@ -122,7 +122,6 @@ book:
         - 10-5.qmd
         - 10-6.qmd
         - 10-7.qmd
-        - 10-8.qmd
     - part: "Resurser"
       chapters:
         - 0-0.qmd
