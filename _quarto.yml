@@ -1,28 +1,14 @@
-# quarto render
-# for i in *.svg; do cairosvg $i -o ${i%.svg}.pdf; done
-# https://gist.github.com/w3collective/9e6a99f4d828734676a12b2db2ff61e5
-# https://github.com/jlgraves-ubc/forms
-# https://github.com/quarto-ext/latex-environment
-# https://quarto.org/docs/authoring/videos.html
-# https://fonts.google.com/noto/specimen/Noto+Emoji
-# https://quarto.org/docs/output-formats/html-themes.html
-# https://lingtalfi.com/bootstrap4-color-generator
-
 project:
   type: book
   output-dir: docs
   pre-render: ./_pre.sh
   post-render: ./_post.sh
-  preview:
-    port: 4200
-    browser: true
   
 bibliography:
   - ../r2fu/KSH.bib
   - ../r2fu/DBT.bib
 
 book:
-  #title: "Respekt i kvadrat"
   title: "100% respekt"
   author: "Fiona Michel, Anthea Fursland, Patrik Manhem & Tobias Hagberg"
   date: 2023-06-21
@@ -137,7 +123,7 @@ format:
   #   creator: "Tobias Hagberg"
   #   contributor: "Tobias Hagberg"
   #   subject: "Psychology"
-  #   rights: "Copyright 2023 Hagberg Psykologi, särskilt företagsnamn till Ionfox AB"
+  #   rights: "Copyright svensk anpassning 2023 Tobias Hagberg"
   html:
     theme: 
     - flatly
@@ -148,7 +134,6 @@ format:
     linestretch: 1.4
     number-sections: false
     collapse-level: 0
-    chapter-number: false # does not work; hide with css property instead
   # pdf:
   #   keep-tex: true
   #   latex_engine: pdflatex
