@@ -11,7 +11,7 @@ bibliography:
 book:
   title: "100% respekt"
   author: "Fiona Michel, Anthea Fursland, Patrik Manhem & Tobias Hagberg"
-  date: "`r Sys.Date()`"
+  date: "21 juni, 2023"
   sidebar:
     logo: sites/respekt/media/image/100respekt.svg
     collapse-level: 1
@@ -129,7 +129,7 @@ format:
     - flatly
     - custom.scss
     grid:
-      sidebar-width: 300px
+      sidebar-width: 333px
     fontsize: 18px
     linestretch: 1.4
     number-sections: false
