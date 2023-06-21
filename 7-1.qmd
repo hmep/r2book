@@ -13,12 +13,12 @@ kritik som sårande och avvisande.
 
 Det senare händer ofta när kritiken handlade om oss som personer snarare
 än om våra beteenden. Om du till exempel som barn gjorde ett misstag och
-fick höra någon säga "du är dålig", säger kritiken underförstått att det
+fick höra någon säga ”du kan inget”, säger kritiken underförstått att det
 var du som person som var dålig. Sådan kritik är avvisande och kan få
 dig att känna att förändring är utsiktslös. Om du däremot fick veta att
-"det där var en dålig sak du gjorde", så är det lättare att skilja på
-beteendet och personen. Det var beteendet som var dåligt, inte du som
-person. Därmed står det också i din makt att förändra ditt handlande.
+”det där du gjorde var inte hjälpsamt”, så är det lättare att skilja på
+ditt beteenden och dig själv som person. Det var beteendet som var ohjälpsamt, inte du som
+person som var dålig. Därmed står det också i din makt att förändra ditt handlande.
 
 ## Hur tar du kritik?
 
@@ -38,9 +38,11 @@ på kritik, som inte är exempel på självhävdelse:
 ## När blev du senaste kritiserad?
 
 Tänk tillbaka på när du senast själv blev kritiserad. Skriv ned vad det
-var för situation och hur du regarade.
+var för situation och hur du reagerade.
 
-##75b2f4118ea834f0f8ca89dd2fff947e=
+::: {.content-visible when-format="html"}
+[Mål för behandlingen (PDF)](forms/4f1b5b6c8b7a92eb516892f5f44e84e7.pdf)
+:::
 
 ## Passiv respons på kritik
 
@@ -48,25 +50,24 @@ Om vi oftast svarar med passivitet på kritik, får vi svårigheter att ta
 emot den konstruktivt. Kanske går vi bara iväg och känner oss sårade och
 förvirrade. Eller så tenderar vi att hålla med om vilken kritik som
 helst, oavsett om den är valid eller inte. Och så klandrar vi oss själva
-för det. Exempel: "Ja, du har rätt, jag är ... jag är värdelös, jag
-måste lägga av." Då kan vi tolka kritik av vårt beteende som ett
-avvisande av oss\
-själva som personer. Den typen av respons kan i sin tur leda till
+för det. Exempel: ”Ja, du har rätt, jag är ... jag är värdelös, jag
+måste lägga av.” Då kan vi tolka kritik av vårt beteende som ett
+avvisande av oss själva som personer. Den typen av respons kan i sin tur leda till
 nedstämdhet, ångest och låg självkänsla. Det känns som att världen är en
 plats fylld med kritik -- och vi håller med om den!
 
 En alternativ respons när vi får kritik är att skratta och sedan öppet
-kritisera oss själva ännu mer, med attityden "Om jag kritiserar mig
+kritisera oss själva ännu mer, med attityden ”Om jag kritiserar mig
 själv ännu hårdare och gör det på ett skämtsamt sätt kommer ingen veta
-hur sårad jag egentligen är." På lång sikt har den här responsen samma
+hur sårad jag egentligen är.” På lång sikt har den här responsen samma
 effekt som att öppet hålla med om all kritik som vi får.
 
 ## Aggressiv respons på kritik
 
 Om vi brukar svara aggressivt betyder det att vi tolkar kritik som en
 attack på våra personer. När vi uppfattar att vi blir attackerade blir
-vi defensiva och går kanske också själva till attack. Till exempel: "Hur
-vågar du?! Jag är inte sen. Det är du som alltid är sen." Den här typen
+vi defensiva och går kanske också själva till attack. Till exempel: ”Hur
+vågar du?! Jag är inte sen. Det är du som alltid är sen.” Den här typen
 av respons kan ofta leda till konflikt och aggression, vilket i sin tur
 kan leda till nedstämdhet och låg självkänsla.
 

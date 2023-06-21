@@ -15,7 +15,7 @@ bibliography:
 
 \xinit
 
-Precis som alla andra människor har du rätt att hävda dina tankar, känslor, behov, gränser och önskemål -- och ansvar för konsekvenserna när du gör det. Vilka av följande rättigheter skriver du under på? Sätt ett kryss i rutan bredvid dem. Du kan också komplettera med fler rättigheter som du vill påminna dig om.
+Precis som alla andra människor har du rätt att hävda dina tankar, känslor, behov, gränser och önskemål -- och ansvar för konsekvenserna när du gör det. Vilka av följande rättigheter skriver du under på? Sätt ett kryss i rutan bredvid dem. Du kan också komplettera med fler rättigheter som du vill påminna dig om, kanske sådana som är specifika för det område du vill arbeta med under de här veckorna.
 
 \setlist[itemize]{
     label={\xtikztick}

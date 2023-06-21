@@ -27,7 +27,9 @@ Kan du identifiera ytterligare hindrande förutsägelser, utifrån egna
 faktiska tidigare erfarenheter, som gör det svårt för dig att möta
 kritik med konstruktiv självhävdelse? Skriv upp dem.
 
-##dd2f88f76a29f4134dbe8d77a3bd610c=
+::: {.content-visible when-format="html"}
+[Hindrande antaganden (PDF)](forms/f0a1c31a82f11d157bae31eddf7ddc1f.pdf)
+:::
 
 ## Hjälpande förutsägelser
 
@@ -54,7 +56,9 @@ vad kritik innebär och/eller om din förmåga att klara av att få kritik?
 Om du skrev upp några egna hindrande förutsägelser ovan, testa att
 formulera egna balanserande förutsägelser till dem.
 
-##f7daca356f555ac56201fad2e91c7c59=
+::: {.content-visible when-format="html"}
+[Mina rättigheter att hävda mig själv (PDF)](forms/f8c76e544bba93a736da77ee106f5ca4.pdf)
+:::
 
 ### Fortsätt arbeta med beteendeexperiment
 
