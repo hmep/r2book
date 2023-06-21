@@ -11,7 +11,7 @@ bibliography:
 book:
   title: "100% respekt"
   author: "Fiona Michel, Anthea Fursland, Patrik Manhem & Tobias Hagberg"
-  date: 2023-06-21
+  date: "`r Sys.Date()`"
   sidebar:
     logo: sites/respekt/media/image/100respekt.svg
     collapse-level: 1
