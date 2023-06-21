@@ -142,6 +142,8 @@ format:
     theme: 
     - flatly
     - custom.scss
+    grid:
+      sidebar-width: 300px
     fontsize: 18px
     linestretch: 1.4
     number-sections: false
