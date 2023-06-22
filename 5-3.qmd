@@ -11,11 +11,11 @@ du se: Försök att genast slappna av i axlarna! De flesta tycker att det
 
 ## Skapa din egen version av progressiv avslappning
 
-I modul 2 fick du träna på [progressiv avslappning del
+Under vecka 2 fick du träna på [progressiv avslappning del
 1](2-5.qmd),
-i modul 3 på [progressiv avslappning del
+under vecka 3 på [progressiv avslappning del
 2](3-5.qmd)
-och i modul 4 på en [kort variant av progressiv
+och under vecka 4 på en [kort variant av progressiv
 avslappning](4-5.qmd).
 Där fick du också hjälp av förinspelade ljudfiler och videofilmer som
 visade hur de olika momenten går till. Fortsätt gärna med dem!
@@ -35,7 +35,7 @@ ordningen). Oavsett hur du gör övningarna självständigt så får du \...
     något än att göra det själv.
 
 Och viktigast av allt: När du läser in din egen inspelning blir du *din
-egen avslappningsguru*! Övningarna du har gjort under tidigare moduler
+egen avslappningsguru*! Övningarna du har gjort under tidigare veckor
 har en nackdel -- du riskerar att lära dig att bero av ljudfilerna och
 videofilmerna för att kunna slappna av. Målet med det här
 självhjälpsmaterialet är att du ska kunna använda färdigheterna som du tränar på spontant och utan hjälpmedel.

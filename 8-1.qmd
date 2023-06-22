@@ -64,8 +64,7 @@ försök att också hitta egna balanserande tankar till dem.
 
 ## Fortsätt arbeta med beteendeexperiment
 
-Du kan använda beteendeexperiment-tekniken som du lärde dig i modul 3
-och 4 för att i praktiken hitta egna bra anledningar hävda dig själv
+Fortsätt att genomföra [beteendeexperiment](3-4.qmd) för att i praktiken hitta egna bra anledningar hävda dig själv
 konstruktivt när du har blivit besviken. Kanske märker du att du har
 svårt att tro på att dina nya beteenden kommer att fungera över tid. Det
 är helt normalt. Du har förmodligen tänkt dina gamla tankar och utfört
