@@ -32,7 +32,7 @@ vid den här tidpunkten. Om du inte hittar svaret på något du undrar
 
 ### 1. ”Varför misslyckas jag med mitt beteendeexperiment?”
 
-![](sites/respekt/media/image/aktivacirkeln-redux-E-slinga.svg){style=”width: 600px; max-width: 600px; max-height: 600px; height: 600px; margin:1em 0;”}
+![](sites/respekt/media/image/aktivacirkeln-redux-E-slinga.svg)
 
 Det går inte att misslyckas med ett beteendeexperiment. Antingen går det
 precis som man vill -- så bra, då! Eller så händer det värsta du kan

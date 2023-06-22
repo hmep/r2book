@@ -52,7 +52,7 @@ Begrunda bilden nedan en stund. Börja längst upp och följ pilarna runt
 ett helt varv.
 
 
-![](sites/respekt/media/image/ångestcirkeln-redux-B-slinga.svg){style=”width: 600px; max-width: 600px; max-height: 600px; height: 600px; margin:1em 0;”}
+![](sites/respekt/media/image/ångestcirkeln-redux-B-slinga.svg)
 
 Som du ser finns det en stor och uppenbar fördel med undvikande: *Du slipper
 ångesten direkt*! Det är att du slipper ångest som är den stora vinsten med att
@@ -111,7 +111,7 @@ med att aktivera dig och söka upp olika slags situationer som väcker
 ångest som du själv kan relatera till just nu.
 
 
-![](sites/respekt/media/image/aktivacirkeln-redux-E-slinga.svg){style=”width: 600px; max-width: 600px; max-height: 600px; height: 600px; margin:1em 0;”}
+![](sites/respekt/media/image/aktivacirkeln-redux-E-slinga.svg)
 
 Skulle du vilja låta ångest bli en signal om att det finns något nytt att lära i
 situationen som väcker ångest, snarare än att du måste undvika situationen? Det
