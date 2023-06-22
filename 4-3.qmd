@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: Repig grammofonskiva-teknik för att säga ”nej”
+title: Repig grammofonskiva-teknik för att säga ’nej’
 ---
 
 Små barn är experter på den här tekniken, med vilken du upprepar din
@@ -13,7 +13,7 @@ smarta, vältaliga personer, eftersom det enda du måste göra är att hålla
 dig till det du vill säga. Tekniken hjälper dig att behålla lugnet
 eftersom du inte behöver tänka på vad du ska säga för att inte falla i
 irrelevanta logiska fällor; du behöver bara hålla rak kurs mot ditt mål.
-Tekniken är särskilt bra i situationer när du vill säga 'nej' (vi går in
+Tekniken är särskilt bra i situationer när du vill säga ’nej’ (vi går in
 på det här mer i detalj i modul 6).
 
 ## Exempel på repig grammofonskiva-tekniken

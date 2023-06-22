@@ -9,7 +9,7 @@ flera av de återstående modulerna att göra övningarna i -- utifrån din egen
 helst önskar att träna på.
 
 -   Vi tittar närmare på [varför det ibland är svårt att säga
-    'nej', och hur vi kan bli bättre på det](6-0.qmd). Det är viktigt för att
+    ’nej’, och hur vi kan bli bättre på det](6-0.qmd). Det är viktigt för att
     minska stressen i livet.
 -   Vi går också genom hur vi kan [hantera kritik på ett
     konstruktivt sätt](7-0.qmd). Att kunna ta och ge kritik på ett konstruktivt
