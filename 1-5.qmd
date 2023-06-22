@@ -65,12 +65,12 @@ att orka fortsätta träna på det som du tycker är både viktigt och svårt.
 ## Dina egen mål
 
 Nu är det din tur. Ta hjälp av kartläggningen du gjorde nyss, och formulera ett
-eller några första egna mål för behandlingen. Ge dig själv lite tid att hitta
+eller några första egna mål för högre grad av konstruktiv självhävdelse. Ge dig själv lite tid att hitta
 mål som är lagom svåra -- med det menas att de ska vara realistiska men
 samtidigt utmanande och aningen ångestväckande. Det är när du handlar på ett
 sätt som du vill, trots visst obehag, som du ger dig själv en chans till
 nyinlärning och kan bredda din beteenderepertoar.
 
 ::: {.content-visible when-format="html"}
-[Mål för behandlingen (PDF)](forms/4f1b5b6c8b7a92eb516892f5f44e84e7.pdf)
+[Mina mål: självhävdelsebeteenden att öka (PDF)](forms/4f1b5b6c8b7a92eb516892f5f44e84e7.pdf)
 :::
