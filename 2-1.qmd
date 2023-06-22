@@ -15,7 +15,7 @@ title: Passiv kommunikation
     människors förmåga att klara av besvikelser, axla ansvar eller
     hantera sina egna problem.
 
-![](sites/respekt/media/image/canvas-passiv-slinga-X.svg){style=”width: 400px; height: 400px; margin: 1em 0px 0px;”}
+![](sites/respekt/media/image/canvas-passiv-slinga-X.svg)
 
 ## Verbala kännetecken
 

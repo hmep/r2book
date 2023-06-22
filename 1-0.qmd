@@ -38,17 +38,17 @@ vilka ord, vilket tonläge och vilket kroppsspråk du använder. Vi kommer
 att diskutera de här skillnaderna mer i detalj i avsnitten om
 icke-verbala kännetecken för respektive kommunikationsstil.
 
-![](/sites/respekt/media/image/canvas-aggressiv-slinga-X.svg){style=”width: 400px; height: 400px; margin: 1em 0px 0px;”}
+![](/sites/respekt/media/image/canvas-aggressiv-slinga-X.svg)
 
 **Aggressiv kommunikation** kränker andra personers rättigheter. De egna
 behoven har överhanden.
 
-![](/sites/respekt/media/image/canvas-konstruktiv-slinga-X.svg){style=”width: 400px; height: 400px; margin: 1em 0px 0px;”}
+![](/sites/respekt/media/image/canvas-konstruktiv-slinga-X.svg)
 
 **Konstruktivt självhävdande kommunikation** respekterar både andra
 personers rättigheter och dina egna rättigheter.
 
-![](/sites/respekt/media/image/canvas-passiv-slinga-X.svg){style=”width: 400px; height: 400px; margin: 1em 0px 0px;”}
+![](/sites/respekt/media/image/canvas-passiv-slinga-X.svg)
 
 **Passiv kommunikation** kränker dina egna rättigheter till förmån för
 andra personers behov.
