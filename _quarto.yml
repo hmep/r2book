@@ -19,7 +19,7 @@ book:
   cookie-consent: false
   chapters:
     - index.qmd
-    - part: "Vecka 1: Introduktion"
+    - part: "Vecka 1: Introduktion och mål"
       chapters:
         - 1-0.qmd
         - 1-1.qmd

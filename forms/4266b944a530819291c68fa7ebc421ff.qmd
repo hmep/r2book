@@ -26,35 +26,6 @@ Hindrande tankar är inte fakta. De är helt enkelt bara förutsägelser och ås
 - När jag säger ’ja’ till en sak säger jag faktiskt också ’nej’ till något annat. Jag har alltid en valmöjlighet, och jag gör val hela tiden.
 - Människor som har svårt att säga ’nej’ överskattar ofta svårigheten som den andra personen skulle ha att acceptera ett nekande svar. Vi litar inte på att de klarar av att höra ett ’nej’. Genom att vi uttrycker våra känslor öppet och fritt kan vi faktiskt hjälpa den andra personen att uttrycka sina känslor. När vi säger ’nej’ till någon visar vi att också de kan säga ’nej’ till dina frågor – samtidigt som frågan även fortsättningsvis är fri.
 
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
+\xfline{Fler hjälpande antaganden som jag kan komma på}{8}{}
 
 {{< include ../_pdf_footer.qmd >}}

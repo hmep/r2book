@@ -38,24 +38,7 @@ och mer flexibelt till dem.
 - Folk ska hålla sina känslor för sig själva.
 - Om jag visar att jag har ångest kommer andra människor tycka att jag är svag och förlöjliga eller utnyttja mig.
 - Om jag tar emot och accepterar en komplimang från någon betyder det att jag förhäver mig själv.
-- Att hävda behov eller säga ’nej’ är oförskämt och aggressivt, det visar att jag är självisk och inte bryr mig om andra.
-- Om jag hävdar behov eller säger ’nej’ kommer den andra personen att bli upprörd och känna sig avvisad.
-- Om jag hävdar behov eller säger ’nej’ till någon kommer den personen inte längre att tycka om mig.
-- Andras behov är viktigare än mina behov.
-- Jag måste alltid försöka behaga och hjälpa andra.
-- Att säga ’nej’ till småsaker är larvigt och småsint.
 
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
+\xfline{Fler hindrande antaganden som jag märker att jag följer}{6}{}
 
 {{< include ../_pdf_footer.qmd >}}

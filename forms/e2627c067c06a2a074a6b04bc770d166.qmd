@@ -32,31 +32,6 @@ Det finns flera avslappningstekniker som du kan använda för att sänka den fys
 - Andningsövningar
 - Tai chi
 
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
+\xfline{Fler sätt att sänka spänningsnivån som jag vill påminna mig om}{8}{}
 
 {{< include ../_pdf_footer.qmd >}}

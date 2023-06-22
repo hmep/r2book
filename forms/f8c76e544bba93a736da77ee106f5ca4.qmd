@@ -33,31 +33,6 @@ Precis som alla andra människor har du rätt att hävda dina tankar, känslor, 
 -   Jag har rätt att säga ”Jag förstår inte”.
 -   Jag har rätt att säga ”Jag bryr mig inte”.
 
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
+\xfline{Fler rättigheter som jag kan komma på}{8}{}
 
 {{< include ../_pdf_footer.qmd >}}

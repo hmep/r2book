@@ -28,25 +28,6 @@ Vilka skäl att utföra beteendeexperiment vill du skriva under på? Kryssa för
 -   Jag vill få mer av det jag värdesätter.
 -   Jag vill utveckla mitt självförtroende, min självkänsla och öka upplevelsen av att jag är kapabel och kompetent.
 
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
+\xfline{Fler skäl att utföra beteendeexperiment som jag kan komma på}{8}{}
 
 {{< include ../_pdf_footer.qmd >}}

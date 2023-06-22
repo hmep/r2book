@@ -23,40 +23,6 @@ Hur kan du optimera dina odds att utföra beteendet "träna på progressiv avsla
 
 Kort och gott: skriv ned din plan för träning i progressiv avslappning under den kommande veckan.
 
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
-
-\xvskip
-\hrule
+\xfline{Min träningsplan för veckan om kommer}{10}{}
 
 {{< include ../_pdf_footer.qmd >}}
