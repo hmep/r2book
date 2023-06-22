@@ -3,4 +3,4 @@ lang: sv
 title: Mängdträna på att ge komplimanger
 ---
 
-{{< week-6-7-generic.qmd >}}
+{{< include week-6-7-generic.qmd >}}
