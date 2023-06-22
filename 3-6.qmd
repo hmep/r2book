@@ -9,7 +9,6 @@ title: Sammanfattning
     kommer också skyldigheter. Vi har ett ansvar mot oss själva och de
     personer som vi interagerar med. Konstruktiv självhävdelse handlar
     om att maximera respekten för båda parter.
-    <p>![](/sites/respekt/media/image/canvas-konstruktiv-slinga-X.svg)</p>
 -   Passiva och aggressiva självhävdelsestilar är förknippade med olika
     former av undvikande av faktiska situationer och/eller flykt från
     kroppsupplevelser som ångest. Att bli rasande arg kan till exempel
@@ -27,6 +26,8 @@ title: Sammanfattning
 -   Med KBT, som i det här självhjälpsmaterialet, använder
     du beteendeexperiment för att ersätta undvikande med aktivt
     deltagande i livet.
+
+![Konstruktiv självhävdelse innebär att man handlar på ett sätt som maximerar respekten för både egna och andras rättigheter.](/sites/respekt/media/image/canvas-konstruktiv-slinga-X.svg)
 
 ::: {.callout-note}
 ## Om nästa modul
