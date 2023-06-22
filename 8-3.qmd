@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: Sammanfattning och återkoppling på innehållet
+title: Sammanfattning
 ---
 
 -   Vi blir alla besvikna i livet. Det går inte att gardera sig mot

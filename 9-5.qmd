@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: Sammanfattning och återkoppling på innehållet
+title: Sammanfattning
 ---
 
 -   Det är en viktig hävda sig själv-färdighet och en viktig social

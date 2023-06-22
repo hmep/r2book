@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: Sammanfattning och återkoppling på innehållet
+title: Sammanfattning
 ---
 
 -   Vi blir alla kritiserade. Att kunna ta emot konstruktiv kritik är en
