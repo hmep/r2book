@@ -60,6 +60,6 @@ förutsägelser gör du om vad som ska hända om du säger 'nej'? Vilka
 förutsägelser gör du om din förmåga att klara av det som skulle hända om
 du sa 'nej'? Skriv ned dem i arbetsbladet.
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 [Hindrande antaganden (PDF)](forms/f0a1c31a82f11d157bae31eddf7ddc1f.pdf)
 :::

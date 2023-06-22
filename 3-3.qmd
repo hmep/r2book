@@ -11,9 +11,9 @@ beteendeexperiment mycket användbart för att aktivera sig i livet och
 utvärdera hur det gick. Beteendeexperiment handlar om att utmana sina
 negativa förväntningar och att bryta undvikande. 
 
-Någon kanske till exempel har den negativa förutsägelsen "Om jag hävdar
+Någon kanske till exempel har den negativa förutsägelsen ”Om jag hävdar
 mig själv kommer den andra personen att bli upprörd och vår relation
-kommer att bli förstörd". För personen som tänker så har antagandet
+kommer att bli förstörd”. För personen som tänker så har antagandet
 inneburit att han eller hon alltid har gått med på vad andra
 föreslagit även om det har gått helt emot vad personen egentligen har
 velat göra. Förutsägelsen är så starkt att personen inte ens kan tänka
@@ -32,9 +32,9 @@ hjälpsamt att planera det så bra som möjligt. I det här programmet får
 du träna på det! Det kan vara klokt att börja med ett lite enklare
 experiment och gradvis gå vidare med allt mer utmanande situationer.
 
-*Det övergripande målet med hela det här träningsprogrammet är att lära
+*Det övergripande målet med hela det här självhjälpsmaterialet är att hjälpa dig att lära
 dig att göra beteendeexperiment så att du kan fortsätta med det i ditt
-eget liv -- hela livet ut! Det är en bärbar färdighet som kan hjälpa dig
+eget liv -- hela livet ut! Det är en högst bärbar färdighet som kan dra nytta av 
 var du än är i livet.*
 
 ## Beteendeexperiment, steg för steg
@@ -69,11 +69,11 @@ steg.
 
 ## Exempel på ett beteendeexperiment
 
-Här beskriver vi ett experiment som prövar antagandet "Om jag hävdar mig
+Här beskriver vi ett experiment som prövar antagandet ”Om jag hävdar mig
 själv kommer den andra personen att bli upprörd och vår relation kommer
-att bli förstörd".
+att bli förstörd”.
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 [Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/be-exempel.pdf)
 :::
 

@@ -28,10 +28,10 @@ snabbt satte sig i säkerhet när de konfronterades med livsfarliga hot.
 Du kommer kanske ihåg benämningen *fight or flight*-reaktioner från
 biologilektionerna? 
 
-Upplevelsen av rädsla brukar inte vara särskilt försynt, som i \"det
+Upplevelsen av rädsla brukar inte vara särskilt försynt, som i ”det
 kanske vore fördelaktigt att börja fundera på att sätta ned den
 gulliga björnungen så att den kan springa till den väldigt arga
-björnmamman där borta\". Rädsloreaktionerna är direkta och automatiska.
+björnmamman där borta”. Rädsloreaktionerna är direkta och automatiska.
 Pang! Och så märker du plötsligt att du har lämnat björnungen i fred
 och springer bort från hotet. Inlärningen som sker i samband med rädsla
 brukar vara så stark att du sedan -- omedvetet eller medvetet -- till
@@ -52,7 +52,7 @@ Begrunda bilden nedan en stund. Börja längst upp och följ pilarna runt
 ett helt varv.
 
 
-![](sites/respekt/media/image/ångestcirkeln-redux-B-slinga.svg){style="width: 600px; max-width: 600px; max-height: 600px; height: 600px; margin:1em 0;"}
+![](sites/respekt/media/image/ångestcirkeln-redux-B-slinga.svg){style=”width: 600px; max-width: 600px; max-height: 600px; height: 600px; margin:1em 0;”}
 
 Som du ser finns det en stor och uppenbar fördel med undvikande: *Du slipper
 ångesten direkt*! Det är att du slipper ångest som är den stora vinsten med att
@@ -73,15 +73,14 @@ istället att du måste fortsätta undvika varje gång du är rädd. Ditt liv b�
 krympa. Det finns ju alltid något nytt att oroa sig för eller grubbla över.
 Eftersom vi som art under evolutionen har utrustats med en kraftfull förmåga att
 uppleva ångest -- och en önskan om att slippa den -- kan försöken att hålla
-ångesten borta få \"livet att krympa\". Det vill säga att du missar allt mer av
-det du värdesätter, både i relation till dina målsättningar i det här
-träningsprogrammet och i din vardag i stort.
+ångesten borta få ”livet att krympa”. Det vill säga att du missar allt mer av
+det du värdesätter, både i relation till dina målsättningar som du formulerat när du jobbat med det här självhjälpsmaterialet och i din vardag i stort.
 
 Tyvärr innebär det i sin tur att du kanske *dessutom* börjar tänka
 katastroftankar om kommande händelser och/eller klandra dig själv för att du har
 det svårt, vilket ofta är förknippat med känslor av skam. Du kan lägga märke
-till det i form av tankar som \"varför måste jag vara så dålig på \...\", \"jag
-måste skärpa mig \...\", \"jag kommer aldrig att klara av \...\". Och så vidare.
+till det i form av tankar som ”varför måste jag vara så dålig på \...”, ”jag
+måste skärpa mig \...”, ”jag kommer aldrig att klara av \...”. Och så vidare.
 Genom undvikande som fenomen hänger ångest därigenom också ihop med depression
 -- och länken är dubbelriktad. När du undviker på grund av ångest riskerar du
 att bli nedstämd, eftersom du tappar kontakt med sådant som är belönande i livet
@@ -112,7 +111,7 @@ med att aktivera dig och söka upp olika slags situationer som väcker
 ångest som du själv kan relatera till just nu.
 
 
-![](sites/respekt/media/image/aktivacirkeln-redux-E-slinga.svg){style="width: 600px; max-width: 600px; max-height: 600px; height: 600px; margin:1em 0;"}
+![](sites/respekt/media/image/aktivacirkeln-redux-E-slinga.svg){style=”width: 600px; max-width: 600px; max-height: 600px; height: 600px; margin:1em 0;”}
 
 Skulle du vilja låta ångest bli en signal om att det finns något nytt att lära i
 situationen som väcker ångest, snarare än att du måste undvika situationen? Det
@@ -122,8 +121,7 @@ faktiska erfarenheter.
 ## Börja göra beteendeexperiment
 
 I den aktiva cirkeln finns det ett antal fördelar med att testa att
-utföra målbeteenden (både för det här träningsprogrammet och i livet i
-stort) och att sedan utvärdera hur det gick. Det är det som kallas
+utföra målbeteenden och att sedan utvärdera hur det gick. Det är det som kallas
 *beteendeexperiment* eller *exponering*.
 
 ::: {.callout-warning}
@@ -131,7 +129,7 @@ Ibland är högt tempo och hög aktivitet i sig
 ett sätt att undvika känslor av ångest. Då gäller det att fundera på
 vilken funktion den höga aktivitetsnivån fyller. Om det handlar om
 minskning av ångest i olika situationer så är det inte den typ av
-\"aktivt deltagande\" som avses här. Aktivt deltagande för en stressad
+”aktivt deltagande” som avses här. Aktivt deltagande för en stressad
 person skulle mycket väl kunna vara att göra avslappningsövningar och
 komma i kontakt med sina känslor. Och att träna på att säga nej! (Vi
 återkommer till det i modul 5 och framåt.)
@@ -196,6 +194,6 @@ sätt formulerar under programmets gång.
 
 ## Mina skäl att utföra beteendeexperiment
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 [Mina skäl att utföra beteendeexperiment (PDF)](forms/685a783a50dbba968d52df296ff035f0.pdf)
 :::

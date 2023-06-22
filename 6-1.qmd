@@ -8,13 +8,13 @@ förutsägelser och åsikter som vi har lärt oss. Var och en av dem kan
 vägas mot en mer hjälpsam förutsägelse eller åsikt om vikten av att
 kunna säga 'nej'. I listan nedan finns några av dem.
 
--   "Andra människor har rätt att fråga, och jag har rätt att neka en
-    fråga."
--   "När jag säger 'nej' nekar jag till en begäran, inte personen
-    framför mig."
--   "När jag säger 'ja' till en sak säger jag faktiskt också 'nej' till
+-   ”Andra människor har rätt att fråga, och jag har rätt att neka en
+    fråga.”
+-   ”När jag säger 'nej' nekar jag till en begäran, inte personen
+    framför mig.”
+-   ”När jag säger 'ja' till en sak säger jag faktiskt också 'nej' till
     något annat. Jag har alltid en valmöjlighet, och jag gör val hela
-    tiden."
+    tiden.”
 -   Människor som har svårt att säga 'nej' överskattar ofta svårigheten
     som den andra personen skulle ha att acceptera ett nekande svar. Vi
     litar inte på att de klarar av att höra ett 'nej'. Genom att vi
@@ -28,7 +28,7 @@ kunna säga 'nej'. I listan nedan finns några av dem.
 Se om du kan finna ytterligare hjälpsamt tänkande i form av egna
 förutsägelser om nyttan med att säga 'nej'.
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 [Hjälpande antaganden (PDF)](forms/4266b944a530819291c68fa7ebc421ff.pdf)
 :::
 
@@ -43,6 +43,6 @@ länge, så att de numera kommer helt automatiskt för dig. Det kommer ta
 lite tid innan det nya handlandet blir lika automatiserat och självklart
 som det gamla har varit. Fortsätt öva så kommer de att automatiseras.
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 [Planera och genomför ett beteendeexperiment (PDF)](forms/be.pdf)
 :::

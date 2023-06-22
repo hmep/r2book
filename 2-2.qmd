@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: "Aggressiv kommunikation"
+title: ”Aggressiv kommunikation”
 ---
 
 ## Definition
@@ -12,7 +12,7 @@ title: "Aggressiv kommunikation"
 -   Du behåller övertaget genom att du trycker ned andra.
 -   Du attackerar när du känner dig hotad.
 
-![](/sites/respekt/media/image/canvas-aggressiv-slinga-X.svg){style="width: 400px; height: 400px; margin: 1em 0px 0px;"}
+![](/sites/respekt/media/image/canvas-aggressiv-slinga-X.svg){style=”width: 400px; height: 400px; margin: 1em 0px 0px;”}
 
 ## Verbala kännetecken
 
@@ -23,19 +23,19 @@ title: "Aggressiv kommunikation"
 -   Fast, stark röst
 -   Tonen sarkastisk, kall och hård
 -   Ofta gäll och ibland skrikande röst som stiger mot slutet
--   Användande av hot, exempelvis "Det är bäst att du passar dig ..."
-    eller "Om du inte gör som jag säger så ..."
--   Dömande tal, exempelvis "Du måste skoja med mig ..." eller "Var
-    inte så löjlig ..."
--   Värderande kommentarer, med tonvikten lagd på ord som "borde",
-    "dålig", "skulle ha" och så vidare
+-   Användande av hot, exempelvis ”Det är bäst att du passar dig ...”
+    eller ”Om du inte gör som jag säger så ...”
+-   Dömande tal, exempelvis ”Du måste skoja med mig ...” eller ”Var
+    inte så löjlig ...”
+-   Värderande kommentarer, med tonvikten lagd på ord som ”borde”,
+    ”dålig”, ”skulle ha” och så vidare
 -   Sexistiska och rasistiska kommentarer
--   Skryt, exempelvis "Jag har inte sådana problem som du har"
--   Åsikter uttrycks som fakta, exempelvis "Ingen vill bete sig på det
-    sättet" eller "Det är ett värdelöst sätt att göra det på"
--   Hotfulla frågor och förminskande kommentarer, exempelvis "Men är du
-    inte klar med det där ännu?" eller "Varför i hela friden gör du det
-    där?"
+-   Skryt, exempelvis ”Jag har inte sådana problem som du har”
+-   Åsikter uttrycks som fakta, exempelvis ”Ingen vill bete sig på det
+    sättet” eller ”Det är ett värdelöst sätt att göra det på”
+-   Hotfulla frågor och förminskande kommentarer, exempelvis ”Men är du
+    inte klar med det där ännu?” eller ”Varför i hela friden gör du det
+    där?”
 
 ## Icke-verbala kännetecken
 
@@ -50,9 +50,9 @@ title: "Aggressiv kommunikation"
 
 ## Kognitiv stil (tänkande)
 
--   "Jag tar dig innan du får en chans att ta mig."
--   "Jag ska vara först."
--   "Världen är ett slagfält och jag är här för att segra."
+-   ”Jag tar dig innan du får en chans att ta mig.”
+-   ”Jag ska vara först.”
+-   ”Världen är ett slagfält och jag är här för att segra.”
 
 ## Fördelar
 

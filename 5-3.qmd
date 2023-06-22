@@ -38,14 +38,12 @@ Och viktigast av allt: När du läser in din egen inspelning blir du *din
 egen avslappningsguru*! Övningarna du har gjort under tidigare moduler
 har en nackdel -- du riskerar att lära dig att bero av ljudfilerna och
 videofilmerna för att kunna slappna av. Målet med det här
-träningsprogrammet är att du ska bli din egen terapeut. Det blir
-du snabbast och bäst genom att träna på att säga \"slappna av\" till dig
-själv samtidigt som du slappnar av på djupet. 
+självhjälpsmaterialet är att du ska kunna använda färdigheterna som du tränar på spontant och utan hjälpmedel.
 
 Texten nedan är inte exakt densamma som den vi har läst in på
 ljudfilerna. Det gör inget alls. Du kan själv anpassa och justera texten
 så att den passar precis just dig. Det viktiga är (som med det mesta i
-livet) inte att det blir perfekt -- det viktiga är att det blir gjort!
+livet) inte att det blir perfekt -- det viktiga är att du hittar det som fungerar.
 
 ## Repetition: så funkar progressiv muskelavslappning
 
@@ -129,7 +127,7 @@ spänner dig.**
     muskelspänning och -avslappning. Upprepa en gång.
 10. Pressa tungan hårt mot gommen. Slappna sedan av och låt tungan falla
     ned igen. Upprepa.
-11. Pressa samman läpparna och forma dem till ett "O". Slappna sedan av
+11. Pressa samman läpparna och forma dem till ett ”O”. Slappna sedan av
     i läpparna. Repetera. Se till att resten av ansiktet fortfarande är
     avslappnat.
 12. Flytta uppmärksamheten till bröstet. Andas in och fyll dina lungor
@@ -163,6 +161,6 @@ avslappnad. Res inte på dig för snabbt, eftersom det kan göra att du
 blodtryck, så om du reser dig för snabbt kan du bli lite yr.
 :::
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 [Manus för progressiv avslappning (PDF)](forms/manus-progressiv-avslappning.pdf)
 :::

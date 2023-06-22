@@ -13,8 +13,8 @@ uppdaterat vårt tänkande fast vi har rört på oss och lämnat de
 upplevelserna bakom oss. Kanske har vi till exempel fått lära oss av
 våra familjer att vi riskerar att bli förlöjligade om vi visar att vi är
 ledsna. Då är det inte så konstigt om det har resulterat i antagandet
-"att uttrycka ledsenhet är dåligt, om jag gör det kommer andra att se
-ned på mig". Även om vi har blivit äldre och inte längre befinner oss i
+”att uttrycka ledsenhet är dåligt, om jag gör det kommer andra att se
+ned på mig”. Även om vi har blivit äldre och inte längre befinner oss i
 den ursprungliga situationen kan antagandet finnas kvar. Vi fortsätter
 att utgå från att våra antaganden är sanna, utan att testa
 sanningshalten i dem. Ett resultat av det kan vara att vi inte uttrycker
@@ -25,26 +25,26 @@ själva eller andra människor.
 Här är en lista med tänkande som typiskt sett inte är konstruktivt
 självhävdande. Se om några av exemplen stämmer in på dig.
 
--   "Jag borde inte säga vad jag verkligen känner eller tänker eftersom
-    jag inte vill tynga ned andra med mina problem."
--   "Om jag hävdar mig själv kommer den andra personen att bli upprörd
-    och det kommer förstöra vår relation."
--   "Det blir bara hemskt pinsamt om jag säger vad jag tänker."
--   "Om någon säger 'nej' till min begäran är det för att personen inte
-    tycker om mig eller älskar mig."
--   "Jag borde inte behöva säga vad jag behöver eller hur jag känner:
-    Människor som står nära mig borde redan veta vad det är."
--   "Att säga vad man tycker visar att man inte bryr sig om andra, det
-    är oförskämt och själviskt."
--   "Jag har ingen rätt att ändra mig i en fråga; det har inte andra
-    heller."
--   "Det löser sig på något sätt ändå, och hur som helst är det inte
-    mitt fel."
--   "Folk ska hålla sina känslor för sig själva."
--   "Om jag visar att jag har ångest kommer andra människor tycka att
-    jag är svag och förlöjliga eller utnyttja mig."
--   "Om jag tar emot och accepterar en komplimang från någon betyder det
-    att jag förhäver mig själv."
+-   ”Jag borde inte säga vad jag verkligen känner eller tänker eftersom
+    jag inte vill tynga ned andra med mina problem.”
+-   ”Om jag hävdar mig själv kommer den andra personen att bli upprörd
+    och det kommer förstöra vår relation.”
+-   ”Det blir bara hemskt pinsamt om jag säger vad jag tänker.”
+-   ”Om någon säger 'nej' till min begäran är det för att personen inte
+    tycker om mig eller älskar mig.”
+-   ”Jag borde inte behöva säga vad jag behöver eller hur jag känner:
+    Människor som står nära mig borde redan veta vad det är.”
+-   ”Att säga vad man tycker visar att man inte bryr sig om andra, det
+    är oförskämt och själviskt.”
+-   ”Jag har ingen rätt att ändra mig i en fråga; det har inte andra
+    heller.”
+-   ”Det löser sig på något sätt ändå, och hur som helst är det inte
+    mitt fel.”
+-   ”Folk ska hålla sina känslor för sig själva.”
+-   ”Om jag visar att jag har ångest kommer andra människor tycka att
+    jag är svag och förlöjliga eller utnyttja mig.”
+-   ”Om jag tar emot och accepterar en komplimang från någon betyder det
+    att jag förhäver mig själv.”
 
 ## Mina egna hindrande antaganden
 
@@ -53,6 +53,6 @@ hindrande antaganden som du har i relationer/situationer som du vill
 utmana dig själv i. Utgå från situationer som du tagit med i arbetsbladet 
 med dina SMARTa målsättningar, som du formulerade i modul 1.
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 [Hindrande antaganden (PDF)](forms/f0a1c31a82f11d157bae31eddf7ddc1f.pdf)
 :::

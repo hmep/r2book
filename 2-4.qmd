@@ -69,9 +69,9 @@ svårigheter än att till exempel döma sig själv för att det är jobbigt.
 Vi vill uppmana dig att under resten av behandlingen lägga märke till om du
 börjar klandra dig själv för att du har känt obehag när du har gjort något svårt
 (som att säga nej på ett konstruktivt sätt, eller att säga vad du tycker i ett
-socialt sammanhang). Om du märker att du tänker saker som \"jag kommer aldrig
-klara av hela det här programmet\" eller \"det spelar ingen roll hur mycket jag
-försöker, det går åt h-vete i alla fall\" -- påminn dig då om att ångesten du
+socialt sammanhang). Om du märker att du tänker saker som ”jag kommer aldrig
+klara av hela det här programmet” eller ”det spelar ingen roll hur mycket jag
+försöker, det går åt h-vete i alla fall” -- påminn dig då om att ångesten du
 kände när du stannade kvar i den där jobbiga situationen är ett kvitto på att du
 lade en byggsten i utvecklandet av en ny och bredare beteenderepertoar.
 
@@ -97,6 +97,6 @@ dig närmare det som är viktigt för dig? Att stanna hemma eller att erkänna
 ångesten och låta den följa med till tillställningen (med all den självmedkänsla
 du kan uppbåda)?
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 [Kartläggning av obehag och motivation (PDF)](forms/obehag-motivation-reflektion.pdf)
 :::

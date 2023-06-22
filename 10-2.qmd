@@ -45,8 +45,8 @@ sätt i någon av ovanstående situationer, ta med den situationen i din
 lista. Upprätta sedan en hierarki -- det vill säga att rangordna
 situationerna från lättast till svårast. Gör en skattning av hur
 besvärligt du upplever att det är att hävda dig själv varje situation,
-från 0 till 100. En skattning om "0" betyder att situationen inte är
-svår alls att hävda dig själv i. En skattning om "100" betyder att det
+från 0 till 100. En skattning om ”0” betyder att situationen inte är
+svår alls att hävda dig själv i. En skattning om ”100” betyder att det
 är den mest ansträngande uppgift du över huvud taget kan tänka dig att
 utföra. Med dessa referenspunkter kan du tänka ut var situationerna på
 din lista hamnar på skalan 0--100, från lättast till svårast.

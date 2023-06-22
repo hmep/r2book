@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: "Uppgift: Formulera dina första mål för träningsprogrammet"
+title: "Uppgift: Formulera dina första mål för din träning i självhävdelse"
 ---
 
 Under de kommande veckorna kommer du att få träna på att hävda dig själv
@@ -12,16 +12,16 @@ Om du inte redan har tittat på den här filmsnutten -- gör det nu!
 
 {{< video https://www.youtube.com/embed/fAlPVh76lHI >}}
 
-## Vad är ett \"SMART\" mål?
+## Vad är ett ”SMART” mål?
 
-När du nu formulerar ditt eget mål, använd formeln \"SMART\". Med det
+När du nu formulerar ditt eget mål, använd formeln ”SMART”. Med det
 menas målet så långt det är möjligt bör vara S) specifikt, M) mätbart,
 A) acceptabelt (i meningen nåbart, *attainable* på engelska), R) realistiskt och T) tidssatt.
 Här är några exempel på mer eller mindre SMARTa målsättningar:
 
--   *\"Mitt mål är att säga nej till min chef när hen frågar om jag kan
+-   *”Mitt mål är att säga nej till min chef när hen frågar om jag kan
     arbeta över på onsdagar och torsdagar under de kommande 8
-    veckorna.\"*
+    veckorna.”*
     -   S? Är målet specifikt? Ja!
     -   M? Är det mätbart? Ja, det går att räkna antal gånger personen
         säger nej till chefen.
@@ -30,22 +30,22 @@ Här är några exempel på mer eller mindre SMARTa målsättningar:
         faktiskt kommer att be personen att jobba över.
     -   T? Är det tidssatt? Ja, det gäller vissa dagar (onsdagar och
         torsdagar) under en begränsad tid (8 veckor).
--   *\"Mitt mål är att säga \'Jag älskar dig\' till min partner 3 gånger
-    under veckan som kommer\"*
+-   *”Mitt mål är att säga \'Jag älskar dig\' till min partner 3 gånger
+    under veckan som kommer”*
     -   Utvärdera själv om målet är SMART!
--   *\"Mitt mål är att under de kommande 4 veckorna knacka på hos
+-   *”Mitt mål är att under de kommande 4 veckorna knacka på hos
     grannen och att utan att tappa humöret och börja skälla förklara att
     jag har svårt att sova på grund av den höga ljudvolymen, varje gång
-    grannen spelar högt på stereon efter 22:30 på vardagskvällar\"*
+    grannen spelar högt på stereon efter 22:30 på vardagskvällar”*
     -   Utvärdera själv om målet är SMART!
--   *\"Mitt mål är att sluta vara så mesig och ta mig i kragen i sociala
-    sammanhang\"*
+-   *”Mitt mål är att sluta vara så mesig och ta mig i kragen i sociala
+    sammanhang”*
     -   Tänk efter -- tycker du att det här målet var särskilt SMART?
         Varför inte?
 
 När du formulera ditt mål på formeln SMART gör du det det möjligt för dig själv
-att märka när du har uppnått det. Det kopplar loss utvärderingen från \"hur det
-känns\" -- ibland kan man framgångsrikt göra något svårt och viktigt fast det
+att märka när du har uppnått det. Det kopplar loss utvärderingen från ”hur det
+känns” -- ibland kan man framgångsrikt göra något svårt och viktigt fast det
 inte alls känns roligt när man gör det. Ett SMART mål gör det på så sätt möjligt
 för dig att registrera både bakslag och framgångar med lite distans till
 känslorna. Kanske känns det provocerande att minska betydelsen av känslorna. Kom
@@ -71,6 +71,6 @@ samtidigt utmanande och aningen ångestväckande. Det är när du handlar på et
 sätt som du vill, trots visst obehag, som du ger dig själv en chans till
 nyinlärning och kan bredda din beteenderepertoar.
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 [Mål för behandlingen (PDF)](forms/4f1b5b6c8b7a92eb516892f5f44e84e7.pdf)
 :::

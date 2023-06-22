@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: Repig grammofonskiva-teknik för att säga \"nej\"
+title: Repig grammofonskiva-teknik för att säga ”nej”
 ---
 
 Små barn är experter på den här tekniken, med vilken du upprepar din

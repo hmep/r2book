@@ -19,11 +19,11 @@ Kritik kan antingen vara konstruktiv eller destruktiv. Konstruktiv
 kritik är utformad för att ge genuin återkoppling på ett hjälpsamt och
 icke-hotande sätt, för att personen som får kritiken ska kunna lära sig
 något nytt och växa i något visst avseende. Återkopplingen är typiskt
-valid, det vill säga att det är en sann kritik, exempelvis "Jag tyckte
+valid, det vill säga att det är en sann kritik, exempelvis ”Jag tyckte
 mycket om hur du lade upp strukturen för rapporten; jag tror att den kan bli ännu bättre
-om du ägnar tid åt att rätta de språkliga slarvfelen." Destruktiv kritik är
+om du ägnar tid åt att rätta de språkliga slarvfelen.” Destruktiv kritik är
 varken valid eller sann, eller så är den valid men ges på ett sätt som
 är ohjälpsamt. Den destruktiva kritiken ges ofta av någon som
 inte har tänkt eller ordentligt, eller som vill skämma ut eller skada
-mottagaren, exempelvis "Den här rapporten är gräslig, din stavning är
-förskräcklig."
+mottagaren, exempelvis ”Den här rapporten är gräslig, din stavning är
+förskräcklig.”

@@ -3,27 +3,27 @@ lang: sv
 title: "Uppgift: Korta ned progressiv avslappning"
 ---
 
-Kommer du ihåg att *progressiv* betyder \"gradvis framåtskridande\"?
+Kommer du ihåg att *progressiv* betyder ”gradvis framåtskridande”?
 Tanken med träning i progressiv avslappning är att du ska få möjlighet
 att bli allt bättre på att märka när du är spänd och att sänka
 spänningsgraden i stunden.
 
 Du som redan har tränat progressiv avslappning del 1 och 2, växla gärna
 över till den här korta versionen nu! Du som inte har kommit igång med
-del 1 och 2, gör gärna den här korta versionen \"varvat\" med de mer
+del 1 och 2, gör gärna den här korta versionen ”varvat” med de mer
 grundläggande avslappningsövningarna (från de tidigare modulerna) under
 veckan som kommer.
 
 ## Kort version av progressiv avslappning
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 ### Instruktioner, enbart ljud
 
-<audio controls=""><source src="https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?raw=1" type="audio/mpeg" />Din webbläsare stödjer inte uppspelning av ljudfiler.</audio>
+<audio controls=””><source src=”https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?raw=1” type=”audio/mpeg” />Din webbläsare stödjer inte uppspelning av ljudfiler.</audio>
 
 #### Ladda ned instruktioner (mp3)
 
-[Ladda ned en mp3-fil](https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?dl=1){target="_blank"} till din mobil.
+[Ladda ned en mp3-fil](https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?dl=1){target=”_blank”} till din mobil.
 :::
 
 ## Träna snabbavslappning i vardagen
@@ -34,10 +34,10 @@ snabbavslappning. Med den här metoden kan du i vardagen skanna av var du
 
 Precis där du är i stunden, känn efter i kroppen var du är spänd. Spänn
 den muskelgruppen helt kort och slappna sedan av i den. Ta sedan ett
-djup andetag och när du andas ut tänker du \"Slappna av\" (eller någon
+djup andetag och när du andas ut tänker du ”Slappna av” (eller någon
 annan självinstruktion som känns bra för dig). 
 
 Övning: Skanna genom kroppen precis just nu, när du läser det här. Är du
 spänd någonstans? Slappna av i de musklerna (spänn dem först om det
 underlättar). Ta ett djupt andetag med magen, andas ut långsamt, säg
-\"Slappna av\" till dig själv. 
+”Slappna av” till dig själv. 

@@ -21,7 +21,7 @@ relationer. Du kommer ha igen arbetet när det blir dags att utvärdera dina
 framsteg. Om du under eller efter övningen känner dig trött eller ledsen, ge dig
 själv ett erkännande att du just nu gör ett viktigt arbete.
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 [Självskattning självhävdelse (PDF)](forms/3e06a3ff885e97710049bbcd7db8e1ca.pdf)
 :::
 

@@ -11,7 +11,7 @@ title: Konstruktivt självhävdande kommunikation
     rättigheter, och till att vara passiv och kränka dina egna
     rättigheter
 
-![](/sites/respekt/media/image/canvas-konstruktiv-slinga-X.svg){style="width: 400px; height: 400px; margin: 1em 0px 0px;"}
+![](/sites/respekt/media/image/canvas-konstruktiv-slinga-X.svg){style=”width: 400px; height: 400px; margin: 1em 0px 0px;”}
 
 ## Verbala kännetecken
 
@@ -22,20 +22,20 @@ title: Konstruktivt självhävdande kommunikation
 -   Uppriktighet och tydlighet
 -   Rösten varken överdrivet högljudd eller tyst
 -   Rösten är anpassad i styrka för situationen
--   Jag-budskap ("Jag tycker om", "Jag vill", "Jag tycker inte om") som
+-   Jag-budskap (”Jag tycker om”, ”Jag vill”, ”Jag tycker inte om”) som
     är kortfattade och kärnfulla
--   Samarbetsfraser, som "Vad tänker du om det här?"
--   Engagerade uttryck av intresse, som "Jag skulle vilja ..."
--   Åtskillnad mellan fakta och åsikter, exempelvis "Jag upplever det på
-    ett annat sätt"
--   Förslag utan "borden" eller "måsten", exempelvis "Hur skulle det
-    vara om ..." eller "Skulle du vilja ..."
--   Konstruktiv kritik utan skuldbeläggande, exempelvis "Jag känner mig
-    irriterad när du avbryter mig"
--   Efterfrågande av andras åsikter, exempelvis "Hur passar det här med
-    dina förslag?"
--   Villighet att utforska andra lösningar, exempelvis "Hur kan vi komma
-    runt det här problemet?"
+-   Samarbetsfraser, som ”Vad tänker du om det här?”
+-   Engagerade uttryck av intresse, som ”Jag skulle vilja ...”
+-   Åtskillnad mellan fakta och åsikter, exempelvis ”Jag upplever det på
+    ett annat sätt”
+-   Förslag utan ”borden” eller ”måsten”, exempelvis ”Hur skulle det
+    vara om ...” eller ”Skulle du vilja ...”
+-   Konstruktiv kritik utan skuldbeläggande, exempelvis ”Jag känner mig
+    irriterad när du avbryter mig”
+-   Efterfrågande av andras åsikter, exempelvis ”Hur passar det här med
+    dina förslag?”
+-   Villighet att utforska andra lösningar, exempelvis ”Hur kan vi komma
+    runt det här problemet?”
 
 ## Icke-verbala kännetecken
 
@@ -50,8 +50,8 @@ title: Konstruktivt självhävdande kommunikation
 
 ## Kognitiv stil (tänkande)
 
--   "Jag kommer inte låta dig dra fördel av mig och jag kommer inte
-    attackera dig för att du är den du är."
+-   ”Jag kommer inte låta dig dra fördel av mig och jag kommer inte
+    attackera dig för att du är den du är.”
 
 ## Fördelar
 
@@ -77,6 +77,6 @@ title: Konstruktivt självhävdande kommunikation
 
 I slutet av förra modulen började du arbetet med att formulera mål att arbeta mot, i de situationer och de relationer som idag är svåra att hantera. Nu när du har läst så här långt i det här kapitlet, får du några nya idéer om vad du vill öva på? Ta gärna fram målformuleringsformuläret igen och se vad du kan lägga till som SMARTa mål.
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 [Mål för behandlingen (PDF)](forms/4f1b5b6c8b7a92eb516892f5f44e84e7.pdf)
 :::

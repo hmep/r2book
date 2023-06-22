@@ -15,18 +15,18 @@ kan du om du vill sluta dina ögon under övningspasset. Om det känns
 obehagligt att blunda, rikta i sådana fall gärna blicken mot en neutral
 punkt för att ge maximal uppmärksamhet till själva övningen. 
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 ### Instruktioner, video
 
 {{< video https://www.youtube.com/embed/Sfpfa75e93k >}}
 
 ### Instruktioner, enbart ljud
 
-<audio controls=""><source src="https://www.dropbox.com/s/7znxp4ac5m655zu/KSH-06-progressiv-muskelavslappning-del-2.mp3?raw=1" type="audio/mpeg" />Din webbläsare stödjer inte uppspelning av ljudfiler.</audio>
+<audio controls=””><source src=”https://www.dropbox.com/s/7znxp4ac5m655zu/KSH-06-progressiv-muskelavslappning-del-2.mp3?raw=1” type=”audio/mpeg” />Din webbläsare stödjer inte uppspelning av ljudfiler.</audio>
 
 #### Ladda ned instruktioner (mp3)
 
-[Ladda ned en mp3-fil](https://www.dropbox.com/s/7znxp4ac5m655zu/KSH-06-progressiv-muskelavslappning-del-2.mp3?dl=1){target="_blank"} till din mobil.
+[Ladda ned en mp3-fil](https://www.dropbox.com/s/7znxp4ac5m655zu/KSH-06-progressiv-muskelavslappning-del-2.mp3?dl=1){target=”_blank”} till din mobil.
 :::
 
 Precis som i förra veckan rekommenderar vi att du tränar på del 2 så
@@ -37,6 +37,6 @@ i bilen \...
 
 Är det motigt att komma igång? Påminn dig om det du skrev ned i formuläret i förra modulen -- och om du inte gjorde det då, får du här en ny chans:
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 [Planera för framgång (PDF)](forms/400ac1a33963196edb6d50c4871b2e3d.pdf)
 :::

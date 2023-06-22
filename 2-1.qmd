@@ -15,7 +15,7 @@ title: Passiv kommunikation
     människors förmåga att klara av besvikelser, axla ansvar eller
     hantera sina egna problem.
 
-![](/sites/respekt/media/image/canvas-passiv-slinga-X.svg){style="width: 400px; height: 400px; margin: 1em 0px 0px;"}
+![](/sites/respekt/media/image/canvas-passiv-slinga-X.svg){style=”width: 400px; height: 400px; margin: 1em 0px 0px;”}
 
 ## Verbala kännetecken
 
@@ -24,22 +24,22 @@ title: Passiv kommunikation
 -   trevande tal, fyllt av pauser
 -   frekvent harklande
 -   ursäktande utan anledning, i en mjuk och ostadig röst
--   användande av meningar som "om det inte vore till för mycket besvär
-    ..."
--   många fyllnadsord som "kanske", "hmm", "du vet"
+-   användande av meningar som ”om det inte vore till för mycket besvär
+    ...”
+-   många fyllnadsord som ”kanske”, ”hmm”, ”du vet”
 -   ofta enformig och monoton röst
 -   ibland gnällig eller retande ton
 -   överdrivet varm eller överdrivet mjuk röst
 -   ofta lämnas resonemang oavslutade
--   ideliga rättfärdiganden, exempelvis "jag brukar normalt inte säga
-    någonting"
--   ursäkter, exempelvis "jag är hemskt ledsen att jag stör"
--   upphävande av det egna talet, exempelvis "det är bara min åsikt"
-    eller "jag kan ha fel"
--   själv-avfärdande, som "det är inte viktigt" eller "det spelar
-    egentligen ingen roll"
--   själv-nedsättande tal, som "jag är hopplös ..." eller "du känner mig
-    ..."
+-   ideliga rättfärdiganden, exempelvis ”jag brukar normalt inte säga
+    någonting”
+-   ursäkter, exempelvis ”jag är hemskt ledsen att jag stör”
+-   upphävande av det egna talet, exempelvis ”det är bara min åsikt”
+    eller ”jag kan ha fel”
+-   själv-avfärdande, som ”det är inte viktigt” eller ”det spelar
+    egentligen ingen roll”
+-   själv-nedsättande tal, som ”jag är hopplös ...” eller ”du känner mig
+    ...”
 
 ## Icke-verbala kännetecken
 
@@ -47,18 +47,18 @@ title: Passiv kommunikation
 -   tittar ned
 -   ibland hopsjunken hållning
 -   vridandes på händerna
--   uttrycker ilska eller tar emot kritik med "spökleende"
+-   uttrycker ilska eller tar emot kritik med ”spökleende”
 -   skakande käkar
 -   bitande i läpparna
 
 ## Kognitiv stil (tänkande)
 
--   "Jag räknas inte"
--   "Mina känslor, behov och tankar är mindre viktiga än dina"
--   "Andra personer kommer att tänka illa om mig eller att inte tycka om
-    mig"
--   "Om jag säger nej kan någon blir upprörd, om det händer är det mitt
-    fel"
+-   ”Jag räknas inte”
+-   ”Mina känslor, behov och tankar är mindre viktiga än dina”
+-   ”Andra personer kommer att tänka illa om mig eller att inte tycka om
+    mig”
+-   ”Om jag säger nej kan någon blir upprörd, om det händer är det mitt
+    fel”
 
 ## Fördelar
 

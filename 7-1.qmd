@@ -31,7 +31,7 @@ på kritik, som inte är exempel på självhävdelse:
 -   Ignorera kritiken utåt men bli sårad inombords
 -   Internalisera ilska och koka inombords
 -   Hämnas med ilska och skuldbeläggande
--   "Stänga ned"
+-   ”Stänga ned”
 -   Dra sig undan
 -   Lämna situationen
 
@@ -40,7 +40,7 @@ på kritik, som inte är exempel på självhävdelse:
 Tänk tillbaka på när du senast själv blev kritiserad. Skriv ned vad det
 var för situation och hur du reagerade.
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 [Mål för behandlingen (PDF)](forms/4f1b5b6c8b7a92eb516892f5f44e84e7.pdf)
 :::
 

@@ -10,16 +10,16 @@ förutsägelser om andras avsikter eller din förmåga att klara av kritik.
 Här är några exempel på negativa förutsägelser eller regler som kan
 styra handlandet:
 
--   "Om jag blir kritiserad betyder det att jag är dum."
--   "Eftersom de kritiserade mig, tycker de inte om mig längre."
--   "De har rätt, jag gjorde fel, jag kan inte gör något rätt. Jag är
-    misslyckad."
--   "Jag kan inte kritisera dem för då kommer de inte att tycka om mig."
--   "Hur vågar de säga att jag har gjort fel? De har ingen rätt att göra
-    det."
--   "De är hur som helst idioter. Jag tänker inte lyssna på dem."
--   "Om jag kritiserar mig själv ännu hårdare och skojar om det kommer
-    ingen att få veta hur sårad jag är."
+-   ”Om jag blir kritiserad betyder det att jag är dum.”
+-   ”Eftersom de kritiserade mig, tycker de inte om mig längre.”
+-   ”De har rätt, jag gjorde fel, jag kan inte gör något rätt. Jag är
+    misslyckad.”
+-   ”Jag kan inte kritisera dem för då kommer de inte att tycka om mig.”
+-   ”Hur vågar de säga att jag har gjort fel? De har ingen rätt att göra
+    det.”
+-   ”De är hur som helst idioter. Jag tänker inte lyssna på dem.”
+-   ”Om jag kritiserar mig själv ännu hårdare och skojar om det kommer
+    ingen att få veta hur sårad jag är.”
 
 ### Dina egna negativa förutsägelser
 
@@ -27,7 +27,7 @@ Kan du identifiera ytterligare hindrande förutsägelser, utifrån egna
 faktiska tidigare erfarenheter, som gör det svårt för dig att möta
 kritik med konstruktiv självhävdelse? Skriv upp dem.
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 [Hindrande antaganden (PDF)](forms/f0a1c31a82f11d157bae31eddf7ddc1f.pdf)
 :::
 
@@ -37,17 +37,17 @@ Här är några hjälpsamma och självhävdande förutsägelser, som du kan
 använda för att balansera negativa, hindrande förutsägelser som du kan
 ha.
 
--   "Om det är något fel på det jag gjort betyder det inte något om mig
+-   ”Om det är något fel på det jag gjort betyder det inte något om mig
     som person. Jag behöver skilja mellan mitt handlande och mig själv
-    som person."
--   "Vad kan jag lära mig av kritiken? Det mesta av kritiken innehåller
+    som person.”
+-   ”Vad kan jag lära mig av kritiken? Det mesta av kritiken innehåller
     sannolikt ett korn av sanning. Kritik kan te sig negativt. Men varje
     gång jag får kritik har jag möjlighet att lära mig av den. Jag kan
-    vill alltid fråga mig själv vad jag kan lära mig av kritiken."
--   "Jag har rätt att berätta att jag känner mig sårad, irriterad eller
-    upprörd, av andras beteende."
--   "Att ge direkt återkoppling och kritik kan vara kärleksfullt och
-    omtänksamt."
+    vill alltid fråga mig själv vad jag kan lära mig av kritiken.”
+-   ”Jag har rätt att berätta att jag känner mig sårad, irriterad eller
+    upprörd, av andras beteende.”
+-   ”Att ge direkt återkoppling och kritik kan vara kärleksfullt och
+    omtänksamt.”
 
 ### Dina egna hjälpande förutsägelser
 
@@ -56,7 +56,7 @@ vad kritik innebär och/eller om din förmåga att klara av att få kritik?
 Om du skrev upp några egna hindrande förutsägelser ovan, testa att
 formulera egna balanserande förutsägelser till dem.
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 [Mina rättigheter att hävda mig själv (PDF)](forms/f8c76e544bba93a736da77ee106f5ca4.pdf)
 :::
 

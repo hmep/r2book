@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: Mängdträna på att säga 'nej'
+title: Mängdträna på att säga ’nej’
 ---
 
 Kommer du ihåg det vi skrev om [*multiple exemplar training* i modul
@@ -16,7 +16,7 @@ göra det du värdesätter.
 
 ## Träna på att bli din egen terapeut
 
-De kommande två veckorna i det här träningsprogrammet är vikta åt
+De kommande två veckorna i det här självhjälpsmaterialet är vikta åt
 mängdträning i det eller de områden som du vill träna konstruktiv
 självhävdelse inom. Gör ett eller två beteendeexperiment i den här
 modulen, och gärna något eller några i ytterligare någon av de andra
@@ -40,8 +40,7 @@ att hantera besvikelser](8-0.qmd). Då maximerar du din inlärning, hur det än 
 När du övar på dessa tekniker: Planera, genomför och dokumentera dem som
 beteendexeperiment. Utgå från din första SMARTa målsättning eller välj
 en ny situation som du vill träna i. Genomför ditt beteendeexperiment på
-precis samma sätt som det du har genomfört tidigare i det här
-träningsprogrammet, men se om du kan lägga till någon av teknikerna från
+precis samma sätt som det du har genomfört tidigare, men se om du kan lägga till någon av teknikerna från
 den här modulen. Det kommer att kännas ovant och konstlat till en
 början, men genom att pröva teknikerna och sedan utvärdera utfallen kan
 du hitta de sätt som ger dig framkomlighet för dig.
@@ -57,6 +56,6 @@ genomfört ett svårt beteendeexperiment, gör då gärna ett litet lättare
 härnäst. Du förtjänar att också få bokföra lite enklare vunna
 framgångar.
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 [Planera och genomför ett beteendeexperiment (PDF)](forms/be.pdf)
 :::

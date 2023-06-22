@@ -6,7 +6,7 @@ title: Allas rätt att hävda sig själva
 Många av idéerna som idag förknippas med träning i konstruktiv
 självhävdelse kommer från *When I say no, I feel guilty: how to
 cope--using the skills of systematic assertive therapy* av Smith (1975).
-Boken innehåller en "rättighetsförklaring". Varje människa har rätt att
+Boken innehåller en ”rättighetsförklaring”. Varje människa har rätt att
 hävda sig själv. Här är några av rättigheterna som du och alla andra
 har.
 
@@ -21,10 +21,10 @@ har.
 -   Du har rätt att ändra åsikt.
 -   Du har rätt att ha en annan åsikt än andra personer.
 -   Du har rätt att göra misstag -- och att ta ansvar för dem.
--   Du har rätt att säga "Jag vet inte".
+-   Du har rätt att säga ”Jag vet inte”.
 -   Du har rätt att vara ologisk när du fattar beslut.
--   Du har rätt att säga "Jag förstår inte".
--   Du har rätt att säga "Jag bryr mig inte".
+-   Du har rätt att säga ”Jag förstår inte”.
+-   Du har rätt att säga ”Jag bryr mig inte”.
 
 En viktig del av dessa **rättigheter** är att de är sammanlänkade
 med **ansvar**. Den första punkten var som du såg att du har rätt till
@@ -45,6 +45,6 @@ Försök också gärna komma på ytterligare några rättigheter, särskilt
 sådana som balanserar de ohjälpsamma, hindrande antagandena som du skrev
 upp i förra avsnittet.
 
-::: {.content-visible when-format="html"}
+::: {.content-visible when-format=”html”}
 [Mina rättigheter att hävda mig själv (PDF)](forms/f8c76e544bba93a736da77ee106f5ca4.pdf)
 :::

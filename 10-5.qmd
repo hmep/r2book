@@ -14,7 +14,7 @@ Vad menar vi med bakslag och återfall?
     konstruktivt. Ett exempel vore att helt och hållet sluta träna på
     att säga nej till chefen och att återgå till att ta på sig för
     mycket på jobbet.
--   Ett **bakslag** är en tillfällig \"motgång\", kanske för att det
+-   Ett **bakslag** är en tillfällig ”motgång”, kanske för att det
     kanske inte gick som du ville när du försökte säga nej i ett
     (spontant eller planerat) beteendeexperiment, kanske för att du var
     extra sårbar just den dagen. Även i bakslagen finns det viktiga
