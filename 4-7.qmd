@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: Utvärdering av den här modulen
+title: Utvärdering av det här avsnittet
 ---
 
 ##bd99cb4ca422d93a5c6380065ccf7f4e=

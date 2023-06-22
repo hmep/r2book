@@ -1,10 +1,7 @@
 
-Kommer du ihåg det vi skrev om [*multiple exemplar training* i modul
-2](2-4.qmd) --
+Kommer du ihåg det vi skrev om [*multiple exemplar training*](2-4.qmd) i ett tidigare avsnitt --
 att nya färdigheter är resultatet av mängder av upprepade
-övningstillfällen? Du kan som du såg i avsnittet om [träning i din egen vardag i
-modul
-3](3-3.qmd) allt
+övningstillfällen? Du kan som du såg i avsnittet om [träning i din egen vardag](3-3.qmd) allt
 mer automatiserat ersätta ovanan att undvika ångest i svåra situationer
 med den goda vanan att hävda dig själv konstruktivt. Du gör det genom
 att ta fasta på det viktiga som ångesten skvallrar om och sedan aktivt
@@ -27,8 +24,7 @@ säga nej och att sätta gränser kommer du att märka att det inte alltid
 går som du vill och hoppas. Ett smart sätt att dra nytta av sådana
 potentiella bakslag är att då passa på att träna på att hantera
 besvikelser på ett konstruktivt sätt. När du nu tränar på konstruktiv
-självhävdelse här modulen -- gå gärna också till [modul 8 och träna på
-att hantera besvikelser](8-0.qmd). Då maximerar du din inlärning, hur det än går!
+självhävdelse -- dra då nytta av nyinlärningen du kan göra i [avsnittet som handlar om att hantera besvikelser konstruktivt](8-0.qmd). Då maximerar du din inlärning, hur det än går!
 
 ## Mängdträna med omväxlande svårighetsgrad
 
@@ -36,7 +32,7 @@ När du övar på dessa tekniker: Planera, genomför och dokumentera dem som
 beteendexeperiment. Utgå från din första SMARTa målsättning eller välj
 en ny situation som du vill träna i. Genomför ditt beteendeexperiment på
 precis samma sätt som det du har genomfört tidigare, men se om du kan lägga till någon av teknikerna från
-den här modulen. Det kommer att kännas ovant och konstlat till en
+den här avsnittet. Det kommer att kännas ovant och konstlat till en
 början, men genom att pröva teknikerna och sedan utvärdera utfallen kan
 du hitta de sätt som ger dig framkomlighet för dig.
 

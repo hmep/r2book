@@ -5,7 +5,7 @@ title: Hur hanterar du besvikelser?
 
 Att behöva hantera besvikelser är en del av att vara människa. Ibland
 blir saker och ting inte som man hade tänkt sig: förluster och
-misslyckanden går helt enkelt inte att undvika. I den här modulen tittar
+misslyckanden går helt enkelt inte att undvika. I det här avsnittet tittar
 vi närmare på olika vanliga responser på besvikelser. Att handla
 konstruktivt handlar inte om att inte tillåta sig att känna sig besviken
 -- tvärtom! Att vara konstruktiv inför förluster och misslyckanden

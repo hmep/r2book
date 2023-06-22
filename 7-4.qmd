@@ -123,4 +123,4 @@ och ro, innan vi svarar.
     med det där?”
 4.  När du har rett ut om det verkligen handlar om kritik, utvärdera om
     den är befogad och valid, eller inte. Svara sedan med hjälp av någon
-    av teknikerna i den här modulen.
+    av teknikerna i det här avsnittet.
