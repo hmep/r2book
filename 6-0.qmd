@@ -61,5 +61,5 @@ förutsägelser gör du om din förmåga att klara av det som skulle hända om
 du sa ’nej’? Skriv ned dem i arbetsbladet.
 
 ::: {.content-visible when-format="html"}
-[Hindrande antaganden (PDF)](forms/f0a1c31a82f11d157bae31eddf7ddc1f.pdf)
+[Hindrande antaganden om att säga ’nej’ (PDF)](forms/hindrande-antaganden-saga-nej.pdf)
 :::

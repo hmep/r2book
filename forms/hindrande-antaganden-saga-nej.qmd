@@ -1,0 +1,39 @@
+---
+title: "Hindrande antaganden om att säga ’nej’"
+format:
+  pdf:
+    keep-tex: true
+    pdf-engine: xelatex
+    documentclass: article
+    lang: sv
+header-includes: 
+- \input{../_header_includes.tex}
+bibliography:
+  - ../../r2fu/KSH.bib
+  - ../../r2fu/DBT.bib
+---
+
+\xinit
+
+Kan du identifiera några exempel på tänkande som hindrar dig i situationer där
+du skulle vilja säga ’nej’ men ändå inte gör det? Kryssa
+för dem som du känner igen dig i nedan. Ge dig också själv lite tid att försöka
+sätta ord på ytterligare antaganden som hindrar dig. Även om det kan vara
+skrämmande att se ditt tänkande på pränt, påminn dig om att de är just det --
+tankar. Du kommer i när du arbetar vidare få möjlighet att förhålla dig friare
+och mer flexibelt till dem.
+
+\setlist[itemize]{
+    label={\xtikztick}
+}
+
+- Att hävda behov eller säga ’nej’ är oförskämt och aggressivt, det visar att jag är självisk och inte bryr mig om andra.
+- Om jag hävdar behov eller säger ’nej’ kommer den andra personen att bli upprörd och känna sig avvisad.
+- Om jag hävdar behov eller säger ’nej’ till någon kommer den personen inte längre att tycka om mig.
+- Andras behov är viktigare än mina behov.
+- Jag måste alltid försöka behaga och hjälpa andra.
+- Att säga ’nej’ till småsaker är larvigt och småsint.
+
+\xfline{Fler hindrande antaganden som jag märker att jag följer}{8}{}
+
+{{< include ../_pdf_footer.qmd >}}

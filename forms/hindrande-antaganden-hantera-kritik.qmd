@@ -1,0 +1,40 @@
+---
+title: "Hindrande antaganden om att ta/ge kritik"
+format:
+  pdf:
+    keep-tex: true
+    pdf-engine: xelatex
+    documentclass: article
+    lang: sv
+header-includes: 
+- \input{../_header_includes.tex}
+bibliography:
+  - ../../r2fu/KSH.bib
+  - ../../r2fu/DBT.bib
+---
+
+\xinit
+
+Kan du identifiera några exempel på tänkande som hindrar dig i situationer där
+vill kunna ge och ta kritik på ett konstruktivt sätt? Kryssa
+för dem som du känner igen dig i nedan. Ge dig också själv lite tid att försöka
+sätta ord på ytterligare antaganden som hindrar dig. Även om det kan vara
+skrämmande att se ditt tänkande på pränt, påminn dig om att de är just det --
+tankar. Du kommer i när du arbetar vidare få möjlighet att förhålla dig friare
+och mer flexibelt till dem.
+
+\setlist[itemize]{
+    label={\xtikztick}
+}
+
+- Om jag blir kritiserad betyder det att jag är dum.
+- Eftersom de kritiserade mig, tycker de inte om mig längre.
+- De har rätt, jag gjorde fel, jag kan inte gör något rätt. Jag är misslyckad.
+- Jag kan inte kritisera dem för då kommer de inte att tycka om mig.
+- Hur vågar de säga att jag har gjort fel? De har ingen rätt att göra det.
+- De är hur som helst idioter. Jag tänker inte lyssna på dem.
+- Om jag kritiserar mig själv ännu hårdare och skojar om det kommer ingen att få veta hur sårad jag är.
+
+\xfline{Fler hindrande antaganden som jag märker att jag följer}{8}{}
+
+{{< include ../_pdf_footer.qmd >}}

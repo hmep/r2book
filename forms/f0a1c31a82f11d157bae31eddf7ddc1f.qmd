@@ -1,5 +1,5 @@
 ---
-title: "Hindrande antaganden"
+title: "Hindrande antaganden för konstruktiv självhävdelse"
 format:
   pdf:
     keep-tex: true
