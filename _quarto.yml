@@ -12,6 +12,14 @@ book:
   title: "100% respekt"
   author: "Fiona Michel, Anthea Fursland, Patrik Manhem & Tobias Hagberg"
   date: "21 juni, 2023"
+  navbar:
+    tools:
+      - icon: github
+        menu:
+          - text: Källkod
+            url:  https://github.com/hmep/r2book
+          - text: Förslag på förbättringar
+            url:  https://github.com/hmep/r2book/issues
   sidebar:
     logo: sites/respekt/media/image/100respekt.svg
     collapse-level: 1
