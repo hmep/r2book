@@ -12,7 +12,7 @@ title: ”Aggressiv kommunikation”
 -   Du behåller övertaget genom att du trycker ned andra.
 -   Du attackerar när du känner dig hotad.
 
-![](/sites/respekt/media/image/canvas-aggressiv-slinga-X.svg){style=”width: 400px; height: 400px; margin: 1em 0px 0px;”}
+![](sites/respekt/media/image/canvas-aggressiv-slinga-X.svg){style=”width: 400px; height: 400px; margin: 1em 0px 0px;”}
 
 ## Verbala kännetecken
 
