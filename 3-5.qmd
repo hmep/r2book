@@ -15,7 +15,7 @@ kan du om du vill sluta dina ögon under övningspasset. Om det känns
 obehagligt att blunda, rikta i sådana fall gärna blicken mot en neutral
 punkt för att ge maximal uppmärksamhet till själva övningen. 
 
-::: {.content-visible when-format=”html”}
+::: {.content-visible when-format="html"}
 ### Instruktioner, video
 
 {{< video https://www.youtube.com/embed/Sfpfa75e93k >}}
@@ -37,6 +37,6 @@ i bilen \...
 
 Är det motigt att komma igång? Påminn dig om det du skrev ned i formuläret i förra modulen -- och om du inte gjorde det då, får du här en ny chans:
 
-::: {.content-visible when-format=”html”}
+::: {.content-visible when-format="html"}
 [Planera för framgång (PDF)](forms/400ac1a33963196edb6d50c4871b2e3d.pdf)
 :::

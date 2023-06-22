@@ -194,6 +194,6 @@ sätt formulerar under programmets gång.
 
 ## Mina skäl att utföra beteendeexperiment
 
-::: {.content-visible when-format=”html”}
+::: {.content-visible when-format="html"}
 [Mina skäl att utföra beteendeexperiment (PDF)](forms/685a783a50dbba968d52df296ff035f0.pdf)
 :::

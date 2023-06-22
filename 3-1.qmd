@@ -45,6 +45,6 @@ Försök också gärna komma på ytterligare några rättigheter, särskilt
 sådana som balanserar de ohjälpsamma, hindrande antagandena som du skrev
 upp i förra avsnittet.
 
-::: {.content-visible when-format=”html”}
+::: {.content-visible when-format="html"}
 [Mina rättigheter att hävda mig själv (PDF)](forms/f8c76e544bba93a736da77ee106f5ca4.pdf)
 :::

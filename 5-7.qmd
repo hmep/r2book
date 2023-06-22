@@ -25,10 +25,10 @@ kloka slutsatser du har gjort i anslutning till de beteendeexperiment du
 har utfört i programmet. Vad skulle vara ett lämpligt nytt område att
 fortsätta din mängdträning i kontstruktiv självhävdelse inom?
 
-::: {.content-visible when-format=”html”}
+::: {.content-visible when-format="html"}
 [Mål för behandlingen (PDF)](forms/4f1b5b6c8b7a92eb516892f5f44e84e7.pdf)
 :::
 
-::: {.content-visible when-format=”html”}
+::: {.content-visible when-format="html"}
 [Planera och genomför ett beteendeexperiment (PDF)](forms/be.pdf)
 :::

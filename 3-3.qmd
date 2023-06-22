@@ -73,7 +73,7 @@ Här beskriver vi ett experiment som prövar antagandet ”Om jag hävdar mig
 själv kommer den andra personen att bli upprörd och vår relation kommer
 att bli förstörd”.
 
-::: {.content-visible when-format=”html”}
+::: {.content-visible when-format="html"}
 [Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/be-exempel.pdf)
 :::
 

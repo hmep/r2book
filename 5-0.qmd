@@ -20,7 +20,7 @@ erfarenheter. Du som hunnit utföra ett eller flera beteendeexperiment är
 självklart också välkommen att planera in och utföra fler. Använd
 arbetsbladet för beteendeexperiment, du kan fylla i det hur många gånger som helst.
 
-::: {.content-visible when-format=”html”}
+::: {.content-visible when-format="html"}
 [Planera och genomför ett beteendeexperiment (PDF)](forms/be.pdf)
 :::
 

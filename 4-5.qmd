@@ -16,7 +16,7 @@ veckan som kommer.
 
 ## Kort version av progressiv avslappning
 
-::: {.content-visible when-format=”html”}
+::: {.content-visible when-format="html"}
 ### Instruktioner, enbart ljud
 
 <audio controls=””><source src=”https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?raw=1” type=”audio/mpeg” />Din webbläsare stödjer inte uppspelning av ljudfiler.</audio>

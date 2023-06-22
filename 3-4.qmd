@@ -24,6 +24,6 @@ Under vecka 3, genomför ditt första beteendeexperiment och fyll sedan i
 steg 5 i formuläret nedan för att utvärdera hur det gick! När du är klar
 med det här arbetsbladet har du genomfört ditt första beteendeexperiment.
 
-::: {.content-visible when-format=”html”}
+::: {.content-visible when-format="html"}
 [Planera och genomför ett beteendeexperiment (PDF)](forms/be.pdf)
 :::

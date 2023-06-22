@@ -85,7 +85,7 @@ en fåtölj med stöd för nacken, eller i en stol som du ställer mot en
 plan yta, exempelvis en vägg. Du behöver kunna pressa nacken mot ett
 underlag för att göra en av övningarna.
 
-::: {.content-visible when-format=”html”}
+::: {.content-visible when-format="html"}
 ### Instruktioner, video
 
 {{< video https://www.youtube.com/embed/8ygZeRNVdIU >}}
@@ -107,7 +107,7 @@ gärna träning (särskilt för muskelgrupper som du har upptäckt att du är
 spänd i) i vardagen. Det går att träna på progressiv avslappning var som
 helst: i duschen, på mötet, i bilen \... 
 
-::: {.content-visible when-format=”html”}
+::: {.content-visible when-format="html"}
 [Planera för framgång (PDF)](forms/400ac1a33963196edb6d50c4871b2e3d.pdf)
 :::
 
