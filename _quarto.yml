@@ -83,14 +83,12 @@ book:
         - 7-5.qmd
         - 7-6.qmd
         - 7-7.qmd
-        - 7-8.qmd
     - part: "Vecka 6-7: Besvikelser"
       chapters:
         - 8-0.qmd
         - 8-1.qmd
         - 8-2.qmd
         - 8-3.qmd
-        - 8-4.qmd
     - part: "Vecka 6-7: Komplimanger"
       chapters:
         - 9-0.qmd
@@ -99,7 +97,6 @@ book:
         - 9-3.qmd
         - 9-4.qmd
         - 9-5.qmd
-        - 9-6.qmd
     - part: "Vecka 8: Planera för framkomlighet"
       chapters:
         - 10-0.qmd

@@ -1,26 +1,34 @@
 ---
 lang: sv
-title: Din måluppfyllelse just nu
+title: Sammanfattning och återkoppling på innehållet
 ---
 
-Du formulerade i modul 1 en första personlig målsättning för programmet.
-Du skrev så här:
+-   Vi blir alla kritiserade. Att kunna ta emot konstruktiv kritik är en
+    viktig färdighet som vi kan lära oss.
+-   Kritik kan vara konstruktiv eller destruktiv.
+-   Hur vi svarar på kritik kan vara ett resultat av vilket slags kritik
+    vi har fått tidigare i livet.
+-   Som med andra exempel på beteenden som inte är självhävdande, kan
+    sättet vi tänker på göra att vi svarar med antingen passivitet eller
+    aggressivitet när vi uppfattar att vi blir kritiserade. Vi kan rikta
+    vårt tänkande mot konstruktiv självhävdelse.
+-   Färdigheter som underlättar hantering av konstruktiv kritik är bland
+    annat: acceptans av kritiken; omvänd, konstruktiv självhävdelse; och
+    omvänt, konstruktivt undersökande.
+-   Färdigheter som underlättar hantering av destruktiv kritik är bland
+    annat: att inte hålla med om kritiken; omvänt, konstruktivt
+    undersökande; och avväpnande tekniker som gör att kritiken tappar
+    sin kraft.
+-   Ett ytterligare tips är att lyssna till innehållet i kritiken,
+    snarare än tonen den framförs på, och att vänta lite med att svara
+    för att ge sig själv tid för eftertanke.
+-   När du själv framför kritik, är det viktigt att välja tid och plats
+    med omsorg, att kritisera beteenden snarare än personen och att vara
+    tydlig med vilken förändring du önskar. Om möjlighet finns, avsluta
+    gärna i en positiv riktning.
 
-##4f1b5b6c8b7a92eb516892f5f44e84e7=
+::: {.callout-note}
+## Hur nära 100 kommer du?
 
-## Hur väl tycker du att du just ny lever upp till målet?
-
-Gör en ny skattning för hur det är för dig just den här veckan. Det
-finns inte någon inbyggd förväntan på att saker och ting ska ha blivit
-”bättre” (eller för all del ”sämre”) här. Oavsett hur det har gått
-för dig finns det relevant information att hämta från dina skattningar:
-Om du skattar din självhävdelse lägre får du tillfälle att reflektera
-över vilka hindren i vardagen är, om du skattar din självhävdelse högre
-får du tillfälle att reflektera över vilka omständigheter som har
-möjliggjort mer konstruktiv självhävdelse.
-
-##f1d760cdb86b03a4ace383ea7d134d4f=
-
-## Vad drar du för slutsatser?
-
-##f7e44b91a73056cf911f13c02e0dd387=
+Hur nära 100 kom du när du skattade din självhävdelse i ditt senaste beteendeexperiment? Det finns inte någon inbyggd förväntan på att saker och ting ska ha blivit ”bättre” (eller för all del ”sämre”). Oavsett hur det har gått för dig finns det relevant information att hämta från dina skattningar: Om du skattar din självhävdelse lägre än du hade önskat får du tillfälle att reflektera över vilka hindren i vardagen är, om du skattar din självhävdelse högre får du tillfälle att reflektera över vilka omständigheter som har möjliggjort mer konstruktiv självhävdelse. Kom ihåg: du ”lyckas” eller ”misslyckas” inte med dina beteendeexperiment -- du lär dig något!
+:::
