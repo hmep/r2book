@@ -1,28 +1,11 @@
 ---
 lang: sv
-title: Sammanfattning och återkoppling på innehållet
+title: Hur har du det precis just nu?
 ---
-
--   Det är en viktig hävda sig själv-färdighet och en viktig social
-    färdighet att kunna ta emot och ge komplimanger.
--   Som med andra färdigheter för konstruktiv självhävdelse kan det
-    finnas hindrande tankar som gör det svårt för dig att ta emot en
-    komplimang på ett vänligt sätt. Du kan utmana och balansera det
-    hindrande tänkandet genom att ge dig tid och struktur för att hitta
-    nya, alternativa tankar.
--   Det är också användbart att kunna visa sin vänlighet mot andra genom
-    att kunna ge komplimanger.
--   Vi behöver alla regelbundet öva på att ta emot och ge komplimanger.
-    Det kan ha en väldigt positiv inverkan på vår egen självkänsla,
-    liksom på självkänslan hos dem vi har omkring oss.
-
-## Hur har du det precis just nu?
 
 Nu går vi in i sista veckan i det här självhjälpsmaterialet i
 konstruktiv självhävdelse. Det är inte slutet på din resa, det här
 är bara sluten på allra första början.
-
-Hur har du det precis just nu?
 
 -   Kanske är du nöjd och stolt över alla beteendeexperiment och
     alla nyupptäckter av framkomlighet i livet som du har gjort? I
@@ -39,14 +22,14 @@ Hur har du det precis just nu?
     du har klarat av att prioritera det som har varit verkligt
     viktigt för dig. Det är också konstruktiv självhävdelse i
     praktiken! Känner du dig uppjagad och spänd? Ta också tillfället i
-    akt att **[göra några av
-    avslappningsövningarna](https://www.iterapi.se/sites/respekt/program/5-hitta-dina-s-tt-att-s-nka-sp-nningsniv-n)**.
+    akt att [göra några av
+    avslappningsövningarna](5-0.qmd).
 -   Kanske har du ändå dåligt samvete, för att du vet med dig att du
     mer än du skulle ha önskat har undvikit det obehag som
     ofrånkomligen kommer av att ta tag i saker som är svåra. Ge dig
     i sådana fall ordentligt med självmedkänsla. Det obehag du har
-    känt är en påminnelse om att **[det här sannolikt är viktigt för
-    dig](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment/15-argument-f-r-att-byta-undvikande-mot-aktivt-deltagande)**.
+    känt är en påminnelse om att [det här sannolikt är viktigt för
+    dig](3-2.qmd).
     I det här avsnittet kommer vi att planera för hur du kan fortsätta
     jobba på egen hand, och modulerna och övningarna finns kvar här
     för dig även fortsättningsvis. Börja med att ta hjälp av
@@ -60,15 +43,7 @@ Hur har du det precis just nu?
     chans att faktiskt förbättra det här programmet till det bättre.
     Vi uppskattar din återkoppling mycket!
 
-## Så här har jag det precis nu
-
-##ec8dd928fef337720e0ea1b11dd8b08f=
-
-I den här avslutande modulen ska vi sätta samma de färdigheter som
-du tillägnat dig under programmets gång och stegvis visa hur du på
+I den här avslutande modulen kommer du få sätta samma de färdigheter som
+du tillägnat dig under programmets gång och stegvis planera hur du på
 egen hand kan förbättra din konstruktiva självhävdelse i ditt
 vardagsliv.
-
-## Vill du ge oss en komplimang?
-
-##54ec3893768930cbe636662be286a70f=
