@@ -8,24 +8,8 @@ på att hävda dig själv i och som du vill jobba vidare med på egen hand
 -- i din egen takt. Det kan vara hemma, på jobbet, med vänner eller ute
 bland folk.
 
-[[Tips!]{.rlabel} Går också gärna tillbaka till och ta hjälp av de olika
-modulerna i programmet, till exempel [tekniker för
-självhävdelse](https://www.iterapi.se/sites/respekt/program/4-m-ngdtr-na-konstruktiv-sj-lvh-vdelse-i-vardagen)
-(modul 4) och hur du [sänker spänningsnivån i
-kroppen](https://www.iterapi.se/sites/respekt/program/5-hitta-dina-s-tt-att-s-nka-sp-nningsniv-n)
-(modul 5). Du har också fått välja att jobba med en eller flera områden
-att träna på att hävda dig själv bättre i, till exempel när du vill
-[säga
-’nej’](https://www.iterapi.se/sites/respekt/program/6-s-ga-nej-konstruktivt)
-(modul 6), när du [får kritik eller vill ge
-kritik](https://www.iterapi.se/sites/respekt/program/7-hantera-kritik-konstruktivt)
-(modul 7), [när du blir besviken, men vill kunna gå vidare
-ändå](https://www.iterapi.se/sites/respekt/program/8-hantera-besvikelser-konstruktivt)
-(kapitel 8) och när du [får och vill ge
-komplimanger](https://www.iterapi.se/sites/respekt/program/9-ge-och-ta-emot-komplimanger-konstruktivt)
-(modul 9). ]{.rtip} I modul 1 fyllde du i ett [formulär med besvärliga
-situationer/relationer](https://www.iterapi.se/sites/respekt/program/1-hur-h-vdar-man-sig-sj-lv-konstruktivt-/6-uppgift-hur-bra-r-du-p-att-h-vda-dig-sj-lv-).
-Det innehåller flera uppslag till situationer som du kan jobba med. Gå
+Under vecka 1 fyllde du i ett [arbetsblad med besvärliga
+situationer/relationer](1-4.qmd). Det innehåller flera uppslag till situationer som du kan jobba med. Gå
 gärna tillbaka och se över det för att påminna dig själv om vad du
 svarade.
 
