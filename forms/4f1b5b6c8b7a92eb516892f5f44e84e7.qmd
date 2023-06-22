@@ -27,20 +27,46 @@ upplevelsen och pröva att skriva ned situationer att öva i ändå. Låt arbets
 ```{r, echo=F,warning=F}
 
 filler <- "\\rule{0bp}{2.25\\baselineskip}"
-x <- c("När? Var? Vem?", "Undvikande/flykt", "T.ex. säga nej, hävda behov", "Skala 0--100")
+x <-
+  c("När? Var? Vem?",
+    "Undvikande/flykt",
+    "T.ex. säga nej, hävda behov",
+    "Skala 0--100")
 y <- c(as.character(1:10))
-n = length(y)*length(x)
-table <- as.data.frame(matrix(rep(filler, each=n),ncol=length(x),nrow=length(y)))
+n = length(y) * length(x)
+table <-
+  as.data.frame(matrix(rep(filler, each = n), ncol = length(x), nrow = length(y)))
 rownames(table) <- y
 colnames(table) <- x
 library(kableExtra)
-kable(table, format = 'latex', longtable=T, booktabs = T, linesep = "", align="c", escape = FALSE) %>%
+kable(
+  table,
+  format = 'latex',
+  longtable = T,
+  booktabs = T,
+  linesep = "",
+  align = "c",
+  escape = FALSE
+) %>%
   kable_styling(latex_options = c("hold_position", full_width = F)) %>%
-  add_header_above(c("Specifik situation" = 1,"Vad brukar jag göra?" = 1,"Självhävdelse-beteende att öka" = 1,"Svårighetsgrad" = 1),bold=T) %>%
-  row_spec(0, angle = 0, bold=F) %>%
-  column_spec(1, bold=T) %>%
-  row_spec(2:length(y)-1,hline_after=T) %>%
-  column_spec(1:3, width=c("34mm","34mm","50mm","21mm"),border_right = F, latex_valign="m")
+  add_header_above(
+    c(
+      "Specifik situation" = 1,
+      "Vad brukar jag göra?" = 1,
+      "Självhävdelse-beteende att öka" = 1,
+      "Svårighetsgrad" = 1
+    ),
+    bold = T
+  ) %>%
+  row_spec(0, angle = 0, bold = F) %>%
+  column_spec(1, bold = T) %>%
+  row_spec(2:length(y) - 1, hline_after = T) %>%
+  column_spec(
+    1:3,
+    width = c("34mm", "34mm", "50mm", "21mm"),
+    border_right = F,
+    latex_valign = "m"
+  )
 
 ```
 
