@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: Mängdträna på att säga ’nej’
+title: "Uppgift: Mängdträna på att säga ’nej’"
 ---
 
-{{< include week-6-7-generic.qmd >}}
+{{< include _week-6-7-generic.qmd >}}

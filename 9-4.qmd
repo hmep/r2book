@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: Mängdträna på att ge komplimanger
+title: "Uppgift: Mängdträna på att ge komplimanger"
 ---
 
-{{< include week-6-7-generic.qmd >}}
+{{< include _week-6-7-generic.qmd >}}

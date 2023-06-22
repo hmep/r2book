@@ -3,4 +3,4 @@ lang: sv
 title: "Uppgift: Mängdträna på att ge konstruktiv kritik"
 ---
 
-{{< include week-6-7-generic.qmd >}}
+{{< include _week-6-7-generic.qmd >}}
