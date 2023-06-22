@@ -28,7 +28,7 @@ upplevelsen och pröva att skriva ned situationer att öva i ändå. Låt arbets
 
 filler <- "\\rule{0bp}{2.25\\baselineskip}"
 x <-
-  c("När? Var? Vem?",
+  c("När? Var? Vem? Vad?",
     "Undvikande/flykt",
     "T.ex. säga nej, hävda behov",
     "Skala 0--100")
@@ -51,10 +51,10 @@ kable(
   kable_styling(latex_options = c("hold_position", full_width = F)) %>%
   add_header_above(
     c(
-      "Specifik situation" = 1,
-      "Vad brukar jag göra?" = 1,
-      "Självhävdelse-beteende att öka" = 1,
-      "Svårighetsgrad" = 1
+      "Specifik situation",
+      "Vad brukar jag göra?",
+      "Självhävdelse-beteende att öka",
+      "Svårighetsgrad"
     ),
     bold = T
   ) %>%
