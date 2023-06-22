@@ -8,16 +8,15 @@ två av fyra områden som är viktiga för konstruktiv självhävdelse. Härnäs
 flera av de återstående modulerna att göra övningarna i -- utifrån din egen nyfikenhet och vad du
 helst önskar att träna på.
 
--   I [modul 6](6-0.qmd) tittar vi på varför det ibland är svårt att **säga
-    'nej'**, och hur vi kan bli bättre på det. Det är viktigt för att
+-   Vi tittar närmare på [varför det ibland är svårt att säga
+    'nej', och hur vi kan bli bättre på det](6-0.qmd). Det är viktigt för att
     minska stressen i livet.
--   I [modul 7](7-0.qmd) går vi genom hur vi kan **hantera kritik** på ett
-    konstruktivt sätt. Att kunna ta och ge kritik på ett konstruktivt
+-   Vi går också genom hur vi kan [hantera kritik på ett
+    konstruktivt sätt](7-0.qmd). Att kunna ta och ge kritik på ett konstruktivt
     sätt är bra för självkänslan.
--   I [modul 8](8-0.qmd) går vi genom hur vi kan **hantera besvikelser** på ett
+-   Vi förjupar oss också i hur vi kan [hantera besvikelser](8-0.qmd) på ett
     sätt som respekterar både våra egna och andras rättigheter.
--   I [modul 9](9-0.qmd) lär vi oss hur vi både kan **ta emot och ge komplimanger**
-    på ett självhävdande och konstruktivt sätt. Det är en viktig
+-   Vi lär oss dessutom hur vi både kan [ta emot och ge komplimanger på ett självhävdande och konstruktivt sätt](9-0.qmd). Det är en viktig
     självhävdande och social färdighet.
 
 Tänk tillbaka på dina SMARTa målsättningar och allt du har lärt dig
