@@ -10,7 +10,9 @@ målsättning.
 
 Om du inte redan har tittat på den här filmsnutten -- gör det nu!
 
+::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/fAlPVh76lHI >}}
+:::
 
 ## Vad är ett ”SMART” mål?
 
