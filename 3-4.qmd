@@ -12,7 +12,7 @@ annan situation.
 ## Planera ditt beteendeexperiment (steg 1 till 4)
 
 Utifrån den målsättningen, formulera ditt första beteendeexperiment genom att
-börja med att fylla i steg 1 till 4 i formuläret nedan. Även om det är en del
+börja med att fylla i steg 1 till 4 i arbetsbladet nedan. Även om det är en del
 att fylla i på den här sidan, misströsta inte. Det motstånd du eventuellt känner
 när du gör det är ett kvitto på att du just nu håller på att lära dig något.
 Ingen energi du lägger på det här arbetsbladet kommer att gå förlorad --
@@ -21,7 +21,7 @@ tvärtom!
 ## Genomför ditt beteendexperiment (steg 5)
 
 Under vecka 3, genomför ditt första beteendeexperiment och fyll sedan i
-steg 5 i formuläret nedan för att utvärdera hur det gick! När du är klar
+steg 5 i arbetsbladet nedan för att utvärdera hur det gick! När du är klar
 med det här arbetsbladet har du genomfört ditt första beteendeexperiment.
 
 ::: {.content-visible when-format="html"}

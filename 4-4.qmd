@@ -23,10 +23,10 @@ det här avsnittet. Det kommer att kännas ovant och konstlat till en
 början, men genom att pröva teknikerna och sedan utvärdera utfallen kan
 du hitta de sätt som ger dig framkomlighet för dig.
 
-<!-- Du kan använda formuläret nedan hur många gånger du vill: När du har -->
+<!-- Du kan använda arbetsbladet nedan hur många gånger du vill: När du har -->
 <!-- fyllt i det en första gång kommer det automatiskt visas en länk ovanför -->
 <!-- det som du kan använda för att skapa en ytterligare version av -->
-<!-- formuläret. -->
+<!-- arbetsbladet. -->
 
 Sikta på att utföra åtminstone 2 olika beteendeexperiment den här
 veckan. Ju fler tillfällen du tränar, desto bättre! Om du tidigare har
