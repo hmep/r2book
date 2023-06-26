@@ -2,6 +2,8 @@
 
 cp CNAME docs/
 
+git add docs
+
 git commit -am "rendered docs $(date +'%s')"
 
 git push origin main -f
