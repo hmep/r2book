@@ -1,34 +1,46 @@
 ---
 lang: sv
-title: Sammanfattning
+title: Medveten närvaro för ökad toleransförmåga
 ---
 
--   För att du ska kunna hävda dig själv behöver du bli medveten om när
-    du blir fysiskt spänd och fysiskt uppjagad och lära dig att
-    reglera kroppsreaktionerna, och/eller öka förmågan att tolerera dem. Hög fysisk spänning är en stor del av den upplevda stressnivån. I extremfall kan långvarig spänning
-    leda till kronisk smärta och stressrelaterade sjukdomar.
--   Det finns flera sätt att sänka spänningsnivån, inklusive meditation,
-    träning, tai chi, massage, visualisering, yoga, progressiv
-    avslappning och långsam medveten andning.
--   För att minska stressnivån är det viktigt att vi övar på
-    avslappningstekniker på daglig basis. Utforska och pröva dig fram
-    bland de många olika teknikerna för att hitta en som passar just
-    dig.
--   Du kan också hitta avslappningsövningar i strömmade musiktjänster
-    eller i appar till mobilen. Ett tips för att snabbt komma igång:
-    Spela in dig själv med mobilen när du läser [textmanuset till
-    progressiv
-    avslappning](5-3.qmd).
--   En annan färdighet som är skild från avslappning är att vara
-medvetet närvarande. Medveten närvaro handlar om att så långt det bara är
-möjligt ta in hela situationen, inklusive ångest och negativa tankar. Poängen
-träning i medveten närvaro är öka perspektivtagningsförmågan. Det är omöjligt
-att både ha perspektiv på sina tankar och att helt och hållet ”köpa” sina
-tankar. Sannolikheten att tanken ”Jag lägger märke till att jag har en tanke att
-hon dömer mig” leder till undvikande eller flykt är lägre än sannolikheten att tanken ”Hon dömer
-mig” gör det.
--   Om du har perspektiv på det som händer utan att trycka bort de
-    negativa upplevelserna kan du ta sikte på det som är viktigt i
-    situationen. Du får fler valmöjligheter. Det underlättar för dig när
-    du tränar på konstruktiv självhävdelse.
+Du har säkert hört människor prata om vikten av att kunna vara medvetet
+närvarande i nuet. Medveten närvaro är inte riktigt detsamma som avslappning, även om många som tränar medveten närvaro också brukar rapportera att de blir mer avslappnade när de gör det.
+Avslappning är dock inte alls målet med medveten närvaro -- man kan faktiskt vara helt medvetet närvarande även när man har en stark stressreaktion.
+Att vara medvetet närvarande handlar om att ta in och uppleva det som
+händer precis just nu, utan att värdera eller döma det. Det är en
+färdighet som är mycket hjälpsam för att klara av att ”ta sin ångest i handen” och göra det som är
+viktigt i stunden.
 
+## Medveten närvaro
+
+Träning i medveten närvaro handlar om att ta in hela situationen,
+inklusive alla de dömande tankar och känslor som kommer och går (som
+tankar och känslor alltid gör). Om du är extremt stressad inför en
+presentation på jobbet, skulle medveten närvaro kunna handla om att
+uppmärksamma att du är väldigt nervös och tänker dömande tankar som
+”jag kommer aldrig klara det”. Och att sedan ändå fortsätta med det
+som är viktigt, men utan att försöka trycka bort den negativa tanken
+eller känslan. Det är lite som att säga ”Hej! Där är visst du igen!”
+till den dömande tanken, utan att för den skull *köpa* det den dömande
+tanken säger.
+
+Som med allt annat är det vettigt att börja träna på att praktisera medveten närvaro
+långt innan du hamnar i en skarp situation. Det fungerar ungefär som när du tränar på gymmet. Själva hanteln är ett verktyg som hjälper dig att få starkare muskler. De flesta tränar inte muskelstyrka för att kunna bära omkring på hantlar, utanför att få ett bättre vardagsliv, om det så handlar om att vara nöjd med sin figur på stranden eller att klara av att bära hem matkassar från affären. Tänk på guidade övningar i medveten närvaro som hantlar eller andra redskap: De är i sig tämligen meningslösa, men hjälper dig att öva upp faktiskt mental styrka som du senare kan använda för att tänka och handla mer flexibelt i verkliga livet -- inklusive i skarpa situationer.
+
+Här är en portabel övning (som du
+kan såväl stående som gående) på Spotify från psykologen Fredrik
+Livheim.
+
+::: {.content-visible when-format="html"}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3dRaQwCRT2Nb2ASCa3L6pa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+:::
+
+Här är ytterligare några medveten närvaro-övningar som du kan prova, från Stressmottagningen. 
+
+::: {.content-visible when-format="html"}
+{{< video https://www.youtube.com/embed/4kVAHhJted8 >}}
+:::
+
+::: {.content-visible when-format="html"}
+{{< video https://www.youtube.com/embed/gGi03lwf_bw >}}
+:::

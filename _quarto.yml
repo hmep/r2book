@@ -66,6 +66,7 @@ book:
         - 5-5.qmd
         - 5-6.qmd
         - 5-7.qmd
+        - 5-8.qmd
     - part: "Vecka 6-7: Säga nej"
       chapters:
         - 6-0.qmd

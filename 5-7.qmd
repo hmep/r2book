@@ -1,36 +1,34 @@
 ---
 lang: sv
-title: "Uppgift: Planera inför de kommande två veckorna"
+title: Sammanfattning
 ---
 
-Under de två kommande veckorna kommer du att få fördjupa dig i ett eller
-två av fyra områden som är viktiga för konstruktiv självhävdelse. Härnäst väljer du en eller
-flera av de återstående avsnitten att göra övningarna i -- utifrån din egen nyfikenhet och vad du
-helst önskar att träna på.
+-   För att du ska kunna hävda dig själv behöver du bli medveten om när
+    du blir fysiskt spänd och fysiskt uppjagad och lära dig att
+    reglera kroppsreaktionerna, och/eller öka förmågan att tolerera dem. Hög fysisk spänning är en stor del av den upplevda stressnivån. I extremfall kan långvarig spänning
+    leda till kronisk smärta och stressrelaterade sjukdomar.
+-   Det finns flera sätt att sänka spänningsnivån, inklusive meditation,
+    träning, tai chi, massage, visualisering, yoga, progressiv
+    avslappning och långsam medveten andning.
+-   För att minska stressnivån är det viktigt att vi övar på
+    avslappningstekniker på daglig basis. Utforska och pröva dig fram
+    bland de många olika teknikerna för att hitta en som passar just
+    dig.
+-   Du kan också hitta avslappningsövningar i strömmade musiktjänster
+    eller i appar till mobilen. Ett tips för att snabbt komma igång:
+    Spela in dig själv med mobilen när du läser [textmanuset till
+    progressiv
+    avslappning](5-3.qmd).
+-   En annan färdighet som är skild från avslappning är att vara
+medvetet närvarande. Medveten närvaro handlar om att så långt det bara är
+möjligt ta in hela situationen, inklusive ångest och negativa tankar. Poängen
+träning i medveten närvaro är öka perspektivtagningsförmågan. Det är omöjligt
+att både ha perspektiv på sina tankar och att helt och hållet ”köpa” sina
+tankar. Sannolikheten att tanken ”Jag lägger märke till att jag har en tanke att
+hon dömer mig” leder till undvikande eller flykt är lägre än sannolikheten att tanken ”Hon dömer
+mig” gör det.
+-   Om du har perspektiv på det som händer utan att trycka bort de
+    negativa upplevelserna kan du ta sikte på det som är viktigt i
+    situationen. Du får fler valmöjligheter. Det underlättar för dig när
+    du tränar på konstruktiv självhävdelse.
 
--   Du kan välja att titta närmare på [varför det ibland är svårt att säga
-    ’nej’, och hur vi kan bli bättre på det](6-0.qmd). Det är viktigt för att
-    minska stressen i livet.
--   Du kan också öva på hur du kan [hantera kritik på ett
-    konstruktivt sätt](7-0.qmd). Att kunna ta och ge kritik på ett konstruktivt
-    sätt är bra för självkänslan.
--   Ett annat område du kan välja att jobba med är att [hantera besvikelser](8-0.qmd) på ett
-    sätt som respekterar både dina egna och andras rättigheter.
--   Slutligen kan du öva på att [ta emot och ge komplimanger på ett självhävdande och konstruktivt sätt](9-0.qmd). Det är en viktig självhävdande och social färdighet.
-
-Tänk tillbaka på dina SMARTa målsättningar och allt du har lärt dig
-i avsnitten hittills. Lägg till alla de erfarenheter och
-kloka slutsatser du har gjort i anslutning till de beteendeexperiment som du har utfört. Vad skulle vara ett lämpligt nytt område att
-fortsätta din mängdträning i kontstruktiv självhävdelse inom?
-
-Använd dig av det här arbetsbladet för att planera dina kommande veckor.
-
-::: {.content-visible when-format="html"}
-[Mina mål: självhävdelsebeteenden att öka (PDF)](forms/4f1b5b6c8b7a92eb516892f5f44e84e7.pdf)
-:::
-
-Och planera och utvärdera sedan dina beteendeexperiment med hjälp av det här arbetsbladet.
-
-::: {.content-visible when-format="html"}
-[Planera och genomför ett beteendeexperiment (PDF)](forms/be.pdf)
-:::

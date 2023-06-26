@@ -1,60 +1,15 @@
 ---
 lang: sv
-title: Ännu fler metoder för avslappning och medveten närvaro
+title: Ännu fler metoder för avslappning
 ---
 
-Du har säkert hört människor prata om vikten av att kunna vara medvetet
-närvarande i nuet. Medveten närvaro är inte detsamma som avslappning.
-Man kan vara helt medvetet närvarande även när man har en
-stressreaktion, även om det är mycket svårare än när man är avslappnad.
-Att vara medvetet närvarande handlar om att ta in och uppleva det som
-händer precis just nu, utan att värdera eller döma det. Det är en
-färdighet som är extremt hjälpsam -- rent av en förutsättning, faktiskt
--- för att klara av att ”ta sin ångest i handen” och göra det som är
-viktigt i stunden. 
-
-På den här sidan finns några fler sätt att träna medveten närvaro och
-avslappning. Vi hoppas de här tipsen kan inspirera dig att söka efter
+På den här sidan finns några fler sätt att träna avslappning. Vi hoppas de här tipsen kan inspirera dig att söka efter
 fler sätt till sänkt spänningsnivå i vardagen. Avspänning ger dig tid
 för medvetna val i livet, vilket i sin tur minskar stressen och ger dig
 energi att hävda dig själv konstruktivt. Se följande förslag som ett
 smörgåsbord av möjligheter. Du behöver inte tycka om allt som erbjuds på
 smörgåsbordet -- men provar du dig nyfiket fram kan du mycket väl hitta
 en ny favorit.
-
-## Medveten närvaro
-
-Träning i medveten närvaro handlar om att ta in hela situationen,
-inklusive alla de dömande tankar och känslor som kommer och går (som
-tankar och känslor alltid gör). Om du är extremt stressad inför en
-presentation på jobbet, skulle medveten närvaro kunna handla om att
-uppmärksamma att du är väldigt nervös och tänker dömande tankar som
-”jag kommer aldrig klara det”. Och att sedan ändå fortsätta med det
-som är viktigt, men utan att försöka trycka bort den negativa tanken
-eller känslan. Det är lite som att säga ”Hej! Där är visst du igen!”
-till den dömande tanken, utan att för den skull *köpa* det den dömande
-tanken säger.
-
-Som med allt annat är det vettigt att börja träna på att praktisera medveten närvaro
-långt innan du hamnar i en skarp situation. Det fungerar ungefär som när du tränar på gymmet. Själva hanteln är ett verktyg som hjälper dig att få starkare muskler. De flesta tränar inte muskelstyrka för att kunna bära omkring på hantlar, utanför att få ett bättre vardagsliv, om det så handlar om att vara nöjd med sin figur på stranden eller att klara av att bära hem matkassar från affären. Tänk på guidade övningar i medveten närvaro som hantlar eller andra redskap: De är i sig tämligen meningslösa, men hjälper dig att öva upp faktiskt mental styrka som du senare kan använda för att tänka och handla mer flexibelt i verkliga livet -- inklusive i skarpa situationer.
-
-Här är en portabel övning (som du
-kan såväl stående som gående) på Spotify från psykologen Fredrik
-Livheim.
-
-::: {.content-visible when-format="html"}
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3dRaQwCRT2Nb2ASCa3L6pa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-:::
-
-Här är ytterligare några medveten närvaro-övningar som du kan prova, från Stressmottagningen. 
-
-::: {.content-visible when-format="html"}
-{{< video https://www.youtube.com/embed/4kVAHhJted8 >}}
-:::
-
-::: {.content-visible when-format="html"}
-{{< video https://www.youtube.com/embed/gGi03lwf_bw >}}
-:::
 
 ## Lugn, kontrollerad andning
 
