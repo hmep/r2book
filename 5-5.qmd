@@ -36,9 +36,21 @@ till den dömande tanken, utan att för den skull *köpa* det den dömande
 tanken säger.
 
 Som med allt annat är det vettigt att börja träna på medveten närvaro
-innan du hamnar i en skarp situation. Här är en portabel övning (som du
+innan du hamnar i en skarp situation. Det fungerar ugnefär som när du tränar på gymmet. Själva hanteln är ett verktyg som hjälper dig att få starkare muskler. De flesta tränar inte muskelstyrka för att kunna bära omkring på hantlar, utanför att få ett bättre vardagsliv, om det så handlar om att vara nöjd med sin figuer på stranden eller att klara av att bära hem matkassar från affären. Tänk på guidade övningar i medveten närvaro som hantlar eller andra styrkeredskap: De är i sig tämligen meningslösa, men hjälper dig att öva upp faktiskt mental styrka som du kan använda för att bli mer kognitivt flexibel.
+
+Här är en portabel övning (som du
 kan göra även stående och gående) på Spotify från psykologen Fredrik
 Livheim.
+
+::: {.content-visible when-format="html"}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3dRaQwCRT2Nb2ASCa3L6pa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+:::
+
+Här är ytterligare några medveten närvaro-övningar i så kallad kroppsskanning som du kan prova. 
+
+::: {.content-visible when-format="html"}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6awr3NK0NxaKlJU1TEfTG6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+:::
 
 ## Lugn, kontrollerad andning
 
@@ -82,16 +94,17 @@ här övningen kan du göra det.
 Enligt en
 [rapport](https://www.britishacademyofsoundtherapy.com/wp-content/uploads/2019/10/Mindlab-Report-Weightless-Radox-Spa.pdf){target=”_blank”}
 från 2011 är *Weightlessness* från Marconi Union ”världens mest
-avslappnande låt”. Det tvärsäkra påståendet ska tas med en nypa salt,
+avslappnande låt”. Det tvärsäkra påståendet ska förstås tas med en nypa salt,
 men låten är utformad i samarbete med neuroforskare för att sänka
 pulsen, genom gradvis sänkning av tempot från 60 bpm i början av låten
 till 50 bpm i slutet. Eftersom den inte har någon uppmärksamhetsfångande
 melodi att tala om samt att den är ganska lång, ger dig dig tid att
 varva ned. Den sägs i genomsnitt lugna pulsen med 35% -- och dessutom
-lindra ångest. Prova själv!
+lindra ångest. Prova själv -- vad tycker du?
 
-Här är en spellista i Spotify med den och ytterligare några avslappnande
-låtar.
+::: {.content-visible when-format="html"}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3d8apQ32ZVRDPFtllVTKGR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+:::
 
 Du kanske också har några egna favoritlåtar för att komma ned i varv?
 

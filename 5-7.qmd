@@ -19,14 +19,17 @@ helst önskar att träna på.
 -   Slutligen kan du öva på att [ta emot och ge komplimanger på ett självhävdande och konstruktivt sätt](9-0.qmd). Det är en viktig självhävdande och social färdighet.
 
 Tänk tillbaka på dina SMARTa målsättningar och allt du har lärt dig
-i avsnitten hittills i programmet. Lägg till alla de erfarenheter och
-kloka slutsatser du har gjort i anslutning till de beteendeexperiment du
-har utfört i programmet. Vad skulle vara ett lämpligt nytt område att
+i avsnitten hittills. Lägg till alla de erfarenheter och
+kloka slutsatser du har gjort i anslutning till de beteendeexperiment som du har utfört. Vad skulle vara ett lämpligt nytt område att
 fortsätta din mängdträning i kontstruktiv självhävdelse inom?
+
+Använd dig av det här arbetsbladet för att planera dina kommande veckor.
 
 ::: {.content-visible when-format="html"}
 [Mina mål: självhävdelsebeteenden att öka (PDF)](forms/4f1b5b6c8b7a92eb516892f5f44e84e7.pdf)
 :::
+
+Och planera och utvärdera sedan dina beteendeexperiment med hjälp av det här arbetsbladet.
 
 ::: {.content-visible when-format="html"}
 [Planera och genomför ett beteendeexperiment (PDF)](forms/be.pdf)
