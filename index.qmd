@@ -21,7 +21,20 @@ Då kan den här självhjälpsmaterialet baserat på kognitiv beteendeterapi (KB
 
 ## 10 avsnitt, 8 veckor
 
-KBT-självhjälpsmaterialet består av 10 avsnitt som det är tänkt att du jobbar med under loppet av 8 veckor. Under de två näst sista veckorna väljer du själv vilka fördjupningsområden du vill jobba med: Att bli bättre på att klara av att [säga nej till sådant som du egentligen inte själv vill](6-0.qmd), att [ta och ge kritik](7-0.qmd), att [hantera besvikelser](8-0.qmd) och att [ta och ge komplimanger](9-0.qmd).
+KBT-självhjälpsmaterialet består av 10 avsnitt som det är tänkt att du jobbar med under loppet av 8 veckor. Under de första fem veckorna kommer du ...
+- att [sätta personliga mål](1-0.qmd),
+- att [lära dig om konstruktiv självhävdelse](2-0.qmd),
+- att [lära dig tänka mer flexibelt](3-0.qmd),
+- att [bli varse vilket handlande som är ändamålsenligt](4-0.qmd), och vilket som inte är det,
+- att [bli medveten om och hantera kroppsliga reaktioner](5-0.qmd).
+
+Under de två näst sista veckorna väljer du själv vilka fördjupningsområden du vill jobba med: Att bli bättre på att klara av ...
+- att [säga nej till sådant som du egentligen inte själv vill](6-0.qmd), 
+- att [ta och ge kritik](7-0.qmd), 
+- att [hantera besvikelser](8-0.qmd) och 
+- att [ta och ge komplimanger](9-0.qmd).
+
+Under den sista veckan sätter du ihop din personliga plan för fortsatt träning.
 
 ## Syftet med det här materialet
 

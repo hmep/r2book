@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: ”Lästips och referenser”
+title: Lästips och referenser
 ---
 
 ## Tips på självhjälpsresurser
