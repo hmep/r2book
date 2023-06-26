@@ -51,7 +51,7 @@ självhävdande. Se om några av exemplen stämmer in på dig.
 Ägna några minuter åt att försöka identifiera några ytterligare
 hindrande antaganden som du har i relationer/situationer som du vill 
 utmana dig själv i. Utgå från situationer som du tagit med i arbetsbladet 
-med dina SMARTa målsättningar, som du formulerade i modul 1.
+med dina [SMARTa målsättningar](1-5.qmd), som du formulerade under vecka 1.
 
 ::: {.content-visible when-format="html"}
 [Hindrande antaganden för konstruktiv självhävdelse (PDF)](forms/f0a1c31a82f11d157bae31eddf7ddc1f.pdf)

@@ -3,11 +3,10 @@ lang: sv
 title: "Uppgift: Ditt eget första beteendeexperiment"
 ---
 
-Ta fram arbetsbladet med dina SMARTa målsättningar som du formulerade i modul 1
+Ta fram arbetsbladet med dina SMARTa målsättningar som du började formulera i vecka 1
 och välj ett mål att planera ett beteendeexperiment kring. Om du redan har
-utfört ett spontant beteendeexperiment kring någon av dina målsättningar (snyggt
-jobbat, i sådana fall!) kan du förstås välja ett annat målbeteenden och/eller en
-annan situation.
+utfört ett spontant beteendeexperiment kring någon av dina målsättningar -- snyggt
+jobbat! Då väljer du helt enkelt ett annat målbeteenden och/eller en annan situation.
 
 ## Planera ditt beteendeexperiment (steg 1 till 4)
 
