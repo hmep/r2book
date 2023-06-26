@@ -37,6 +37,10 @@ Livheim.
 Här är ytterligare några medveten närvaro-övningar som du kan prova, från Stressmottagningen. 
 
 ::: {.content-visible when-format="html"}
+{{< video https://www.youtube.com/embed/y7PAGIOMX6I >}}
+:::
+
+::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/4kVAHhJted8 >}}
 :::
 
