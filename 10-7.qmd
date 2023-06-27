@@ -3,6 +3,8 @@ lang: sv
 title: Slutord
 ---
 
+{{< video https://www.youtube.com/embed/qOdXGXTg6PA >}}
+
 ## Tack och lycka till!
 
 För åtta veckor sedan började du jobba med det här självhjälpsmaterialet som handlar om konstruktiv

@@ -3,7 +3,7 @@ lang: sv
 title: Lägg märke till negativa förutsägelser
 ---
 
-Som vi lade märke till i modul 3 finns det ofta [hindrande
+Som vi lade märke till i vecka 3 finns det ofta [hindrande
 förutsägelser om hur det ska
 gå](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment)
 bakom vår oförmåga att hävda oss själva. De kan handla om vilken effekt

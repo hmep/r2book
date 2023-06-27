@@ -31,10 +31,10 @@ konstruktiv självhävdelse. Det är inte slutet på din resa, det här
     känt är en påminnelse om att [det här sannolikt är viktigt för
     dig](3-2.qmd).
     I det här avsnittet kommer vi att planera för hur du kan fortsätta
-    jobba på egen hand, och modulerna och övningarna finns kvar här
+    jobba på egen hand, och självhjälpsmaterialet och övningarna finns kvar här
     för dig även fortsättningsvis. Börja med att ta hjälp av
-    övningarna i det här avsnittet. Kom ihåg: ett litet steg i
-    värderad riktning är 100% ett steg i värderad riktning. 
+    övningarna i det här avsnittet. Kom ihåg: även ett litet steg i
+    värderad riktning är helt och hållet ett steg i värderad riktning. 
 -   Kanske är du besviken på oss över att det här programmet inte
     har motsvarat dina förväntningar? I sådana fall -- berätta för
     oss här nedan vad du har saknat. Att du ger oss konstruktivt

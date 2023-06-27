@@ -37,6 +37,8 @@ dig att göra beteendeexperiment så att du kan fortsätta med det i ditt
 eget liv -- hela livet ut. Det är en högst bärbar färdighet som kan dra nytta av 
 var du än är i livet.
 
+{{< video https://www.youtube.com/embed/Lepx2oU1k2E >}}
+
 ## Beteendeexperiment, steg för steg
 
 Så här kan man lägga upp ett välplanerat beteendeexperiment, steg för
