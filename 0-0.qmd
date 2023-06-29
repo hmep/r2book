@@ -18,7 +18,7 @@ title: Nedladdningsbara filer
   - [Mina skäl att utföra beteendeexperiment (PDF)](forms/100respekt-mina-skal-beteendeexperiment.pdf)
   - [Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf) (att fortsätta jobba med)
   - [Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf)
-  - [Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf)
+  - [Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf)
   - [Planera för framgång (PDF)](forms/100respekt-planera-traning.pdf) (att fortsätta jobba med)
   
 ## Media för progressiv avslappning
