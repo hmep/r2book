@@ -57,7 +57,7 @@ Om du skrev upp några egna hindrande förutsägelser ovan, testa att
 formulera egna balanserande förutsägelser till dem.
 
 ::: {.content-visible when-format="html"}
-[Mina rättigheter att hävda mig själv (PDF)](forms/f8c76e544bba93a736da77ee106f5ca4.pdf)
+[Mina rättigheter att hävda mig själv (PDF)](forms/100respekt-mina-rattigheter.pdf)
 :::
 
 ### Fortsätt arbeta med beteendeexperiment
