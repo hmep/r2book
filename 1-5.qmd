@@ -74,5 +74,5 @@ sätt som du vill, trots visst obehag, som du ger dig själv en chans till
 nyinlärning och kan bredda din beteenderepertoar.
 
 ::: {.content-visible when-format="html"}
-[Mina mål: självhävdelsebeteenden att öka (PDF)](forms/4f1b5b6c8b7a92eb516892f5f44e84e7.pdf)
+[Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
 :::

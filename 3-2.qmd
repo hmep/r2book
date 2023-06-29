@@ -204,5 +204,5 @@ beteendeexperiment som bygger på dina första målsättningar som du
 började formulera i vecka 1. När du nu har läst det här avsnittet, har du hittat några ytterligare situationer och relationer att träna konstruktiv självhävdelse i? Lägg till även dem i arbetsbladet med SMARTa mål.
 
 ::: {.content-visible when-format="html"}
-[Mina mål: självhävdelsebeteenden att öka (PDF)](forms/4f1b5b6c8b7a92eb516892f5f44e84e7.pdf)
+[Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
 :::

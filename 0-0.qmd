@@ -5,4 +5,12 @@ title: Nedladdningsbara filer
 
 ## Alla arbetsblad
 
+- Vecka 1
+  - [Självskattning av grad av självhävdelse (PDF)](forms/100respekt-100respekt-skattning-situation-relation.pdf)
+  - [Mina mål: självhävdelsebeteenden att öka (PDF)](100respekt-SMARTa-mal.pdf)
+- Vecka 2
+  - [Mina mål: självhävdelsebeteenden att öka (PDF)](100respekt-SMARTa-mal.pdf)
+  - [Kartläggning av obehag och motivation (PDF)](100respekt-obehag-motivation-reflektion.pdf)
+  - [Planera för framgång (PDF)](100respekt-planera-traning.pdf)
+  
 ## Media för progressiv avslappning

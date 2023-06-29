@@ -78,5 +78,5 @@ title: Konstruktivt självhävdande kommunikation
 I slutet av förra avsnittet började du arbetet med att formulera mål att arbeta mot, i de situationer och de relationer som idag är svåra att hantera. Nu när du har läst så här långt i det här kapitlet, får du några nya idéer om vad du vill öva på? Ta gärna fram målformuleringsarbetsbladet igen och se vad du kan lägga till som [SMARTa mål](1-5.qmd).
 
 ::: {.content-visible when-format="html"}
-[Mina mål: självhävdelsebeteenden att öka (PDF)](forms/4f1b5b6c8b7a92eb516892f5f44e84e7.pdf)
+[Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
 :::
