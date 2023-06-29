@@ -1,0 +1,39 @@
+---
+title: "Hindrande antaganden om att ta/ge komplimanger"
+format:
+  pdf:
+    keep-tex: true
+    pdf-engine: xelatex
+    documentclass: article
+    lang: sv
+header-includes: 
+- \input{../_header_includes.tex}
+bibliography:
+  - ../../r2fu/KSH.bib
+  - ../../r2fu/DBT.bib
+---
+
+\xinit
+
+Kan du identifiera några exempel på tänkande som hindrar dig i situationer där
+vill kunna ge och ta komplimanger på ett konstruktivt sätt? Kryssa
+för dem som du känner igen dig i nedan. Ge dig också själv lite tid att försöka
+sätta ord på ytterligare antaganden som hindrar dig. Även om det kan vara
+skrämmande att se ditt tänkande på pränt, påminn dig om att de är just det --
+tankar. Du kommer i när du arbetar vidare få möjlighet att förhålla dig friare
+och mer flexibelt till dem.
+
+\setlist[itemize]{
+    label={\xtikztick}
+}
+
+- De menar det inte egentligen. De försöker bara vara trevliga.
+- De är inställsamma.
+- De är ute efter något.
+- Om jag tar emot komplimangen betyder det att jag är högfärdig.
+- Om jag tar emot komplimangen tror de att jag är fåfäng.
+- Det är alldeles för pinsamt för att jag ska kunna säga något tillbaka.
+
+\xfline{Fler hindrande antaganden som jag märker att jag följer}{8}{}
+
+{{< include ../_pdf_footer.qmd >}}

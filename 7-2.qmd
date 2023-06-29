@@ -28,7 +28,7 @@ faktiska tidigare erfarenheter, som gör det svårt för dig att möta
 kritik med konstruktiv självhävdelse? Skriv upp dem.
 
 ::: {.content-visible when-format="html"}
-[Hindrande antaganden om att ta/ge kritik (PDF)](forms/hindrande-antaganden-hantera-kritik.pdf)
+[Hindrande antaganden om att ta/ge kritik (PDF)](forms/100respekt-hindrande-antaganden-hantera-kritik.pdf)
 :::
 
 ## Hjälpande förutsägelser
@@ -57,7 +57,7 @@ Om du skrev upp några egna hindrande förutsägelser ovan, testa att
 formulera egna balanserande förutsägelser till dem.
 
 ::: {.content-visible when-format="html"}
-[Mina rättigheter att hävda mig själv (PDF)](forms/100respekt-mina-rattigheter.pdf)
+[Hjälpande antaganden om att hantera kritik (PDF)](forms/100respekt-hjalpande-antaganden-hantera-kritik.pdf)
 :::
 
 ### Fortsätt arbeta med beteendeexperiment

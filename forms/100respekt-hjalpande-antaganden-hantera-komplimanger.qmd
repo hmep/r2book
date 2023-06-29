@@ -1,0 +1,36 @@
+---
+title: "Hjälpande antaganden om att ta/ge komplimanger"
+format:
+  pdf:
+    keep-tex: true
+    pdf-engine: xelatex
+    documentclass: article
+    lang: sv
+header-includes: 
+- \input{../_header_includes.tex}
+bibliography:
+  - ../../r2fu/KSH.bib
+  - ../../r2fu/DBT.bib
+---
+
+\xinit
+
+Hindrande tankar är inte fakta. De är helt enkelt bara förutsägelser och åsikter som vi har lärt oss eller räknat ut. Var och en av dem kan vägas mot en mer hjälpsam förutsägelse eller åsikt om vikten av konstruktiv självhävdelse, exempelvis att ta och ge komplimanger på ett konstruktivt sätt. I listan nedan finns några förslag på hjälpsamma antaganden. Kryssa för dem som du håller med om, och komplettera med ytterligare antaganden som du kan komma på om nyttan med att hävda dig själv bättre.
+
+\setlist[itemize]{
+    label={\xtikztick}
+}
+
+- Komplimangen kan vara äkta.
+- Även om de bara försöker vara vänliga så är det en positiv sak och jag vill svara på ett lämpligt sätt.
+- Om jag inte tar emot komplimangen kommer jag att få den andra personen att känna sig obekväm.
+- Om jag tar emot komplimangen kan jag få den andra personen att också må bättre.
+- Även om jag tar emot en komplimang på ett vänligt sätt behöver jag inte hålla med om den helt och hållet.
+- Om jag börjar att tro på en del komplimanger kommer jag inte känna mig lika dålig längre.
+- Att jag tar emot en komplimang betyder inte att jag är uppblåst eller tror att jag är bättre än andra. Om så vore fallet skulle jag ju redan ge mig själv massor av komplimanger!
+- Människor ger komplimanger av massor av olika skäl. Det är inte lönt att slösa tid på att undra varför någon gjorde det mot mig. Jag vill uppskatta det faktum att någon tog sig tid att säga något snällt till mig!
+- Jag har lika mycket rätt till komplimanger som någon annan.
+
+\xfline{Fler hjälpande antaganden som jag kan komma på}{8}{}
+
+{{< include ../_pdf_footer.qmd >}}

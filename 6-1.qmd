@@ -29,7 +29,7 @@ Se om du kan finna ytterligare hjälpsamt tänkande i form av egna
 förutsägelser om nyttan med att säga ’nej’.
 
 ::: {.content-visible when-format="html"}
-[Hjälpande antaganden (PDF)](forms/4266b944a530819291c68fa7ebc421ff.pdf)
+[Hjälpande antaganden (PDF)](forms/100respekt-hjalpande-antaganden-saga-nej.pdf)
 :::
 
 ## Fortsätt arbeta med beteendeexperiment

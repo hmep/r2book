@@ -1,0 +1,31 @@
+---
+title: "Hjälpande antaganden om att hantera besvikelser"
+format:
+  pdf:
+    keep-tex: true
+    pdf-engine: xelatex
+    documentclass: article
+    lang: sv
+header-includes: 
+- \input{../_header_includes.tex}
+bibliography:
+  - ../../r2fu/KSH.bib
+  - ../../r2fu/DBT.bib
+---
+
+\xinit
+
+Hindrande tankar är inte fakta. De är helt enkelt bara förutsägelser och åsikter som vi har lärt oss eller räknat ut. Var och en av dem kan vägas mot en mer hjälpsam förutsägelse eller åsikt om vikten av konstruktiv självhävdelse, exempelvis att hantera besvikelser på ett konstruktivt sätt. I listan nedan finns några förslag på hjälpsamma antaganden. Kryssa för dem som du håller med om, och komplettera med ytterligare antaganden som du kan komma på om nyttan med att hävda dig själv bättre.
+
+\setlist[itemize]{
+    label={\xtikztick}
+}
+
+- Det är inte roligt att bli orättvist behandlad, men det är inte heller fruktansvärt eller katastrofalt.
+- Jag kan stå ut med att vara sårad och frustrerad. Jag kan göra något för att påverka situationen.
+- Jag accepterar hur den andra personen är. Han eller hon har kanske avvisat en del av mina beteenden men inte hela mig som person.
+- Det är bäst att jag öppet uttrycker mina känslor; konsekvenserna av det behöver inte bli så hemska som jag tror.
+
+\xfline{Fler hjälpande antaganden som jag kan komma på}{8}{}
+
+{{< include ../_pdf_footer.qmd >}}

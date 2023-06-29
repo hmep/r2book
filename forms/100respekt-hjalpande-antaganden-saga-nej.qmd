@@ -1,5 +1,5 @@
 ---
-title: "Hjälpande antaganden"
+title: "Hjälpande antaganden om att säga ’nej’"
 format:
   pdf:
     keep-tex: true
