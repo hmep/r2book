@@ -162,5 +162,5 @@ blodtryck, så om du reser dig för snabbt kan du bli lite yr.
 :::
 
 ::: {.content-visible when-format="html"}
-[Manus för progressiv avslappning (PDF)](forms/manus-progressiv-avslappning.pdf)
+[Manus för progressiv avslappning (PDF)](forms/100respekt-manus-progressiv-avslappning.pdf)
 :::

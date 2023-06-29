@@ -34,7 +34,7 @@ upp dem här nedan. Det kan till exempel vara tekniker som vi tagit upp
 här ovan eller andra personliga avslappningsfavoriter. 
 
 ::: {.content-visible when-format="html"}
-[Mina sätt att sänka spänningsnivån (PDF)](forms/e2627c067c06a2a074a6b04bc770d166.pdf)
+[Mina sätt att sänka spänningsnivån (PDF)](forms/100respekt-avslappningstekniker.pdf)
 :::
 
 I återstoden av kapitlet kommer vi introducera några tekniker som du
