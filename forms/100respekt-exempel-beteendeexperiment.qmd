@@ -41,7 +41,7 @@ Utifrån din valda SMARTa målsättning, formulera ett beteendeexperiment genom 
 
 ### \xhl{Steg 4} Ange ditt självhävdande målbeteende (från din SMARTa målsättning)
 
-\xfline{Vad vill jag att göra annorlunda, för att testa de två förutsägelserna?}{1}{Jag vill ringa och säga 'nej' och boka in en annan tid med henne istället.}
+\xfline{Vad vill jag att göra annorlunda, för att testa de två förutsägelserna?}{1}{Jag vill ringa idag efter lunch och säga 'nej' och boka in ett annat tillfälle istället.}
 
 <!-- \renewcommand\xhl[1]{\protect\begin{tikzpicture}\node[circle,draw] at (0,0) {#1};\end{tikzpicture}} -->
 

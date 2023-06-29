@@ -56,8 +56,8 @@ title: Alla arbetsblad
 
 ### Vecka 8: Planera för framkomlighet
 
-  - [Självskattning av grad av självhävdelse (PDF)](forms/100respekt-skattning-situation-relation.pdf)
   - [Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf) (att fortsätta jobba med)
   - [Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf) (att fortsätta jobba med)
   - [Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf) (att fortsätta jobba med)
+  - [Självskattning av grad av självhävdelse (PDF)](forms/100respekt-skattning-situation-relation.pdf)
   - [Så här vill jag fortsätta hävda mig själv konstruktivt (PDF)](forms/100respekt-vidmakthallande-reflektion.pdf)
