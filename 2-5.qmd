@@ -108,7 +108,7 @@ spänd i) i vardagen. Det går att träna på progressiv avslappning var som
 helst: i duschen, på mötet, i bilen \... 
 
 ::: {.content-visible when-format="html"}
-[Planera för framgång (PDF)](forms/4100respekt-planera-traning.pdf)
+[Planera för framgång (PDF)](forms/100respekt-planera-traning.pdf)
 :::
 
 Har du använt arbetsbladet ovan och tänkt till om hur du kan hjälpa dig själv att
