@@ -1,0 +1,20 @@
+---
+lang: sv
+title: Licens och källkod
+---
+
+## Licensvillkor {#sec-licens}
+
+Materialet är fritt tillgängligt att använda som självhjälpsmaterial i psykologisk behandling. Vi har valt en fri dokumentlicens eftersom vi tycker att evidensbaserade psykologiska interventioner ska vara fritt tillgängliga för allmänheten, liksom i primärvården och psykiatrin.
+
+[![Creative
+Commons-licens](/sites/respekt/media/image/Cc-by-nc-sa_icon.svg){style="border-width:0;margin-bottom:.5rem;"}](http://creativecommons.org/licenses/by-nc-sa/4.0/){rel="license"}\
+Detta verk är licensierat under en [Creative Commons
+Erkännande-IckeKommersiell-DelaLika 4.0 Internationell
+Licens](http://creativecommons.org/licenses/by-nc-sa/4.0/){rel="license"}.
+
+Med andra ord: Du får anpassa och sprida det här materialet, men inte kommersiellt, och bara om du anger källan.
+
+## Källkod
+
+Granska och ladda ned källkoden till den här boken från GitHub ...
