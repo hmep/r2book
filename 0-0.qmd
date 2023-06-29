@@ -6,7 +6,7 @@ title: Nedladdningsbara filer
 ## Alla arbetsblad
 
 - Vecka 1
-  - [Självskattning av grad av självhävdelse (PDF)](forms/100respekt-100respekt-skattning-situation-relation.pdf)
+  - [Självskattning av grad av självhävdelse (PDF)](forms/100respekt-skattning-situation-relation.pdf)
   - [Mina mål: självhävdelsebeteenden att öka (PDF)](100respekt-SMARTa-mal.pdf)
 - Vecka 2
   - [Mina mål: självhävdelsebeteenden att öka (PDF)](100respekt-SMARTa-mal.pdf)
