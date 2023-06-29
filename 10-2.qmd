@@ -8,12 +8,16 @@ på att hävda dig själv i och som du vill jobba vidare med på egen hand
 -- i din egen takt. Det kan vara hemma, på jobbet, med vänner eller ute
 bland folk.
 
-Under vecka 1 fyllde du i ett [arbetsblad med besvärliga
-situationer/relationer](1-4.qmd). Det innehåller flera uppslag till situationer som du kan jobba med. Gå
-gärna tillbaka och se över det för att påminna dig själv om vad du
-svarade.
+Under vecka 1 fyllde du i ett arbetsblad med besvärliga
+situationer/relationer. Lägg nu lite tid på att fylla i arbetsbladet på nytt, utan att först titta på dina svar som du gav i vecka 1.
 
-Om du fortfarande kämpar med att identifiera situationer att arbeta med,
+::: {.content-visible when-format="html"}
+[Självskattning självhävdelse (PDF)](forms/100respekt-100respekt-skattning-situation-relation.pdf)
+:::
+
+Om du nu, när du har fyllt i arbetsbladet ovan på nytt, jämför med dina svar från vecka 1, vilka slutsatser drar du? Inom vilka relationer och situationer har du ökat din förmåga att hävda dig själv bättre, på ett konstruktivt sätt? Inom vilka områden vill du fortsätta arbeta vidare? Sök svaren på de frågorna nyfiket och icke-värderande. För sök istället att ha en utforskande inställning. Hur det än har gått för dig så innehåller svaren på arbetsbladet uppslag till situationer som du kan fortsätta jobba med.
+
+Om du fortfarande kämpar med att identifiera situationer att arbeta vidare med,
 tänk på följande situationer. Det kan hjälpa dig. Hur brukar du göra när
 ...
 
@@ -38,8 +42,8 @@ din lista hamnar på skalan 0--100, från lättast till svårast.
 ## Exempel på en självhävdelse-hierarki
 
   ----------------------- ----------------------- -----------------------
-  Situation               Skattning\              Rangordning
-                          (0--100)                
+  Situation               Svårighetsgrad \              Rangordning
+                          (skala 0--100)                
 
   Säga till svärmor att   70                      9
   jag inte vill att hon                           
@@ -92,4 +96,6 @@ din lista hamnar på skalan 0--100, från lättast till svårast.
 
 ## Din egen självhävdelsehierarki
 
-##fe5b72f9c6ecca7cf87d99ac8760d533=
+Ta fram ditt arbetsblad med dina SMARTa mål, och se om du kan rangordna de områden du tagit upp på det utifrån den svårighetsgradsskattning som du har gjort. Du kan plita dit en rangordningssiffra i marginalen bredvid respektive rad.
+
+[Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)

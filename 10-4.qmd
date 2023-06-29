@@ -6,7 +6,9 @@ title: Utför beteendeexperiment
 För var och en av sakerna du har tagit upp i din exponeringshierarki,
 gör ett (eller flera) planerade eller spontana beteendeexperiment!
 
-Använd gärna det här arbetsbladet. Du kan fylla i det hur många gånger som
+Använd det här arbetsbladet. Du kan fylla i det hur många kopior av det som
 helst.
 
-##ec474e14e69bba17721492608570d9ec=
+[Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf) (att fortsätta jobba med)
+
+[Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf) (att fortsätta jobba med)

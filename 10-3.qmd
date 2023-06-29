@@ -5,7 +5,7 @@ title: Lägg märke till negativa förutsägelser
 
 Som vi lade märke till i vecka 3 finns det ofta [hindrande
 förutsägelser om hur det ska
-gå](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment)
+gå](3-0.qmd)
 bakom vår oförmåga att hävda oss själva. De kan handla om vilken effekt
 vårt konstruktiva målbeteende ska få på oss själva eller andra, eller om
 hur det kommer att kännas när vi utför vårt målbeteende. Lägg gärna lite
@@ -53,7 +53,7 @@ förhållandet: att göra för att sedan få uppleva framgång. Det är bättre
 menas att bryta oroande och ältande (det vill säga problemlösning som
 går på tomgång) genom att hämta faktiska erfarenheter i livet, i
 enlighet med den [aktiva
-cirkeln](https://www.iterapi.se/sites/respekt/program/3-utmana-negativa-f-ruts-gelser-med-beteendeexperiment/15-argument-f-r-att-byta-undvikande-mot-aktivt-deltagande).
+cirkeln](3-2.qmd).
 Ett annat sätt att uttrycka det på är: ”Get out of your mind and into
 your life!”. 
 
@@ -61,8 +61,7 @@ your life!”.
 
 Vår förhoppning med det här självhjälpsmaterialet har varit att ge dig
 några första goda erfarenheter av att testa framkomlighet i livet i
-praktiken. Ta med dig av alla dina erfarenheter som du har gjort i
-programmet! Det här låter kanske konstigt och till och med lite
+praktiken. Ta med dig av alla dina erfarenheter som du har gjort under arbetet med det här självhjälpsmaterialet! Det här låter kanske konstigt och till och med lite
 skrämmande, men låt också din sårbarhet vara en färdkamrat. Att inför
 andra människor dela med sig av vad man tänker och känner -- även om det
 är känslor av ledsenhet, skuld eller ren och skär rädsla eller ångest --
