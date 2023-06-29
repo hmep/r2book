@@ -22,11 +22,11 @@ punkt för att ge maximal uppmärksamhet till själva övningen.
 
 ### Instruktioner, enbart ljud
 
-<audio controls=””><source src=”https://www.dropbox.com/s/7znxp4ac5m655zu/KSH-06-progressiv-muskelavslappning-del-2.mp3?raw=1” type=”audio/mpeg” />Din webbläsare stödjer inte uppspelning av ljudfiler.</audio>
+<audio controls=""><source src="https://www.dropbox.com/s/7znxp4ac5m655zu/KSH-06-progressiv-muskelavslappning-del-2.mp3?raw=1" type="audio/mpeg" />Din webbläsare stödjer inte uppspelning av ljudfiler.</audio>
 
 #### Ladda ned instruktioner (mp3)
 
-[Ladda ned en mp3-fil](https://www.dropbox.com/s/7znxp4ac5m655zu/KSH-06-progressiv-muskelavslappning-del-2.mp3?dl=1){target=”_blank”} till din mobil.
+[Ladda ned en mp3-fil](https://www.dropbox.com/s/7znxp4ac5m655zu/KSH-06-progressiv-muskelavslappning-del-2.mp3?dl=1){target="_blank"} till din enhet.
 :::
 
 Precis som i förra veckan rekommenderar vi att du tränar på del 2 så

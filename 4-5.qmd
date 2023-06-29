@@ -19,11 +19,11 @@ veckan som kommer.
 ::: {.content-visible when-format="html"}
 ### Instruktioner, enbart ljud
 
-<audio controls=””><source src=”https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?raw=1” type=”audio/mpeg” />Din webbläsare stödjer inte uppspelning av ljudfiler.</audio>
+<audio controls=""><source src="https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?raw=1" type="audio/mpeg" />Din webbläsare stödjer inte uppspelning av ljudfiler.</audio>
 
 #### Ladda ned instruktioner (mp3)
 
-[Ladda ned en mp3-fil](https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?dl=1){target=”_blank”} till din mobil.
+[Ladda ned en mp3-fil](https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?dl=1){target="_blank"} till din enhet.
 :::
 
 ## Träna snabbavslappning i vardagen
