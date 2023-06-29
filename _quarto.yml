@@ -13,7 +13,8 @@ book:
   author: "Fiona Michel, Anthea Fursland, Patrik Manhem & Tobias Hagberg"
   #date: "`r format(Sys.time(), '%e %b %Y')`"
   #date: "`r format(Sys.time(), '%B %e, %Y')`"
-  date: "`r Sys.time()`"
+  #date: "`r Sys.time()`"
+  date: last-modified
   date-format: medium
   favicon: sites/respekt/media/image/100respekt.svg
   sidebar:
