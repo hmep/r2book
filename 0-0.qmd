@@ -30,7 +30,7 @@ title: Nedladdningsbara filer
   - [Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf) (att fortsätta jobba med)
   - [Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf)  (att fortsätta jobba med)
 - Vecka 6-7: Säga nej, hantera kritik, hantera besvikelser, hantera komplimanger
-  - [Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
+  - [Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf) (att fortsätta jobba med)
   - [Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf) (att fortsätta jobba med)
   - [Hindrande antaganden om att säga ’nej’ (PDF)](forms/100respekt-hindrande-antaganden-saga-nej.pdf)
   - [Hjälpande antaganden om att säga ’nej’ (PDF)](forms/100respekt-hjalpande-antaganden-saga-nej.pdf)
@@ -43,3 +43,38 @@ title: Nedladdningsbara filer
 - Vecka 8: Planera för framkomlighet
 
 ## Media för progressiv avslappning
+
+### Arbetsblad
+
+- [Planera för framgång (PDF)](forms/100respekt-planera-traning.pdf)
+- [Manus för progressiv avslappning (PDF)](forms/100respekt-manus-progressiv-avslappning.pdf)
+
+::: {.content-visible when-format="html"}
+### Instruktioner, video
+
+{{< video https://www.youtube.com/embed/8ygZeRNVdIU >}}
+
+{{< video https://www.youtube.com/embed/Sfpfa75e93k >}}
+
+### Instruktioner, enbart ljud
+
+#### Progressiv avslappning, del 1
+
+<audio controls=””><source src=”https://www.dropbox.com/s/66gviwf37y12ot9/KSH-06-progressiv-muskelavslappning-del-1.mp3?raw=1” type=”audio/mpeg” />Din webbläsare stödjer inte uppspelning av ljudfiler.</audio>
+
+#### Progressiv avslappning, del 2
+
+<audio controls=””><source src=”https://www.dropbox.com/s/7znxp4ac5m655zu/KSH-06-progressiv-muskelavslappning-del-2.mp3?raw=1” type=”audio/mpeg” />Din webbläsare stödjer inte uppspelning av ljudfiler.</audio>
+
+#### Progressiv avslappning, kort version
+
+<audio controls=””><source src=”https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?raw=1” type=”audio/mpeg” />Din webbläsare stödjer inte uppspelning av ljudfiler.</audio>
+
+#### Ladda ned instruktioner (mp3)
+
+- [Progressiv avslappning, del 1 (mp3)](https://www.dropbox.com/s/66gviwf37y12ot9/KSH-06-progressiv-muskelavslappning-del-1.mp3?dl=1){target=”_blank”}
+
+- [Progressiv avslappning, del 2 (mp3)](https://www.dropbox.com/s/7znxp4ac5m655zu/KSH-06-progressiv-muskelavslappning-del-2.mp3?dl=1){target=”_blank”}
+
+- [Progressiv avslappning, kort version (mp3)](https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?dl=1){target=”_blank”}
+:::
