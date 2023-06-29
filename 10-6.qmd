@@ -3,8 +3,12 @@ lang: sv
 title: "Övning: Så här vill jag bibehålla effekterna av min träning"
 ---
 
-##103227569c8265c35134d43f529259c0=
+Nu är du på upploppet! Fyll till sist i det här arbetsbladet, innan du går i mål med ditt fina arbete med det här självhjälpsmaterialet:
 
-Skriv ut den här sidan och spara den! Sätt gärna upp den på kylskåpsdörren eller
+::: {.content-visible when-format="html"}
+[Så här vill jag fortsätta hävda mig själv konstruktivt (PDF)](forms/100respekt-vidmakthallande-reflektion.pdf)
+:::
+
+Spara arbetsbladet du har fyllt i. Sätt gärna upp det på kylskåpsdörren eller
 någon annanstans som du ofta ser, så att du kan påminna dig om dina 
-nyvunna färdigheter
+nyvunna färdigheter och hur du kan låta dem fortsätta utvecklas vidare i ditt liv.

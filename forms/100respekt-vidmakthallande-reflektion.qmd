@@ -1,0 +1,31 @@
+---
+title: "Så här vill jag fortsätta hävda mig själv konstruktivt"
+format:
+  pdf:
+    keep-tex: true
+    pdf-engine: xelatex
+    documentclass: article
+    lang: sv
+header-includes: 
+- \input{../_header_includes.tex}
+bibliography:
+  - ../../r2fu/KSH.bib
+  - ../../r2fu/DBT.bib
+---
+
+\xinit
+
+Utifrån allt du har lärt dig och upptäckt under arbetet med det här självhjälpsmaterialet, vilka nya beteenden vill du fortsätta med i din vardag under kommande veckor, månader och år? Gå gärna tillbaka till de avslutande sammanfattningarna i respektive avsnitt och se vilka uppslag du kan få av dem. Här är några ytterligare frågor som kan vara hjälpsamma när du reflekterar över dina framsteg:
+
+- Vad kan du tjäna på att handla i enlighet med den aktiva cirkeln?
+- Vilka relationer och situationer vill du fortsätta träna konstruktiv självhävdelse i?
+- Vilka erfarenheter av att göra beteendeexperiment har varit hjälpsamma?
+- Vilka upptäckter om din förmåga att reglera obehag har du upptäckt när du gjort beteendeexperiement?
+- Vilka upptäckter om din förmåga att tolerera obehag har du gjort?
+- Vilka saker som är viktiga för dig i livet har du fått mer av?
+- På vilket sätt har det varit hjäpsamt att formulera SMARTa mål?
+- När, var, hur och med vem vill du fortsätta utföra beteendeexperiment?
+
+\xfline{Så här vill jag fortsätta hävda mig själv konstruktivt}{8}{}
+
+{{< include ../_pdf_footer.qmd >}}
