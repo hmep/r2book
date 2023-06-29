@@ -76,6 +76,8 @@ Tänk på ett tillfälle nyligen när du beundrade någon (exempelvis
 personens kläder, utförda arbete eller goda handlingar) och du inte gav
 henne eller honom en komplimang. Vad skulle du ha velat säga till den
 personen? Tänk ut vad du skulle kunna ha sagt till honom eller henne,
-och skriv ned det här:
+och skriv ned det i arbetsbladet. Föreställ dig i din fantasi att du faktiskt hade genomfört experimentet, och se om du då också kan föreställa dig hur utfallet skulle ha blivit. Det är tillåtet -- till och med mycket hjälpsamt -- att öva i fantasin på sådant som är svårt. Det är ett sätt att planera i förväg, som hjälper dig att sedan utföra experimentet i verkligeten, när tillfället uppenbarar sig.
 
-##b070cf1d9a0e51fae71b06566717e965=
+::: {.content-visible when-format="html"}
+[Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf)
+:::

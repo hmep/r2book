@@ -31,7 +31,9 @@ Kan du identifiera några andra hindrande förutsägelser som du har, som
 gör det svårt för dig att hävda dig själv och ta plats när du tar emot
 komplimanger? Skriv upp dem här:
 
+::: {.content-visible when-format="html"}
 [Hindrande antaganden om att ta/ge komplimanger (PDF)](forms/100respekt-hindrande-antaganden-hantera-komplimanger.pdf)
+:::
 
 ## Exempel på hjälpsamma förutsägelser
 
@@ -69,7 +71,9 @@ hjälpa dig att hävda dig själv i tuffa situationer? Använd dem (eller
 några av ovanstående, som du tror på) för att balansera de negativa,
 hindrande förutsägelserna du skrev ned här ovan.
 
-##2be78c7db378860b7492d01c09b48b30=
+::: {.content-visible when-format="html"}
+[Hjälpande antaganden om att ta/ge komplimanger (PDF)](forms/100respekt-hjalpande-antaganden-hantera-komplimanger.pdf)
+:::
 
 ### Fortsätt arbeta med beteendeexperiment
 
@@ -81,3 +85,8 @@ utfört dina säkerhetsbeteenden väldigt länge, så att de numera kommer
 helt automatiskt för dig. Det kommer ta lite tid innan det nya
 handlandet och dina nya beteenden blir lika automatiserat och självklart
 som det gamla har varit. Fortsätt öva så kommer det att automatiseras.
+
+::: {.content-visible when-format="html"}
+[Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf)
+:::
+
