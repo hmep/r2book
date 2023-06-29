@@ -22,7 +22,7 @@ framsteg. Om du under eller efter övningen känner dig trött eller ledsen, ge 
 själv ett erkännande att du just nu gör ett viktigt arbete.
 
 ::: {.content-visible when-format="html"}
-[Självskattning självhävdelse (PDF)](forms/100respekt-100respekt-skattning-situation-relation.pdf)
+[Självskattning självhävdelse (PDF)](forms/100respekt-skattning-situation-relation.pdf)
 :::
 
 När du har gått genom nästan hela självhjälpsmaterialet kommer du att i avsnitt 10 i vecka 8 få följa upp din egen
