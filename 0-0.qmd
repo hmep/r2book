@@ -60,3 +60,4 @@ title: Alla arbetsblad
   - [Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf) (att fortsätta jobba med)
   - [Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf) (att fortsätta jobba med)
   - [Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf) (att fortsätta jobba med)
+  - [Så här vill jag fortsätta hävda mig själv konstruktivt (PDF)](forms/100respekt-vidmakthallande-reflektion.pdf)
