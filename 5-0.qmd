@@ -27,8 +27,7 @@ arbetsbladet för beteendeexperiment, du kan fylla i det hur många gånger som 
 ## Vanliga frågor och svar
 
 Här är några frågor som vi har märkt att många personer brukar ha
-vid den här tidpunkten. Om du inte hittar svaret på något du undrar
-över, ställ din fråga i arbetsbladet här ovan!
+vid den här tidpunkten.
 
 ### 1. ”Varför misslyckas jag med mitt beteendeexperiment?”
 
