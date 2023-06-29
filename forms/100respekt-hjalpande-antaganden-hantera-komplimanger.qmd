@@ -31,6 +31,6 @@ Hindrande tankar är inte fakta. De är helt enkelt bara förutsägelser och ås
 - Människor ger komplimanger av massor av olika skäl. Det är inte lönt att slösa tid på att undra varför någon gjorde det mot mig. Jag vill uppskatta det faktum att någon tog sig tid att säga något snällt till mig!
 - Jag har lika mycket rätt till komplimanger som någon annan.
 
-\xfline{Fler hjälpande antaganden som jag kan komma på}{8}{}
+\xfline{Fler hjälpande antaganden som jag kan komma på}{6}{}
 
 {{< include ../_pdf_footer.qmd >}}
