@@ -1,6 +1,6 @@
 
-Kommer du ihåg det vi skrev om [*multiple exemplar training*](2-4.qmd) i ett tidigare avsnitt --
-att nya färdigheter är resultatet av mängder av upprepade
+Kommer du ihåg det vi skrev om [otpimal inlärning](2-4.qmd) i ett tidigare avsnitt --
+att nya färdigheter lärs in bäst i mängder av upprepade och varierade 
 övningstillfällen? Du kan som du såg i avsnittet om [träning i din egen vardag](3-3.qmd) allt
 mer automatiserat ersätta ovanan att undvika ångest i svåra situationer
 med den goda vanan att hävda dig själv konstruktivt. Du gör det genom
