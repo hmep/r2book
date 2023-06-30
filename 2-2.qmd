@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: ”Aggressiv kommunikation”
+title: Aggressiv kommunikation
 ---
 
 ## Definition
@@ -12,7 +12,7 @@ title: ”Aggressiv kommunikation”
 -   Du behåller övertaget genom att du trycker ned andra.
 -   Du attackerar när du känner dig hotad.
 
-![Aggressiv självhävdelse är att hålla ega rättigheter högt, men låta bli att värna andras rättigheter. Det kan bli tokigt!](sites/respekt/media/image/canvas-aggressiv-slinga-X.svg)
+![Aggressiv självhävdelse är att hålla ega rättigheter högt, men låta bli att värna andras rättigheter. Det kan precis som passiv självhävdelse hindra personen för att nå sina långsiktiga mål.](sites/respekt/media/image/canvas-aggressiv-slinga-X.svg)
 
 ## Verbala kännetecken
 
