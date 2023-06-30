@@ -7,13 +7,8 @@ title: Licens och källkod
 
 Materialet är fritt tillgängligt att använda som självhjälpsmaterial och i psykologisk behandling. Vi har valt en fri dokumentlicens eftersom vi vill att psykologiska interventioner som utvecklats och utvärderats med offentliga medel ska vara fritt tillgängliga för allmänheten, liksom i primärvården och psykiatrin.
 
-[![Creative
-Commons-licens](/sites/respekt/media/image/Cc-by-nc-sa_icon.svg){style="border-width:0;margin-bottom:.5rem;"}](http://creativecommons.org/licenses/by-nc-sa/4.0/){rel="license"}\
-Detta verk är licensierat under en [Creative Commons
-Erkännande-IckeKommersiell-DelaLika 4.0 Internationell
-Licens](http://creativecommons.org/licenses/by-nc-sa/4.0/){rel="license"}.
-
-Med andra ord: Du får anpassa och sprida det här materialet, men inte kommersiellt, och bara om du anger källan.
+Detta verk är licensierat under [Erkännande-DelaLika 2.5 Sverige (CC BY-SA 2.5
+SE)](<https://creativecommons.org/licenses/by-sa/2.5/se/>). Med andra ord: Du får anpassa och sprida det här materialet, på villkor att du anger källan @HAGBERG2023100629.
 
 ## Källkod
 
