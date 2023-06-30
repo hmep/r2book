@@ -34,14 +34,6 @@ bekvämare.
 
 ## ”Get out of your mind and into your life!”
 
-[[Tips!]{.rlabel} När du har en stund över, titta gärna på det här
-TedTalk-klippet på engelska med forskaren och historieberättaren Brené
-Brown som berättar om hur hon sökte hjälp av en terapeut för att komma
-vidare i livet. Hon säger bland annat så här: ”Sårbarhet är kärnan i
-skam och rädsla och vår kamp för tillhörighet, men det är också källan
-till glädje, kreativitet, samhörighet med andra och kärlek”.
-]{.rtip}
-
 Ett självhjälpsmaterial som det här är ett stöd i att ”nagga sina negativa förutsägelser i kanten”, ett
 beteendeexperiment i taget. Ett vanligt hinder för oss människor är våra
 egna sinnen. Vi är på sätt och vis för intelligenta för vårt eget bästa.
@@ -57,6 +49,17 @@ cirkeln](3-2.qmd).
 Ett annat sätt att uttrycka det på är: ”Get out of your mind and into
 your life!”. 
 
+## Kontakt med känslor hjälper dig mot dina mål
+
+När du har en stund över, titta gärna på det här
+TedTalk-klippet på engelska med forskaren och historieberättaren Brené
+Brown som berättar om hur hon sökte hjälp av en terapeut för att komma
+vidare i livet. Hon säger bland annat så här: ”Sårbarhet är kärnan i
+skam och rädsla och vår kamp för tillhörighet, men det är också källan
+till glädje, kreativitet, samhörighet med andra och kärlek”.
+
+{{< video https://www.youtube.com/embed/iCvmsMzlF7o >}}
+
 ## Du är inte i slutet av en resa, du är i början av en resa
 
 Vår förhoppning med det här självhjälpsmaterialet har varit att ge dig
@@ -68,5 +71,3 @@ andra människor dela med sig av vad man tänker och känner -- även om det
 ger ofta mycket stor framkomlighet. När du hävdar dig själv konstruktivt
 genom att berätta för någon annan hur du har det öppnar du upp för
 närhet och intimitet. Det gör att du inte är ensam.
-
- 
