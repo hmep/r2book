@@ -8,7 +8,7 @@ forms)
 ;;
 
 *)
-  echo "No forms rendered."
+  echo "No forms rendered. Add a 'forms' argument to the pre-render command in _quarto.yml to render them."
 ;;
 
 esac
