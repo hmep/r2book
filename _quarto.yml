@@ -1,8 +1,8 @@
 project:
   type: book
   output-dir: docs
-  pre-render: ./_pre.sh forms
-  post-render: ./_post.sh
+  pre-render: ./_pre.sh #forms
+  post-render: ./_post.sh publish
   
 bibliography:
   - ../r2fu/KSH.bib
