@@ -1,5 +1,5 @@
 
-Kommer du ihåg det vi skrev om [otpimal inlärning](2-4.qmd) i ett tidigare avsnitt --
+Kommer du ihåg det vi skrev om [optimal inlärning](2-4.qmd) i ett tidigare avsnitt --
 att nya färdigheter lärs in bäst i mängder av upprepade och varierade 
 övningstillfällen? Du kan som du såg i avsnittet om [träning i din egen vardag](3-3.qmd) allt
 mer automatiserat ersätta ovanan att undvika ångest i svåra situationer
