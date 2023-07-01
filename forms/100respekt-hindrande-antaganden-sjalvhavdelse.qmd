@@ -1,5 +1,6 @@
 ---
 title: "Hindrande antaganden för konstruktiv självhävdelse"
+engine: knitr
 format:
   pdf:
     keep-tex: true
