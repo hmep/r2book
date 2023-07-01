@@ -1,5 +1,6 @@
 ---
 title: "Självskattning av grad av självhävdelse"
+engine: knitr
 format:
   pdf:
     keep-tex: true

@@ -1,5 +1,6 @@
 ---
 title: "Planera för framgång"
+engine: knitr
 format:
   pdf:
     keep-tex: true

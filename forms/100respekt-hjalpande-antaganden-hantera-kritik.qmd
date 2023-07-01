@@ -1,5 +1,6 @@
 ---
 title: "Hjälpande antaganden om att ta/ge kritik"
+engine: knitr
 format:
   pdf:
     keep-tex: true

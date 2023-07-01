@@ -1,5 +1,6 @@
 ---
 title: "Manus för progressiv avslappning"
+engine: knitr
 format:
   pdf:
     keep-tex: true

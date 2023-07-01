@@ -1,5 +1,6 @@
 ---
 title: "Mina mål: självhävdelsebeteenden att öka"
+engine: knitr
 format:
   pdf:
     keep-tex: true

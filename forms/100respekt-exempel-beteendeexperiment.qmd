@@ -1,5 +1,6 @@
 ---
 title: "Planera och genomför ett beteendeexperiment"
+engine: knitr
 format:
   pdf:
     keep-tex: true

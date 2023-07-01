@@ -1,5 +1,6 @@
 ---
 title: "Mina sätt att sänka spänningsnivån"
+engine: knitr
 format:
   pdf:
     keep-tex: true

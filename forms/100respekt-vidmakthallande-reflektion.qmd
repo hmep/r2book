@@ -1,5 +1,6 @@
 ---
 title: "Så här vill jag fortsätta hävda mig själv konstruktivt"
+engine: knitr
 format:
   pdf:
     keep-tex: true

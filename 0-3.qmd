@@ -1,5 +1,6 @@
 ---
 lang: sv
+engine: knitr
 title: Licens och källkod
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Reflektion om motivation och obehag"
+engine: knitr
 format:
   pdf:
     keep-tex: true

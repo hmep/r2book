@@ -1,5 +1,6 @@
 ---
 title: "Hindrande antaganden om att säga ’nej’"
+engine: knitr
 format:
   pdf:
     keep-tex: true

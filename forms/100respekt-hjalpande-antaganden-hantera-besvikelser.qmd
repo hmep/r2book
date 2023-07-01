@@ -1,5 +1,6 @@
 ---
 title: "Hjälpande antaganden om att hantera besvikelser"
+engine: knitr
 format:
   pdf:
     keep-tex: true

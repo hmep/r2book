@@ -1,5 +1,6 @@
 ---
 title: "Mina skäl att utföra beteendeexperiment"
+engine: knitr
 format:
   pdf:
     keep-tex: true

@@ -1,5 +1,6 @@
 ---
 title: "Mina rättigheter att hävda mig själv"
+engine: knitr
 format:
   pdf:
     keep-tex: true
