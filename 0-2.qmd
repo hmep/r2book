@@ -5,7 +5,7 @@ title: Referenser och lästips
 
 ## Referenslista
 
+Utöver nedanstående, se referenslistan för @HAGBERG2023100629.
+
 ::: {#refs}
 :::
-
-Utöver ovanstående, se referenslistan för @HAGBERG2023100629.
