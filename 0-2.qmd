@@ -1,13 +1,11 @@
 ---
 lang: sv
-title: Lästips och referenser
+title: Referenser och lästips
 ---
-
-## Lästips och självhjälpsresurser
-
-
 
 ## Referenslista
 
 ::: {#refs}
 :::
+
+Utöver ovanstående, se referenslistan för @HAGBERG2023100629.

@@ -49,7 +49,7 @@ nästa vecka.
 Om du brukar oroa dig mycket kan du tackla det med en
 evidensbaserad självhjälpsbok, exempelvis [Hantera oro och ovisshet
 med KBT: En arbetsbok vid
-GAD](http://libris.kb.se/bib/22073365){target=”_blank”} av @Robichaud2018hoo. Du kan använda den
+GAD](http://libris.kb.se/bib/22073365){target=”_blank”} av @dugas2018. Du kan använda den
 boken på egen hand, eller i terapi, med stöd av en KBT-psykolog eller
 -psykoterapeut.
 :::
@@ -60,7 +60,7 @@ Om du har så stark ångest att den resulterar i panikattacker, titta
 närmare på [Ingen panik: Fri från panik- och ångestattacker i 10 steg
 med kognitiv
 beteendeterapi](http://libris.kb.se/bib/12089987){target=”_blank”}
-av @Carlbring2011ipf. Du kan använda den
+av @carlbring2013ingen Du kan använda den
 boken på egen hand, eller i terapi, med stöd av en KBT-psykolog eller
 -psykoterapeut.
 :::
