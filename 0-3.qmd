@@ -10,10 +10,10 @@ Materialet är fritt tillgängligt att använda som självhjälpsmaterial och i 
 
 Detta verk är en av upphovsrättsinnehavaren [Centre for Clinical Interventions, Government of Western Australia](https://www.cci.health.wa.gov.au/) auktoriserad anpassning och utökning av originalet @michel2008. 
 
-![sites/respekt/media/image/CC_BY-SA_icon.svg](<https://creativecommons.org/licenses/by-sa/2.5/se/>){style="width:300px;"}
+![](sites/respekt/media/image/CC_BY-SA_icon.svg){style="height:3rem;"}
 
 Svensk anpassning &copy; 2020--`r format(Sys.time(), "%Y")` Tobias Hagberg och Patrik Manhem. Detta verk är licensierat under [Erkännande-DelaLika 2.5 Sverige (CC BY-SA 2.5
-SE)](<https://creativecommons.org/licenses/by-sa/2.5/se/>). Med andra ord: Du får fritt använda, anpassa och sprida det här verket med tillhörande arbetsblad och nedladdningsbara filer, på villkor att du anger källan @hagberg2023. 
+SE)](<https://creativecommons.org/licenses/by-sa/2.5/se/>). Med andra ord: Du får fritt använda, anpassa och sprida det här verket med tillhörande arbetsblad och nedladdningsbara filer, på villkor att du anger källan @hagberg2023 och gör dina ändringar tillgängliga på samma villkor. 
 
 Se @HAGBERG2023100629 för information om anpassningar och resultat av utvärdering.
 
