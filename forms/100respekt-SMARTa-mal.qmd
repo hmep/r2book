@@ -26,6 +26,41 @@ upplevelsen och pröva att skriva ned situationer att öva i ändå. Låt arbets
 
 ```{r, echo=F,warning=F}
 
+situation <- c(
+  "Säga till svärmor att jag inte vill att hon röker inomhus när hon kommer på tisdag.",
+  "Ringa banken idag och säga att jag behöver tänka på om jag ska ta lånet eller inte.",
+  "Säga till grannen att deras hund stör min nattsömn när vi ses i trapphuset.",
+  "Säga till min partner att jag vill ha en kväll i veckan för mig själv.",
+  "Säga förlåt på lunchen till min kollega för utbrottet i onsdags.",
+  "Säga till barnen på lördag att göra sina sysslor hemma.",
+  "Be min vän via SMS att lämna tillbaka boken jag lånade ut för 3 månader sedan.",
+  "Säga till chefen på medarbetarsamtalet att jag inte kan vill med i nya projektet.",
+  "Ringa pianostämmaren på torsdag förmiddag och säga att pianot fortfarande klingar falskt.",
+  "Säga till pappa hur mycket jag älskar honom, när vi ses."
+)
+
+difficulty <- c(70,
+                50,
+                40,
+                45,
+                30,
+                20,
+                25,
+                90,
+                40,
+                30)
+
+rank <- c(9,
+          4,
+          6,
+          7,
+          3,
+          1,
+          2,
+          10,
+          5,
+          4)
+
 filler <- "\\rule{0bp}{2.25\\baselineskip}"
 x <-
   c("När? Var? Vem? Vad?",
