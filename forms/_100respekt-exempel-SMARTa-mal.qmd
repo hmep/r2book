@@ -1,0 +1,120 @@
+I vilka situationer och relationer vill du öva på nya självhävdelsebeteenden? Hur svårt är det på en skala 0--100? Låt det här arbetsbladet med SMARTa mål vara levande: Stryk, lägg till och ändra!
+
+\vspace{.75\baselineskip}
+
+```{r, echo=F,warning=F}
+
+widths <- c("57mm", "27mm", "27mm", "12mm", "12mm")
+
+height <- "3\\baselineskip"
+
+font <- "\\fontsize{11bp}{12bp}\\selectfont\\strut\\hwfamily\\color{MidnightBlue}"
+
+situation <- c(
+  "Säga till svärmor att inte röka inomhus, när hon besöker oss i helgen.",
+  "Ringa tillbaka till banken imorgon 08:00 och ångra lånet.",
+  "Förklara för grannen imorgon att deras hund stör min nattsömn.",
+  "Säga till min partner att jag vill ha en kväll i veckan för mig själv, ex. träffa vän.",
+  "Säga förlåt på lunchen till min kollega för utbrottet i onsdags.",
+  "Säga till barnen vid middagen att göra sina sysslor hemma.",
+  "SMS:a Pia om att återlämna boken jag lånade ut för 7 mån. sedan.",
+  "Mejla/säga till chefen om att jag inte ha möjlighet att vara med i nya projektet.",
+  "Ringa pianostämmaren tors. 10:00 om att pianot fortfarande klingar falskt.",
+  "Säga till pappa att jag älskar honom, nästa gång han ringer."
+)
+
+situation_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[1],"}\\RaggedRight{}",font,"\\if 1\\thexex{}",situation,"\\else\\fi","\\if 2\\thexex{}",situation,"\\else\\fi","\\end{minipage}",sep="")
+
+problem <- c("Lida i tysthet, sen gräla med partner",
+          "tröstshoppa, netflix",
+          "Banka i elementet",
+          "Dra mig undan/älta självkritik",
+          "Äta framför datorn/inte ens säga hej",
+          "Bita ihop och sedan explodera",
+          "Köpa ny bok fast jag inte vill",
+          "Jobba över 2h+/dag hela hösten",
+          "Betala fakturan fast jag är missnöjd",
+          "Prata om jobbet")
+
+problem_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[2],"}\\RaggedRight{}",font,"\\if 1\\thexex{}",problem,"\\else\\fi","\\if 2\\thexex{}",problem,"\\else\\fi","\\end{minipage}",sep="")
+
+goal <- c("\\normalsize Jagbudskap, validera henne, problemlösa",
+          "Ett direkt nej, stå fast",
+          "Bjuda på fika/positiv ton, tydlighet",
+          "?? (måste läsa på)",
+          "Gå emot skam, ta ansvar (reglera skuld)",
+          "Välja tidpunkt noga. (fundera vidare)",
+          "Gå emot skamkänslan, göra det",
+          "Använda repig grammmofon\\-skiva-teknik",
+          "Konsekvensbaserat självhävdande (från vecka 4)",
+          "Beskriva känslan (inte fly från ångest)")
+
+goal_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[3],"}\\RaggedRight{}",font,"\\if 1\\thexex{}",goal,"\\else\\fi","\\end{minipage}",sep="")
+
+difficulty <- c(70,
+                50,
+                48,
+                45,
+                30,
+                20,
+                25,
+                90,
+                40,
+                28)
+
+difficulty_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[4],"}\\large\\centering",font,"\\if 1\\thexex{}",difficulty,"\\else\\fi","\\end{minipage}",sep="")
+
+rank_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[5],"}\\large\\centering",font,"\\if 1\\thexex{}",rank(rev(difficulty)),"\\else\\fi","\\end{minipage}",sep="")
+
+filler <- "\\rule{0bp}{2.25\\baselineskip}"
+x <-
+  c("När? Var? Vem? Vad?",
+    "Undvikande",
+    "T.ex. säga nej",
+    "0--100",
+    "10--1")
+y <- c(as.character(1:10))
+n = length(y) * length(x)
+#table <-as.data.frame(matrix(rep(filler, each = n), ncol = length(x), nrow = length(y)))
+
+table <- as.data.frame(cbind(
+  situation_box,
+  problem_box,
+  goal_box,
+  difficulty_box,
+  rank_box
+))
+
+colnames(table) <- x
+library(kableExtra)
+kable(
+  table,
+  format = 'latex',
+  longtable = T,
+  booktabs = T,
+  linesep = "",
+  align = "c",
+  escape = FALSE
+) %>%
+  kable_styling(latex_options = c("hold_position", full_width = F)) %>%
+  add_header_above(
+    c(
+      "Specifik situation",
+      "Vad brukar hända?",
+      "Målbeteende",
+      "Obehag",
+      "Rank"
+    ),
+    bold = T
+  ) %>%
+  row_spec(0, angle = 0, bold = F) %>%
+  column_spec(1, bold = F) %>%
+  row_spec(2:length(y) - 1, hline_after = T) %>%
+  column_spec(
+    1:5,
+    width = widths,
+    border_right = F,
+    latex_valign = "m"
+  )
+
+```
