@@ -73,6 +73,11 @@ samtidigt utmanande och aningen ångestväckande. Det är när du handlar på et
 sätt som du vill, trots visst obehag, som du ger dig själv en chans till
 nyinlärning och kan bredda din beteenderepertoar.
 
+Som du ser i arbetsbladet nedan finns det flera kolumner att fylla i. Precis just nu räcker det med att du fokuserar på de två första, längst till vänster. Du behöver inte komma på en lång lista med mål just nu -- det räcker med ett enda för att du ska komma igång med ett viktigt arbete. Så sänk kraven!
+
 ::: {.content-visible when-format="html"}
 [Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
+
+[Exempel 1: Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-1-SMARTa-mal.pdf)
+
 :::

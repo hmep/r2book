@@ -28,69 +28,24 @@ sätt i någon av ovanstående situationer, ta med den situationen i din
 lista. Upprätta sedan en hierarki -- det vill säga att rangordna
 situationerna från lättast till svårast. Gör en skattning av hur
 besvärligt du upplever att det är att hävda dig själv varje situation,
-från 0 till 100. En skattning om ”0” betyder att situationen inte är
+genom att notera graden av "Obehag" på en skala från 0 till 100. En skattning om ”0” betyder att situationen inte är
 svår alls att hävda dig själv i. En skattning om ”100” betyder att det
 är den mest ansträngande uppgift du över huvud taget kan tänka dig att
 utföra. Med dessa referenspunkter kan du tänka ut var situationerna på
 din lista hamnar på skalan 0--100, från lättast till svårast.
 
-## Exempel på en självhävdelse-hierarki
+## Exempel på en självhävdelse-hierarki med rangordning
 
-  ----------------------- ----------------------- -----------------------
-  Situation               Svårighetsgrad \              Rangordning
-                          (skala 0--100)                
+Titta på exempel-arbetsbladet nedan. Längst till höger finns en kolumn som heter "Rank". Använd dig av "Obehag"-skattningarna och rangordna situationerna i omvänd ordning -- låt den högsta "Obehag"-skattningen motsvara en längsta rangordningssiffran i kolumen "Rank" och 
 
-  Säga till svärmor att   70                      9
-  jag inte vill att hon                           
-  röker inomhus.                                  
-
-  Ringa banken och säga   50                      4
-  att jag behöver mer tid                         
-  för att tänka på om jag                         
-  ska ta lånet eller                              
-  inte.                                           
-
-  Säga till grannen att   40                      6
-  deras hund stör min                             
-  nattsömn.                                       
-
-  Säga till min partner   45                      7
-  att jag vill ha en                              
-  kväll i veckan för mig                          
-  själv.                                          
-
-  Säga förlåt till min    30                      3
-  kollega för att jag var                         
-  irritabel i onsdags.                            
-
-  Säga till barnen att    20                      1
-  göra sina sysslor                               
-  hemma.                                          
-
-  Be min vän lämna        25                      2
-  tillbaka boken jag                              
-  lånade ut för 3 månader                         
-  sedan.                                          
-
-  Säga till chefen att    80                      10
-  jag har för mycket att                          
-  göra och inte kan vara                          
-  med i nya projektet.                            
-
-  Ringa pianostämmaren    40                      5
-  och säga att pianot                             
-  fortfarande klingar                             
-  falskt.                                         
-
-  Säga till pappa hur     30                      4
-  mycket jag älskar                               
-  honom.                                          
-
-                                                  
-  ----------------------- ----------------------- -----------------------
+::: {.content-visible when-format="html"}
+[Exempel 2: Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf)
+:::
 
 ## Din egen självhävdelsehierarki
 
-Ta fram ditt arbetsblad med dina SMARTa mål, och se om du kan rangordna de områden du tagit upp på det utifrån den svårighetsgradsskattning som du har gjort. Du kan plita dit en rangordningssiffra i marginalen bredvid respektive rad.
+Ta fram ditt arbetsblad med dina SMARTa mål, och se om du kan rangordna de områden du tagit upp på det utifrån den svårighetsgradsskattning som du har gjort. Använd "Rank"-kolumnen.
 
+::: {.content-visible when-format="html"}
 [Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
+:::

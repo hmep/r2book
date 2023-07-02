@@ -24,6 +24,8 @@ reagerade. Var din reaktion passiv, självhävdande eller aggressiv? Skriv ned d
 
 ::: {.content-visible when-format="html"}
 [Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
+
+[Exempel 2: Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf)
 :::
 
 ## Passiva svar på komplimanger

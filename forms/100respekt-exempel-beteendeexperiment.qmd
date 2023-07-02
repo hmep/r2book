@@ -17,61 +17,6 @@ bibliography:
 
 \xinit
 
-## Planera ett beteendeexperiment
-
-Utifrån din valda SMARTa målsättning, formulera ett beteendeexperiment genom att börja med att fylla i steg 1 till 4 i formuläret nedan. Även om det är en del att fylla i på den här sidan, misströsta inte. Det motstånd du eventuellt känner när du gör det är ett kvitto på att du är engagerad i att lära dig något nytt. Ingen energi du lägger på det här arbetsbladet kommer att gå förlorad – tvärtom! När du är klar med den här sidan, genomför ditt beteendeexperiment, och dokumentera hur det gick på andra sidan av det här arbetsbladet.
-
-### \xhl{Steg 1} Identifiera din förutsägelse
-
-\xfline{Situation (när? var? vem? vad?)}{1}{\normalsize Lisa har frågat om jag vill shoppa på lördag men jag vill träffa Johan istället då. Jag känner skuld mot Lisa och vågar inte säga 'nej'.}
-
-\xfline{Förutsägelse}{1}{Hon kommer bli arg och inte längre vilja vara min vän om jag ringer och tackar nej.}
-
-\xfline{Hur vet jag om det har hänt?}{1}{Hon kommer lägga på luren, inte ringa upp igen om jag ringer, inte prata med mig.}
-
-### \xhl{Steg 2} Identifiera hindrande beteenden
-
-\xfline{Sådant jag brukar göra för att undvika eller fly från känslorna i situationen?}{1}{Inte ringa. Säga att jag är sjuk, undvika henne tills det är för sent.}
-
-### \xhl{Steg 3} Identifiera en mer realistisk förutsägelse
-
-\xfline{Påminn mig själv om en mer realistisk förutsägelse}{1}{Även om hon blir besviken kan vi vara vänner. Hon har själv sagt 'nej' till mig förut.}
-
-### \xhl{Steg 4} Ange ditt självhävdande målbeteende (från din SMARTa målsättning)
-
-\xfline{Vad vill jag att göra annorlunda, för att testa de två förutsägelserna?}{1}{Jag vill ringa idag efter lunch och säga 'nej' och boka in ett annat tillfälle istället.}
-
-## Genomför beteendeexperimentet
-
-Det viktigaste du kan göra för att förändra ditt tänkande och dina känslor (inklusive upplevelsen av ångest) är att skaffa dig erfarenheter av att agera på sätt som du inte brukar. Kanske lär du dig att upplevelsen förändras över tid (i någon riktning), att din förmåga att tolerera den ökar, att du klarar av motgångar bättre än du trodde eller att du får mer av det du längtar efter -- eller allt på en gång.
-
-\xturn
-
-## Utvärdera beteendeexperimentet
-
-### \xhl{Steg 5} Utvärdera vad du lärde dig av experimentet
-
-\xfline{Vad hände faktiskt?}{1}{Hon blev lite ledsen men det passade bra att fika onsdag nästa vecka istället!}
-
-\xfline{Vilken förutsägelse fick stöd?}{1}{Den mer realistiska ...}
-
-\xfline{Hur var det att agera annorlunda än jag brukar?}{1}{Ångestfyllt, mycket svårt i början av samtalet, sen blev jag lättad och glad.}
-
-\xfline{Vad lärde jag mig av experimentet?}{1}{\normalsize Jag blir ofta passiv när jag är rädd. Jag klarar av att vara ärlig och att ta reda på hur det blir när jag är öppen. Jag vill inte behandla Lisa som skör. Rädsla och besvikelse är en del av vänskap.}
-
-\vspace{.25\baselineskip}
-
-Slutligen: Hur väl stämde ditt agerande med respekt för dina egna rättigheter? Och med respekt för den andra personens rättigheter? Sätt en kryss som visar svaren på båda frågorna i diagrammet. Om du når ända fram i båda avseenden blir det 10 \texttimes{} 10 = 100! Hur nära kom du den här gången?
-
-\vspace{.5\baselineskip}
-
-\begin{tikzpicture}[]
-     \node at (0,0)      
-     {\includegraphics[width=.6\textwidth]{../sites/respekt/media/image/canvas-konstruktiv-slinga-svv.pdf}};
-     \if 1\thexex
-     \node[rotate=0] at ([xshift=29.5mm,yshift=38.5mm]0,0) {\hwfamily\Large\color{MidnightBlue} x};
-     \node[rotate=10] at ([xshift=32mm,yshift=31.5mm]0,0) {\hwfamily\Large\color{MidnightBlue} 72! yay!};
-     \else\fi
-\end{tikzpicture}
+{{< include _100respekt-exempel-beteendeexperiment.qmd >}}
 
 {{< include ../_pdf_footer.qmd >}}
