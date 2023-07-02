@@ -19,7 +19,6 @@ bibliography:
 
 \thispagestyle{respektExample}
 
-
 {{< include _100respekt-exempel-SMARTa-mal.qmd >}}
 
 {{< include _pdf_footer.qmd >}}

@@ -62,9 +62,9 @@ difficulty <- c(70,
                 40,
                 28)
 
-difficulty_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[4],"}\\centering",font,"\\Large\\if 2\\thexex{}",difficulty,"\\else\\fi","\\end{minipage}",sep="")
+difficulty_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[4],"}\\centering",font,"\\if 2\\thexex{}",difficulty,"\\else\\fi","\\end{minipage}",sep="")
 
-rank_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[5],"}\\centering",font,"\\Large\\if 2\\thexex{}",rank(rev(difficulty)),"\\else\\fi","\\end{minipage}",sep="")
+rank_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[5],"}\\centering",font,"\\if 2\\thexex{}",rank(rev(difficulty)),"\\else\\fi","\\end{minipage}",sep="")
 
 filler <- "\\rule{0bp}{2.25\\baselineskip}"
 x <-
