@@ -52,7 +52,7 @@ Här är ytterligare några medveten närvaro-övningar som du kan prova, från 
 Mängdträning hjälper dig att automatisera nya färdigheter, så även med medveten närvaro. Ge dig de bästa möjliga oddsen för allt högre grad av medveten närvaro i vardagen genom att planera för din träning. Kom ihåg att det inte är övningen i sig som är viktig, utan den ökade mentala flexibilitet som du vinner av att öva regelbundet och över tid.
 
 ::: {.content-visible when-format="html"}
-[Planera för framgång (PDF)](forms/4100respekt-planera-traning.pdf)
+[Planera för framgång (PDF)](forms/100respekt-planera-traning.pdf)
 :::
 
 Har du använt arbetsbladet ovan och tänkt till om hur du kan hjälpa dig själv att

@@ -7,7 +7,6 @@ format:
     pdf-engine: xelatex
     documentclass: article
     lang: sv
-    tbl-colwidths: [30,70]
 header-includes: 
 - \input{../_header_includes.tex}
 - \xex{1}
@@ -28,8 +27,6 @@ Utifrån din valda SMARTa målsättning, formulera ett beteendeexperiment genom 
 
 \xfline{Förutsägelse}{1}{Hon kommer bli arg och inte längre vilja vara min vän om jag ringer och tackar nej.}
 
-<!-- \xfline{Hur mycket tror jag att det jag förutsäger ska hända (på en skala från 0 till 100)?}{1}{75} -->
-
 \xfline{Hur vet jag om det har hänt?}{1}{Hon kommer lägga på luren, inte ringa upp igen om jag ringer, inte prata med mig.}
 
 ### \xhl{Steg 2} Identifiera hindrande beteenden
@@ -43,8 +40,6 @@ Utifrån din valda SMARTa målsättning, formulera ett beteendeexperiment genom 
 ### \xhl{Steg 4} Ange ditt självhävdande målbeteende (från din SMARTa målsättning)
 
 \xfline{Vad vill jag att göra annorlunda, för att testa de två förutsägelserna?}{1}{Jag vill ringa idag efter lunch och säga 'nej' och boka in ett annat tillfälle istället.}
-
-<!-- \renewcommand\xhl[1]{\protect\begin{tikzpicture}\node[circle,draw] at (0,0) {#1};\end{tikzpicture}} -->
 
 ## Genomför beteendeexperimentet
 
@@ -70,8 +65,6 @@ Slutligen: Hur väl stämde ditt agerande med respekt för dina egna rättighete
 
 \vspace{.5\baselineskip}
 
-<!-- remember picture,overlay -->
-
 \begin{tikzpicture}[]
      \node at (0,0)      
      {\includegraphics[width=.6\textwidth]{../sites/respekt/media/image/canvas-konstruktiv-slinga-svv.pdf}};
@@ -80,7 +73,5 @@ Slutligen: Hur väl stämde ditt agerande med respekt för dina egna rättighete
      \node[rotate=10] at ([xshift=32mm,yshift=31.5mm]0,0) {\hwfamily\Large\color{MidnightBlue} 72! yay!};
      \else\fi
 \end{tikzpicture}
-
-<!-- ![](../sites/respekt/media/image/canvas-konstruktiv-slinga-svv.pdf){width=60%} -->
 
 {{< include ../_pdf_footer.qmd >}}
