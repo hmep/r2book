@@ -34,4 +34,4 @@ Hindrande tankar är inte fakta. De är helt enkelt bara förutsägelser och ås
 
 \xfline{Fler hjälpande antaganden som jag kan komma på}{6}{}
 
-{{< include ../_pdf_footer.qmd >}}
+{{< include _pdf_footer.qmd >}}

@@ -1,5 +1,5 @@
 ---
-title: "Mina mål: självhävdelsebeteenden att öka"
+title: "Planera och genomför ett beteendeexperiment"
 engine: knitr
 format:
   pdf:
@@ -17,6 +17,6 @@ bibliography:
 
 \xinit
 
-{{< include _100respekt-exempel-SMARTa-mal.qmd >}}
+{{< include _100respekt-exempel-beteendeexperiment.qmd >}}
 
 {{< include _pdf_footer.qmd >}}

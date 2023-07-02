@@ -61,6 +61,10 @@
 \sethead{}{}{\hbox{\includegraphics[width=13mm]{../sites/respekt/media/image/100respekt.pdf}}}
 \setfoot{\rmfamily\small\thepage/\pageref*{LastPage}}{}{}
 }
+\newpagestyle{respektExample}[\large\sffamily]{
+\sethead{\if 1\thexex\begin{tikzpicture}[]\node[rotate=5] at (0,0) {\hwfamily\Large\color{MidnightBlue}Exempel};\end{tikzpicture}\else\fi}{}{\hbox{\includegraphics[width=13mm]{../sites/respekt/media/image/100respekt.pdf}}}
+\setfoot{\rmfamily\small\thepage/\pageref*{LastPage}}{}{}
+}
 \newpagestyle{respektTurn}[\large\sffamily]{
 \sethead{\if 1\thexex\begin{tikzpicture}[]\node[rotate=5] at (0,0) {\hwfamily\Large\color{MidnightBlue}Exempel};\end{tikzpicture}\else\fi}{}{\hbox{\includegraphics[width=13mm]{../sites/respekt/media/image/100respekt.pdf}}}
 \setfoot{\rmfamily\small\thepage/\pageref*{LastPage}}{}{\rmfamily\small Arbetsbladet fortsätter på nästa sida}

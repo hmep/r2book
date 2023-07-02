@@ -36,4 +36,4 @@ Precis som alla andra människor har du rätt att hävda dina tankar, känslor, 
 
 \xfline{Fler rättigheter som jag kan komma på}{8}{}
 
-{{< include ../_pdf_footer.qmd >}}
+{{< include _pdf_footer.qmd >}}

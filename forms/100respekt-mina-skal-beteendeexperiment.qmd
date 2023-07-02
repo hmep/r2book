@@ -31,4 +31,4 @@ Vilka skäl att utföra beteendeexperiment vill du skriva under på? Kryssa för
 
 \xfline{Fler skäl att utföra beteendeexperiment som jag kan komma på}{8}{}
 
-{{< include ../_pdf_footer.qmd >}}
+{{< include _pdf_footer.qmd >}}

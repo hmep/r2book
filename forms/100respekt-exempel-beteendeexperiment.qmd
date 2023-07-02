@@ -19,4 +19,4 @@ bibliography:
 
 {{< include _100respekt-exempel-beteendeexperiment.qmd >}}
 
-{{< include ../_pdf_footer.qmd >}}
+{{< include _pdf_footer.qmd >}}

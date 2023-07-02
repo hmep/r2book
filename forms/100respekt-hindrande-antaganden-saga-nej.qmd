@@ -37,4 +37,4 @@ och mer flexibelt till dem.
 
 \xfline{Fler hindrande antaganden som jag märker att jag följer}{8}{}
 
-{{< include ../_pdf_footer.qmd >}}
+{{< include _pdf_footer.qmd >}}

@@ -26,4 +26,4 @@ Kort och gott: skriv ned din plan för träning i avslappning och/eller medveten
 
 \xfline{Min träningsplan för veckan om kommer}{8}{}
 
-{{< include ../_pdf_footer.qmd >}}
+{{< include _pdf_footer.qmd >}}

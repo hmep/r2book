@@ -46,4 +46,4 @@ kable(table, booktabs = T, linesep = "", escape = FALSE) %>%
 
 ```
 
-{{< include ../_pdf_footer.qmd >}}
+{{< include _pdf_footer.qmd >}}

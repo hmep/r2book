@@ -9,13 +9,15 @@ format:
     lang: sv
 header-includes: 
 - \input{../_header_includes.tex}
-- \xex{0}
+- \xex{2}
 bibliography:
   - ../../r2fu/KSH.bib
   - ../../r2fu/DBT.bib
 ---
 
 \xinit
+
+\thispagestyle{respektExample}
 
 {{< include _100respekt-exempel-SMARTa-mal.qmd >}}
 

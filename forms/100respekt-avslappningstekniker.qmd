@@ -34,4 +34,4 @@ Det finns flera avslappningstekniker som du kan använda för att sänka den fys
 
 \xfline{Fler sätt att sänka spänningsnivån som jag vill påminna mig om}{8}{}
 
-{{< include ../_pdf_footer.qmd >}}
+{{< include _pdf_footer.qmd >}}

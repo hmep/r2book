@@ -23,7 +23,7 @@ situation <- c(
   "Säga till pappa att jag älskar honom, nästa gång han ringer."
 )
 
-situation_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[1],"}\\RaggedRight{}",font,"\\if 1\\thexex{}",situation,"\\else\\fi","\\if 2\\thexex{}",situation,"\\else\\fi","\\end{minipage}",sep="")
+situation_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[1],"}\\RaggedRight{}",font,"\\if 2\\thexex{}",situation,"\\else\\fi","\\if 1\\thexex{}",situation,"\\else\\fi","\\end{minipage}",sep="")
 
 problem <- c("Lida i tysthet, sen gräla med partner",
           "tröstshoppa, netflix",
@@ -36,7 +36,7 @@ problem <- c("Lida i tysthet, sen gräla med partner",
           "Betala fakturan fast jag är missnöjd",
           "Prata om jobbet")
 
-problem_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[2],"}\\RaggedRight{}",font,"\\if 1\\thexex{}",problem,"\\else\\fi","\\if 2\\thexex{}",problem,"\\else\\fi","\\end{minipage}",sep="")
+problem_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[2],"}\\RaggedRight{}",font,"\\if 2\\thexex{}",problem,"\\else\\fi","\\if 1\\thexex{}",problem,"\\else\\fi","\\end{minipage}",sep="")
 
 goal <- c("\\normalsize Jagbudskap, validera henne, problemlösa",
           "Ett direkt nej, stå fast",
@@ -49,7 +49,7 @@ goal <- c("\\normalsize Jagbudskap, validera henne, problemlösa",
           "Konsekvensbaserat självhävdande (från vecka 4)",
           "Beskriva känslan (inte fly från ångest)")
 
-goal_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[3],"}\\RaggedRight{}",font,"\\if 1\\thexex{}",goal,"\\else\\fi","\\end{minipage}",sep="")
+goal_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[3],"}\\RaggedRight{}",font,"\\if 2\\thexex{}",goal,"\\else\\fi","\\end{minipage}",sep="")
 
 difficulty <- c(70,
                 50,
@@ -62,9 +62,9 @@ difficulty <- c(70,
                 40,
                 28)
 
-difficulty_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[4],"}\\large\\centering",font,"\\if 1\\thexex{}",difficulty,"\\else\\fi","\\end{minipage}",sep="")
+difficulty_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[4],"}\\centering",font,"\\Large\\if 2\\thexex{}",difficulty,"\\else\\fi","\\end{minipage}",sep="")
 
-rank_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[5],"}\\large\\centering",font,"\\if 1\\thexex{}",rank(rev(difficulty)),"\\else\\fi","\\end{minipage}",sep="")
+rank_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[5],"}\\centering",font,"\\Large\\if 2\\thexex{}",rank(rev(difficulty)),"\\else\\fi","\\end{minipage}",sep="")
 
 filler <- "\\rule{0bp}{2.25\\baselineskip}"
 x <-

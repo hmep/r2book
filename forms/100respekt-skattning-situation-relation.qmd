@@ -66,4 +66,4 @@ kable(assessment.table, booktabs = T, linesep = "", align="rccccccc", escape = F
 
 ```
 
-{{< include ../_pdf_footer.qmd >}}
+{{< include _pdf_footer.qmd >}}

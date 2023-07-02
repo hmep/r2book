@@ -63,4 +63,4 @@ Till att börja med, sätt dig bekvämt i en stol. Det är bättre att göra öv
 
 När du har gått genom alla muskelgrupper är det en god idé att sitta still några minuter för att verkligen känna hur det känns att vara avslappnad. Res inte på dig för snabbt, eftersom det kan göra att du återgår till det spända läget. När du slappnar av sjunker dessutom ditt blodtryck, så om du reser dig för snabbt kan du bli lite yr.
 
-{{< include ../_pdf_footer.qmd >}}
+{{< include _pdf_footer.qmd >}}
