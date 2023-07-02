@@ -9,7 +9,7 @@ git commit -am "render docs $(date +'%s')"
 case $1 in
 
 publish)
-  #git push origin main -f
+  git push origin main -f
   git push github main -f
 ;;
 

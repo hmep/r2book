@@ -122,9 +122,9 @@ format:
   #   number-sections: false
   #   identifier: "1234567890123"
   #   creator: "Tobias Hagberg"
-  #   contributor: "Tobias Hagberg"
+  #   contributor: "Fiona Michel, Anthea Fursland, Patrik Manhem & Tobias Hagberg"
   #   subject: "Psychology"
-  #   rights: "Copyright svensk anpassning 2023 Tobias Hagberg"
+  #   rights: "Copyright svensk anpassning 2023 Tobias Hagberg & Patrik Manhem"
   html:
     theme: 
     - flatly
