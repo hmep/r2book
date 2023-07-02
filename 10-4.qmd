@@ -4,9 +4,9 @@ title: Utför beteendeexperiment
 ---
 
 För var och en av sakerna du har tagit upp i din exponeringshierarki,
-gör ett (eller flera) planerade eller spontana beteendeexperiment!
+gör ett (eller flera) planerade eller spontana beteendeexperiment. Mixa och matcha svårighetsgrad. Känn dig fri att börja med den med lägst rangordning, eller gå direkt på den tuffaste. Du väljer. Om du inte vet var du ska börja, testa en situation i mitten av rangordningen och pröva dig sedan både uppåt och nedåt medan du utforskar framkomlighet mot dina mål.
 
-Använd det här arbetsbladet. Du kan fylla i det hur många kopior av det som
+Använd det här arbetsbladet när du gör det arbetet. Du kan fylla i det hur många kopior av det som
 helst.
 
 ::: {.content-visible when-format="html"}
