@@ -1,5 +1,5 @@
 ---
-title: "Mina mål: självhävdelsebeteenden att öka"
+title: "Mina mål: Självhävdelsebeteenden att öka"
 engine: knitr
 format:
   pdf:
