@@ -154,3 +154,5 @@ format:
       \xinit
       \pagestyle{plain}
       \thispagestyle{plain}
+      \PassOptionsToPackage{swedish}{babel}
+      \twocolumn
