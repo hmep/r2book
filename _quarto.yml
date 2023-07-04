@@ -151,3 +151,4 @@ format:
     - heightrounded
     header-includes: |
       \input{_header_includes.tex}
+      \pagestyle{plain}
