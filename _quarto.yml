@@ -136,7 +136,7 @@ format:
   #   number-sections: false
   #   collapse-level: 0
   pdf:
-    output-file: "100respekt.pdf"
+    output-file: "100respekt"
     number-sections: false
     keep-tex: true
     pdf-engine: xelatex
