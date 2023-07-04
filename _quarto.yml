@@ -142,7 +142,7 @@ format:
     pdf-engine: xelatex
     documentclass: book
     classoption: oneside
-    toc-depth: 2
+    toc-depth: 1
     toc-title: "Innehåll"
     lang: sv
     # papersize: a5
