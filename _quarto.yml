@@ -10,6 +10,7 @@ bibliography:
 
 book:
   title: "100% respekt"
+  output-file: "100respekt"
   author: "Fiona Michel, Anthea Fursland, Patrik Manhem & Tobias Hagberg"
   date: last-modified
   date-format: medium
@@ -136,7 +137,6 @@ format:
   #   number-sections: false
   #   collapse-level: 0
   pdf:
-    output-file: "100respekt"
     number-sections: false
     keep-tex: true
     pdf-engine: xelatex
