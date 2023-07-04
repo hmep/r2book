@@ -85,3 +85,15 @@
 
 \usepackage{marginnote}
 \newcommand\xlist[2]{\marginnote{\scriptsize#1}\RaggedRight #2}
+
+\makeatletter
+\renewcommand\@endpart{\vfil
+              \if@twoside
+                \null
+                \thispagestyle{empty}%
+                \newpage
+              \fi
+              \if@tempswa
+                \twocolumn
+              \fi}
+\makeatother
