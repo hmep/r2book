@@ -1,0 +1,99 @@
+---
+title: "@Rathus1973 självskattningsskala för självhävdelse"
+subtitle: "Preliminär svensk anpassning (2019-12-20)"
+engine: knitr
+format:
+  pdf:
+    keep-tex: true
+    pdf-engine: xelatex
+    documentclass: article
+    lang: sv
+tbl-colwidths: [14,14,14,14,14,14]
+header-includes: 
+- \input{../_header_includes.tex}
+bibliography:
+  - ../../r2fu/KSH.bib
+  - ../../r2fu/DBT.bib
+---
+
+\xinit
+
+\thispagestyle{respektTurn}
+
+Hur bra är du på självhävdelse? Står du upp för dina rättigheter eller låter du andra människor fatta beslut över ditt huvud? Säger du vad du tänker och känner eller säger du vad du tror att andra vill att du ska säga? Kan du ta kontakt med attraktiva personer eller undviker du dem? Ett sätt att uppskatta hur bra du är på självhävdelse är att svara på följande frågor om självhävdelsebeteenden. 
+
+Ange hur väl varje påstående beskriver dig som person med följande skala:
+
+**stämmer helt** | | | | | **stämmer inte alls**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+3 | 2 | 1 | -1 | -2 | -3  
+
+\vspace{1\baselineskip}
+
+\setlist[itemize]{
+    leftmargin=3.2\baselineskip,
+    labelsep=1.6\baselineskip,
+    label={\raisebox{-.4\baselineskip}{\xtikztickz{1.6\baselineskip}}}
+}
+
+- \xlist{1}{De flesta andra verkar vara mer aggressiva och självhävdande än vad jag är.}
+
+- \xlist{2}{Det har hänt att jag har undvikit att gå på en dejt på grund av ”blyghet”.}
+
+- \xlist{3}{Om en maträtt på en restaurang inte är tilllagad på det sätt jag beställt så säger jag till personalen.}
+
+- \xlist{4}{Jag låter noga bli att såra andra människor känslomässigt, även när jag själv har blivit sårad.}
+
+- \xlist{5}{Om en säljare har ansträngt sig för att demonstrera en vara för mig som jag inte riktigt vill ha tycker jag att det är svårt att säga ”nej”.}
+
+- \xlist{6}{När någon ber mig att göra något insisterar jag på att få veta varför.}
+
+- \xlist{7}{Ibland ger jag mig in i häftiga gräl med andra.}
+
+- \xlist{8}{Jag strävar efter framgång lika mycket som andra i min position.}
+
+- \xlist{9}{Om jag ska vara ärlig så låter jag ofta andra personer utnyttja mig.}
+
+- \xlist{10}{Jag tycker om att inleda samtal med främlingar eller nya bekantskaper.}
+
+- \xlist{11}{Det händer ofta att jag inte vet vad jag ska säga till människor som jag attraheras av.}
+
+- \xlist{12}{Jag drar mig för att ringa samtal till företag och myndigheter.}
+
+- \xlist{13}{Om jag söker ett jobb eller en utbildning föredrar jag att skriva ansökningsbrev snarare än att gå på personliga intervjuer.}
+
+- \xlist{14}{Jag tycker att det är pinsamt att lämna tillbaka en vara till butiken.}
+
+- \xlist{15}{Om en nära och väl ansedd anhörig irriterar mig försöker jag kväva mina känslor istället för att uttrycka min irritation.}
+
+- \xlist{16}{Det har hänt att jag låtit bli att ställa frågor för att undvika att framstå som dum.}
+
+- \xlist{17}{När jag grälar är jag ibland rädd att jag ska bli så upprörd att jag börjar skaka i hela kroppen.}
+
+- \xlist{18}{Om en ansedd och respekterad föreläsare säger något som jag uppfattar som fel så delger jag publiken min egen åsikt.}
+
+- \xlist{19}{Jag undviker att pruta på priset med butikspersonal och säljare.}
+
+- \xlist{20}{När jag har gjort något viktigt och värdefullt så berättar jag det för andra.}
+
+- \xlist{21}{Jag är öppen och ärlig med mina känslor.}
+
+- \xlist{22}{Om någon sprider falska och negativa rykten om mig så tar jag "ett snack" med personen så snart som möjligt.}
+
+- \xlist{23}{Jag har ofta svårt att säga ”nej”.}
+
+- \xlist{24}{Jag håller hellre mina känslor inom mig än ställer till en scen.}
+
+- \xlist{25}{Jag klagar på dålig service på restauranger och andra serviceinrättningar.}
+
+- \xlist{26}{Ibland vet jag inte vad jag ska svara när jag får en komplimang.}
+
+- \xlist{27}{Om personer i närheten pratar för högt på teatern eller en föreläsning så ber jag dem att vara tysta eller att fortsätta samtalet någon annanstans.}
+
+- \xlist{28}{Att gå före mig i en kö är att be om en ordentlig fajt.}
+
+- \xlist{29}{Jag drar mig inte för att säga vad jag tycker.}
+
+- \xlist{30}{Ibland vet jag över huvud taget inte vad jag ska säga.}
+
+{{< include ../forms/_pdf_footer.qmd >}}

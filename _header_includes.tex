@@ -50,9 +50,7 @@
 
 % https://github.com/rstudio/bookdown/issues/677
 \let\paragraph\oldparagraph
-%\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}\par}
 \let\subparagraph\oldsubparagraph
-%\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}\par}
 \usepackage{titlesec}
 \titlespacing{\section}{0pt}{0pt}{0pt}
 \titlespacing{\subsection}{0pt}{\baselineskip}{.5\baselineskip} %.5
@@ -75,6 +73,7 @@
 \usepackage{ragged2e,pgf,tikz,pgffor}
 \newcommand\xtikzsquare{\begin{tikzpicture}\draw (0,0) node[minimum size=9mm,draw] {};\end{tikzpicture}}
 \newcommand\xtikztick{\begin{tikzpicture}\draw (0,0) node[minimum size=1ex,draw] {};\end{tikzpicture}}
+\newcommand\xtikztickz[1]{\begin{tikzpicture}\draw (0,0) node[minimum size=#1,draw] {};\end{tikzpicture}}
 
 \usepackage{enumitem}
 
@@ -83,4 +82,7 @@
 \newcommand{\fline}[1]{\parbox[b][2\baselineskip][b]{\textwidth}{\large\hwfamily\color{MidnightBlue}\if 1\thexex#1\else\fi}\par\vspace{-1\baselineskip}\begin{tikzpicture}\draw (0,0) -- (\textwidth,0);\end{tikzpicture}\par\vspace{-0.4pt}\vspace{-.25\baselineskip}}
 \newcommand\xfline[3]{\vbox to 0mm{\bfseries #1}\foreach \n in {1,...,#2}{\fline{#3}}}
 \newcommand\xhl[1]{#1 --}
+
+\usepackage{marginnote}
+\newcommand\xlist[2]{\marginnote{\scriptsize#1}#2}
 

@@ -7,6 +7,7 @@ title: Alla arbetsblad
 
 ### Vecka 1: Introduktion och mål
 
+  - [Rathus (1973) självskattningsskala för självhävdelse (PDF)](forms/100respekt-Rathus-svenska.pdf)
   - [Självskattning av grad av självhävdelse (PDF)](forms/100respekt-skattning-situation-relation.pdf)
   - [Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
   - [Exempel 1: Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-1-SMARTa-mal.pdf)
@@ -65,5 +66,6 @@ title: Alla arbetsblad
   - [Exempel 2: Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf) (att fortsätta jobba med)
   - [Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf) (att fortsätta jobba med)
   - [Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf) (att fortsätta jobba med)
+  - [Rathus (1973) självskattningsskala för självhävdelse (PDF)](forms/100respekt-Rathus-svenska.pdf)
   - [Självskattning av grad av självhävdelse (PDF)](forms/100respekt-skattning-situation-relation.pdf)
   - [Så här vill jag fortsätta hävda mig själv konstruktivt (PDF)](forms/100respekt-vidmakthallande-reflektion.pdf)
