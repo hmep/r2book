@@ -151,9 +151,9 @@ format:
     # - heightrounded
     header-includes: |
       \input{_header_includes.tex}
-      \xinit
       \pagestyle{plain}
       \thispagestyle{plain}
       \PassOptionsToPackage{swedish}{babel}
-      \PassOptionsToPackage{papersize: a5}{geometry}
+      \PassOptionsToPackage{paper=a5paper}{geometry}
+      \xinit
       %\twocolumn
