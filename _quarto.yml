@@ -141,6 +141,7 @@ format:
     keep-tex: true
     pdf-engine: xelatex
     documentclass: book
+    classoption: oneside
     toc-depth: 2
     toc-title: "Innehåll"
     lang: sv
