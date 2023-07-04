@@ -144,11 +144,11 @@ format:
     toc-depth: 2
     toc-title: "Innehåll"
     lang: sv
-    papersize: a5
-    geometry:
-    - top=30mm
-    - left=20mm
-    - heightrounded
+    # papersize: a5
+    # geometry:
+    # - top=30mm
+    # - left=20mm
+    # - heightrounded
     header-includes: |
       \input{_header_includes.tex}
       \xinit
