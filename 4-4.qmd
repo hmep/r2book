@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: "Uppgift: mängdträna -- övning ger färdighet"
+title: "Övning: Mängdträna -- övning ger färdighet"
 ---
 
 Färdighet i dessa tekniker kräver övning -- ingen lär sig spela piano

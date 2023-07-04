@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: "Uppgift: Formulera dina första mål för din träning i självhävdelse"
+title: "Övning: Formulera dina första mål för din träning i självhävdelse"
 ---
 
 Under de kommande veckorna kommer du att få träna på att hävda dig själv

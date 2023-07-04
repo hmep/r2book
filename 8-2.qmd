@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: "Uppgift: Mängdträna på att hantera besvikelse"
+title: "Övning: Mängdträna på att hantera besvikelse"
 ---
 
 {{< include _week-6-7-generic.qmd >}}

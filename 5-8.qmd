@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: "Uppgift: Planera inför de kommande två veckorna"
+title: "Övning: Planera inför de kommande två veckorna"
 ---
 
 Under de två kommande veckorna kommer du att få fördjupa dig i ett eller

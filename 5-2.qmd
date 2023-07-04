@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: "Uppgift: Hitta dina egna sätt att sänka spänningsnivån"
+title: "Övning: Hitta dina egna sätt att sänka spänningsnivån"
 ---
 
 När människor börjar uppmärksamma sina kroppar blir de ofta förvånade

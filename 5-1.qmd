@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: "Uppgift: Identifiera fysisk spänning just nu"
+title: "Övning: Identifiera fysisk spänning just nu"
 ---
 
 När vi kommunicerar på ett passivt eller aggressivt sätt har vi ofta

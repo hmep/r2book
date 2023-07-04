@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: "Uppgift: Mängdträna på att ge konstruktiv kritik"
+title: "Övning: Mängdträna på att ge konstruktiv kritik"
 ---
 
 {{< include _week-6-7-generic.qmd >}}

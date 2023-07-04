@@ -70,7 +70,7 @@ hörnstenarna i att hävda sig själv. Ge någon en komplimang, redan idag!
     komplimang: ”Det där halsbandet är verkligen snyggt på dig. Var har
     du hittat det?”
 
-### Uppgift: Gör ett beteendeexperiment i tanken
+### Övning: Gör ett beteendeexperiment i tanken
 
 Tänk på ett tillfälle nyligen när du beundrade någon (exempelvis
 personens kläder, utförda arbete eller goda handlingar) och du inte gav

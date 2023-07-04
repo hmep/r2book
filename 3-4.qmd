@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: "Uppgift: Ditt eget första beteendeexperiment"
+title: "Övning: Ditt eget första beteendeexperiment"
 ---
 
 Ta fram arbetsbladet med dina SMARTa målsättningar som du började formulera i vecka 1

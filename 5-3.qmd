@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: "Uppgift: Bli din egen avslappningsguru"
+title: "Övning: Bli din egen avslappningsguru"
 ---
 
 Med progressiv avslappning arbetar du dig genom varje muskelgrupp i

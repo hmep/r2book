@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: "Uppgift: Korta ned progressiv avslappning"
+title: "Övning: Korta ned progressiv avslappning"
 ---
 
 Kommer du ihåg att *progressiv* betyder ”gradvis framåtskridande”?

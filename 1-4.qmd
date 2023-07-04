@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: "Uppgift: Hur bra är du på att hävda dig själv?"
+title: "Övning: Hur bra är du på att hävda dig själv?"
 ---
 
 Det kan vara svårt att avgöra hur bra du är på att hävda dig själv. I
