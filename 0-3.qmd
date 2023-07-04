@@ -1,7 +1,7 @@
 ---
 lang: sv
 engine: knitr
-title: Licens och källkod
+title: Licens, källkod och kontakt
 ---
 
 ## Licensvillkor {#sec-licens}
@@ -20,3 +20,7 @@ Se @HAGBERG2023100629 för information om anpassningar och resultat av utvärder
 ## Källkod
 
 Granska och ladda ned [källkoden till det här självhjälpsmaterialet](https://github.com/hmep/r2book) från GitHub.
+
+## Kontakt
+
+Vill du ge återkoppling på något? Har du en fråga? Mejla tobias (snabel-a) hagberg (punkt) com.
