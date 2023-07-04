@@ -125,20 +125,21 @@ format:
   #   contributor: "Fiona Michel, Anthea Fursland, Patrik Manhem & Tobias Hagberg"
   #   subject: "Psychology"
   #   rights: "Copyright svensk anpassning 2023 Tobias Hagberg & Patrik Manhem"
-  html:
-    theme: 
-    - flatly
-    - custom.scss
-    grid:
-      sidebar-width: 333px
-    fontsize: 18px
-    linestretch: 1.4
-    number-sections: false
-    collapse-level: 0
+  # html:
+  #   theme: 
+  #   - flatly
+  #   - custom.scss
+  #   grid:
+  #     sidebar-width: 333px
+  #   fontsize: 18px
+  #   linestretch: 1.4
+  #   number-sections: false
+  #   collapse-level: 0
   pdf:
-    keep-tex: true
-    latex_engine: pdflatex
+    output-file: "100respekt.pdf"
     number-sections: false
+    keep-tex: true
+    pdf-engine: xelatex
     documentclass: book
     toc-depth: 2
     toc-title: "Innehåll"
@@ -148,5 +149,5 @@ format:
     - top=30mm
     - left=20mm
     - heightrounded
-    header-includes: |
-      \PassOptionsToPackage{swedish}{babel}
+    # header-includes: |
+    #   \input{_header_includes.tex}

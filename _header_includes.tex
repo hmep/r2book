@@ -1,19 +1,19 @@
-\usepackage[
-  paper=a4paper,
-  layout=a4paper,
-  top=25mm,
-  bottom=22mm,
-  left=25mm,
-  right=25mm,
-  marginparsep=5mm,
-  marginparwidth=20mm,
-  head=7.5mm,
-  foot=8mm
-  ]{geometry}
+% \usepackage[
+%   paper=a4paper,
+%   layout=a4paper,
+%   top=25mm,
+%   bottom=22mm,
+%   left=25mm,
+%   right=25mm,
+%   marginparsep=5mm,
+%   marginparwidth=20mm,
+%   head=7.5mm,
+%   foot=8mm
+%   ]{geometry}
 
 \usepackage{fontspec}
 \defaultfontfeatures{Mapping=tex-text}
-\setmainfont{Inter}[Path = ../resources/Inter/static/,Extension = .ttf,UprightFont = *-Regular,FontFace={ul}{n}{Font=*-Light},FontFace={l}{n}{Font=*-Light},FontFace={m}{n}{Font=*-Regular},FontFace={b}{n}{Font=*-Medium},]
+\setmainfont{Inter}[Path = ~/Dokument/r2book/resources/Inter/static/,Extension = .ttf,UprightFont = *-Regular,FontFace={ul}{n}{Font=*-Light},FontFace={l}{n}{Font=*-Light},FontFace={m}{n}{Font=*-Regular},FontFace={b}{n}{Font=*-Medium},]
 \DeclareRobustCommand{\ulseries}{\fontseries{ul}\selectfont}
 \DeclareRobustCommand{\lseries}{\fontseries{l}\selectfont}
 \DeclareRobustCommand{\mseries}{\fontseries{m}\selectfont}
@@ -26,8 +26,8 @@
 \DeclareTextFontCommand{\textmb}{\mbseries}
 \DeclareTextFontCommand{\textb}{\bseries}
 \DeclareTextFontCommand{\texteb}{\ebseries}
-\setsansfont{SpecialElite}[Path = ../resources/SpecialElite/,Extension = .ttf,UprightFont = *-Regular]
-\newfontfamily{\hwfamily}{Tillana}[Path = ../resources/Tillana/,Extension = .ttf, UprightFont = *-Regular]
+\setsansfont{SpecialElite}[Path = ~/Dokument/r2book/resources/SpecialElite/,Extension = .ttf,UprightFont = *-Regular]
+\newfontfamily{\hwfamily}{Tillana}[Path = ~/Dokument/r2book/resources/Tillana/,Extension = .ttf, UprightFont = *-Regular]
 
 \linespread{1.075}
 \parskip = .5\baselineskip
@@ -56,15 +56,15 @@
 \titlespacing{\subsection}{0pt}{\baselineskip}{.5\baselineskip} %.5
 \titlespacing{\subsubsection}{0pt}{\baselineskip}{.25\baselineskip} %.25
 \newpagestyle{respekt}[\large\sffamily]{
-\sethead{}{}{\hbox{\includegraphics[width=13mm]{../sites/respekt/media/image/100respekt.pdf}}}
+\sethead{}{}{\hbox{\includegraphics[width=13mm]{~/Dokument/r2book/sites/respekt/media/image/100respekt.pdf}}}
 \setfoot{\rmfamily\small\thepage/\pageref*{LastPage}}{}{}
 }
 \newpagestyle{respektExample}[\large\sffamily]{
-\sethead{\if 0\thexex\else\begin{tikzpicture}[]\node[rotate=5] at (0,0) {\hwfamily\Large\color{MidnightBlue}Exempel};\end{tikzpicture}\fi}{}{\hbox{\includegraphics[width=13mm]{../sites/respekt/media/image/100respekt.pdf}}}
+\sethead{\if 0\thexex\else\begin{tikzpicture}[]\node[rotate=5] at (0,0) {\hwfamily\Large\color{MidnightBlue}Exempel};\end{tikzpicture}\fi}{}{\hbox{\includegraphics[width=13mm]{~/Dokument/r2book/sites/respekt/media/image/100respekt.pdf}}}
 \setfoot{\rmfamily\small\thepage/\pageref*{LastPage}}{}{}
 }
 \newpagestyle{respektTurn}[\large\sffamily]{
-\sethead{\if 0\thexex\else\begin{tikzpicture}[]\node[rotate=5] at (0,0) {\hwfamily\Large\color{MidnightBlue}Exempel};\end{tikzpicture}\fi}{}{\hbox{\includegraphics[width=13mm]{../sites/respekt/media/image/100respekt.pdf}}}
+\sethead{\if 0\thexex\else\begin{tikzpicture}[]\node[rotate=5] at (0,0) {\hwfamily\Large\color{MidnightBlue}Exempel};\end{tikzpicture}\fi}{}{\hbox{\includegraphics[width=13mm]{~/Dokument/r2book/sites/respekt/media/image/100respekt.pdf}}}
 \setfoot{\rmfamily\small\thepage/\pageref*{LastPage}}{}{\rmfamily\small Arbetsbladet fortsätter på nästa sida}
 }
 \newcommand\xturn{\thispagestyle{respektTurn}\pagebreak}
@@ -86,3 +86,4 @@
 \usepackage{marginnote}
 \newcommand\xlist[2]{\marginnote{\scriptsize#1}\RaggedRight #2}
 
+%\PassOptionsToPackage{swedish}{babel}
