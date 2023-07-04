@@ -3,6 +3,8 @@ lang: sv
 title: Alla media för progressiv avslappning
 ---
 
+Följande material utgår från @michel2008 och är utökat med instruktioner från @ost2006tillampad.
+
 ## Arbetsblad
 
 - [Planera för framgång (PDF)](forms/100respekt-planera-traning.pdf)

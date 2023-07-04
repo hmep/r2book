@@ -8,7 +8,7 @@ vissa situationer kanske du känner dig mycket kapabel, men i andra
 situationer kan du märka att du faktiskt inte uttrycker hur du känner
 eller tänker, eller blir upprörd eller frustrerad.
 
-## Skatta din grad av självhävdelse i olika situationer
+## Skatta din grad av självhävdelse i specifika situationer/relationer
 
 I den här övningen får du hjälp att skatta hur bra du är på att hävda
 dig själv konstruktivt i olika situationer. Det hjälper dig att
@@ -25,6 +25,16 @@ själv ett erkännande att du just nu gör ett viktigt arbete.
 [Självskattning självhävdelse (PDF)](forms/100respekt-skattning-situation-relation.pdf)
 :::
 
+## Skatta även din allmänna grad av självhävdelse
+
+Följande skattningsskala är en svensk anpassning av @Rathus1973, som utvecklades för att mäta grad av självhävdelse rent allmänt.
+
+::: {.content-visible when-format="html"}
+[Rathus (1973) självskattningsskala för
+självhävdelse (PDF)](forms/100respekt-Rathus-svenska.pdf)
+:::
+
+
 När du har gått genom nästan hela självhjälpsmaterialet kommer du att i vecka 8 få följa upp din egen
-utveckling genom att göra om den här skattningen. När du jämför dina svar från starten av perioden med
+utveckling genom att göra om de här skattningarna. När du jämför dina svar från starten av perioden med
 dem från slutet av den kommer du att få svart på vitt hur det har gått för dig.
