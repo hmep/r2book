@@ -155,4 +155,5 @@ format:
       \pagestyle{plain}
       \thispagestyle{plain}
       \PassOptionsToPackage{swedish}{babel}
-      \twocolumn
+      \PassOptionsToPackage{papersize: a5}{geometry}
+      %\twocolumn
