@@ -2,7 +2,7 @@ project:
   type: book
   output-dir: docs
   pre-render: ./_pre.sh #forms
-  post-render: ./_post.sh publish
+  post-render: ./_post.sh stage #publish
   
 bibliography:
   - ../r2fu/KSH.bib
@@ -135,18 +135,18 @@ format:
     linestretch: 1.4
     number-sections: false
     collapse-level: 0
-  # pdf:
-  #   keep-tex: true
-  #   latex_engine: pdflatex
-  #   number-sections: false
-  #   documentclass: book
-  #   toc-depth: 2
-  #   toc-title: "Innehåll"
-  #   lang: sv
-  #   papersize: a5
-  #   geometry:
-  #   - top=30mm
-  #   - left=20mm
-  #   - heightrounded
-  #   header-includes: |
-  #     \PassOptionsToPackage{swedish}{babel}
+  pdf:
+    keep-tex: true
+    latex_engine: pdflatex
+    number-sections: false
+    documentclass: book
+    toc-depth: 2
+    toc-title: "Innehåll"
+    lang: sv
+    papersize: a5
+    geometry:
+    - top=30mm
+    - left=20mm
+    - heightrounded
+    header-includes: |
+      \PassOptionsToPackage{swedish}{babel}
