@@ -154,6 +154,6 @@ format:
       \pagestyle{plain}
       \thispagestyle{plain}
       \PassOptionsToPackage{swedish}{babel}
-      \PassOptionsToPackage{paper=a5paper}{geometry}
+      \PassOptionsToPackage{paper=a5paper,oneside}{geometry}
       \xinit
       %\twocolumn
