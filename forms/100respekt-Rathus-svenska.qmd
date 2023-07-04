@@ -31,8 +31,8 @@ Ange hur väl varje påstående beskriver dig som person med följande skala:
 \vspace{1\baselineskip}
 
 \setlist[itemize]{
-    leftmargin=3.2\baselineskip,
-    labelsep=1.6\baselineskip,
+    leftmargin=2.4\baselineskip,
+    labelsep=0.8\baselineskip,
     label={\raisebox{-.4\baselineskip}{\xtikztickz{1.6\baselineskip}}}
 }
 
@@ -96,4 +96,8 @@ Ange hur väl varje påstående beskriver dig som person med följande skala:
 
 - \xlist{30}{Ibland vet jag över huvud taget inte vad jag ska säga.}
 
-{{< include ../forms/_pdf_footer.qmd >}}
+\vfill\fontsize{7.5bp}{.725\baselineskip}\selectfont\RaggedRight\ulseries
+
+Svensk anpassning av @Rathus1973 &copy; 2019 Tobias Hagberg. Arbetsbladet kan kopieras, ändras och distribueras fritt om du anger källan @hagberg2023 och licensvillkoren [Erkännande-DelaLika 2.5 Sverige (CC BY-SA 2.5 SE)](<https://creativecommons.org/licenses/by-sa/2.5/se/>).
+
+\vspace{.75\baselineskip}
