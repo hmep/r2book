@@ -94,4 +94,6 @@
 \newcommand\xpageref[1]{ (sidan \pageref{#1})}
 
 \usepackage{qrcode}
-\newcommand\xqr[3]{\vspace{1.5\baselineskip}\hspace{3\baselineskip}\qrcode[height=3\baselineskip]{#1}\quad \parbox{.55\linewidth}{\small\href{#1}{#2\\\url{#1}}}\par}
+\newcommand\xqr[3]{\qrcode[height=2\baselineskip]{#1}\quad\parbox{.8\linewidth}{\small\href{#1}{#2\\\url{#1}}}\par}
+
+%\newcommand\xqr[3]{\vspace{1.5\baselineskip}\hspace{3\baselineskip}\qrcode[height=3\baselineskip]{#1}\quad \parbox{.55\linewidth}{\small\href{#1}{#2\\\url{#1}}}\par}
