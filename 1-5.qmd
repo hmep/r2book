@@ -11,7 +11,7 @@ målsättning.
 ::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/fAlPVh76lHI >}}
 :::
-\xqr{Vad tycker du är svårt? (Youtube)}{https://www.youtube.com/embed/fAlPVh76lHI}
+\xqr{Vad tycker du är svårt? (Youtube)}{https://youtu.be/fAlPVh76lHI}
 
 ## Vad är ett ”SMART” mål?
 
