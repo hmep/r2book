@@ -23,7 +23,7 @@ Då kan den här självhjälpsmaterialet baserat på kognitiv beteendeterapi (KB
 
 KBT-självhjälpsmaterialet består av 10 avsnitt som det är tänkt att du jobbar med under loppet av 8 veckor. Under de första fem veckorna kommer du att ...
 
-- [sätta meningsfulla personliga mål](1-0.qmd) (sidan \pageref{sec-myths}),
+- [sätta meningsfulla personliga mål](1-0.qmd){sec-myths} (sidan \pageref{sec-myths}),
 - [lära dig om konstruktiv självhävdelse](2-0.qmd) (sidan \pageref{sec-assertiveness}),
 - [lära dig tänka mer flexibelt](3-0.qmd) (sidan \pageref{sec-thinking}),
 - [bli varse vilket handlande som är ändamålsenligt](4-0.qmd) (sidan \pageref{sec-behaviour}) samt att
