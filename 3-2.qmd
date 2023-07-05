@@ -16,7 +16,7 @@ väcker obehag hos dig i relation till din målsättning?
 ## Har du formulerat SMARTa mål ännu?
 
 Har du inte ännu formulerat ett eller några SMARTa mål? Hoppa då tillbaka till
-[materialet för vecka 1](1-5.qmd) och gör det nu -- du kommer att ha stor glädje av det alldeles strax.
+[materialet för vecka 1](1-5.qmd)\xpageref{sec-smartgoals} och gör det nu -- du kommer att ha stor glädje av det alldeles strax.
 :::
 
 ## Ångest och rädsla hänger ihop
@@ -193,16 +193,21 @@ Med avstamp i argumenten ovan, vilka är dina egna skäl att börja utföra bete
 ::: {.content-visible when-format="html"}
 [Mina skäl att utföra beteendeexperiment (PDF)](forms/100respekt-mina-skal-beteendeexperiment.pdf)
 :::
+\xqrform{Mina skäl att utföra beteendeexperiment (PDF)}{forms/100respekt-mina-skal-beteendeexperiment.pdf}
 
 Denna och kommande veckor kommer du att få hjälp att utföra olika
 beteendeexperiment som bygger på dina första målsättningar som du
 började formulera i vecka 1. När du nu har läst det här avsnittet, har du hittat några ytterligare situationer och relationer att träna konstruktiv självhävdelse i? Lägg till även dem i arbetsbladet med SMARTa mål.
 
-Som du ser i arbetsbladet nedan finns det flera kolumner att fylla i. Testa att fylla i alla kolumner förutom den allra sista ("Rank", vi återkommer till den längre fram).
-
 ::: {.content-visible when-format="html"}
 [Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
-
-[Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf)
-
 :::
+\xqrform{Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-SMARTa-mal.pdf}
+
+Som du ser i arbetsbladet finns det flera kolumner att fylla i. Testa att fylla i alla kolumner förutom den allra sista ("Rank", vi återkommer till den längre fram). Ta gärna hjälp av exempel-arbetsbladet nedan för att få inspiration när du formulerar målbeteenden som du vill pröva i de utmanande situationerna/relationerna i ditt liv.
+
+::: {.content-visible when-format="html"}
+[Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf)
+:::
+\xqrform{Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-exempel-2-SMARTa-mal.pdf}
+

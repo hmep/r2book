@@ -48,3 +48,5 @@ upp i förra avsnittet.
 ::: {.content-visible when-format="html"}
 [Mina rättigheter att hävda mig själv (PDF)](forms/100respekt-mina-rattigheter.pdf)
 :::
+
+\xqrform{Mina rättigheter att hävda mig själv (PDF)}{forms/100respekt-mina-rattigheter.pdf}
