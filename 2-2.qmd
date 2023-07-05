@@ -89,6 +89,8 @@ aggressivitet ofta fyller funktionen undvikande eller flykt från
 överväldigande ledsenhet i den arga personens liv. Hon säger också
 att aggressivitet sällan är ett effektivt sätt att kommunicera. 
 
+::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/xFiMTXn5An4 >}}
+:::
 
 \xqr{Marsha Linehan -- Anger (Youtube)}{https://youtu.be/xFiMTXn5An4}
