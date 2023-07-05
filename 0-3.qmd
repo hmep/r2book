@@ -10,6 +10,8 @@ Materialet är fritt tillgängligt att använda som självhjälpsmaterial och i 
 
 Detta verk är en av upphovsrättsinnehavaren [Centre for Clinical Interventions, Government of Western Australia](https://www.cci.health.wa.gov.au/) auktoriserad anpassning och utökning av originalet @michel2008. 
 
+\xqr{Workbook -- Assert Yourself!}{https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Assertiveness}
+
 ![](sites/respekt/media/image/CC_BY-SA_icon.svg){style="height:3rem;"}
 
 Svensk anpassning &copy; 2020--`r format(Sys.time(), "%Y")` Tobias Hagberg och Patrik Manhem. Detta verk är licensierat under [Erkännande-DelaLika 2.5 Sverige (CC BY-SA 2.5

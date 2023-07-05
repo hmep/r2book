@@ -84,9 +84,11 @@ Kämpar du ibland med aggressiva uttryck för ilska,
 till exempel när du blir besviken? Titta på den här korta filmen på
 engelska med psykologen Marsha Linehan (som har utvecklat dialektisk
 beteendeterapi, DBT, för personer med svårigheter att reglera
-överväldigande känslor). I den här filmen pratar Marsha om att
+överväldigande känslor). I filmen säger Marsha att
 aggressivitet ofta fyller funktionen undvikande eller flykt från
 överväldigande ledsenhet i den arga personens liv. Hon säger också
 att aggressivitet sällan är ett effektivt sätt att kommunicera. 
 
 {{< video https://www.youtube.com/embed/xFiMTXn5An4 >}}
+
+\xqr{Marsha Linehan -- Anger (Youtube)}{https://youtu.be/xFiMTXn5An4}
