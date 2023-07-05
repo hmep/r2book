@@ -3,6 +3,8 @@ lang: sv
 title: Vad är kritik?
 ---
 
+\label{sec-critique}
+
 Vi har alla blivit kritiserade i livet. Att klara av att ta emot kritik
 på ett konstruktivt och självhävdande sätt är en av de viktigaste saker
 vi ställs inför på vår utvecklingsresa mot allt större grad av mognad.

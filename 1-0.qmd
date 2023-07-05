@@ -1,8 +1,10 @@
 ---
 lang: sv
-title: Vad menas med att hävda sig själv konstruktivt? {#sec-myths}
+title: Vad menas med att hävda sig själv konstruktivt?
 ---
 
+\label{sec-myths}
+ 
 Du har säkert hört någon säga ”Du behöver stå upp för dig själv!” Men
 vad betyder det? Att hävda sig själv på ett konstruktivt sätt är ett
 visst sätt att kommunicera. Om du hävdar dig själv konstruktivt

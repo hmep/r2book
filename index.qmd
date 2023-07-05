@@ -31,12 +31,12 @@ KBT-självhjälpsmaterialet består av 10 avsnitt som det är tänkt att du jobb
 
 Under de två näst sista veckorna väljer du själv vilka fördjupningsområden du vill jobba med: Att bli bättre på att klara av att ...
 
-- [säga nej till sådant som du egentligen inte själv vill](6-0.qmd), 
-- [ta och ge kritik](7-0.qmd), 
-- [hantera besvikelser](8-0.qmd) eller att
-- [ta och ge komplimanger](9-0.qmd).
+- [säga nej till sådant som du egentligen inte själv vill](6-0.qmd)\xpageref{sec-sayno}, 
+- [ta och ge kritik](7-0.qmd)\xpageref{sec-critique}, 
+- [hantera besvikelser](8-0.qmd)\xpageref{sec-disappointments} eller att
+- [ta och ge komplimanger](9-0.qmd)\xpageref{sec-compliments}.
 
-Under den sista veckan sätter du ihop din personliga [plan för fortsatt träning](10-0.qmd).
+Under den sista veckan sätter du ihop din personliga [plan för fortsatt träning](10-0.qmd)\xpageref{sec-maintenance}.
 
 ## Syftet med det här materialet
 

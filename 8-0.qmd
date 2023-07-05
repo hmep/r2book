@@ -3,6 +3,8 @@ lang: sv
 title: Hur hanterar du besvikelser?
 ---
 
+\label{sec-disappointments}
+
 Att behöva hantera besvikelser är en del av att vara människa. Ibland
 blir saker och ting inte som man hade tänkt sig: förluster och
 misslyckanden går helt enkelt inte att undvika. I det här avsnittet tittar

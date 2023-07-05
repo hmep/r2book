@@ -1,8 +1,10 @@
 ---
 lang: sv
-title: Halvtidsavstämning {#sec-relaxation}
+title: Halvtidsavstämning
 ---
 
+\label{sec-relaxation}
+ 
 Du har nu kommit lite drygs halvvägs genom det här självhjälpsmaterialet. Grattis till
 de nyupptäckter och lärdomar du har gjort i dina beteendeexperiment! 
 Oavsett om det har gått som du önskade eller om du stött på problem, så

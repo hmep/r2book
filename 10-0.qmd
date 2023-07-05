@@ -3,6 +3,8 @@ lang: sv
 title: "Övning: Hur har du det precis just nu?"
 ---
 
+\label{sec-maintenance}
+ 
 Nu går vi in i sista veckan i det här självhjälpsmaterialet i
 konstruktiv självhävdelse. Det är inte slutet på din resa, det här
 är bara sluten på allra första början.

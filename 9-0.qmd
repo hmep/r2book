@@ -3,6 +3,8 @@ lang: sv
 title: Komplimanger bygger relationer och självkänsla
 ---
 
+\label{sec-compliments}
+ 
 Att ge och ta komplimanger är en annan färdighet som har med
 självhävdelse att göra, eftersom det är en viktig del av vardagliga
 konversationer, byggande av relationer och utvecklande av självkänsla.

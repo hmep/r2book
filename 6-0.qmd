@@ -3,6 +3,8 @@ lang: sv
 title: Att säga ’nej’ i underskott
 ---
 
+\label{sec-sayno}
+
 Många personer har stora svårigheter att säga ’nej’ till andra. Även
 personer som i andra situationer kan vara bra på att hävda sig själva
 kan märka att de hamnar i situationer där de säger ’ja’ till saker som
