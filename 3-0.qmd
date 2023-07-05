@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: Tänkandet vid bristande självhävdelse
+title: Tänkandet vid bristande självhävdelse {#sec-thinking}
 ---
 
 Vårt sätt att tänka kan hindra oss från att hävda oss på ett
