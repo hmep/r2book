@@ -17,7 +17,7 @@ Ett exempel skulle kunna vara om du smällde igen dörren efter dig och
 drog dig undan när det du egentligen hade behövt göra var att utrycka
 din ilska på ett konstruktivt sätt. 
 
-## Myter om självhävdelse
+## Myter om självhävdelse {#sec-myths}
 
 Det finns flera myter om konstruktiv självhävdelse. Ibland använder
 människor dessa myter som ursäkter för att inte hävda sig själva bättre.
