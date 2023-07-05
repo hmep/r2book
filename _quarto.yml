@@ -2,7 +2,7 @@ project:
   type: book
   output-dir: docs
   pre-render: ./_pre.sh #forms
-  post-render: ./_post.sh stage #publish #stage
+  post-render: ./_post.sh publish #stage
   
 bibliography:
   - ../r2fu/KSH.bib

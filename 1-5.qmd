@@ -8,8 +8,6 @@ konstruktivt i situationer som brukar bli besvärliga. Vilket område vill
 du börja träna inom? Du kommer strax att få formulera en egen
 målsättning.
 
-Om du inte redan har tittat på den här filmsnutten -- gör det nu!
-
 ::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/fAlPVh76lHI >}}
 :::
@@ -81,6 +79,8 @@ Som du ser i arbetsbladet nedan finns det flera kolumner att fylla i. Precis jus
 
 [Exempel 1: Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-1-SMARTa-mal.pdf)
 :::
+
 \xqrform{Mina mål: självhävdelsebeteenden att öka (PDF)}{forms/100respekt-SMARTa-mal.pdf}
+
 \xqrform{Exempel 1: Mina mål: självhävdelsebeteenden att öka (PDF)}{forms/100respekt-exempel-1-SMARTa-mal.pdf}
 
