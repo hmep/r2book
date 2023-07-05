@@ -19,7 +19,10 @@ nej. Hur mycket motstånd eller olust väcker det hos dig? Skulle du våga
 testa det själv? I vilket sammanhang skulle det kännas okej att göra
 det?
 
+::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/iX7Y4ft3VHw >}}
+:::
+\xqr{Teknik för att säga nej: repig grammofonskiva}{https://youtu.be/iX7Y4ft3VHw}
 
 ## Börja lagom svårt
 

@@ -204,10 +204,9 @@ började formulera i vecka 1. När du nu har läst det här avsnittet, har du hi
 :::
 \xqrform{Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-SMARTa-mal.pdf}
 
-Som du ser i arbetsbladet finns det flera kolumner att fylla i. Testa att fylla i alla kolumner förutom den allra sista ("Rank", vi återkommer till den längre fram). Ta gärna hjälp av exempel-arbetsbladet nedan för att få inspiration när du formulerar målbeteenden som du vill pröva i de utmanande situationerna/relationerna i ditt liv.
+Som du ser i arbetsbladet finns det flera kolumner att fylla i. Testa att fylla i alla kolumner förutom den allra sista ("Rank", vi återkommer till den längre fram). Ta gärna hjälp av exempel-arbetsbladet nedan för att få inspiration när du formulerar målbeteenden som du vill pröva i de utmanande situationerna/relationerna i ditt liv. Se också om du kan sätta en siffra på det obehag du känner inför att utföra respektive målbeteenden. Att du känner obehag är helt väntat -- det är ju därför som du tidigare har undvikit att utföra dessa målbeteenden.
 
 ::: {.content-visible when-format="html"}
 [Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf)
 :::
 \xqrform{Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-exempel-2-SMARTa-mal.pdf}
-
