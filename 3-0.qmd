@@ -1,7 +1,9 @@
 ---
 lang: sv
-title: Tänkandet vid bristande självhävdelse {#sec-thinking}
+title: Tänkandet vid bristande självhävdelse
 ---
+
+\label{sec-thinking}
 
 Vårt sätt att tänka kan hindra oss från att hävda oss på ett
 konstruktivt sätt, som vi konstaterade i vecka 1. Alla har vi antaganden

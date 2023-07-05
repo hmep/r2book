@@ -1,7 +1,9 @@
 ---
 lang: sv
-title: Att skilja på verbal och icke-verbal kommunikation {#sec-assertiveness}
+title: Att skilja på verbal och icke-verbal kommunikation
 ---
+
+\label{sec-assertiveness}
 
 Det är viktigt att du lär dig skilja på verbala och icke-verbala
 kännetecken för de olika kommunikationsstilarna. När vi känner till
