@@ -28,7 +28,7 @@ med det här arbetsbladet har du genomfört ditt första beteendeexperiment.
 :::
 \xqrform{Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-beteendeexperiment.pdf}
 
-Titta gärna genom exempel-arbetsbladet nedan när du planerar och utvärderar ditt eget experiment, för vägledning.
+Titta gärna genom exempel-arbetsbladet nedan för vägledning, när du planerar, utför och utvärderar ditt eget experiment.
 
 ::: {.content-visible when-format="html"}
 [Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf) 
