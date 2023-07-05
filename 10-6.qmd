@@ -16,7 +16,7 @@ nyvunna färdigheter och hur du kan låta dem fortsätta utvecklas vidare i ditt
 Och använd dig med fördel av följande arbetsblad även i fortsättningen.
 
 ::: {.content-visible when-format="html"}
-[Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
+[Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
 :::
 
 ::: {.content-visible when-format="html"}

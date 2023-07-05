@@ -41,7 +41,7 @@ Tänk tillbaka på när du senast själv blev kritiserad. Skriv ned vad det
 var för situation och hur du reagerade.
 
 ::: {.content-visible when-format="html"}
-[Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
+[Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
 :::
 
 ## Passiv respons på kritik

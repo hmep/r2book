@@ -201,8 +201,8 @@ började formulera i vecka 1. När du nu har läst det här avsnittet, har du hi
 Som du ser i arbetsbladet nedan finns det flera kolumner att fylla i. Testa att fylla i alla kolumner förutom den allra sista ("Rank", vi återkommer till den längre fram).
 
 ::: {.content-visible when-format="html"}
-[Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
+[Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
 
-[Exempel 2: Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf)
+[Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf)
 
 :::

@@ -80,8 +80,8 @@ I slutet av förra avsnittet började du arbetet med att formulera mål att arbe
 Som du ser i arbetsbladet nedan finns det flera kolumner att fylla i. I nuläget räcker det med att du fokuserar på de två första, längst till vänster.
 
 ::: {.content-visible when-format="html"}
-[Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
+[Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
 
-[Exempel 1: Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-1-SMARTa-mal.pdf)
+[Exempel 1: Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-1-SMARTa-mal.pdf)
 
 :::

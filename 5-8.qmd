@@ -26,9 +26,9 @@ fortsätta din mängdträning i kontstruktiv självhävdelse inom?
 Använd dig av det här arbetsbladet för att planera dina kommande veckor.
 
 ::: {.content-visible when-format="html"}
-[Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
+[Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
 
-[Exempel 2: Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf)
+[Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf)
 :::
 
 Och planera och utvärdera sedan dina beteendeexperiment med hjälp av det här arbetsbladet.

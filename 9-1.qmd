@@ -23,9 +23,9 @@ om du kan komma ihåg hur du reagerade. Beskriv situationen och hur du
 reagerade. Var din reaktion passiv, självhävdande eller aggressiv? Skriv ned det du kommer ihåg i arbetsbladet för dina SMARTa mål. Du kan senare välja att planera ett beteendeexperiment för en liknande situation i framtiden, som du därefter kan utvärdera nyfiket.
 
 ::: {.content-visible when-format="html"}
-[Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
+[Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
 
-[Exempel 2: Mina mål: självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf)
+[Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf)
 :::
 
 ## Passiva svar på komplimanger
