@@ -29,12 +29,13 @@ Se om du kan finna ytterligare hjälpsamt tänkande i form av egna
 förutsägelser om nyttan med att säga ’nej’.
 
 ::: {.content-visible when-format="html"}
-[Hjälpande antaganden (PDF)](forms/100respekt-hjalpande-antaganden-saga-nej.pdf)
+[Hjälpande antaganden om att säga ’nej’ (PDF)](forms/100respekt-hjalpande-antaganden-saga-nej.pdf)
 :::
+\xqrform{Hjälpande antaganden om att säga ’nej’ (PDF)}{forms/100respekt-hjalpande-antaganden-saga-nej.pdf}
 
 ## Fortsätt arbeta med beteendeexperiment
 
-Fortsätt att genomföra [beteendeexperiment](3-4.qmd) för att i praktiken hitta egna bra anledningar att säga ’nej’.
+Fortsätt att genomföra [beteendeexperiment](3-4.qmd)\xpageref{sec-experiment} för att i praktiken hitta egna bra anledningar att säga ’nej’.
 Kanske märker du att du har svårt att tro på att dina nya beteenden
 kommer att fungera över tid. Det är helt normalt. Du har förmodligen
 tänkt dina gamla tankar och utfört dina säkerhetsbeteenden väldigt
@@ -44,6 +45,10 @@ som det gamla har varit. Fortsätt öva så kommer de att automatiseras.
 
 ::: {.content-visible when-format="html"}
 [Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf)
+:::
+\xqrform{Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-beteendeexperiment.pdf}
 
+::: {.content-visible when-format="html"}
 [Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf) 
 :::
+\xqrform{Exempel: Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-exempel-beteendeexperiment.pdf}

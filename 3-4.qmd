@@ -3,6 +3,8 @@ lang: sv
 title: "Övning: Ditt eget första beteendeexperiment"
 ---
 
+\label{sec-experiment}
+
 Ta fram arbetsbladet med dina SMARTa målsättningar som du började formulera i vecka 1
 och välj ett mål att planera ett beteendeexperiment kring. Om du redan har
 utfört ett spontant beteendeexperiment kring någon av dina målsättningar -- snyggt

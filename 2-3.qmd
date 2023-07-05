@@ -82,7 +82,6 @@ Som du ser i arbetsbladet nedan finns det flera kolumner att fylla i. Precis jus
 ::: {.content-visible when-format="html"}
 [Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
 :::
-
 \xqrform{Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-SMARTa-mal.pdf}
 
 Titta gärna på exempel-arbetsbladet för få vägledning och kanske något uppslag.
@@ -90,5 +89,4 @@ Titta gärna på exempel-arbetsbladet för få vägledning och kanske något upp
 ::: {.content-visible when-format="html"}
 [Exempel 1: Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-1-SMARTa-mal.pdf)
 :::
-
 \xqrform{Exempel 1: Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-exempel-1-SMARTa-mal.pdf}

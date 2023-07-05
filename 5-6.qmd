@@ -32,20 +32,24 @@ Livheim.
 ::: {.content-visible when-format="html"}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3dRaQwCRT2Nb2ASCa3L6pa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 :::
+\xqr{Poddavsnitt: Meditera mera med Fredrik Livheim (Spotify)}{https://open.spotify.com/episode/3dRaQwCRT2Nb2ASCa3L6pa}
 
 Här är ytterligare några medveten närvaro-övningar som du kan prova, från Stressmottagningen. 
 
 ::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/y7PAGIOMX6I >}}
 :::
+\xqr{Andningsankaret – övning i medveten närvaro}{https://youtu.be/y7PAGIOMX6I}
 
 ::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/gGi03lwf_bw >}}
 :::
+\xqr{Kroppsscanning – övning i medveten närvaro}{https://youtu.be/gGi03lwf_bw}
 
 ::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/4kVAHhJted8 >}}
 :::
+\xqr{Stanna upp i vardagen – övning i medveten närvaro}{https://youtu.be/4kVAHhJted8}
 
 ## Planera för träning i medveten närvaro
 
@@ -54,6 +58,7 @@ Mängdträning hjälper dig att automatisera nya färdigheter, så även med med
 ::: {.content-visible when-format="html"}
 [Planera för framgång (PDF)](forms/100respekt-planera-traning.pdf)
 :::
+\xqrform{Planera för framgång (PDF)}{forms/100respekt-planera-traning.pdf}
 
 Har du använt arbetsbladet ovan och tänkt till om hur du kan hjälpa dig själv att
 träna medveten närvaro? Om ja, så bra! Det kommer att hjälpa dig att gå

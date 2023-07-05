@@ -3,6 +3,8 @@ lang: sv
 title: Konstruktiv självhävdelse är något vi lär oss
 ---
 
+\label{sec-learnedbehavior}
+
 Förmågan att hävda sig själv är ett resultat av inlärning, både av sätt
 att bete sig och sätt att tänka. Vi föds alla med en hög grad av
 självhävdelse. Tänk på nyfödda som skriker när de behöver något --

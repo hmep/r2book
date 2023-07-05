@@ -8,33 +8,41 @@ två av fyra områden som är viktiga för konstruktiv självhävdelse. Härnäs
 flera av de återstående avsnitten att göra övningarna i -- utifrån din egen nyfikenhet och vad du
 helst önskar att träna på.
 
--   Du kan välja att titta närmare på [varför det ibland är svårt att säga
-    ’nej’, och hur vi kan bli bättre på det](6-0.qmd). Det är viktigt för att
+-   Du kan välja att titta närmare på varför det ibland är svårt att [säga
+    ’nej’](6-0.qmd)\xpageref{sec-sayno}, och hur vi kan bli bättre på det. Det är viktigt för att
     minska stressen i livet.
--   Du kan också öva på hur du kan [hantera kritik på ett
-    konstruktivt sätt](7-0.qmd). Att kunna ta och ge kritik på ett konstruktivt
+-   Du kan också öva på hur du kan [hantera kritik](7-0.qmd)\xpageref{sec-critique} på ett
+    konstruktivt sätt. Att kunna ta och ge kritik på ett konstruktivt
     sätt är bra för självkänslan.
--   Ett annat område du kan välja att jobba med är att [hantera besvikelser](8-0.qmd) på ett
+-   Ett annat område du kan välja att jobba med är att [hantera besvikelser](8-0.qmd)\xpageref{sec-disappointments} på ett
     sätt som respekterar både dina egna och andras rättigheter.
--   Slutligen kan du öva på att [ta emot och ge komplimanger på ett självhävdande och konstruktivt sätt](9-0.qmd). Det är en viktig självhävdande och social färdighet.
+-   Slutligen kan du öva på att [ta emot och ge komplimanger](9-0.qmd)\xpageref{sec-compliments} på ett självhävdande och konstruktivt sätt. Det är en viktig självhävdande och social färdighet.
 
 Tänk tillbaka på dina SMARTa målsättningar och allt du har lärt dig
 i avsnitten hittills. Lägg till alla de erfarenheter och
 kloka slutsatser du har gjort i anslutning till de beteendeexperiment som du har utfört. Vad skulle vara ett lämpligt nytt område att
 fortsätta din mängdträning i kontstruktiv självhävdelse inom?
 
-Använd dig av det här arbetsbladet för att planera dina kommande veckor.
+Fortsätt använda dig av det här arbetsbladet, när du nu planerar dina kommande veckor. Du kan använda det här arbetsbladet så många gånger som du behöver.
 
 ::: {.content-visible when-format="html"}
 [Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
+:::
+\xqrform{Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-SMARTa-mal.pdf}
 
+::: {.content-visible when-format="html"}
 [Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf)
 :::
+\xqrform{Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-exempel-2-SMARTa-mal.pdf}
 
 Och planera och utvärdera sedan dina beteendeexperiment med hjälp av det här arbetsbladet.
 
 ::: {.content-visible when-format="html"}
 [Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf)
+:::
+\xqrform{Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-beteendeexperiment.pdf}
 
+::: {.content-visible when-format="html"}
 [Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf) 
 :::
+\xqrform{Exempel: Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-exempel-beteendeexperiment.pdf}

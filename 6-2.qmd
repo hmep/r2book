@@ -51,4 +51,7 @@ säga ’nej’ kan du välja bland följande:
 Om du inte redan har spelat upp den här filmen, titta på den för att se
 ett exempel på ett nej som upprepas flera gånger.
 
- {{< video https://www.youtube.com/embed/iX7Y4ft3VHw >}}
+::: {.content-visible when-format="html"}
+{{< video https://www.youtube.com/embed/iX7Y4ft3VHw >}}
+:::
+\xqr{Teknik för att säga nej: repig grammofonskiva}{https://youtu.be/iX7Y4ft3VHw}

@@ -3,6 +3,8 @@ lang: sv
 title: Lite om inlärning, obehag och motivation
 ---
 
+\label{sec-motivation}
+
 Innan vi börjar träning i progressiv avslappning vill vi först säga något om
 inlärning och motivation, liksom om ångest och obehag -- obehag och motivation
 kan hänga ihop på sätt som ofta inte känns helt intuitiva till en början.

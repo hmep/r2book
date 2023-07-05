@@ -1,7 +1,7 @@
 
-Kommer du ihåg det vi skrev om [optimal inlärning](2-4.qmd) i ett tidigare avsnitt --
+Kommer du ihåg det vi skrev om [optimal inlärning](2-4.qmd)\xpageref{sec-motivation} i ett tidigare avsnitt --
 att nya färdigheter lärs in bäst i mängder av upprepade och varierade 
-övningstillfällen? Du kan som du såg i avsnittet om [träning i din egen vardag](3-3.qmd) allt
+övningstillfällen? Du kan som du såg i avsnittet om [träning i din egen vardag](3-3.qmd)\xpageref{sec-experimentinstructions} allt
 mer automatiserat ersätta ovanan att undvika ångest i svåra situationer
 med den goda vanan att hävda dig själv konstruktivt. Du gör det genom
 att ta fasta på det viktiga som ångesten skvallrar om och sedan aktivt
@@ -12,7 +12,7 @@ göra det du värdesätter.
 Denna och nästa vecka i det här självhjälpsmaterialet är vikta åt
 mängdträning i det eller de områden som du vill träna konstruktiv
 självhävdelse inom. Gör ett eller två beteendeexperiment i det här avsnittet, och något eller några i de andra avsnitten för vecka 6&ndash;7. Under den sista veckan 
-kommer du att få hjälp att ”knyta ihop säcken” genom att inventera
+kommer du att få hjälp att knyta ihop säcken genom att inventera
 dina styrkor, utarbeta en handlingsplan vid bakslag och planera för
 vidmakthållande av de färdigheter du har vunnit under programmet.
 
@@ -23,7 +23,7 @@ och att sätta gränser kommer du att märka att det inte alltid går som du vil
 och hoppas. Ett smart sätt att dra nytta av sådana potentiella bakslag är att då
 passa på att träna på att hantera besvikelser på ett konstruktivt sätt. När du
 nu tränar på konstruktiv självhävdelse -- dra då nytta av nyinlärningen du kan
-göra i [avsnittet som handlar om att hantera besvikelser konstruktivt](8-0.qmd).
+göra i avsnittet som handlar om att [hantera besvikelser](8-0.qmd)\xpageref{sec-disappointments} konstruktivt.
 Då maximerar du din inlärning, hur det än går.
 
 ## Mängdträna med omväxlande svårighetsgrad
@@ -41,13 +41,17 @@ fyllt i det en första gång kommer det automatiskt visas en länk ovanför
 det som du kan använda för att skapa en ytterligare version av
 arbetsbladet.
 
-Sikta på att utföra åtminstone 2 olika beteendeexperiment per vecka. Ju fler tillfällen du tränar, desto bättre! Om du tidigare har
+Sikta på att utföra åtminstone två (2) olika beteendeexperiment per vecka. Ju fler tillfällen du tränar, desto bättre! Om du tidigare har
 genomfört ett svårt beteendeexperiment, gör då gärna ett lite lättare
 härnäst. Du förtjänar att också få bokföra lite enklare vunna
 framgångar.
 
 ::: {.content-visible when-format="html"}
 [Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf)
+:::
+\xqrform{Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-beteendeexperiment.pdf}
 
+::: {.content-visible when-format="html"}
 [Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf) 
 :::
+\xqrform{Exempel: Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-exempel-beteendeexperiment.pdf}

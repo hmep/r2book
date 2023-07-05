@@ -1,8 +1,9 @@
 ---
 lang: sv
 title: Så funkar beteendeexperiment
-tbl-colwidths: [40, 60]
 ---
+
+\label{sec-experimentinstructions}
 
 Ibland räcker det inte med att observera och beskriva sina tankar,
 känslor och beteenden. Det kan kännas som att man lär sig mycket om sig

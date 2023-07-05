@@ -19,11 +19,13 @@ Om du lider av panikångest är lugn och kontrollerad
 andning en särskilt viktig teknik för att inte hyperventilera
 (överandas). Andningsövningar för panik är till och med ännu långsammare
 än i den här övningen. Om du har panikattacker, titta närmare på
-självhjälpsboken [*Ingen panik: Fri från panik- och ångestattacker i
+självhjälpsboken [Ingen panik: Fri från panik- och ångestattacker i
 10 steg med kognitiv
-beteendeterapi*](http://libris.kb.se/bib/12089987) av Carlbring och
+beteendeterapi](http://libris.kb.se/bib/12089987) av Carlbring och
 Hanell (2013). Du kan läsa och göra övningarna i den på egen hand, eller
 ta hjälp av en KBT-psykolog eller -psykoterapeut.
+
+\xqr{Ingen panik: Fri från panik- och ångestattacker i 10 steg med kognitiv beteendeterapi}{http://libris.kb.se/bib/12089987}
 :::
 
 Sätt dig
@@ -61,9 +63,12 @@ melodi att tala om samt att den är ganska lång, ger dig dig tid att
 varva ned. Den sägs i genomsnitt lugna pulsen med 35% -- och dessutom
 lindra ångest. Prova själv -- vad tycker du?
 
+\xqr{A Study Investigating the Relaxation Effects of the Music Track Weightless (PDF)}{https://www.britishacademyofsoundtherapy.com/wp-content/uploads/2019/10/Mindlab-Report-Weightless-Radox-Spa.pdf}
+
 ::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/UfcAVejslrU >}}
 :::
+\xqr{Marconi Union - Weightless (Official Video) (Youtube)}{https://youtu.be/UfcAVejslrU}
 
 Du kanske också har några egna favoritlåtar för att komma ned i varv?
 
