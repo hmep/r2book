@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: Halvtidsavstämning
+title: Halvtidsavstämning {#sec-relaxation}
 ---
 
 Du har nu kommit lite drygs halvvägs genom det här självhjälpsmaterialet. Grattis till
