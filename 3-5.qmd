@@ -3,6 +3,8 @@ lang: sv
 title: "Övning: Fortsätt träningen i progressiv avslappning"
 ---
 
+\label{sec-progressiverelaxationtwo}
+
 I förra avsnittet påbörjade du träning i progressiv avslappning. Nu när
 du redan är igång får du här möjlighet att fortsätta med nästa del.
 

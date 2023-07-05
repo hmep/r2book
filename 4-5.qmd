@@ -3,18 +3,20 @@ lang: sv
 title: "Övning: Korta ned progressiv avslappning"
 ---
 
+\label{sec-progressiverelaxationshort}
+
 Kommer du ihåg att *progressiv* betyder ”gradvis framåtskridande”?
 Tanken med träning i progressiv avslappning är att du ska få möjlighet
 att bli allt bättre på att märka när du är spänd och att sänka
 spänningsgraden i stunden.
 
-Du som redan har tränat [progressiv avslappning del 1](2-5.qmd) och [progressiv avslappning del 2](3-5.qmd), växla gärna
-över till den här korta versionen nu! Du som inte har kommit igång med
-del 1 och 2, gör gärna den här korta versionen ”varvat” med de mer
-grundläggande avslappningsövningarna (från de tidigare avsnitten) under
-veckan som kommer.
-
 ## Kort version av progressiv avslappning
+
+Du som redan har tränat [progressiv avslappning del 1](2-5.qmd)\xpageref{sec-progressiverelaxation} och [progressiv avslappning del 2](3-5.qmd)\xpageref{sec-progressiverelaxationtwo}, växla gärna
+över till den här korta versionen nu. Du som inte har kommit igång med
+del 1 och 2, gör gärna den här korta versionen ”varvat” med de mer
+grundläggande avslappningsövningarna (del 1 och del 2) under
+veckan som kommer.
 
 ::: {.content-visible when-format="html"}
 ### Instruktioner, enbart ljud
@@ -23,8 +25,9 @@ veckan som kommer.
 
 #### Ladda ned instruktioner (mp3)
 
-[Ladda ned en mp3-fil](https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?dl=1){target="_blank"} till din enhet.
+[Ladda ned en mp3-fil (3,27 MB)](https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?dl=1){target="_blank"} till din enhet.
 :::
+\xqr{Ladda ned en mp3-fil (3,27 MB) till din enhet}{https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?dl=1}
 
 ## Träna snabbavslappning i vardagen
 

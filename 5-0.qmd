@@ -13,7 +13,7 @@ hindrande för dig när du prövat att hävda dig själv konstruktivt.
 
 Om du vill maximera effekterna av arbetet du gör med det här självhjälpsmaterialet,
 påminn dig om vilka fördelarna är för dig att [byta undvikande av
-ångest mot aktivt deltagande](3-2.html) som du jobbade med vecka 3.
+ångest mot aktivt deltagande](3-2.html)\xpageref{sec-active} som du jobbade med vecka 3.
 
 Om du ännu inte gjort ditt första beteendeexperiment finns det gott om
 tid att komma ikapp den här veckan. Kom ihåg: Att utföra
@@ -24,9 +24,15 @@ arbetsbladet för beteendeexperiment, du kan fylla i det hur många gånger som 
 
 ::: {.content-visible when-format="html"}
 [Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf)
+:::
+\xqrform{Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-beteendeexperiment.pdf}
 
+Titta gärna genom exempel-arbetsbladet nedan för vägledning, när du planerar, utför och utvärderar ditt eget experiment.
+
+::: {.content-visible when-format="html"}
 [Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf) 
 :::
+\xqrform{Exempel: Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-exempel-beteendeexperiment.pdf}
 
 ## Vanliga frågor och svar
 
@@ -99,25 +105,19 @@ du också blir mer vaksam på hot, att du tänker fler negativa tankar om
 hur det ska gå, att du ältar mer av hur saker har gått och att du
 fortsätter undvika allt sådant i vardagen som väcker obehagliga känslor.
 
-Fortsätt ändå! Om du fortsätter med övningarna kommer du att märka att
-du *både* klarar av att 1) tolerera och att 2) reglera ångesten själv --
-utan att ta till undvikande. Det är en vinst i sig. Men framför allt gör
-det att det blir lättare för dig att hävda dig själv konstruktivt, så
-att du 3) får mer av det du värdesätter i livet.
-
-::: {.callout-tip}
-## Lästips
-
-[En artikel i Svenska Dagbladet 2020-03-02](https://www.svd.se/a/opmv3W/mindfulness-kan-ge-mer-angest-och-oro) (kräver inloggning) handlar om
-avslappningsframkallad ångest. I den säger Michelle Newman, professor i
-psykologi vid amerikanska Pennsylvania State University, att de som
+Michelle Newman, professor i psykologi vid amerikanska Pennsylvania State University, säger att de som
 behöver avslappning mest är de som är mest benägna att få ångest när de
 slappnar av. Om du hör till den gruppen -- fortsätt träna avslappning
 trots din ångest! Michelle Newman säger också: ”Vårt budskap är inte
 att det är dåligt för vissa människor att slappna av, tvärtom. För att
 må bra måste du kunna slappna av, och det betyder också att du kan
 behöva uppleva ångesttoppar ibland.”
-:::
+
+Så fortsätt ändå! Om du fortsätter med övningarna kommer du att märka att
+du antingen klarar av att tolerera eller att reglera ångesten --
+utan att ta till undvikande. Det är en vinst i sig. Men framför allt gör
+det att det blir lättare för dig att hävda dig själv konstruktivt, så
+att du får mer av det du värdesätter i livet.
 
 ### 4. ”Varför i hela världen ska jag inte dra mig undan om det är det jag känner för?”
 

@@ -10,7 +10,10 @@ spänningen i kroppen öka till en punkt då vi får huvudvärk, ryggskott
 eller magproblem -- faktiskt en hel rad olika fysiska problem. Det blir
 också allt svårare att slappna av.
 
+::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/32GSfdwprHU >}}
+:::
+\xqr{När kroppen är spänd försämras tankeförmågan}{https://youtu.be/32GSfdwprHU}
 
 För att kommunicera på ett sätt där vi hävdar oss själva konstruktivt
 behöver vi dämpa graden av aktivering i kroppen, liksom spänningsgraden

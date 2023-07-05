@@ -3,6 +3,8 @@ lang: sv
 title: Argument för att byta undvikande mot aktivt deltagande
 ---
 
+\label{sec-active}
+
 Många av de som börjar reflektera över sitt beteende brukar upptäcka att
 de ofta är oroliga och nervösa inför utmanande situationer. Ibland
 upptäcker de också att det de mest av allt är oroliga för är att känna

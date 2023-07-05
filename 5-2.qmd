@@ -34,6 +34,7 @@ här ovan eller andra personliga avslappningsfavoriter.
 ::: {.content-visible when-format="html"}
 [Mina sätt att sänka spänningsnivån (PDF)](forms/100respekt-avslappningstekniker.pdf)
 :::
+\xqrform{Mina sätt att sänka spänningsnivån (PDF)}{forms/100respekt-avslappningstekniker.pdf}
 
 I återstoden av avsnittet kommer vi introducera några tekniker som du
 kanske eller kanske inte har hört talas om förut.
