@@ -1,6 +1,6 @@
 ---
 title: "@Rathus1973 självskattningsskala för självhävdelse"
-subtitle: "Preliminär svensk anpassning (2019-12-20)"
+subtitle: "Preliminär svensk anpassning (2019)"
 engine: knitr
 format:
   pdf:
@@ -102,7 +102,7 @@ Ange hur väl varje påstående beskriver dig som person med följande skala:
 
 \vfill\fontsize{7.5bp}{.725\baselineskip}\selectfont\RaggedRight\ulseries
 
-@GUSTAFSON1992 fann ett medelvärde på 4,0--4,1 (standardavvikelse 6,0). @Thompson2011 fann ett medelvärde på 6,2 (standardavvikelse 23,9) i ett icke-kliniskt stickprov med studenter.
+@GUSTAFSON1992 fann ett medelvärde på 4,0 respektive 4,1 (standardavvikelse 6,0 för båda) i två svenska stickprov med en ej publicerad svensk översättning. @Thompson2011 fann ett medelvärde på 6,2 (standardavvikelse 23,9) i ett amerikanskt icke-kliniskt stickprov med studenter och det engelskspråkiga originalet.
 
 Svensk anpassning av @Rathus1973 &copy; 2019 Tobias Hagberg. Arbetsbladet kan kopieras, ändras och distribueras fritt om du anger källan @hagberg2023 och licensvillkoren [Erkännande-DelaLika 2.5 Sverige (CC BY-SA 2.5 SE)](<https://creativecommons.org/licenses/by-sa/2.5/se/>).
 
