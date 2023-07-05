@@ -93,9 +93,10 @@
 
 \newcommand\xpageref[1]{ (sidan \pageref{#1})}
 
+\usepackage{calc}
 \usepackage{qrcode}
-\newcommand\xqr[3]{\vspace{.5\baselineskip}\par\qrcode[height=2.5\baselineskip]{#1}\quad\parbox{.8\linewidth}{\small\href{#1}{#2\\\url{#1}}}\par}
+\newcommand\xqr[3]{\vspace{.5\baselineskip}\par\hspace{2\baselineskip}\qrcode[height=2.5\baselineskip]{#1}\hspace{1\baselineskip}\parbox{1\linewidth-4.5\baselineskip}{\small\href{#1}{#2\\\url{#1}}}\par}
 
-\definecolor{quarto-callout-tip-color}{HTML}{00F9DE}
+\definecolor{quarto-callout-tip-color}{HTML}{73aa72}
 
 %\newcommand\xqr[3]{\vspace{1.5\baselineskip}\hspace{3\baselineskip}\qrcode[height=3\baselineskip]{#1}\quad \parbox{.55\linewidth}{\small\href{#1}{#2\\\url{#1}}}\par}
