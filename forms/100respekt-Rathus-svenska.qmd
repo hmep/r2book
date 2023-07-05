@@ -24,9 +24,9 @@ Hur bra är du på självhävdelse? Står du upp för dina rättigheter eller l�
 
 Ange hur väl varje påstående beskriver dig som person med följande skala:
 
-**stämmer helt** | | | | | **stämmer inte alls**
+**stämmer inte alls** | | | | | **stämmer helt**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-3 | 2 | 1 | -1 | -2 | -3  
+-3 | -2 | -1 | 1 | 2 | 3  
 
 \vspace{.75\baselineskip}
 
@@ -38,7 +38,7 @@ Ange hur väl varje påstående beskriver dig som person med följande skala:
 
 - \xlist{1}{De flesta andra verkar vara mer aggressiva och självhävdande än vad jag är.}
 
-- \xlist{2}{Det har hänt att jag har undvikit att gå på en dejt på grund av ”blyghet”.}
+- \xlist{2}{Det har hänt att jag har undvikit att gå på en dejt på grund av blyghet.}
 
 - \xlist{3}{Om en maträtt på en restaurang inte är tilllagad på det sätt jag beställt så säger jag till personalen.}
 
