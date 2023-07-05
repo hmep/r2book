@@ -52,6 +52,8 @@ med KBT: En arbetsbok vid
 GAD](http://libris.kb.se/bib/22073365){target=”_blank”} av @dugas2018. Du kan använda den
 boken på egen hand, eller i terapi, med stöd av en KBT-psykolog eller
 -psykoterapeut.
+
+\xqr{http://libris.kb.se/bib/22073365}{Hantera oro och ovisshet med KBT: En arbetsbok vid GAD}
 :::
 
 ::: {.callout-tip}
@@ -63,6 +65,8 @@ beteendeterapi](http://libris.kb.se/bib/12089987){target=”_blank”}
 av @carlbring2013ingen Du kan använda den
 boken på egen hand, eller i terapi, med stöd av en KBT-psykolog eller
 -psykoterapeut.
+
+\xqr{http://libris.kb.se/bib/2bzfp50b01zhhwbq}{Social fobi – social ångest: effektiv hjälp med KBT}
 :::
 
 ## Tolkningen av situationen
