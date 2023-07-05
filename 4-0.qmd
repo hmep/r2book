@@ -5,7 +5,7 @@ title: Introduktion till tekniker för konstruktiv självhävdelse
 
 \label{sec-behaviour}
 
-I det här kapitlet introducerar vi effektiva tekniker för konstruktiv
+I det här avsnittet introducerar vi effektiva tekniker för konstruktiv
 självhävdelse och ger dig möjlighet att mängdträna på dessa i
 beteendeexperiment. Dessa tekniker kan användas i en stor mängd
 situationer.

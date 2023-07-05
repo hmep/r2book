@@ -53,7 +53,11 @@ hävda sig) är medfödd och oföränderlig. Ett *growth mindset*, däremot, är
 för utveckling hjälpande antagandet att förmåga är resultat av varierad och
 repeterad inlärning, även i situationer när det är motigt.
 
+::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/Yl9TVbAal5s >}}
+:::
+
+\xqr{Carol Dweck -- How To Help Every Child Fulfil Their Potential (Youtube)}{https://youtu.be/Yl9TVbAal5s}
 
 Det är när du känner lagom mycket obehag som du lär dig allra bäst och snabbast.
 Tänk tillbaka: Hur var det för dig när du lärde dig division och multiplikation?
@@ -99,3 +103,5 @@ dig närmare det som är viktigt för dig -- att stanna hemma eller att erkänna
 ::: {.content-visible when-format="html"}
 [Kartläggning av obehag och motivation (PDF)](forms/100respekt-obehag-motivation-reflektion.pdf)
 :::
+
+\xqrform{Kartläggning av obehag och motivation (PDF)}{forms/100respekt-obehag-motivation-reflektion.pdf}
