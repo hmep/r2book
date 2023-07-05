@@ -80,7 +80,7 @@ Som du ser i arbetsbladet nedan finns det flera kolumner att fylla i. Precis jus
 
 \xqrform{Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-SMARTa-mal.pdf}
 
-Här är ett exempel-arbetsblad som du kan granska, för att få vägledning och kanske något uppslag. Du behöver inte komma på en lång lista med mål just nu -- det räcker med ett enda för att du ska komma igång med ett viktigt arbete. Så sänk kraven och ge dig en chans att komma igång. Ett litet steg framåt är 100% ett steg framåt.
+Här är ett exempel-arbetsblad som du kan granska, för att få vägledning och kanske något uppslag. Du behöver inte komma på en lång lista med mål just nu -- det räcker med ett enda för att du ska komma igång med ett viktigt arbete. Så sänk kraven. Ett litet steg framåt är 100% ett steg framåt.
 
 ::: {.content-visible when-format="html"}
 [Exempel 1: Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-1-SMARTa-mal.pdf)
