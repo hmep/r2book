@@ -22,7 +22,7 @@ står dig närmast inte egentligen känner dig.
 Om du har social ångest, kan ett nästa steg efter att du jobbat med det här självhjälpsmaterialet vara att skaffa självhjälpsboken [Social fobi – social ångest: effektiv hjälp med KBT](http://libris.kb.se/bib/2bzfp50b01zhhwbq){target=”_blank”} av
 @Furmark2019sf. Du kan använda den boken på egen hand, eller i terapi, med stöd av en KBT-psykolog eller -psykoterapeut.
 
-\xqr{http://libris.kb.se/bib/2bzfp50b01zhhwbq}{Social fobi – social ångest: effektiv hjälp med KBT}
+\xqr{Social fobi – social ångest: effektiv hjälp med KBT}{http://libris.kb.se/bib/2bzfp50b01zhhwbq}
 :::
 
 Brist på självhävdelse är mycket vanligt bland dem med social ångest. Personer
