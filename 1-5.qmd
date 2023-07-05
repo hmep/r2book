@@ -3,6 +3,8 @@ lang: sv
 title: "Övning: Formulera dina första mål för din träning i självhävdelse"
 ---
 
+\label{sec-smartgoals}
+
 Under de kommande veckorna kommer du att få träna på att hävda dig själv
 konstruktivt i situationer som brukar bli besvärliga. Vilket område vill
 du börja träna inom? Du kommer strax att få formulera en egen
