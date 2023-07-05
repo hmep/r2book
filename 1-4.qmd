@@ -28,7 +28,7 @@ själv ett erkännande att du just nu gör ett viktigt arbete.
 
 ## Skatta även din allmänna grad av självhävdelse
 
-Följande skattningsskala är en svensk anpassning av @Rathus1973 självskattningsskala för självhävdelse i allmänhet. @GUSTAFSON1992 fann ett medelvärde på för totalpoängen på 4,0--4,1 (standardavvikelse 6,0). @Thompson2011 fann ett medelvärde på 6,2 (standardavvikelse 23,9) i ett icke-kliniskt stickprov med studenter. Vilken totalpoäng får du?
+Följande skattningsskala är en svensk anpassning av @Rathus1973 självskattningsskala för självhävdelse i allmänhet. Följande skattningsskala är en svensk anpassning av @Rathus1973 självskattningsskala för självhävdelse i allmänhet. I en studie fann @GUSTAFSON1992 ett medelvärde på 4,0 respektive 4,1 (standardavvikelse 6,0 för båda) i två svenska stickprov med en ej publicerad svensk översättning av skalan. @Thompson2011 fann ett medelvärde på 6,2 (standardavvikelse 23,9) i ett amerikanskt icke-kliniskt stickprov med studenter och det engelskspråkiga originalet. Vilken totalpoäng får du?
 
 ::: {.content-visible when-format="html"}
 [Rathus (1973) självskattningsskala för
