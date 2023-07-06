@@ -61,7 +61,7 @@ situationer/relationer. Lägg nu lite tid på att fylla i arbetsbladet på nytt,
 
 ### Skatta även din allmänna grad av självhävdelse igen
 
-Fyll också i följande skattningsskala igen. Den mäter din grad av självhävdelse i allmänhet. Vilken totalpoäng får du när du fyller i skalan nu? Hur skiljer sig den från den du räknade ihop i vecka 1?
+Fyll också i följande skattningsskala igen. Den mäter din grad av självhävdelse i allmänhet. Vilken totalpoäng får du när du fyller i skalan nu, utan att först titta på dina svar från vecka 1?
 
 ::: {.content-visible when-format="html"}
 [Rathus (1973) självskattningsskala för
