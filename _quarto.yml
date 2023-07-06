@@ -150,7 +150,7 @@ format:
       \input{_header_includes.tex}
       \pagestyle{plain}
       \thispagestyle{plain}
-      \newgeometry{
+      \geometry{
         paperwidth=140mm,
         paperheight=216mm,
         top=18mm,
