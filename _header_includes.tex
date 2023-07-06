@@ -82,10 +82,11 @@
 
 \usepackage{enumitem}
 
-\newcommand{\xvskip}{\vspace{2.25\baselineskip}}
 \newcommand{\xinit}{\fontsize{9.5bp}{12bp}\selectfont\thispagestyle{respekt}}
+
 \newcommand{\fline}[1]{\parbox[b][2\baselineskip][b]{\textwidth}{\large\hwfamily\color{MidnightBlue}\if 1\thexex#1\else\fi}\par\vspace{-1\baselineskip}\begin{tikzpicture}\draw (0,0) -- (\textwidth,0);\end{tikzpicture}\par\vspace{-0.4pt}\vspace{-.25\baselineskip}}
 \newcommand\xfline[3]{\vbox to 0mm{\bfseries #1}\foreach \n in {1,...,#2}{\fline{#3}}}
+
 \newcommand\xhl[1]{#1 --}
 
 \usepackage{marginnote}
@@ -98,6 +99,15 @@
 \newcommand\xqr[3]{\vspace{.5\baselineskip}\hspace{0\baselineskip}\qrcode[height=2.75\baselineskip]{#2}\hspace{.75\baselineskip}\parbox{1\linewidth-3.5\baselineskip}{\small\href{#2}{#1\\\url{#2}}}\par\vspace{.5\baselineskip}}
 \newcommand\xqrform[3]{\vspace{.5\baselineskip}\hspace{0\baselineskip}\qrcode[height=2.75\baselineskip]{https://100respekt.se/#2}\hspace{.75\baselineskip}\parbox{1\linewidth-3.5\baselineskip}{\small\href{https://100respekt.se/#2}{#1\\\url{https://100respekt.se/#2}}}\par\vspace{.5\baselineskip}}
 
-\definecolor{quarto-callout-tip-color}{HTML}{73aa72}
-
-%\newcommand\xqr[3]{\vspace{1.5\baselineskip}\hspace{3\baselineskip}\qrcode[height=3\baselineskip]{#1}\quad \parbox{.55\linewidth}{\small\href{#1}{#2\\\url{#1}}}\par}
+% \definecolor{quarto-callout-color}{HTML}{909090}
+% \definecolor{quarto-callout-note-color}{HTML}{0758E5}
+% \definecolor{quarto-callout-important-color}{HTML}{CC1914}
+% \definecolor{quarto-callout-warning-color}{HTML}{EB9113}
+% \definecolor{quarto-callout-tip-color}{HTML}{00A047}
+% \definecolor{quarto-callout-caution-color}{HTML}{FC5300}
+% \definecolor{quarto-callout-color-frame}{HTML}{acacac}
+% \definecolor{quarto-callout-note-color-frame}{HTML}{4582ec}
+% \definecolor{quarto-callout-important-color-frame}{HTML}{d9534f}
+% \definecolor{quarto-callout-warning-color-frame}{HTML}{f0ad4e}
+% \definecolor{quarto-callout-tip-color-frame}{HTML}{02b875}
+% \definecolor{quarto-callout-caution-color-frame}{HTML}{fd7e14}
