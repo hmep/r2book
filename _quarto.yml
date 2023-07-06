@@ -150,5 +150,16 @@ format:
       \input{_header_includes.tex}
       \pagestyle{plain}
       \thispagestyle{plain}
-      \PassOptionsToPackage{paper=a5paper,layout=a5paper,top=25mm,bottom=22mm,left=25mm,right=25mm,marginparsep=5mm,marginparwidth=20mm,head=7.5mm,foot=8mm}{geometry}
+      \newgeometry{
+        paper=a5paper,
+        layout=a5paper,
+        top=25mm,
+        bottom=22mm,
+        left=25mm,
+        right=25mm,
+        marginparsep=5mm,
+        marginparwidth=20mm,
+        head=7.5mm,
+        foot=8mm
+      }
       \xinit
