@@ -35,7 +35,7 @@ förutsägelser om nyttan med att säga ’nej’.
 
 ## Fortsätt arbeta med beteendeexperiment
 
-Fortsätt att genomföra [beteendeexperiment](3-4.qmd)\xpageref{sec-experiment} för att i praktiken hitta egna bra anledningar att säga ’nej’.
+Fortsätt att genomföra [beteendeexperiment](3-3.qmd)\xpageref{sec-experimentinstructions} för att i praktiken hitta egna bra anledningar att säga ’nej’.
 Kanske märker du att du har svårt att tro på att dina nya beteenden
 kommer att fungera över tid. Det är helt normalt. Du har förmodligen
 tänkt dina gamla tankar och utfört dina säkerhetsbeteenden väldigt
