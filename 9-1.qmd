@@ -24,9 +24,13 @@ reagerade. Var din reaktion passiv, självhävdande eller aggressiv? Skriv ned d
 
 ::: {.content-visible when-format="html"}
 [Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
+:::
+\xqrform{Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-SMARTa-mal.pdf}
 
+::: {.content-visible when-format="html"}
 [Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf)
 :::
+\xqrform{Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-exempel-2-SMARTa-mal.pdf}
 
 ## Passiva svar på komplimanger
 
@@ -61,4 +65,4 @@ att agera som om du trodde på komplimangen, även om det till en början
 känns krystat. När du till slut har lärt dig att omfamna positiv
 återkoppling och ta emot komplimanger på ett vänligt sätt öppnar det
 dörren för ännu fler varma tankar och positiva interaktioner. Så
-småningom kan du faktiskt börja *tro på komplimangerna*!
+småningom kan du faktiskt börja tro på komplimangerna!

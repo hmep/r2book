@@ -80,6 +80,10 @@ och skriv ned det i arbetsbladet. Föreställ dig i din fantasi att du faktiskt 
 
 ::: {.content-visible when-format="html"}
 [Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf)
+:::
+\xqrform{Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-beteendeexperiment.pdf}
 
+::: {.content-visible when-format="html"}
 [Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf) 
 :::
+\xqrform{Exempel: Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-exempel-beteendeexperiment.pdf}

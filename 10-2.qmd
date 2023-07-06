@@ -11,6 +11,7 @@ bland folk. Använd det här arbetsbladet, som du fått möjlighet att bekanta d
 ::: {.content-visible when-format="html"}
 [Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
 :::
+\xqrform{Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-SMARTa-mal.pdf}
 
 Om du fortfarande kämpar med att identifiera situationer att arbeta vidare med,
 tänk på följande situationer. Det kan hjälpa dig. Hur brukar du göra när
@@ -41,15 +42,12 @@ Titta på exempel-arbetsbladet nedan.
 ::: {.content-visible when-format="html"}
 [Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf)
 :::
+\xqrform{Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-exempel-2-SMARTa-mal.pdf}
 
 Längst till höger finns en kolumn som heter "Rank". Uppdraget är nu att på ett liknande sätt rangordna dina egna situationer som du vill öva konstruktiv självhävdelse i.
 
 ## Din egen självhävdelsehierarki
 
 Ta fram ditt arbetsblad med dina SMARTa mål, och se om du kan rangordna de områden du tagit upp på det utifrån den svårighetsgradsskattning som du har gjort. Använd dig av "Obehag"-skattningarna och rangordna situationerna i omvänd ordning -- låt den högsta "Obehag"-skattningen motsvara den längsta rangordningssiffran i kolumen "Rank" och låt den lägsta "Obehag"-skattningen motsvara den högsta siffran under "Rank".
-
-::: {.content-visible when-format="html"}
-[Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
-:::
 
 Är du klar? Toppen! Nu har du lagt en grund för ditt fortsatta, självständiga arbete med beteendeexperiment.

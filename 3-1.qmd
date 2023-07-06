@@ -3,6 +3,8 @@ lang: sv
 title: Allas rätt att hävda sig själva
 ---
 
+\label{sec-rights}
+
 Många av idéerna som idag förknippas med träning i konstruktiv
 självhävdelse kommer från *When I say no, I feel guilty: how to
 cope--using the skills of systematic assertive therapy* av Smith (1975).

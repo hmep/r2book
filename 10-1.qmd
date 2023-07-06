@@ -23,33 +23,33 @@ situationerna du tagit med i listan.
 Lägg gärna lite tid på att identifiera hjälpsamma förutsägelser om
 situationen som du kan göra med hjälp av dina tidigare erfarenheter i
 livet. Om du kör fast, stanna inte för länge vid den här punkten. Det
-räcker att du påminner dig om [allas (även dina) rättigheter att hävda
-sig själva](3-1.qmd). Hoppa sedan direkt till nästa steg.
+räcker att du påminner dig om [allas (även dina) rättigheter](3-1.qmd)\xpageref{sec-rights} att hävda
+sig själva. Hoppa sedan direkt till nästa steg.
 
 ## 4. Identifiera hindrande beteenden
 
 Identifiera hindrande beteende som du brukar använda -- saker som du
 gör för att undvika eller fly från det jobbiga i situationerna. Kom ihåg
 att leta efter både verbala och icke-verbala beteenden. Detta inkluderar
-så kallades säkerhetsbeteenden, som är beteenden som du mer eller mindre
+så kallade säkerhetsbeteenden, som är beteenden som du mer eller mindre
 automatiskt utför i situationerna för att minska ångesten (vad just dina
-säkerhetsbeteenden är beror på vad du tidigare i livet har lärt dig att
+säkerhetsbeteenden är i situationen beror på vad du tidigare i livet har lärt dig att
 göra, exempelvis att tala med låg röst, att titta bort, att förminska
 dig själv verbalt eller att höja rösten och bli aggressiv).
 
 ## 5. Identifiera konstruktiva målbeteendet
 
 Formulera mer konstruktiva beteenden för självhävdelse. Om det passar i situationen,
-använd en av [teknikerna du har lärt dig](4-0.qmd.
+använd en av [teknikerna du har lärt dig](4-0.qmd)\xpageref{sec-behaviour}.
 
-## 6. ”Torrsimma” om du behöver
+## 6. Förbered dig och ”torrsimma” gärna
 
 Öva på vad du ska säga och göra. Det kan ibland hjälpa att tänka
 genom och ibland också skriva ned var du ska säga. Du kan också öva
-framför en spegel. Ett bra sätt att ”torrsimma” är också att ta hjälp
+framför en spegel. Ett bra sätt att torrsimma är också att ta hjälp
 av en vän och göra rollspel tillsammans. Det kan förstås kännas jobbigt
 i sig -- vilket absolut inte är en nackdel. Då får du i en lite tryggare
-kontext smygstarta att exponera dig för det obehag som du kommer stöta
+kontext smygstarta att exponera dig (och vänja dig) för det obehag som du kommer stöta
 på.
 
 ## 7. Utför beteendeexperimentet
@@ -57,7 +57,7 @@ på.
 Sök upp situationen och handla på det sätt som du har planerat i ett
 beteendeexperiment. Det innebär att du [bryter ångest-cirkeln och
 väljer den aktiva
-cirkeln](3-2.qmd) med
+cirkeln](3-2.qmd)\xpageref{sec-active} med
 deltagande i livet. Påminn dig om att all forskning och all beprövad
 erfarenhet säger att det är genom att närma sig obehaget istället för
 att distansera sig från det som ångesten på sikt kan bli mindre.
@@ -66,8 +66,6 @@ att distansera sig från det som ångesten på sikt kan bli mindre.
 
 När du är klar med experimentet, ge dig själv ett erkännande för att
 du gjorde eller försökte göra det som var viktig för dig (även de gånger
-det det *kändes* jobbigt). Lägg också tid på att formulera vad du vill
-ändra på till nästa gång.
-
-Fortsätt öva tills du känner dig säkrare på att hävda dig själv
-konstruktivt i situationen.
+det det kändes jobbigt). Lägg också tid på att formulera vad du vill
+ändra på till nästa gång. Fortsätt öva tills du känner dig säkrare på att hävda dig själv
+konstruktivt i situationen. Kom ihåg att det här arbetet är långsiktigt -- det går inte över en natt. Mängdträning är nyckeln till ny framkomlighet, och under tiden är det hjälpsamt om du tillåter dig både självmedkänsla och en och annan belöning för ditt viktiga arbete.

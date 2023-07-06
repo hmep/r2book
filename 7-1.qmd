@@ -38,11 +38,12 @@ på kritik, som inte är exempel på självhävdelse:
 ## När blev du senaste kritiserad?
 
 Tänk tillbaka på när du senast själv blev kritiserad. Skriv ned vad det
-var för situation och hur du reagerade.
+var för situation (kolumnen ”Specifik situation”) och hur du reagerade (”Vad brukar hända?”).
 
 ::: {.content-visible when-format="html"}
 [Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
 :::
+\xqrform{Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-SMARTa-mal.pdf}
 
 ## Passiv respons på kritik
 

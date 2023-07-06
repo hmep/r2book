@@ -4,8 +4,8 @@ title: Lägg märke till negativa förutsägelser
 ---
 
 Som vi lade märke till i vecka 3 finns det ofta [hindrande
-förutsägelser om hur det ska
-gå](3-0.qmd)
+förutsägelser](3-0.qmd)\xpageref{sec-thinking} om hur det ska
+gå
 bakom vår oförmåga att hävda oss själva. De kan handla om vilken effekt
 vårt konstruktiva målbeteende ska få på oss själva eller andra, eller om
 hur det kommer att kännas när vi utför vårt målbeteende. Lägg gärna lite
@@ -58,7 +58,10 @@ vidare i livet. Hon säger bland annat så här: ”Sårbarhet är kärnan i
 skam och rädsla och vår kamp för tillhörighet, men det är också källan
 till glädje, kreativitet, samhörighet med andra och kärlek”.
 
+::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/iCvmsMzlF7o >}}
+:::
+\xqr{Brené Brown -- The power of vulnerability}{https://youtu.be/iCvmsMzlF7o}
 
 ## Du är inte i slutet av en resa, du är i början av en resa
 

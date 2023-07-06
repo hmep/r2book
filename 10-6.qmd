@@ -8,19 +8,20 @@ Nu är du på upploppet! Fyll till sist i det här arbetsbladet, innan du går i
 ::: {.content-visible when-format="html"}
 [Så här vill jag fortsätta hävda mig själv konstruktivt (PDF)](forms/100respekt-vidmakthallande-reflektion.pdf)
 :::
+\xqrform{Så här vill jag fortsätta hävda mig själv konstruktivt (PDF)}{forms/100respekt-vidmakthallande-reflektion.pdf}
 
 Spara arbetsbladet du har fyllt i. Sätt gärna upp det på kylskåpsdörren eller
 någon annanstans som du ofta ser, så att du kan påminna dig om dina 
 nyvunna färdigheter och hur du kan låta dem fortsätta utvecklas vidare i ditt liv.
 
-Och använd dig med fördel av följande arbetsblad även i fortsättningen.
+Och ta hjälp av följande arbetsblad så snart du med medvetenhet vill utforska nya konstruktiva sätt att hävda dig i viktiga relationer och situationer.
 
 ::: {.content-visible when-format="html"}
 [Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
 :::
+\xqrform{Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-SMARTa-mal.pdf}
 
 ::: {.content-visible when-format="html"}
 [Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf)
-
-[Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf) 
 :::
+\xqrform{Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-beteendeexperiment.pdf}

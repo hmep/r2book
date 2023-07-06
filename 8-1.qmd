@@ -35,6 +35,7 @@ besvikelser med att hävda dig själv konstruktivt?
 ::: {.content-visible when-format="html"}
 [Hindrande antaganden om att hantera besvikelser (PDF)](forms/100respekt-hindrande-antaganden-hantera-besvikelser.pdf)
 :::
+\xqrform{Hindrande antaganden om att hantera besvikelser (PDF)}{forms/100respekt-hindrande-antaganden-hantera-besvikelser.pdf}
 
 ## Konstruktiva förutsägelser
 
@@ -65,10 +66,11 @@ försök att också hitta egna balanserande tankar till dem.
 ::: {.content-visible when-format="html"}
 [Hjälpande antaganden om att hantera besvikelser (PDF)](forms/100respekt-hjalpande-antaganden-hantera-besvikelser.pdf)
 :::
+\xqrform{Hjälpande antaganden om att hantera besvikelser (PDF)}{forms/100respekt-hjalpande-antaganden-hantera-besvikelser.pdf}
 
 ## Fortsätt arbeta med beteendeexperiment
 
-Fortsätt att genomföra [beteendeexperiment](3-4.qmd) för att i praktiken hitta egna bra anledningar hävda dig själv
+Fortsätt att genomföra [beteendeexperiment](3-4.qmd)\xpageref{sec-experiment} för att i praktiken hitta egna bra anledningar hävda dig själv
 konstruktivt när du har blivit besviken. Kanske märker du att du har
 svårt att tro på att dina nya beteenden kommer att fungera över tid. Det
 är helt normalt. Du har förmodligen tänkt dina gamla tankar och utfört
@@ -79,6 +81,10 @@ blir lika automatiserat och självklart som det gamla har varit. Fortsätt
 
 ::: {.content-visible when-format="html"}
 [Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf)
+:::
+\xqrform{Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-beteendeexperiment.pdf}
 
+::: {.content-visible when-format="html"}
 [Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf) 
 :::
+\xqrform{Exempel: Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-exempel-beteendeexperiment.pdf}

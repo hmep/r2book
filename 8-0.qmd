@@ -14,7 +14,7 @@ konstruktivt handlar inte om att inte tillåta sig att känna sig besviken
 handlar om att med självmedkänsla ge plats för obehaget och
 ångesten samtidigt som du medvetet handlar på ett sätt som för dig
 närmare det du värdesätter. Kommer du ihåg den [aktiva
-cirkeln](3-2.qmd)?
+cirkeln](3-2.qmd)\xpageref{sec-active}?
 
 Här är några vanliga sätt som människor kan hantera besvikelser på:
 
@@ -34,9 +34,13 @@ med aggressiv självhävdelse? Skriv ned det du kommer ihåg i arbetsbladet för
 
 ::: {.content-visible when-format="html"}
 [Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
+:::
+\xqrform{Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-SMARTa-mal.pdf}
 
+::: {.content-visible when-format="html"}
 [Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf)
 :::
+\xqrform{Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-exempel-2-SMARTa-mal.pdf}
 
 ## Passiva svar på besvikelser
 

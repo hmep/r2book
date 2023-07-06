@@ -24,14 +24,13 @@ konstruktiv självhävdelse. Det är inte slutet på din resa, det här
     du har klarat av att prioritera det som har varit verkligt
     viktigt för dig. Det är också konstruktiv självhävdelse i
     praktiken! Känner du dig uppjagad och spänd? Ta också tillfället i
-    akt att [göra några av
-    avslappningsövningarna](5-0.qmd).
+    akt att träna [avslappningsövningar](5-0.qmd)\xpageref{sec-relaxation}.
 -   Kanske har du ändå dåligt samvete, för att du vet med dig att du
     mer än du skulle ha önskat har undvikit det obehag som
     ofrånkomligen kommer av att ta tag i saker som är svåra. Ge dig
     i sådana fall ordentligt med självmedkänsla. Det obehag du har
-    känt är en påminnelse om att [det här sannolikt är viktigt för
-    dig](3-2.qmd).
+    känt är en påminnelse om att arbetet du gör sannolikt är [viktigt för
+    dig](3-2.qmd)\xpageref{sec-active}.
     I det här avsnittet kommer vi att planera för hur du kan fortsätta
     jobba på egen hand, och självhjälpsmaterialet och övningarna finns kvar här
     för dig även fortsättningsvis. Börja med att ta hjälp av
@@ -39,7 +38,7 @@ konstruktiv självhävdelse. Det är inte slutet på din resa, det här
     värderad riktning är helt och hållet ett steg i värderad riktning. 
 -   Kanske är du besviken på oss över att det här självhjälpsmaterialet inte
     har motsvarat dina förväntningar? I sådana fall -- [berätta för
-    oss vad du har saknat](https://github.com/hmep/r2book/issues/new). Att du ger oss konstruktivt
+    oss](0-3.qmd) vad du har saknat. Att du ger oss konstruktivt
     formulerad återkoppling gör det både möjligt för dig att träna
     på konstruktiv självhävdelse precis här och nu, och ger oss en
     chans att faktiskt förbättra materialet.
@@ -58,6 +57,7 @@ situationer/relationer. Lägg nu lite tid på att fylla i arbetsbladet på nytt,
 ::: {.content-visible when-format="html"}
 [Självskattning självhävdelse (PDF)](forms/100respekt-skattning-situation-relation.pdf)
 :::
+\xqrform{Självskattning självhävdelse (PDF)}{forms/100respekt-skattning-situation-relation.pdf}
 
 ### Skatta även din allmänna grad av självhävdelse igen
 
@@ -67,5 +67,7 @@ Fyll också i följande skattningsskala igen. Den mäter din grad av självhävd
 [Rathus (1973) självskattningsskala för
 självhävdelse (PDF)](forms/100respekt-Rathus-svenska.pdf)
 :::
+\xqrform{Rathus (1973) självskattningsskala för
+självhävdelse (PDF)}{forms/100respekt-Rathus-svenska.pdf}
 
 Om du nu, när du har fyllt i arbetsbladen ovan på nytt, jämför med dina svar från vecka 1, vilka slutsatser drar du? Inom vilka relationer och situationer har du ökat din förmåga att hävda dig själv bättre, på ett konstruktivt sätt? Inom vilka områden vill du fortsätta arbeta vidare? Sök svaren på de frågorna nyfiket och icke-värderande -- försök att ha en utforskande inställning. Hur det än har gått för dig så innehåller svaren uppslag till situationer som du kan fortsätta jobba med.
