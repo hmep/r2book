@@ -74,8 +74,8 @@
     display: none;
   }
   
-  .bi-filetype-pdf {
-    margin-left: 1rem;
+  .bi-filetype-pdf::before {
+    padding-left: 1rem;
   }
 /*-- 
 
