@@ -136,6 +136,8 @@ format:
     linestretch: 1.4
     number-sections: false
     collapse-level: 0
+    link-external-icon: true
+    link-external-newwindow: true
   pdf:
     number-sections: false
     keep-tex: true
