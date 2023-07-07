@@ -7,8 +7,8 @@ Följande material utgår från @michel2008 och är utökat med instruktioner fr
 
 ## Arbetsblad
 
-- [Planera för framgång (PDF)](forms/100respekt-planera-traning.pdf)
-- [Manus för progressiv avslappning (PDF)](forms/100respekt-manus-progressiv-avslappning.pdf)
+- [Planera för framgång (PDF)](forms/100respekt-planera-traning.pdf){.bi-filetype-pdf}
+- [Manus för progressiv avslappning (PDF)](forms/100respekt-manus-progressiv-avslappning.pdf){.bi-filetype-pdf}
 
 ::: {.content-visible when-format="html"}
 ## Instruktioner, video
@@ -33,7 +33,7 @@ Följande material utgår från @michel2008 och är utökat med instruktioner fr
 
 ### Ladda ned instruktioner (mp3)
 
-- [Progressiv avslappning, del 1 (mp3)](https://www.dropbox.com/s/66gviwf37y12ot9/KSH-06-progressiv-muskelavslappning-del-1.mp3?dl=1){target="_blank"}
-- [Progressiv avslappning, del 2 (mp3)](https://www.dropbox.com/s/7znxp4ac5m655zu/KSH-06-progressiv-muskelavslappning-del-2.mp3?dl=1){target="_blank"}
-- [Progressiv avslappning, kort version (mp3)](https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?dl=1){target="_blank"}
+- [Progressiv avslappning, del 1 (mp3)](https://www.dropbox.com/s/66gviwf37y12ot9/KSH-06-progressiv-muskelavslappning-del-1.mp3?dl=1){target="_blank" .bi-filetype-mp3}
+- [Progressiv avslappning, del 2 (mp3)](https://www.dropbox.com/s/7znxp4ac5m655zu/KSH-06-progressiv-muskelavslappning-del-2.mp3?dl=1){target="_blank" .bi-filetype-mp3}
+- [Progressiv avslappning, kort version (mp3)](https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?dl=1){target="_blank" .bi-filetype-mp3}
 :::
