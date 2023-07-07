@@ -98,7 +98,7 @@ underlag för att göra en av övningarna.
 
 #### Ladda ned instruktioner (mp3)
 
-[Ladda ned en mp3-fil (7,27 MB)](https://www.dropbox.com/s/66gviwf37y12ot9/KSH-06-progressiv-muskelavslappning-del-1.mp3?dl=1){target="_blank"} till din enhet.
+[Ladda ned en mp3-fil (7,27 MB)](https://www.dropbox.com/s/66gviwf37y12ot9/KSH-06-progressiv-muskelavslappning-del-1.mp3?dl=1){target="_blank" .bi-filetype-mp3} till din enhet.
 :::
 
 \xqr{Progressiv avslappning 1 (Youtube)}{https://youtu.be/8ygZeRNVdIU}
@@ -114,7 +114,7 @@ spänd i) i vardagen. Det går att träna på progressiv avslappning var som
 helst: i duschen, på mötet, i bilen \... 
 
 ::: {.content-visible when-format="html"}
-[Planera för framgång (PDF)](forms/100respekt-planera-traning.pdf)
+[Planera för framgång (PDF)](forms/100respekt-planera-traning.pdf){.bi-filetype-pdf}
 :::
 
 \xqrform{Planera för framgång (PDF)}{forms/100respekt-planera-traning.pdf}

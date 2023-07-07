@@ -103,7 +103,7 @@ dig närmare det som är viktigt för dig -- att stanna hemma eller att erkänna
 ångesten behöver få följa med till tillställningen? Skulle du kunna säga ’ja’ till att ångesten får hänga med när du går på tillställningen (tillsammans med all den självmedkänsla du kan uppbåda)?
 
 ::: {.content-visible when-format="html"}
-[Kartläggning av obehag och motivation (PDF)](forms/100respekt-obehag-motivation-reflektion.pdf)
+[Kartläggning av obehag och motivation (PDF)](forms/100respekt-obehag-motivation-reflektion.pdf){.bi-filetype-pdf}
 :::
 
 \xqrform{Kartläggning av obehag och motivation (PDF)}{forms/100respekt-obehag-motivation-reflektion.pdf}
