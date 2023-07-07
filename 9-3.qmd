@@ -79,11 +79,11 @@ personen? Tänk ut vad du skulle kunna ha sagt till honom eller henne,
 och skriv ned det i arbetsbladet. Föreställ dig i din fantasi att du faktiskt hade genomfört experimentet, och se om du då också kan föreställa dig hur utfallet skulle ha blivit. Det är tillåtet -- till och med mycket hjälpsamt -- att öva i fantasin på sådant som är svårt. Det är ett sätt att planera i förväg, som hjälper dig att sedan utföra experimentet i verkligeten, när tillfället uppenbarar sig.
 
 ::: {.content-visible when-format="html"}
-[Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf)
+[Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-beteendeexperiment.pdf}
 
 ::: {.content-visible when-format="html"}
-[Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf) 
+[Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Exempel: Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-exempel-beteendeexperiment.pdf}

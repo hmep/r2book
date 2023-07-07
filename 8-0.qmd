@@ -33,12 +33,12 @@ ihåg hur du reagerade -- med passivitet, konstruktiv självhävdelse eller
 med aggressiv självhävdelse? Skriv ned det du kommer ihåg i arbetsbladet för dina SMARTa mål. Du kan under den här veckan välja att planera ett beteendeexperiment för en liknande situation i framtiden, som du därefter kan utvärdera nyfiket.
 
 ::: {.content-visible when-format="html"}
-[Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
+[Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-SMARTa-mal.pdf}
 
 ::: {.content-visible when-format="html"}
-[Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf)
+[Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-exempel-2-SMARTa-mal.pdf}
 

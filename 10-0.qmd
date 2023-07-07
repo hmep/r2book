@@ -55,7 +55,7 @@ Under vecka 1 fyllde du i ett arbetsblad med besvärliga
 situationer/relationer. Lägg nu lite tid på att fylla i arbetsbladet på nytt, utan att först titta på dina svar som du gav i vecka 1.
 
 ::: {.content-visible when-format="html"}
-[Självskattning självhävdelse (PDF)](forms/100respekt-skattning-situation-relation.pdf)
+[Självskattning självhävdelse (PDF)](forms/100respekt-skattning-situation-relation.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Självskattning självhävdelse (PDF)}{forms/100respekt-skattning-situation-relation.pdf}
 
@@ -65,7 +65,7 @@ Fyll också i följande skattningsskala igen. Den mäter din grad av självhävd
 
 ::: {.content-visible when-format="html"}
 [Rathus (1973) självskattningsskala för
-självhävdelse (PDF)](forms/100respekt-Rathus-svenska.pdf)
+självhävdelse (PDF)](forms/100respekt-Rathus-svenska.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Rathus (1973) självskattningsskala för
 självhävdelse (PDF)}{forms/100respekt-Rathus-svenska.pdf}

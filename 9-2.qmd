@@ -32,7 +32,7 @@ gör det svårt för dig att hävda dig själv och ta plats när du tar emot
 komplimanger? Skriv upp dem här:
 
 ::: {.content-visible when-format="html"}
-[Hindrande antaganden om att ta/ge komplimanger (PDF)](forms/100respekt-hindrande-antaganden-hantera-komplimanger.pdf)
+[Hindrande antaganden om att ta/ge komplimanger (PDF)](forms/100respekt-hindrande-antaganden-hantera-komplimanger.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Hindrande antaganden om att ta/ge komplimanger (PDF)}{forms/100respekt-hindrande-antaganden-hantera-komplimanger.pdf}
 
@@ -73,7 +73,7 @@ några av de ovanstående, som du tror på) för att balansera de negativa,
 hindrande förutsägelserna.
 
 ::: {.content-visible when-format="html"}
-[Hjälpande antaganden om att ta/ge komplimanger (PDF)](forms/100respekt-hjalpande-antaganden-hantera-komplimanger.pdf)
+[Hjälpande antaganden om att ta/ge komplimanger (PDF)](forms/100respekt-hjalpande-antaganden-hantera-komplimanger.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Hjälpande antaganden om att ta/ge komplimanger (PDF)}{forms/100respekt-hjalpande-antaganden-hantera-komplimanger.pdf}
 
@@ -89,11 +89,11 @@ handlandet och dina nya beteenden blir lika automatiserat och självklart
 som det gamla har varit. Fortsätt öva så kommer det att automatiseras.
 
 ::: {.content-visible when-format="html"}
-[Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf)
+[Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-beteendeexperiment.pdf}
 
 ::: {.content-visible when-format="html"}
-[Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf) 
+[Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Exempel: Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-exempel-beteendeexperiment.pdf}
