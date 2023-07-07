@@ -75,8 +75,24 @@
   }
   
   .bi-filetype-pdf::before {
-    margin-left: 10rem;
+    margin-left: 0rem;
   }
+  
+  .bi::before,
+    [class^="bi-"]::before,
+    [class*=" bi-"]::before {
+      display: inline-block;
+      margin-left:3rem;
+      font-family: bootstrap-icons !important;
+      font-style: normal;
+      font-weight: normal !important;
+      font-variant: normal;
+      text-transform: none;
+      line-height: 1;
+      vertical-align: -.125em;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+}
 /*-- 
 
 https://quarto.org/docs/output-formats/html-themes.html
