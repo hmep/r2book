@@ -32,7 +32,7 @@ Följande skattningsskala är en svensk anpassning av @Rathus1973 självskattnin
 
 ::: {.content-visible when-format="html"}
 [Rathus (1973) självskattningsskala för
-självhävdelse (PDF)](forms/100respekt-Rathus-svenska.pdf)
+självhävdelse (PDF)](forms/100respekt-Rathus-svenska.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Rathus (1973) självskattningsskala för
 självhävdelse (PDF)}{forms/100respekt-Rathus-svenska.pdf}
