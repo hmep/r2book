@@ -47,11 +47,11 @@ härnäst. Du förtjänar att också få bokföra lite enklare vunna
 framgångar.
 
 ::: {.content-visible when-format="html"}
-[Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf)
+[Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-beteendeexperiment.pdf}
 
 ::: {.content-visible when-format="html"}
-[Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf) 
+[Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Exempel: Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-exempel-beteendeexperiment.pdf}
