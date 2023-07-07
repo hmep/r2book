@@ -25,7 +25,7 @@ veckan som kommer.
 
 #### Ladda ned instruktioner (mp3)
 
-[Ladda ned en mp3-fil (3,27 MB)](https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?dl=1){target="_blank"} till din enhet.
+[Ladda ned en mp3-fil (3,27 MB)](https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?dl=1){target="_blank" .bi-filetype-mp3} till din enhet.
 :::
 \xqr{Ladda ned en mp3-fil (3,27 MB) till din enhet}{https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?dl=1}
 
