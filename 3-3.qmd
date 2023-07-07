@@ -79,6 +79,6 @@ själv kommer den andra personen att bli upprörd och vår relation kommer
 att bli förstörd”.
 
 ::: {.content-visible when-format="html"}
-[Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf)
+[Exempel: Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-exempel-beteendeexperiment.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Exempel: Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-exempel-beteendeexperiment.pdf}
