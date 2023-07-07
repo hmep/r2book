@@ -9,7 +9,7 @@ på att hävda dig själv i och som du vill jobba vidare med på egen hand
 bland folk. Använd det här arbetsbladet, som du fått möjlighet att bekanta dig med under veckorna som gått:
 
 ::: {.content-visible when-format="html"}
-[Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
+[Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-SMARTa-mal.pdf}
 
@@ -40,7 +40,7 @@ din lista hamnar på skalan 0--100, från lättast till svårast.
 Titta på exempel-arbetsbladet nedan. 
 
 ::: {.content-visible when-format="html"}
-[Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf)
+[Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-2-SMARTa-mal.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Exempel 2: Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-exempel-2-SMARTa-mal.pdf}
 

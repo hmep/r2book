@@ -6,7 +6,7 @@ title: "Övning: Så här vill jag bibehålla effekterna av min träning"
 Nu är du på upploppet! Fyll till sist i det här arbetsbladet, innan du går i mål med ditt fina arbete med det här självhjälpsmaterialet:
 
 ::: {.content-visible when-format="html"}
-[Så här vill jag fortsätta hävda mig själv konstruktivt (PDF)](forms/100respekt-vidmakthallande-reflektion.pdf)
+[Så här vill jag fortsätta hävda mig själv konstruktivt (PDF)](forms/100respekt-vidmakthallande-reflektion.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Så här vill jag fortsätta hävda mig själv konstruktivt (PDF)}{forms/100respekt-vidmakthallande-reflektion.pdf}
 
@@ -14,14 +14,14 @@ Spara arbetsbladet du har fyllt i. Sätt gärna upp det på kylskåpsdörren ell
 någon annanstans som du ofta ser, så att du kan påminna dig om dina 
 nyvunna färdigheter och hur du kan låta dem fortsätta utvecklas vidare i ditt liv.
 
-Och ta hjälp av följande arbetsblad så snart du med medvetenhet vill utforska nya konstruktiva sätt att hävda dig i viktiga relationer och situationer.
+Och (med risk för att framstå som tjatiga) ta hjälp av följande arbetsblad så snart du med medvetenhet vill utforska nya konstruktiva sätt att hävda dig i viktiga relationer och situationer.
 
 ::: {.content-visible when-format="html"}
-[Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf)
+[Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Mina mål: Självhävdelsebeteenden att öka (PDF)}{forms/100respekt-SMARTa-mal.pdf}
 
 ::: {.content-visible when-format="html"}
-[Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf)
+[Planera och genomför ett beteendeexperiment (PDF)](forms/100respekt-beteendeexperiment.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Planera och genomför ett beteendeexperiment (PDF)}{forms/100respekt-beteendeexperiment.pdf}
