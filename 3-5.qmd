@@ -28,7 +28,7 @@ punkt för att ge maximal uppmärksamhet till själva övningen.
 
 #### Ladda ned instruktioner (mp3)
 
-[Ladda ned en mp3-fil (7,15 MB)](https://www.dropbox.com/s/7znxp4ac5m655zu/KSH-06-progressiv-muskelavslappning-del-2.mp3?dl=1){target="_blank"} till din enhet.
+[Ladda ned en mp3-fil (7,15 MB)](https://www.dropbox.com/s/7znxp4ac5m655zu/KSH-06-progressiv-muskelavslappning-del-2.mp3?dl=1){target="_blank" .bi-filetype-mp3} till din enhet.
 :::
 \xqr{Progressiv avslappning 2 (Youtube)}{https://youtu.be/Sfpfa75e93k}
 
@@ -43,6 +43,6 @@ i bilen \...
 Är det motigt att komma igång? Påminn dig om det du skrev ned i arbetsbladet i förra avsnittet, eller ta chansen nu och reflektera över vilka konkreta saker som kan vara hjälpsamt för dig för att möta det obehag som träning väcker. Vill du skapa en stöttande struktur? Vill du ge dig själv extra självmedkänsla nu när du på allvar prövar dig fram mot ny framkomlighet?
 
 ::: {.content-visible when-format="html"}
-[Planera för framgång (PDF)](forms/100respekt-planera-traning.pdf)
+[Planera för framgång (PDF)](forms/100respekt-planera-traning.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Planera för framgång (PDF)}{forms/100respekt-planera-traning.pdf}
