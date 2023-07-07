@@ -2,7 +2,7 @@ project:
   type: book
   output-dir: docs
   pre-render: ./_pre.sh #forms
-  post-render: ./_post.sh stage #publish #stage
+  post-render: ./_post.sh publish #stage
   
 bibliography:
   - ../r2fu/KSH.bib
@@ -126,16 +126,16 @@ format:
   #   contributor: "Fiona Michel, Anthea Fursland, Patrik Manhem & Tobias Hagberg"
   #   subject: "Psychology"
   #   rights: "Copyright svensk anpassning 2023 Tobias Hagberg & Patrik Manhem"
-  # html:
-  #   theme:
-  #   - flatly
-  #   - custom.scss
-  #   grid:
-  #     sidebar-width: 333px
-  #   fontsize: 18px
-  #   linestretch: 1.4
-  #   number-sections: false
-  #   collapse-level: 0
+  html:
+    theme:
+    - flatly
+    - custom.scss
+    grid:
+      sidebar-width: 333px
+    fontsize: 18px
+    linestretch: 1.4
+    number-sections: false
+    collapse-level: 0
   pdf:
     number-sections: false
     keep-tex: true
