@@ -82,8 +82,8 @@ title: Aggressiv kommunikation
 
 Kämpar du ibland med aggressiva uttryck för ilska,
 till exempel när du blir besviken? Titta på den här korta filmen på
-engelska med psykologen Marsha Linehan. I @LINEHAN1979 gav hon ett strukturerat program för självhävdelseträning, som delvis kom att bli en del av manualen @linehan1993skills för dialektisk
-beteendeterapi, DBT, för personer med svårigheter att reglera
+engelska med psykologen Marsha Linehan. I ett kapitel i *Cognitive-Behavioral Interventions* [@LINEHAN1979] gav hon ett strukturerat program för självhävdelseträning, som delvis kom att bli en del av manualen *Skills training manual for treating borderline personality disorder* [@linehan1993skills] för dialektisk
+beteendeterapi (DBT) för personer med svårigheter att reglera
 överväldigande känslor. I filmen säger Marsha att
 aggressivitet ofta fyller funktionen undvikande eller flykt från
 överväldigande ledsenhet i den arga personens liv. Hon säger också

@@ -53,7 +53,7 @@ förmåga och inlärning. Ett *fixed mindset* är det självbesegrande antagande
 förmåga (exempelvis intelligens, men det gäller även exempelvis förmågan att
 hävda sig) är medfödd och oföränderlig. Ett *growth mindset*, däremot, är det
 för utveckling hjälpande antagandet att förmåga är resultat av varierad och
-repeterad inlärning, även i situationer när det är motigt.
+repeterad inlärning, även i situationer när det är motigt [@dweck2006mindset}.
 
 ::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/Yl9TVbAal5s >}}
