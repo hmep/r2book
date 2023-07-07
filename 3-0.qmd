@@ -56,7 +56,7 @@ utmana dig själv i. Utgå från situationer som du tagit med i arbetsbladet
 med dina [SMARTa målsättningar](1-5.qmd)\xpageref{sec-smartgoals}, som du formulerade under vecka 1 och jobbade vidare med under vecka 2.
 
 ::: {.content-visible when-format="html"}
-[Hindrande antaganden för konstruktiv självhävdelse (PDF)](forms/100respekt-hindrande-antaganden-sjalvhavdelse.pdf)
+[Hindrande antaganden för konstruktiv självhävdelse (PDF)](forms/100respekt-hindrande-antaganden-sjalvhavdelse.pdf){.bi-filetype-pdf}
 :::
 
 \xqrform{Hindrande antaganden för konstruktiv självhävdelse (PDF)}{forms/100respekt-hindrande-antaganden-sjalvhavdelse.pdf}

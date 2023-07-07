@@ -48,7 +48,7 @@ sådana som balanserar de ohjälpsamma, hindrande antagandena som du skrev
 upp i förra avsnittet.
 
 ::: {.content-visible when-format="html"}
-[Mina rättigheter att hävda mig själv (PDF)](forms/100respekt-mina-rattigheter.pdf)
+[Mina rättigheter att hävda mig själv (PDF)](forms/100respekt-mina-rattigheter.pdf){.bi-filetype-pdf}
 :::
 
 \xqrform{Mina rättigheter att hävda mig själv (PDF)}{forms/100respekt-mina-rattigheter.pdf}
