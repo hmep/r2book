@@ -32,7 +32,7 @@ upp dem här nedan. Det kan till exempel vara tekniker som vi tagit upp
 här ovan eller andra personliga avslappningsfavoriter. 
 
 ::: {.content-visible when-format="html"}
-[Mina sätt att sänka spänningsnivån (PDF)](forms/100respekt-avslappningstekniker.pdf)
+[Mina sätt att sänka spänningsnivån (PDF)](forms/100respekt-avslappningstekniker.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Mina sätt att sänka spänningsnivån (PDF)}{forms/100respekt-avslappningstekniker.pdf}
 
