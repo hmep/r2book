@@ -22,7 +22,7 @@ framsteg. Om du under eller efter övningen känner dig trött eller ledsen, ge 
 själv ett erkännande att du just nu gör ett viktigt arbete.
 
 ::: {.content-visible when-format="html"}
-[Självskattning självhävdelse (PDF)](forms/100respekt-skattning-situation-relation.pdf){.form}
+[Självskattning självhävdelse (PDF)](forms/100respekt-skattning-situation-relation.pdf){.bi-filetype-pdf}
 :::
 \xqrform{Självskattning självhävdelse (PDF)}{forms/100respekt-skattning-situation-relation.pdf}
 
