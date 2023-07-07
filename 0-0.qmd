@@ -8,8 +8,11 @@ title: Alla arbetsblad
 ### Vecka 1: Introduktion och mål
 
 [Rathus (1973) självskattningsskala för självhävdelse (PDF)](forms/100respekt-Rathus-svenska.pdf){.bi-filetype-pdf}
+
 [Självskattning av grad av självhävdelse (PDF)](forms/100respekt-skattning-situation-relation.pdf){.bi-filetype-pdf}
+
 [Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-SMARTa-mal.pdf){.bi-filetype-pdf}
+
 [Exempel 1: Mina mål: Självhävdelsebeteenden att öka (PDF)](forms/100respekt-exempel-1-SMARTa-mal.pdf){.bi-filetype-pdf}
 
 ### Vecka 2: En grund för nyinlärning
