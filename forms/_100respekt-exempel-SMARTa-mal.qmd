@@ -52,7 +52,7 @@ goal <- c("\\normalsize Jagbudskap, validera henne, problemlösa",
 goal_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[3],"}\\RaggedRight{}",font,"\\if 2\\thexex{}",goal,"\\else\\fi","\\end{minipage}",sep="")
 
 difficulty <- c(70,
-                50,
+                55,
                 48,
                 45,
                 30,
@@ -64,7 +64,7 @@ difficulty <- c(70,
 
 difficulty_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[4],"}\\centering",font,"\\if 2\\thexex{}",difficulty,"\\else\\fi","\\end{minipage}",sep="")
 
-rank_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[5],"}\\centering",font,"\\if 2\\thexex{}",rank(rev(difficulty)),"\\else\\fi","\\end{minipage}",sep="")
+rank_box <- paste("\\begin{minipage}[t][",height,"][t]{",widths[5],"}\\centering",font,"\\if 2\\thexex{}",abs(rank(difficulty)-11),"\\else\\fi","\\end{minipage}",sep="")
 
 filler <- "\\rule{0bp}{2.25\\baselineskip}"
 x <-
