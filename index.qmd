@@ -21,6 +21,13 @@ Då kan den här självhjälpsmaterialet baserat på kognitiv beteendeterapi (KB
 
 Det här materialet är hämtat från en internet-KBT-intervention som beskrivs och utvärderas vetenskapligt i @HAGBERG2023100629. Du kan använda det på egen hand eller i terapi, med stöd av en KBT-psykolog eller -psykoterapeut.
 
+<div id="ref-HAGBERG2023100629" class="csl-entry" role="listitem">
+Hagberg, Tobias, Patrik Manhem, Martin Oscarsson, Fiona Michel, Gerhard
+Andersson, and Per Carlbring. 2023. <span>“Efficacy of Transdiagnostic
+Cognitive-Behavioral Therapy for Assertiveness: A Randomized Controlled
+Trial.”</span> <em>Internet Interventions</em> 32: 100629. <a href="https://doi.org/10.1016/j.invent.2023.100629">https://doi.org/10.1016/j.invent.2023.100629</a>.
+</div>
+
 ## 10 avsnitt, 8 veckor
 
 KBT-självhjälpsmaterialet består av 10 avsnitt som det är tänkt att du jobbar med under loppet av 8 veckor. Under de första fem veckorna kommer du att ...
