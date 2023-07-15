@@ -23,7 +23,7 @@ många situationer: på bussen, på promenaden, på jobbet, när du är lugn, n�
 känner dig stressad, när det är roligt att göra det, när det känns motigt, när
 du är ensam, när du är bland människor, och så vidare.
 
-Enligt aktuell forskning maximerar du inlärningen om du
+Enligt aktuell forskning [@Craske2008] maximerar du inlärningen om du
 skapar variation, exempelvis gör avslappningsövningarna \...
 
 -   på olika platser
