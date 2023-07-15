@@ -19,13 +19,15 @@ Självhävdelse kan vara mer eller mindre konstruktiv, aggressiv eller passiv. I
 
 Då kan den här självhjälpsmaterialet baserat på kognitiv beteendeterapi (KBT) vara något för dig. I 100% respekt får du lära dig identifiera hindrande tankar och känslor som kan göra det svårt att agera konstruktivt i nära relationer, i arbetet eller gentemot okända personer. Du får också hjälp att själv finna alternativa, konstruktiva beteenden som du utifrån modern psykologisk kunskap och med evidensbaserade metoder får träna på i ditt eget liv. 
 
-Det här materialet är hämtat från en internet-KBT-intervention som beskrivs och utvärderas vetenskapligt i @HAGBERG2023100629. Du kan använda det på egen hand eller i terapi, med stöd av en KBT-psykolog eller -psykoterapeut.
+Du kan använda det här materialet på egen hand eller i terapi, med stöd av en KBT-psykolog eller -psykoterapeut. Materialet beskrivs och utvärderas vetenskapligt i @HAGBERG2023100629.
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
 <div id="ref-HAGBERG2023100629" class="csl-entry" role="listitem">
 Hagberg, Tobias, Patrik Manhem, Martin Oscarsson, Fiona Michel, Gerhard
 Andersson, and Per Carlbring. 2023. <span>“Efficacy of Transdiagnostic
 Cognitive-Behavioral Therapy for Assertiveness: A Randomized Controlled
 Trial.”</span> <em>Internet Interventions</em> 32: 100629. <a href="https://doi.org/10.1016/j.invent.2023.100629">https://doi.org/10.1016/j.invent.2023.100629</a>.
+</div>
 </div>
 
 ## 10 avsnitt, 8 veckor
