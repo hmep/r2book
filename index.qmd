@@ -17,7 +17,9 @@ Självhävdelse kan vara mer eller mindre konstruktiv, aggressiv eller passiv. I
 -   Brukar du bli nedstämd efter besvikelser?
 -   Har du svårt att säga nej?
 
-Då kan den här självhjälpsmaterialet baserat på kognitiv beteendeterapi (KBT) vara något för dig. I 100% respekt får du lära dig identifiera hindrande tankar och känslor som kan göra det svårt att agera konstruktivt i nära relationer, i arbetet eller gentemot okända personer. Du får också hjälp att själv finna alternativa, konstruktiva beteenden som du utifrån modern psykologisk kunskap och med evidensbaserade metoder får träna på i ditt eget liv. Du kan använda det här materialet på egen hand eller i terapi, med stöd av en KBT-psykolog eller -psykoterapeut.
+Då kan den här självhjälpsmaterialet baserat på kognitiv beteendeterapi (KBT) vara något för dig. I 100% respekt får du lära dig identifiera hindrande tankar och känslor som kan göra det svårt att agera konstruktivt i nära relationer, i arbetet eller gentemot okända personer. Du får också hjälp att själv finna alternativa, konstruktiva beteenden som du utifrån modern psykologisk kunskap och med evidensbaserade metoder får träna på i ditt eget liv. Materialet kommer från en internet-KBT-intervention som beskrivs och utvärderas i @HAGBERG2023100629.
+
+Du kan använda det här materialet på egen hand eller i terapi, med stöd av en KBT-psykolog eller -psykoterapeut.
 
 ## 10 avsnitt, 8 veckor
 
@@ -37,8 +39,6 @@ Under de två näst sista veckorna väljer du själv vilka fördjupningsområden
 - [ta och ge komplimanger](9-0.qmd)\xpageref{sec-compliments}.
 
 Under den sista veckan sätter du ihop din personliga [plan för fortsatt träning](10-0.qmd)\xpageref{sec-maintenance}.
-
-Materialet kommer från en internet-KBT-intervention som beskrivs och utvärderas i @HAGBERG2023100629.
 
 ## Syftet med det här materialet
 
