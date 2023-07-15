@@ -42,7 +42,7 @@ Det viktigaste du kan göra för att förändra ditt tänkande och dina känslor
 
 \vspace{.25\baselineskip}
 
-Slutligen: Hur väl stämde ditt agerande med respekt för dina egna rättigheter? Och med respekt för den andra personens rättigheter? Sätt en kryss som visar svaren på båda frågorna i diagrammet. Om du når ända fram i båda avseenden blir det 10 \texttimes{} 10 = 100! Hur nära kom du den här gången?
+\textbf{Hur väl stämde ditt agerande med respekt för dina rättigheter? Och med respekt för den andra personens rättigheter?} Sätt en kryss som visar svaren på båda frågorna i diagrammet. Om du når ända fram i båda avseenden blir det 10 \texttimes{} 10 = 100! Hur nära kom du den här gången?
 
 \vspace{.5\baselineskip}
 
