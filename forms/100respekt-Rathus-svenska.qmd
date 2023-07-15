@@ -64,6 +64,8 @@ Ange hur väl varje påstående beskriver dig som person med följande skala:
 
 - \xlist{14}{Jag tycker att det är pinsamt att lämna tillbaka en vara till butiken.}
 
+\pagebreak
+
 - \xlist{15}{Om en nära och väl ansedd anhörig irriterar mig försöker jag kväva mina känslor istället för att uttrycka min irritation.}
 
 - \xlist{16}{Det har hänt att jag låtit bli att ställa frågor för att undvika att framstå som dum.}
