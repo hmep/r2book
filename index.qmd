@@ -22,7 +22,7 @@ Då kan den här självhjälpsmaterialet baserat på kognitiv beteendeterapi (KB
 Du kan använda det här materialet på egen hand eller i terapi, med stöd av en KBT-psykolog eller -psykoterapeut. Materialet beskrivs och utvärderas vetenskapligt i @HAGBERG2023100629.
 
 ::: {.content-visible when-format="html"}
-<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div class="hanging-indent" role="list">
 <div id="ref-HAGBERG2023100629" class="csl-entry" role="listitem">
 Hagberg, Tobias, Patrik Manhem, Martin Oscarsson, Fiona Michel, Gerhard
 Andersson, and Per Carlbring. 2023. <span>“Efficacy of Transdiagnostic
