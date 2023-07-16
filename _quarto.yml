@@ -8,6 +8,8 @@ bibliography:
   - ../r2fu/KSH.bib
   - ../r2fu/DBT.bib
 
+csl: ./apa.csl
+
 book:
   title: "100% respekt"
   output-file: "100respekt"

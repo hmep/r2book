@@ -7,5 +7,7 @@ title: Referenser och lästips
 
 Utöver nedanstående, se även referenslistan för @HAGBERG2023100629.
 
+\vspace{.5\baselineskip}
+
 ::: {#refs}
 :::
