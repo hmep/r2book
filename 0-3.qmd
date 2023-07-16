@@ -17,18 +17,16 @@ Detta verk är en av upphovsrättsinnehavaren [Centre for Clinical Interventions
 Svensk anpassning &copy; 2020--`r format(Sys.time(), "%Y")` Tobias Hagberg och Patrik Manhem. Detta verk är licensierat under [Erkännande-DelaLika 2.5 Sverige (CC BY-SA 2.5
 SE)](<https://creativecommons.org/licenses/by-sa/2.5/se/>). Med andra ord: Du får fritt använda, anpassa, kopiera och sprida det här verket med tillhörande arbetsblad och nedladdningsbara filer, på villkor att du anger källan @hagberg2023 och gör det tillgängligt, inklusive eventuella ändringar, på samma villkor. 
 
-Se @HAGBERG2023100629 för information om anpassningar och resultat av utvärdering.
-
 ::: {.content-visible when-format="html"}
 <div class="hanging-indent" role="list">
-<div id="ref-HAGBERG2023100629" class="csl-entry">
-Hagberg, T., Manhem, P., Oscarsson, M., Michel, F., Andersson, G., &amp;
-Carlbring, P. (2023). Efficacy of transdiagnostic cognitive-behavioral
-therapy for assertiveness: A randomized controlled trial. <em>Internet
-Interventions</em>, <em>32</em>, 100629. <a href="https://doi.org/10.1016/j.invent.2023.100629">https://doi.org/10.1016/j.invent.2023.100629</a>
+<div id="ref-hagberg2023" class="csl-entry">
+Hagberg, T., Manhem, P., Michel, F., &amp; Fursland, A. (2023).
+<em><span class="nocase">100% respekt</span></em>. <a href="https://www.100respekt.se">www.100respekt.se</a>
 </div>
 </div>
 :::
+
+Se @HAGBERG2023100629 för information om anpassningar och resultat av utvärdering.
 
 ## Källkod
 
