@@ -19,6 +19,17 @@ SE)](<https://creativecommons.org/licenses/by-sa/2.5/se/>). Med andra ord: Du f�
 
 Se @HAGBERG2023100629 för information om anpassningar och resultat av utvärdering.
 
+::: {.content-visible when-format="html"}
+<div class="hanging-indent" role="list">
+<div id="ref-HAGBERG2023100629" class="csl-entry">
+Hagberg, T., Manhem, P., Oscarsson, M., Michel, F., Andersson, G., &amp;
+Carlbring, P. (2023). Efficacy of transdiagnostic cognitive-behavioral
+therapy for assertiveness: A randomized controlled trial. <em>Internet
+Interventions</em>, <em>32</em>, 100629. <a href="https://doi.org/10.1016/j.invent.2023.100629">https://doi.org/10.1016/j.invent.2023.100629</a>
+</div>
+</div>
+:::
+
 ## Källkod
 
 Granska och ladda ned [källkoden till det här självhjälpsmaterialet](https://github.com/hmep/r2book) från GitHub.
