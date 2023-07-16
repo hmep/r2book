@@ -14,6 +14,7 @@ header-includes:
 bibliography:
   - ../../r2fu/KSH.bib
   - ../../r2fu/DBT.bib
+csl: ../apa.csl
 ---
 
 \xinit
