@@ -1,6 +1,6 @@
 ---
 title: "@Rathus1973 självskattningsskala för självhävdelse"
-subtitle: "Preliminär svensk anpassning (2019)"
+subtitle: "Svensk anpassning (2019)"
 engine: knitr
 format:
   pdf:
@@ -41,7 +41,7 @@ Ange hur väl varje påstående beskriver dig som person med följande skala:
 
 - \xlist{2}{Det har hänt att jag har undvikit att gå på en dejt på grund av blyghet.}
 
-- \xlist{3}{Om en maträtt på en restaurang inte är tilllagad på det sätt jag beställt så säger jag till personalen.}
+- \xlist{3}{Om en maträtt på en restaurang inte är tillagad på det sätt jag beställt så säger jag till personalen.}
 
 - \xlist{4}{Jag låter noga bli att såra andra människor känslomässigt, även när jag själv har blivit sårad.}
 
