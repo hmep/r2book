@@ -26,8 +26,6 @@ Hagberg, T., Manhem, P., Michel, F., &amp; Fursland, A. (2023).
 </div>
 :::
 
-Se @HAGBERG2023100629 för information om anpassningar och resultat av utvärdering.
-
 ## Källkod
 
 Granska och ladda ned [källkoden till det här självhjälpsmaterialet](https://github.com/hmep/r2book) från GitHub.
