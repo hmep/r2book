@@ -23,11 +23,11 @@ Materialet beskrivs och utvärderas vetenskapligt i @HAGBERG2023100629.
 
 ::: {.content-visible when-format="html"}
 <div class="hanging-indent" role="list">
-<div id="ref-HAGBERG2023100629" class="csl-entry" role="listitem">
-Hagberg, Tobias, Patrik Manhem, Martin Oscarsson, Fiona Michel, Gerhard
-Andersson, and Per Carlbring. 2023. <span>“Efficacy of Transdiagnostic
-Cognitive-Behavioral Therapy for Assertiveness: A Randomized Controlled
-Trial.”</span> <em>Internet Interventions</em> 32: 100629. <a href="https://doi.org/10.1016/j.invent.2023.100629">https://doi.org/10.1016/j.invent.2023.100629</a>.
+<div id="ref-HAGBERG2023100629" class="csl-entry">
+Hagberg, T., Manhem, P., Oscarsson, M., Michel, F., Andersson, G., &amp;
+Carlbring, P. (2023). Efficacy of transdiagnostic cognitive-behavioral
+therapy for assertiveness: A randomized controlled trial. <em>Internet
+Interventions</em>, <em>32</em>, 100629. <a href="https://doi.org/10.1016/j.invent.2023.100629">https://doi.org/10.1016/j.invent.2023.100629</a>
 </div>
 </div>
 :::
