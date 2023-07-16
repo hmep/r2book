@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: Lite om inlärning, obehag och motivation
+title: "Övning: Om inlärning, obehag och motivation"
 ---
 
 \label{sec-motivation}
