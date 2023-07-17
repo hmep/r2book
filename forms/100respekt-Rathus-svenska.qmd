@@ -1,5 +1,5 @@
 ---
-title: "@Rathus1973 självskattningsskala för självhävdelse"
+title: "@Rathus1973 självskattning av självhävdelse"
 subtitle: "Svensk anpassning (2019)"
 engine: knitr
 format:
@@ -29,7 +29,7 @@ Ange hur väl varje påstående beskriver dig som person med följande skala:
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 -3 | -2 | -1 | 1 | 2 | 3  
 
-\vspace{.5\baselineskip}
+\vspace{-.5\baselineskip}
 
 \setlist[itemize]{
     leftmargin=2.4\baselineskip,
@@ -65,9 +65,9 @@ Ange hur väl varje påstående beskriver dig som person med följande skala:
 
 - \xlist{14}{Jag tycker att det är pinsamt att lämna tillbaka en vara till butiken.}
 
-\pagebreak
-
 - \xlist{15}{Om en nära och väl ansedd anhörig irriterar mig försöker jag kväva mina känslor istället för att uttrycka min irritation.}
+
+\pagebreak
 
 - \xlist{16}{Det har hänt att jag låtit bli att ställa frågor för att undvika att framstå som dum.}
 
@@ -99,7 +99,7 @@ Ange hur väl varje påstående beskriver dig som person med följande skala:
 
 - \xlist{30}{Ibland vet jag över huvud taget inte vad jag ska säga.}
 
-\vspace{-.5\baselineskip}
+<!-- \vspace{.5\baselineskip} -->
 
 \xfline{Totalpoäng}{1}{}
 
