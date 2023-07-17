@@ -2,7 +2,7 @@ project:
   type: book
   output-dir: docs
   pre-render: ./_pre.sh #forms
-  post-render: ./_post.sh stage #publish stage
+  post-render: ./_post.sh publish #stage
   
 bibliography:
   - ../r2fu/KSH.bib
@@ -140,18 +140,18 @@ format:
     collapse-level: 0
     link-external-icon: true
     link-external-newwindow: true
-  # pdf:
-  #   number-sections: false
-  #   keep-tex: true
-  #   pdf-engine: xelatex
-  #   documentclass: book
-  #   classoption: oneside
-  #   toc-depth: 1
-  #   number-depth: 0
-  #   toc-title: "Innehåll"
-  #   lang: sv
-  #   header-includes: |
-  #     \input{_header_includes_book.tex}
-  #     \pagestyle{plain}
-  #     \thispagestyle{plain}
-  #     \xinit
+  pdf:
+    number-sections: false
+    keep-tex: true
+    pdf-engine: xelatex
+    documentclass: book
+    classoption: oneside
+    toc-depth: 1
+    number-depth: 0
+    toc-title: "Innehåll"
+    lang: sv
+    header-includes: |
+      \input{_header_includes_book.tex}
+      \pagestyle{plain}
+      \thispagestyle{plain}
+      \xinit
