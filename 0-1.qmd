@@ -49,7 +49,9 @@ Följande material utgår från @michel2008 och är utökat med instruktioner fr
 <audio controls=""><source src="https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?raw=1" type="audio/mpeg" />Din webbläsare stödjer inte uppspelning av ljudfiler.</audio>
 :::
 
+::: {.content-visible when-format="html"}
 ### Ladda ned instruktioner (mp3)
+:::
 
 ::: {.content-visible when-format="html"}
 [Progressiv avslappning, del 1 (mp3; 7,27 MB)](https://www.dropbox.com/s/66gviwf37y12ot9/KSH-06-progressiv-muskelavslappning-del-1.mp3?dl=1){target="_blank" .bi-filetype-mp3}
