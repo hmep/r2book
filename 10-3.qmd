@@ -61,7 +61,7 @@ till glädje, kreativitet, samhörighet med andra och kärlek”.
 ::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/iCvmsMzlF7o >}}
 :::
-\xqr{Brené Brown -- The power of vulnerability}{https://youtu.be/iCvmsMzlF7o}
+\xqr{Brené Brown -- The power of vulnerability (Youtube)}{https://youtu.be/iCvmsMzlF7o}
 
 ## Du är inte i slutet av en resa, du är i början av en resa
 
