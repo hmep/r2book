@@ -11,15 +11,23 @@ Följande material utgår från @michel2008 och är utökat med instruktioner fr
 
 [Manus för progressiv avslappning (PDF)](forms/100respekt-manus-progressiv-avslappning.pdf){.bi-filetype-pdf}
 
-::: {.content-visible when-format="html"}
 ## Instruktioner, video
 
+::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/8ygZeRNVdIU >}}
+:::
 
+\xqr{Progressiv avslappning 1 (Youtube)}{https://youtu.be/8ygZeRNVdIU}
+
+::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/Sfpfa75e93k >}}
+:::
+
+\xqr{Progressiv avslappning 2 (Youtube)}{https://youtu.be/Sfpfa75e93k}
 
 ## Instruktioner, enbart ljud
 
+::: {.content-visible when-format="html"}
 ### Progressiv avslappning, del 1
 
 <audio controls=""><source src="https://www.dropbox.com/s/66gviwf37y12ot9/KSH-06-progressiv-muskelavslappning-del-1.mp3?raw=1" type="audio/mpeg" />Din webbläsare stödjer inte uppspelning av ljudfiler.</audio>
@@ -31,12 +39,24 @@ Följande material utgår från @michel2008 och är utökat med instruktioner fr
 ### Progressiv avslappning, kort version
 
 <audio controls=""><source src="https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?raw=1" type="audio/mpeg" />Din webbläsare stödjer inte uppspelning av ljudfiler.</audio>
+:::
 
 ### Ladda ned instruktioner (mp3)
 
-[Progressiv avslappning, del 1 (mp3)](https://www.dropbox.com/s/66gviwf37y12ot9/KSH-06-progressiv-muskelavslappning-del-1.mp3?dl=1){target="_blank" .bi-filetype-mp3}
-
-[Progressiv avslappning, del 2 (mp3)](https://www.dropbox.com/s/7znxp4ac5m655zu/KSH-06-progressiv-muskelavslappning-del-2.mp3?dl=1){target="_blank" .bi-filetype-mp3}
-
-[Progressiv avslappning, kort version (mp3)](https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?dl=1){target="_blank" .bi-filetype-mp3}
+::: {.content-visible when-format="html"}
+[Progressiv avslappning, del 1 (mp3; 7,27 MB)](https://www.dropbox.com/s/66gviwf37y12ot9/KSH-06-progressiv-muskelavslappning-del-1.mp3?dl=1){target="_blank" .bi-filetype-mp3} till din enhet.
 :::
+
+\xqr{Progressiv avslappning, del 1 (mp3; 7,27 MB)}{https://www.dropbox.com/s/66gviwf37y12ot9/KSH-06-progressiv-muskelavslappning-del-1.mp3?dl=1}
+
+::: {.content-visible when-format="html"}
+[Progressiv avslappning, del 2 (mp3; 7,15 MB)](https://www.dropbox.com/s/7znxp4ac5m655zu/KSH-06-progressiv-muskelavslappning-del-2.mp3?dl=1){target="_blank" .bi-filetype-mp3} till din enhet.
+:::
+
+\xqr{Progressiv avslappning, del 2 (mp3; 7,15 MB)}{https://www.dropbox.com/s/7znxp4ac5m655zu/KSH-06-progressiv-muskelavslappning-del-2.mp3?dl=1}
+
+::: {.content-visible when-format="html"}
+[Progressiv avslappning, kort version (mp3; 3,27 MB)](https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?dl=1){target="_blank" .bi-filetype-mp3} till din enhet.
+:::
+
+\xqr{Progressiv avslappning, kort version (mp3; 3,27 MB)}{https://www.dropbox.com/s/wa55oouszt68ikh/KSH-06-progressiv-muskelavslappning-kort.mp3?dl=1}
