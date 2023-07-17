@@ -23,7 +23,11 @@ title: Alla arbetsblad
 
 [Kartläggning av obehag och motivation (PDF)](forms/100respekt-obehag-motivation-reflektion.pdf){.bi-filetype-pdf}
 
+::: {.content-visible when-format="html"}
 [Planera för framgång (PDF)](forms/100respekt-planera-traning.pdf){.bi-filetype-pdf}
+:::
+
+\xqrform{Planera för framgång (PDF)}{forms/100respekt-planera-traning.pdf}
 
 ### Vecka 3: Bli medveten om tänkandet
 
@@ -63,7 +67,11 @@ title: Alla arbetsblad
 
 [Mina sätt att sänka spänningsnivån (PDF)](forms/100respekt-avslappningstekniker.pdf){.bi-filetype-pdf}
 
+::: {.content-visible when-format="html"}
 [Manus för progressiv avslappning (PDF)](forms/100respekt-manus-progressiv-avslappning.pdf){.bi-filetype-pdf}
+:::
+
+\xqrform{Manus för progressiv avslappning (PDF)}{forms/100respekt-manus-progressiv-avslappning.pdf}
 
 ### Vecka 6-7: Säga nej, hantera kritik, hantera besvikelser, hantera komplimanger
 

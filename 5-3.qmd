@@ -164,4 +164,5 @@ hålla ett öga på texten när du gör övningen.
 ::: {.content-visible when-format="html"}
 [Manus för progressiv avslappning (PDF)](forms/100respekt-manus-progressiv-avslappning.pdf){.bi-filetype-pdf}
 :::
+
 \xqrform{Manus för progressiv avslappning (PDF)}{forms/100respekt-manus-progressiv-avslappning.pdf}
