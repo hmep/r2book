@@ -3,7 +3,10 @@ lang: sv
 title: Slutord
 ---
 
+::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/qOdXGXTg6PA >}}
+:::
+\xqr{Självförtroende och motivation (Youtube)}{https://youtu.be/qOdXGXTg6PA}
 
 ## Tack och lycka till!
 

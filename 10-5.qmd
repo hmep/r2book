@@ -31,4 +31,8 @@ Vad menar vi med bakslag och återfall?
     -   Testa igen -- och lägg märke till att du klarar av att testa
         igen!
 
+::: {.content-visible when-format="html"}
 {{< video https://www.youtube.com/embed/BL49DRAQxV8 >}}
+:::
+\xqr{Hur orka fortsätta själv? (Youtube)}{https://youtu.be/BL49DRAQxV8}
+
