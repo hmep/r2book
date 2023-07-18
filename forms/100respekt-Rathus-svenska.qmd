@@ -107,6 +107,8 @@ Ange hur väl varje påstående beskriver dig som person med följande skala:
 
 Summera totalpoängen så här: -(\#1) + -(\#2) + \#3 + -(\#4) + -(\#5) + \#6 + \#7 + \#8 + -(\#9) + \#10 + -(\#11) + -(\#12) + -(\#13) + -(\#14) + -(\#15) + -(\#16) + -(\#17) + \#18 + -(\#19) + \#20 + \#21 + \#22 + -(\#23) + -(\#24) + \#25 + -(\#26) + \#27 + \#28 + \#29 + -(\#30)
 
+Hämta en Excel-fil från [https://tinyurl.com/3tmdwswu](<https://tinyurl.com/3tmdwswu>) för enkel summering av totalpoäng.
+
 @GUSTAFSON1992 fann ett medelvärde på 4,0 respektive 4,1 (standardavvikelse 6,0 för båda) i två svenska stickprov med en ej publicerad svensk översättning. @Thompson2011 fann ett medelvärde på 6,2 (standardavvikelse 23,9) i ett amerikanskt icke-kliniskt stickprov med studenter och det engelskspråkiga originalet.
 
 Svensk anpassning av @Rathus1973 &copy; 2019 Tobias Hagberg. Arbetsbladet kan kopieras, ändras och distribueras fritt om du anger källan @hagberg2023 och licensvillkoren [Erkännande-DelaLika 2.5 Sverige (CC BY-SA 2.5 SE)](<https://creativecommons.org/licenses/by-sa/2.5/se/>).
