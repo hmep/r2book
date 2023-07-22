@@ -36,8 +36,8 @@ Interventions</em>, <em>32</em>, 100629. <a href="https://doi.org/10.1016/j.inve
 
 KBT-självhjälpsmaterialet består av 10 avsnitt som det är tänkt att du jobbar med under loppet av 8 veckor. Under de första fem veckorna kommer du att ...
 
-- [sätta meningsfulla personliga mål](1-0.qmd)\xpageref{sec-myths},
-- [lära dig om konstruktiv självhävdelse](2-0.qmd)\xpageref{sec-assertiveness},
+- [lära dig om konstruktiv självhävdelse och sätta meningsfulla personliga mål](1-0.qmd)\xpageref{sec-myths},
+- [lära dig om för- och nackdelar med olika kommunikationsstilar](2-0.qmd)\xpageref{sec-assertiveness},
 - [lära dig tänka mer flexibelt](3-0.qmd)\xpageref{sec-thinking},
 - [bli varse vilket handlande som är ändamålsenligt](4-0.qmd)\xpageref{sec-behaviour} samt att
 - [bli medveten om och hantera kroppsliga stressreaktioner](5-0.qmd)\xpageref{sec-relaxation}.
